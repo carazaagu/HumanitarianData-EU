@@ -1,0 +1,1707 @@
+,Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+0,Croatia,HRV,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.75
+1,Croatia,HRV,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,88.14
+2,Croatia,HRV,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,110.84
+3,Croatia,HRV,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,96.85
+4,Croatia,HRV,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,92.3
+5,Croatia,HRV,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,100.48
+6,Croatia,HRV,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,81.75
+7,Croatia,HRV,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,94.35
+8,Croatia,HRV,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,95.74
+9,Croatia,HRV,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,104.81
+10,Croatia,HRV,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,109.22
+11,Croatia,HRV,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,85.29
+12,Croatia,HRV,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,90.54
+13,Croatia,HRV,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,84.84
+14,Croatia,HRV,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,81.13
+15,Croatia,HRV,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,63.36
+16,Croatia,HRV,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,87.92
+17,Croatia,HRV,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,80.2
+18,Croatia,HRV,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,69.86
+19,Croatia,HRV,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,93.95
+20,Croatia,HRV,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,97.46
+21,Croatia,HRV,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,87.66
+22,Croatia,HRV,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,83.89
+23,Croatia,HRV,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,80.73
+24,Croatia,HRV,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,76.15
+25,Croatia,HRV,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,78.97
+26,Croatia,HRV,1992,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,72.6
+27,Croatia,HRV,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.92000602707201
+28,Croatia,HRV,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.99706841694723
+29,Croatia,HRV,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.93188889145942
+30,Croatia,HRV,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.11000074522126
+31,Croatia,HRV,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.01033688689031
+32,Croatia,HRV,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.98715807805327
+33,Croatia,HRV,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.50315148783872
+34,Croatia,HRV,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.33836344130566
+35,Croatia,HRV,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.68296629648846
+36,Croatia,HRV,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.69875440295554
+37,Croatia,HRV,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.04274458498447
+38,Croatia,HRV,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.92719337688442
+39,Croatia,HRV,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.73272626699097
+40,Croatia,HRV,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.02112245080687
+41,Croatia,HRV,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.90446912122656
+42,Croatia,HRV,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.46089454210751
+43,Croatia,HRV,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.97346972362205
+44,Croatia,HRV,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.8911300306476
+45,Croatia,HRV,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.00776811346595
+46,Croatia,HRV,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.00880541214274
+47,Croatia,HRV,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.44370292345156
+48,Croatia,HRV,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.35387819085358
+49,Croatia,HRV,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.27751219731167
+50,Croatia,HRV,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.6300954634428
+51,Croatia,HRV,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.67744331951665
+52,Croatia,HRV,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.42999982833862
+53,Croatia,HRV,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.35000014305115
+54,Croatia,HRV,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.53999984264374
+55,Croatia,HRV,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.72000014781952
+56,Croatia,HRV,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.4699999094009
+57,Croatia,HRV,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.3999998569488
+58,Croatia,HRV,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.6899999380112
+59,Croatia,HRV,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.2400002479554
+60,Croatia,HRV,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,17.2399997711181
+61,Croatia,HRV,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,17.1099996566773
+62,Croatia,HRV,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.9499998092652
+63,Croatia,HRV,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.5699996948243
+64,Croatia,HRV,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.4400002956391
+65,Croatia,HRV,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,17.9100003242493
+66,Croatia,HRV,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,19.8799993991852
+67,Croatia,HRV,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,19.240000963211
+68,Croatia,HRV,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,19.4400000572204
+69,Croatia,HRV,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.6000003814697
+70,Croatia,HRV,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,19.2100005149842
+71,Croatia,HRV,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.7600002288819
+72,Croatia,HRV,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,19.7600002288818
+73,Croatia,HRV,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,19.3999996185302
+74,Croatia,HRV,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,21.0499997138977
+75,Croatia,HRV,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,23.4699997901916
+76,Croatia,HRV,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,23.710000038147
+77,Croatia,HRV,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,24.0800008773804
+78,Croatia,HRV,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,24.3500003814697
+79,Croatia,HRV,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,23.6199998855591
+80,Croatia,HRV,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,23.0000004768371
+81,Croatia,HRV,2019,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1455551838.81894
+82,Croatia,HRV,2018,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1027744714.86959
+83,Croatia,HRV,2017,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,2102735680.52954
+84,Croatia,HRV,2016,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1139674210.40915
+85,Croatia,HRV,2015,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1594632748.80223
+86,Croatia,HRV,2014,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,63597038.6603469
+87,Croatia,HRV,2013,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,566902270.930818
+88,Croatia,HRV,2012,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-207948363.42988
+89,Croatia,HRV,2011,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1045612820.13437
+90,Croatia,HRV,2010,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1485244974.55918
+91,Croatia,HRV,2009,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4086119929.08062
+92,Croatia,HRV,2008,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-7482989420.41721
+93,Croatia,HRV,2007,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4752582813.71008
+94,Croatia,HRV,2006,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3909392829.5932
+95,Croatia,HRV,2005,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3392128173.73113
+96,Croatia,HRV,2004,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2572850701.95802
+97,Croatia,HRV,2003,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3209662662.84215
+98,Croatia,HRV,2002,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1661740755.01362
+99,Croatia,HRV,2001,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-516315412.874183
+100,Croatia,HRV,2000,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-338043019.674813
+101,Croatia,HRV,1999,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1502446735.41374
+102,Croatia,HRV,1998,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1369291314.80888
+103,Croatia,HRV,1997,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2499582650.25622
+104,Croatia,HRV,1996,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1091425766.60964
+105,Croatia,HRV,1995,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1441887231.03273
+106,Croatia,HRV,1994,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,770534186.177608
+107,Croatia,HRV,1993,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,694283341.426339
+108,Croatia,HRV,2019,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-943284797.857509
+109,Croatia,HRV,2018,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-893109267.074038
+110,Croatia,HRV,2017,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1315603236.28501
+111,Croatia,HRV,2016,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2198529334.61208
+112,Croatia,HRV,2015,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-249252811.074796
+113,Croatia,HRV,2014,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-941182517.394654
+114,Croatia,HRV,2013,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1096770177.95506
+115,Croatia,HRV,2012,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1552272121.58887
+116,Croatia,HRV,2011,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1309375114.61811
+117,Croatia,HRV,2010,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1098855797.19588
+118,Croatia,HRV,2009,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1694947241.51166
+119,Croatia,HRV,2008,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3855003767.66922
+120,Croatia,HRV,2007,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4266112258.20822
+121,Croatia,HRV,2006,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3077969935.26508
+122,Croatia,HRV,2005,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1573751067.03737
+123,Croatia,HRV,2004,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-931121030.268974
+124,Croatia,HRV,2003,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1704994151.91954
+125,Croatia,HRV,2002,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-411785207.82629
+126,Croatia,HRV,2001,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-909116260.106983
+127,Croatia,HRV,2000,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-966944559.019883
+128,Croatia,HRV,1999,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1392389910.61577
+129,Croatia,HRV,1998,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-842125015.152154
+130,Croatia,HRV,1997,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-347839775.473083
+131,Croatia,HRV,1996,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-465985640.630684
+132,Croatia,HRV,1995,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-100741501.412042
+133,Croatia,HRV,1994,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-107523753.837685
+134,Croatia,HRV,1993,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-123672189.560376
+135,Croatia,HRV,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.771820346498083
+136,Croatia,HRV,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.50012501041753
+137,Croatia,HRV,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.12937210282344
+138,Croatia,HRV,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-1.12500000000001
+139,Croatia,HRV,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.464499004645002
+140,Croatia,HRV,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.215196159576215
+141,Croatia,HRV,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.2165820642978
+142,Croatia,HRV,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.41207349081366
+143,Croatia,HRV,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.27272727272727
+144,Croatia,HRV,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.03055505333573
+145,Croatia,HRV,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.37852845904674
+146,Croatia,HRV,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.07696838798351
+147,Croatia,HRV,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.89928275583392
+148,Croatia,HRV,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.1898259147295
+149,Croatia,HRV,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.31717824448043
+150,Croatia,HRV,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.05539679050332
+151,Croatia,HRV,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.76733780760626
+152,Croatia,HRV,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.67178437393382
+153,Croatia,HRV,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.7767024666589
+154,Croatia,HRV,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.611315547378
+155,Croatia,HRV,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.01913875598084
+156,Croatia,HRV,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.39668660837554
+157,Croatia,HRV,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.17066155321187
+158,Croatia,HRV,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.29999999999994
+159,Croatia,HRV,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.95010395010403
+160,Croatia,HRV,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,107.327586206896
+161,Croatia,HRV,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1500
+162,Croatia,HRV,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,625.000000000001
+163,Croatia,HRV,1991,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,122.222222222222
+164,Croatia,HRV,1990,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,500
+165,Croatia,HRV,1989,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1400
+166,Croatia,HRV,1988,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,185.714285714285
+167,Croatia,HRV,1987,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,133.333263744315
+168,Croatia,HRV,1986,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,50
+169,Croatia,HRV,2019,Trade (% of GDP),NE.TRD.GNFS.ZS,104.170991548139
+170,Croatia,HRV,2018,Trade (% of GDP),NE.TRD.GNFS.ZS,101.248016262668
+171,Croatia,HRV,2017,Trade (% of GDP),NE.TRD.GNFS.ZS,99.1495932321043
+172,Croatia,HRV,2016,Trade (% of GDP),NE.TRD.GNFS.ZS,94.1203758266247
+173,Croatia,HRV,2015,Trade (% of GDP),NE.TRD.GNFS.ZS,92.5432139719747
+174,Croatia,HRV,2014,Trade (% of GDP),NE.TRD.GNFS.ZS,86.9701340098697
+175,Croatia,HRV,2013,Trade (% of GDP),NE.TRD.GNFS.ZS,82.6886921902069
+176,Croatia,HRV,2012,Trade (% of GDP),NE.TRD.GNFS.ZS,80.5713088818535
+177,Croatia,HRV,2011,Trade (% of GDP),NE.TRD.GNFS.ZS,79.227980935668
+178,Croatia,HRV,2010,Trade (% of GDP),NE.TRD.GNFS.ZS,73.9011973201965
+179,Croatia,HRV,2009,Trade (% of GDP),NE.TRD.GNFS.ZS,70.9411958924021
+180,Croatia,HRV,2008,Trade (% of GDP),NE.TRD.GNFS.ZS,83.0676643908534
+181,Croatia,HRV,2007,Trade (% of GDP),NE.TRD.GNFS.ZS,84.2046393728707
+182,Croatia,HRV,2006,Trade (% of GDP),NE.TRD.GNFS.ZS,84.3952952098377
+183,Croatia,HRV,2005,Trade (% of GDP),NE.TRD.GNFS.ZS,82.2604373041509
+184,Croatia,HRV,2004,Trade (% of GDP),NE.TRD.GNFS.ZS,82.4167061258976
+185,Croatia,HRV,2003,Trade (% of GDP),NE.TRD.GNFS.ZS,82.251854219906
+186,Croatia,HRV,2002,Trade (% of GDP),NE.TRD.GNFS.ZS,81.938921261654
+187,Croatia,HRV,2001,Trade (% of GDP),NE.TRD.GNFS.ZS,80.1125329338892
+188,Croatia,HRV,2000,Trade (% of GDP),NE.TRD.GNFS.ZS,75.151002419445
+189,Croatia,HRV,1999,Trade (% of GDP),NE.TRD.GNFS.ZS,66.7675840833408
+190,Croatia,HRV,1998,Trade (% of GDP),NE.TRD.GNFS.ZS,65.4275977894284
+191,Croatia,HRV,1997,Trade (% of GDP),NE.TRD.GNFS.ZS,75.397025795897
+192,Croatia,HRV,1996,Trade (% of GDP),NE.TRD.GNFS.ZS,67.5087819169553
+193,Croatia,HRV,1995,Trade (% of GDP),NE.TRD.GNFS.ZS,63.0922787638545
+194,Croatia,HRV,2019,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,20.2611558492511
+195,Croatia,HRV,2018,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,20.5026451407006
+196,Croatia,HRV,2017,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,20.925900796099
+197,Croatia,HRV,2016,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.2776933146684
+198,Croatia,HRV,2015,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.3760477558885
+199,Croatia,HRV,2014,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.6155294596166
+200,Croatia,HRV,2013,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.4338212298083
+201,Croatia,HRV,2012,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,22.0173083336081
+202,Croatia,HRV,2011,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,22.4199780007417
+203,Croatia,HRV,2010,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,22.2339896723497
+204,Croatia,HRV,2009,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.5673990996059
+205,Croatia,HRV,2008,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.6013607756175
+206,Croatia,HRV,2007,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.6795553428144
+207,Croatia,HRV,2006,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.0916470712304
+208,Croatia,HRV,2005,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.4305166333024
+209,Croatia,HRV,2004,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.0022197222355
+210,Croatia,HRV,2003,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.9663992884175
+211,Croatia,HRV,2002,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.4162410755667
+212,Croatia,HRV,2001,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.0091092079102
+213,Croatia,HRV,2000,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.3987842818819
+214,Croatia,HRV,1999,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.2028856885635
+215,Croatia,HRV,1998,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.0852693213563
+216,Croatia,HRV,1997,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.7454293584851
+217,Croatia,HRV,1996,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.6326169184315
+218,Croatia,HRV,1995,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.6442810766179
+219,Croatia,HRV,2019,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.19661761748159
+220,Croatia,HRV,2018,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.1368348168345
+221,Croatia,HRV,2017,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.20251424991543
+222,Croatia,HRV,2016,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.25477780464889
+223,Croatia,HRV,2015,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.22293475403469
+224,Croatia,HRV,2014,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.00804076778819
+225,Croatia,HRV,2013,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.997438578322999
+226,Croatia,HRV,2012,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.02526023059009
+227,Croatia,HRV,2011,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.981071246902049
+228,Croatia,HRV,2010,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.995004964620395
+229,Croatia,HRV,2009,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.969448815540664
+230,Croatia,HRV,2008,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.890817953172329
+231,Croatia,HRV,2007,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.04354962174813
+232,Croatia,HRV,2006,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.12654890949854
+233,Croatia,HRV,2005,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.185377121713
+234,Croatia,HRV,2004,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.20670080563738
+235,Croatia,HRV,2003,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.43916340878831
+236,Croatia,HRV,2002,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.64182334412953
+237,Croatia,HRV,2001,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.75292739729813
+238,Croatia,HRV,2000,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.69128599483527
+239,Croatia,HRV,1999,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.54674960493736
+240,Croatia,HRV,1998,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.35998287055951
+241,Croatia,HRV,1997,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.31412960373285
+242,Croatia,HRV,1996,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.13697231629245
+243,Croatia,HRV,1995,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.15522958939162
+244,Croatia,HRV,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.33023920262221
+245,Croatia,HRV,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.412687447615121
+246,Croatia,HRV,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.325323390935443
+247,Croatia,HRV,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.24365198427931
+248,Croatia,HRV,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.351657889492503
+249,Croatia,HRV,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.508156892470441
+250,Croatia,HRV,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.68070188988166
+251,Croatia,HRV,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.803828788244043
+252,Croatia,HRV,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.932325558005514
+253,Croatia,HRV,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.709929767143646
+254,Croatia,HRV,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.683738530149747
+255,Croatia,HRV,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.760340167929793
+256,Croatia,HRV,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.667063334943516
+257,Croatia,HRV,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.711062855607892
+258,Croatia,HRV,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.5014394040288
+259,Croatia,HRV,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.463092792791007
+260,Croatia,HRV,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.475691351807838
+261,Croatia,HRV,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.630195489873662
+262,Croatia,HRV,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.694270931532043
+263,Croatia,HRV,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.665013690171264
+264,Croatia,HRV,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.295932589390829
+265,Croatia,HRV,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.114706051945583
+266,Croatia,HRV,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.46506831425901
+267,Croatia,HRV,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.516352074771519
+268,Croatia,HRV,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.433413085974921
+269,Croatia,HRV,2019,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.109595136866829
+270,Croatia,HRV,2018,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.110314351346033
+271,Croatia,HRV,2017,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.110314351346033
+272,Croatia,HRV,2016,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.121068867316046
+273,Croatia,HRV,2015,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.146712358186923
+274,Croatia,HRV,2014,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.147638761564825
+275,Croatia,HRV,2013,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.161307187328193
+276,Croatia,HRV,2012,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.190880163209579
+277,Croatia,HRV,2011,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.196848668770087
+278,Croatia,HRV,2010,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.201013740836041
+279,Croatia,HRV,2009,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.215003371165674
+280,Croatia,HRV,2008,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.20403351588119
+281,Croatia,HRV,2007,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.205269519651195
+282,Croatia,HRV,2006,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.218785932024688
+283,Croatia,HRV,2005,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.241215041311336
+284,Croatia,HRV,2004,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.245708622907319
+285,Croatia,HRV,2003,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.26124759186018
+286,Croatia,HRV,2002,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.252447648730966
+287,Croatia,HRV,2001,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.267466105990297
+288,Croatia,HRV,2000,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.277310031874581
+289,Croatia,HRV,1999,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.291371432309206
+290,Croatia,HRV,1998,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.296098877347549
+291,Croatia,HRV,1997,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.316160605678037
+292,Croatia,HRV,1996,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.335495401460663
+293,Croatia,HRV,1995,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.350098202692779
+294,Croatia,HRV,2019,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,10.961216733629
+295,Croatia,HRV,2018,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,10.6511969478464
+296,Croatia,HRV,2017,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,10.4499606847062
+297,Croatia,HRV,2016,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.14572341452872
+298,Croatia,HRV,2015,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.55923365916733
+299,Croatia,HRV,2014,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.57607413159039
+300,Croatia,HRV,2013,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.54862161917199
+301,Croatia,HRV,2012,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.755143772712651
+302,Croatia,HRV,2011,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.07181134713161
+303,Croatia,HRV,2010,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.34126721082371
+304,Croatia,HRV,2009,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.05560491497919
+305,Croatia,HRV,2008,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.93743518392827
+306,Croatia,HRV,2007,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.20466918290301
+307,Croatia,HRV,2006,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.32705270063253
+308,Croatia,HRV,2005,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.21172750838166
+309,Croatia,HRV,2004,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.55871801027831
+310,Croatia,HRV,2003,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.33632095182775
+311,Croatia,HRV,2002,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.97840690260039
+312,Croatia,HRV,2001,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.83493352235383
+313,Croatia,HRV,2000,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.21342284847097
+314,Croatia,HRV,1999,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.594108911528807
+315,Croatia,HRV,1998,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.53679686686209
+316,Croatia,HRV,1997,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.17732985334554
+317,Croatia,HRV,1996,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.19316751991162
+318,Croatia,HRV,1995,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-3.56583681329568
+319,Croatia,HRV,2019,GDP (current US$),NY.GDP.MKTP.CD,60752588976.3175
+320,Croatia,HRV,2018,GDP (current US$),NY.GDP.MKTP.CD,61375222347.0256
+321,Croatia,HRV,2017,GDP (current US$),NY.GDP.MKTP.CD,55481644098.0495
+322,Croatia,HRV,2016,GDP (current US$),NY.GDP.MKTP.CD,51601147665.8089
+323,Croatia,HRV,2015,GDP (current US$),NY.GDP.MKTP.CD,49525747503.8149
+324,Croatia,HRV,2014,GDP (current US$),NY.GDP.MKTP.CD,57639588805.5871
+325,Croatia,HRV,2013,GDP (current US$),NY.GDP.MKTP.CD,58194069434.1423
+326,Croatia,HRV,2012,GDP (current US$),NY.GDP.MKTP.CD,56580819623.8529
+327,Croatia,HRV,2011,GDP (current US$),NY.GDP.MKTP.CD,62537851352.4904
+328,Croatia,HRV,2010,GDP (current US$),NY.GDP.MKTP.CD,59918313669.1671
+329,Croatia,HRV,2009,GDP (current US$),NY.GDP.MKTP.CD,62600093958.9538
+330,Croatia,HRV,2008,GDP (current US$),NY.GDP.MKTP.CD,70234425974.0453
+331,Croatia,HRV,2007,GDP (current US$),NY.GDP.MKTP.CD,60073426976.5069
+332,Croatia,HRV,2006,GDP (current US$),NY.GDP.MKTP.CD,50423077102.0764
+333,Croatia,HRV,2005,GDP (current US$),NY.GDP.MKTP.CD,45376744001.8044
+334,Croatia,HRV,2004,GDP (current US$),NY.GDP.MKTP.CD,41587470546.7946
+335,Croatia,HRV,2003,GDP (current US$),NY.GDP.MKTP.CD,34682900712.6654
+336,Croatia,HRV,2002,GDP (current US$),NY.GDP.MKTP.CD,26813968850.5192
+337,Croatia,HRV,2001,GDP (current US$),NY.GDP.MKTP.CD,23054778851.2787
+338,Croatia,HRV,2000,GDP (current US$),NY.GDP.MKTP.CD,21633671680.8738
+339,Croatia,HRV,1999,GDP (current US$),NY.GDP.MKTP.CD,23457038980.352
+340,Croatia,HRV,1998,GDP (current US$),NY.GDP.MKTP.CD,25562674678.2302
+341,Croatia,HRV,1997,GDP (current US$),NY.GDP.MKTP.CD,23869243597.654
+342,Croatia,HRV,1996,GDP (current US$),NY.GDP.MKTP.CD,23846442648.9653
+343,Croatia,HRV,1995,GDP (current US$),NY.GDP.MKTP.CD,22534323220.0266
+344,Croatia,HRV,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,14944.3562248936
+345,Croatia,HRV,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,15014.0850191716
+346,Croatia,HRV,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,13451.6249479152
+347,Croatia,HRV,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,12361.4838303671
+348,Croatia,HRV,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,11781.7347932429
+349,Croatia,HRV,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,13599.4097770608
+350,Croatia,HRV,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,13674.4178049999
+351,Croatia,HRV,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,13258.3598451041
+352,Croatia,HRV,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,14609.5243524166
+353,Croatia,HRV,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,13949.3264974977
+354,Croatia,HRV,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,14540.6416034433
+355,Croatia,HRV,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,16296.8059238498
+356,Croatia,HRV,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,13937.448387519
+357,Croatia,HRV,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,11695.944664086
+358,Croatia,HRV,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,10527.8926815233
+359,Croatia,HRV,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,9661.16957366412
+360,Croatia,HRV,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,8059.42017290644
+361,Croatia,HRV,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,6232.65559471076
+362,Croatia,HRV,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,5362.02289662225
+363,Croatia,HRV,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,4841.58673269484
+364,Croatia,HRV,1999,GDP per capita (current US$),NY.GDP.PCAP.CD,5198.12404705139
+365,Croatia,HRV,1998,GDP per capita (current US$),NY.GDP.PCAP.CD,5640.31624791189
+366,Croatia,HRV,1997,GDP per capita (current US$),NY.GDP.PCAP.CD,5263.43212176929
+367,Croatia,HRV,1996,GDP per capita (current US$),NY.GDP.PCAP.CD,5232.81436602408
+368,Croatia,HRV,1995,GDP per capita (current US$),NY.GDP.PCAP.CD,4877.52746627761
+369,Croatia,HRV,2019,GNI (current US$),NY.GNP.MKTP.CD,59830033764.084
+370,Croatia,HRV,2018,GNI (current US$),NY.GNP.MKTP.CD,60477554189.7912
+371,Croatia,HRV,2017,GNI (current US$),NY.GNP.MKTP.CD,54667725311.9796
+372,Croatia,HRV,2016,GNI (current US$),NY.GNP.MKTP.CD,50058020008.9905
+373,Croatia,HRV,2015,GNI (current US$),NY.GNP.MKTP.CD,49216143332.5573
+374,Croatia,HRV,2014,GNI (current US$),NY.GNP.MKTP.CD,56433335663.0098
+375,Croatia,HRV,2013,GNI (current US$),NY.GNP.MKTP.CD,57022095862.3569
+376,Croatia,HRV,2012,GNI (current US$),NY.GNP.MKTP.CD,54662677173.9189
+377,Croatia,HRV,2011,GNI (current US$),NY.GNP.MKTP.CD,60497260008.6402
+378,Croatia,HRV,2010,GNI (current US$),NY.GNP.MKTP.CD,57880430376.187
+379,Croatia,HRV,2009,GNI (current US$),NY.GNP.MKTP.CD,60258886299.5727
+380,Croatia,HRV,2008,GNI (current US$),NY.GNP.MKTP.CD,67938936203.8174
+381,Croatia,HRV,2007,GNI (current US$),NY.GNP.MKTP.CD,58680820652.1745
+382,Croatia,HRV,2006,GNI (current US$),NY.GNP.MKTP.CD,49117455772.4053
+383,Croatia,HRV,2005,GNI (current US$),NY.GNP.MKTP.CD,44282877015.3448
+384,Croatia,HRV,2004,GNI (current US$),NY.GNP.MKTP.CD,40862773416.7133
+385,Croatia,HRV,2003,GNI (current US$),NY.GNP.MKTP.CD,33517712823.3088
+386,Croatia,HRV,2002,GNI (current US$),NY.GNP.MKTP.CD,26355714857.8312
+387,Croatia,HRV,2001,GNI (current US$),NY.GNP.MKTP.CD,22572931985.4106
+388,Croatia,HRV,2000,GNI (current US$),NY.GNP.MKTP.CD,21230336983.9768
+389,Croatia,HRV,1999,GNI (current US$),NY.GNP.MKTP.CD,22956630040.4426
+390,Croatia,HRV,1998,GNI (current US$),NY.GNP.MKTP.CD,25374359106.1918
+391,Croatia,HRV,1997,GNI (current US$),NY.GNP.MKTP.CD,23825034057.0545
+392,Croatia,HRV,1996,GNI (current US$),NY.GNP.MKTP.CD,23743141196.29
+393,Croatia,HRV,1995,GNI (current US$),NY.GNP.MKTP.CD,22481529540.4286
+394,Croatia,HRV,2019,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.36463462549534
+395,Croatia,HRV,2018,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.72969344977709
+396,Croatia,HRV,2017,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.34172025763431
+397,Croatia,HRV,2016,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.72172799759029
+398,Croatia,HRV,2015,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.82263814731223
+399,Croatia,HRV,2014,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.0180968274303694
+400,Croatia,HRV,2013,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.24959192521902
+401,Croatia,HRV,2012,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-2.21362232698361
+402,Croatia,HRV,2011,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,0.284633656991289
+403,Croatia,HRV,2010,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.763410795305674
+404,Croatia,HRV,2009,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-7.7052122401973
+405,Croatia,HRV,2008,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,0.923247793189887
+406,Croatia,HRV,2007,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.36261722491518
+407,Croatia,HRV,2006,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.77458387524501
+408,Croatia,HRV,2005,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.48463017805069
+409,Croatia,HRV,2004,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.77341910471907
+410,Croatia,HRV,2003,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.8914787037957
+411,Croatia,HRV,2002,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.98992431762122
+412,Croatia,HRV,2001,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.75943532168696
+413,Croatia,HRV,2000,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.15210232860557
+414,Croatia,HRV,1999,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-1.83430188536413
+415,Croatia,HRV,1998,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.81398778892982
+416,Croatia,HRV,1997,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.96764418673096
+417,Croatia,HRV,1996,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,7.16908101931027
+418,Croatia,HRV,2018,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,464.204272711969
+419,Croatia,HRV,2015,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,464.0401
+420,Croatia,HRV,2012,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,471.131460759248
+421,Croatia,HRV,2009,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,459.938917902581
+422,Croatia,HRV,2006,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,467.246714232255
+423,Croatia,HRV,2018,PISA: Mean performance on the reading scale,LO.PISA.REA,478.989152395076
+424,Croatia,HRV,2015,PISA: Mean performance on the reading scale,LO.PISA.REA,486.8632
+425,Croatia,HRV,2012,PISA: Mean performance on the reading scale,LO.PISA.REA,484.565032125693
+426,Croatia,HRV,2009,PISA: Mean performance on the reading scale,LO.PISA.REA,475.74888637867
+427,Croatia,HRV,2006,PISA: Mean performance on the reading scale,LO.PISA.REA,477.364237965249
+428,Croatia,HRV,2018,PISA: Mean performance on the science scale,LO.PISA.SCI,472.362619572977
+429,Croatia,HRV,2015,PISA: Mean performance on the science scale,LO.PISA.SCI,475.3912
+430,Croatia,HRV,2012,PISA: Mean performance on the science scale,LO.PISA.SCI,491.35658283423
+431,Croatia,HRV,2009,PISA: Mean performance on the science scale,LO.PISA.SCI,486.363448789666
+432,Croatia,HRV,2006,PISA: Mean performance on the science scale,LO.PISA.SCI,493.204391790777
+433,Croatia,HRV,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28174996376038
+434,Croatia,HRV,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27208995819092
+435,Croatia,HRV,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27418994903564
+436,Croatia,HRV,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26145994663239
+437,Croatia,HRV,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26993000507355
+438,Croatia,HRV,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.25946998596191
+439,Croatia,HRV,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26593995094299
+440,Croatia,HRV,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28550004959106
+441,Croatia,HRV,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.25518000125885
+442,Croatia,HRV,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2153400182724
+443,Croatia,HRV,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.20181000232697
+444,Croatia,HRV,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18386995792389
+445,Croatia,HRV,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18555998802185
+446,Croatia,HRV,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17574000358582
+447,Croatia,HRV,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1703200340271
+448,Croatia,HRV,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15322005748749
+449,Croatia,HRV,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.12777996063232
+450,Croatia,HRV,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.12830996513367
+451,Croatia,HRV,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.13832998275757
+452,Croatia,HRV,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.14683997631073
+453,Croatia,HRV,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05675995349884
+454,Croatia,HRV,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.07874000072479
+455,Croatia,HRV,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.00441002845764
+456,Croatia,HRV,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.01288998126984
+457,Croatia,HRV,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.952589988708496
+458,Croatia,HRV,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.965390026569366
+459,Croatia,HRV,2018,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.61779999732971
+460,Croatia,HRV,2017,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.36378002166748
+461,Croatia,HRV,2016,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.59305000305176
+462,Croatia,HRV,2015,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.14689004421234
+463,Croatia,HRV,2014,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.22433996200562
+464,Croatia,HRV,2013,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.37934994697571
+465,Croatia,HRV,2012,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.14784002304077
+466,Croatia,HRV,2011,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.75966000556946
+467,Croatia,HRV,2010,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.96036005020142
+468,Croatia,HRV,2009,Children out of school (% of primary school age),SE.PRM.UNER.ZS,8.35041046142578
+469,Croatia,HRV,2008,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.5796000957489
+470,Croatia,HRV,2007,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.986429989337921
+471,Croatia,HRV,2006,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.874539971351624
+472,Croatia,HRV,2005,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.956770002841949
+473,Croatia,HRV,2003,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.266169995069504
+474,Croatia,HRV,2002,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.317129999399185
+475,Croatia,HRV,2001,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.48028993606567
+476,Croatia,HRV,2000,Children out of school (% of primary school age),SE.PRM.UNER.ZS,6.09328985214233
+477,Croatia,HRV,1999,Children out of school (% of primary school age),SE.PRM.UNER.ZS,7.42173004150391
+478,Croatia,HRV,1998,Children out of school (% of primary school age),SE.PRM.UNER.ZS,16.0004596710205
+479,Croatia,HRV,2011,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,89.2185592651367
+480,Croatia,HRV,2001,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,78.3491134643555
+481,Croatia,HRV,1991,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,46.0381088256836
+482,Croatia,HRV,2017,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.8056564331055
+483,Croatia,HRV,2015,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.6080932617188
+484,Croatia,HRV,2014,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,96.341911315918
+485,Croatia,HRV,2013,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,96.7505874633789
+486,Croatia,HRV,2011,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,96.2857131958008
+487,Croatia,HRV,2010,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.55126953125
+488,Croatia,HRV,2009,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.1780700683594
+489,Croatia,HRV,2008,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,96.6327667236328
+490,Croatia,HRV,2007,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.703498840332
+491,Croatia,HRV,2004,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.5714569091797
+492,Croatia,HRV,2003,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.6765289306641
+493,Croatia,HRV,2002,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.0968475341797
+494,Croatia,HRV,2017,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.91712999343872
+495,Croatia,HRV,2013,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.56486988067627
+496,Croatia,HRV,2011,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.15010976791382
+497,Croatia,HRV,2010,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.24204015731812
+498,Croatia,HRV,2009,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.3918399810791
+499,Croatia,HRV,2008,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.28182983398438
+500,Croatia,HRV,2007,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.96519994735718
+501,Croatia,HRV,2004,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.81904006004334
+502,Croatia,HRV,2003,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.8643798828125
+503,Croatia,HRV,2002,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.81978011131287
+504,Croatia,HRV,2019,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.1608413705548
+505,Croatia,HRV,2018,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.4536851576886
+506,Croatia,HRV,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.1662124203605
+507,Croatia,HRV,2016,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.3002947819762
+508,Croatia,HRV,2015,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.5000198683391
+509,Croatia,HRV,2014,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.4430656581972
+510,Croatia,HRV,2013,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.9373800509456
+511,Croatia,HRV,2012,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4173449915367
+512,Croatia,HRV,2011,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.0887597308366
+513,Croatia,HRV,2010,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.9619314410549
+514,Croatia,HRV,2009,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.0862321338985
+515,Croatia,HRV,2008,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.1402193169308
+516,Croatia,HRV,2007,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.7596928604142
+517,Croatia,HRV,2006,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.8825396577607
+518,Croatia,HRV,2005,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4471822728395
+519,Croatia,HRV,2004,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.0464601849933
+520,Croatia,HRV,2003,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.7438268951779
+521,Croatia,HRV,2002,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.8499719648626
+522,Croatia,HRV,2001,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.5314055148836
+523,Croatia,HRV,2000,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.3533409519197
+524,Croatia,HRV,1999,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.1602435855539
+525,Croatia,HRV,1998,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.9352057212915
+526,Croatia,HRV,1997,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.7047436268367
+527,Croatia,HRV,1996,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.484394381111
+528,Croatia,HRV,1995,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.266366344547
+529,Croatia,HRV,1994,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.102317049414
+530,Croatia,HRV,1993,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,42.9348993361778
+531,Croatia,HRV,1992,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,42.765629006397
+532,Croatia,HRV,1991,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,42.6052561378333
+533,Croatia,HRV,1990,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,42.8605611915594
+534,Croatia,HRV,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.19999980926514
+535,Croatia,HRV,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.61999988555908
+536,Croatia,HRV,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.43000030517578
+537,Croatia,HRV,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.210000038147
+538,Croatia,HRV,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.1000003814697
+539,Croatia,HRV,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.1800003051758
+540,Croatia,HRV,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,17.2900009155273
+541,Croatia,HRV,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,17.25
+542,Croatia,HRV,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,15.9399995803833
+543,Croatia,HRV,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.6800003051758
+544,Croatia,HRV,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.6199998855591
+545,Croatia,HRV,2009,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.19999980926514
+546,Croatia,HRV,2008,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.52999973297119
+547,Croatia,HRV,2007,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.90999984741211
+548,Croatia,HRV,2006,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.1300001144409
+549,Croatia,HRV,2005,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.6000003814697
+550,Croatia,HRV,2004,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.6599998474121
+551,Croatia,HRV,2003,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.9200000762939
+552,Croatia,HRV,2002,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,15.0500001907349
+553,Croatia,HRV,2001,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,15.8199996948242
+554,Croatia,HRV,2000,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.0599994659424
+555,Croatia,HRV,1999,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.5600004196167
+556,Croatia,HRV,1998,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.3900003433228
+557,Croatia,HRV,1997,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.71000003814697
+558,Croatia,HRV,1996,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.68000030517578
+559,Croatia,HRV,1995,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.92000007629395
+560,Croatia,HRV,1994,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.1599998474121
+561,Croatia,HRV,1993,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.4300003051758
+562,Croatia,HRV,1992,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.8000001907349
+563,Croatia,HRV,1991,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.1400003433228
+564,Croatia,HRV,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+565,Croatia,HRV,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+566,Croatia,HRV,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+567,Croatia,HRV,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+568,Croatia,HRV,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+569,Croatia,HRV,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+570,Croatia,HRV,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+571,Croatia,HRV,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+572,Croatia,HRV,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+573,Croatia,HRV,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+574,Croatia,HRV,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+575,Croatia,HRV,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+576,Croatia,HRV,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+577,Croatia,HRV,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+578,Croatia,HRV,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+579,Croatia,HRV,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+580,Croatia,HRV,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+581,Croatia,HRV,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+582,Croatia,HRV,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+583,Croatia,HRV,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+584,Croatia,HRV,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.1274666358571
+585,Croatia,HRV,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.6481912689857
+586,Croatia,HRV,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.8375105987798
+587,Croatia,HRV,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.4219488727739
+588,Croatia,HRV,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.1862393886566
+589,Croatia,HRV,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.7750473065786
+590,Croatia,HRV,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.1782564634504
+591,Croatia,HRV,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.1559113463947
+592,Croatia,HRV,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,22.6721558894394
+593,Croatia,HRV,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,25.5172157785772
+594,Croatia,HRV,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.8368896995131
+595,Croatia,HRV,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.585237807356
+596,Croatia,HRV,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.8401386994077
+597,Croatia,HRV,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.6311824536051
+598,Croatia,HRV,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.9454983529558
+599,Croatia,HRV,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.7881802617319
+600,Croatia,HRV,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.810841837998
+601,Croatia,HRV,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,28.1143994570977
+602,Croatia,HRV,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.211150683095
+603,Croatia,HRV,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.1265044303859
+604,Croatia,HRV,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.384527442502
+605,Croatia,HRV,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.0983346611673
+606,Croatia,HRV,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.8999901522965
+607,Croatia,HRV,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.8110333589946
+608,Croatia,HRV,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.3545415119193
+609,Croatia,HRV,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,21.9231797129439
+610,Croatia,HRV,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,17487.923
+611,Croatia,HRV,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,17311.907
+612,Croatia,HRV,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,16904.87
+613,Croatia,HRV,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,17601.6
+614,Croatia,HRV,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,18045.307
+615,Croatia,HRV,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,19915.477
+616,Croatia,HRV,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,20172.167
+617,Croatia,HRV,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,21165.924
+618,Croatia,HRV,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,22592.387
+619,Croatia,HRV,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,23828.166
+620,Croatia,HRV,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,22607.055
+621,Croatia,HRV,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,22592.387
+622,Croatia,HRV,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,22376.034
+623,Croatia,HRV,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,22984.756
+624,Croatia,HRV,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,21473.952
+625,Croatia,HRV,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,20395.854
+626,Croatia,HRV,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,19339.758
+627,Croatia,HRV,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,19992.484
+628,Croatia,HRV,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,20153.832
+629,Croatia,HRV,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,18907.052
+630,Croatia,HRV,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,16956.208
+631,Croatia,HRV,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,16985.544
+632,Croatia,HRV,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,16490.499
+633,Croatia,HRV,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,16750.856
+634,Croatia,HRV,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,16417.159
+635,Croatia,HRV,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30421.0493635559
+636,Croatia,HRV,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30453.5113317779
+637,Croatia,HRV,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,31172.6453
+638,Croatia,HRV,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,31461.0364
+639,Croatia,HRV,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,32938.0609
+640,Croatia,HRV,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,33301.0976
+641,Croatia,HRV,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30290.0744
+642,Croatia,HRV,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29863.54461
+643,Croatia,HRV,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29691.5132
+644,Croatia,HRV,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30011.8762
+645,Croatia,HRV,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28301.7261
+646,Croatia,HRV,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27165.0499
+647,Croatia,HRV,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27312.045
+648,Croatia,HRV,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27203.214
+649,Croatia,HRV,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27432.058
+650,Croatia,HRV,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,26444.91278
+651,Croatia,HRV,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24101.40167
+652,Croatia,HRV,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24621.25356
+653,Croatia,HRV,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24087.79944
+654,Croatia,HRV,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24880.32833
+655,Croatia,HRV,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24794.92522
+656,Croatia,HRV,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,26347.55991
+657,Croatia,HRV,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,34734.33116
+658,Croatia,HRV,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,43802.366
+659,Croatia,HRV,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,43184.992
+660,Croatia,HRV,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49218.687
+661,Croatia,HRV,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49135.047
+662,Croatia,HRV,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,46094.194
+663,Croatia,HRV,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,44415.791
+664,Croatia,HRV,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,42472.093
+665,Croatia,HRV,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,39432.775
+666,Croatia,HRV,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,40950.583
+667,Croatia,HRV,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27177.913
+668,Croatia,HRV,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30839.504
+669,Croatia,HRV,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28611.522
+670,Croatia,HRV,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28843.891
+671,Croatia,HRV,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29984.501
+672,Croatia,HRV,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30711.776
+673,Croatia,HRV,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28323.112
+674,Croatia,HRV,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28255.897
+675,Croatia,HRV,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,26950.167
+676,Croatia,HRV,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,25722.964
+677,Croatia,HRV,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,25740.655
+678,Croatia,HRV,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.7796052732656
+679,Croatia,HRV,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.7806991341871
+680,Croatia,HRV,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+681,Croatia,HRV,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+682,Croatia,HRV,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+683,Croatia,HRV,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+684,Croatia,HRV,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+685,Croatia,HRV,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+686,Croatia,HRV,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+687,Croatia,HRV,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+688,Croatia,HRV,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9999999993598
+689,Croatia,HRV,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9999999996368
+690,Croatia,HRV,2018,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18067.16796875
+691,Croatia,HRV,2017,Aquaculture production (metric tons),ER.FSH.AQUA.MT,16033.80078125
+692,Croatia,HRV,2016,Aquaculture production (metric tons),ER.FSH.AQUA.MT,15804.7587890625
+693,Croatia,HRV,2015,Aquaculture production (metric tons),ER.FSH.AQUA.MT,15571.4951171875
+694,Croatia,HRV,2014,Aquaculture production (metric tons),ER.FSH.AQUA.MT,13149.2353515625
+695,Croatia,HRV,2013,Aquaculture production (metric tons),ER.FSH.AQUA.MT,12018.900390625
+696,Croatia,HRV,2012,Aquaculture production (metric tons),ER.FSH.AQUA.MT,10440.361328125
+697,Croatia,HRV,2011,Aquaculture production (metric tons),ER.FSH.AQUA.MT,12846
+698,Croatia,HRV,2010,Aquaculture production (metric tons),ER.FSH.AQUA.MT,13990.509765625
+699,Croatia,HRV,2009,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14228.5498046875
+700,Croatia,HRV,2008,Aquaculture production (metric tons),ER.FSH.AQUA.MT,13878
+701,Croatia,HRV,2007,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14045
+702,Croatia,HRV,2006,Aquaculture production (metric tons),ER.FSH.AQUA.MT,15497
+703,Croatia,HRV,2005,Aquaculture production (metric tons),ER.FSH.AQUA.MT,12127
+704,Croatia,HRV,2004,Aquaculture production (metric tons),ER.FSH.AQUA.MT,10917
+705,Croatia,HRV,2003,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9505
+706,Croatia,HRV,2002,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9095
+707,Croatia,HRV,2001,Aquaculture production (metric tons),ER.FSH.AQUA.MT,10468
+708,Croatia,HRV,2000,Aquaculture production (metric tons),ER.FSH.AQUA.MT,6876
+709,Croatia,HRV,1999,Aquaculture production (metric tons),ER.FSH.AQUA.MT,6313
+710,Croatia,HRV,1998,Aquaculture production (metric tons),ER.FSH.AQUA.MT,5989
+711,Croatia,HRV,1997,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3510
+712,Croatia,HRV,1996,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2889
+713,Croatia,HRV,1995,Aquaculture production (metric tons),ER.FSH.AQUA.MT,4007
+714,Croatia,HRV,1994,Aquaculture production (metric tons),ER.FSH.AQUA.MT,4941
+715,Croatia,HRV,1993,Aquaculture production (metric tons),ER.FSH.AQUA.MT,4603
+716,Croatia,HRV,1992,Aquaculture production (metric tons),ER.FSH.AQUA.MT,6802
+717,Croatia,HRV,2018,Total fisheries production (metric tons),ER.FSH.PROD.MT,88624.5
+718,Croatia,HRV,2017,Total fisheries production (metric tons),ER.FSH.PROD.MT,85979.453125
+719,Croatia,HRV,2016,Total fisheries production (metric tons),ER.FSH.PROD.MT,89110.2578125
+720,Croatia,HRV,2015,Total fisheries production (metric tons),ER.FSH.PROD.MT,89518.4921875
+721,Croatia,HRV,2014,Total fisheries production (metric tons),ER.FSH.PROD.MT,93518.234375
+722,Croatia,HRV,2013,Total fisheries production (metric tons),ER.FSH.PROD.MT,87850.2421875
+723,Croatia,HRV,2012,Total fisheries production (metric tons),ER.FSH.PROD.MT,74829.5390625
+724,Croatia,HRV,2011,Total fisheries production (metric tons),ER.FSH.PROD.MT,84242.0625
+725,Croatia,HRV,2010,Total fisheries production (metric tons),ER.FSH.PROD.MT,66857.8125
+726,Croatia,HRV,2009,Total fisheries production (metric tons),ER.FSH.PROD.MT,70019.046875
+727,Croatia,HRV,2008,Total fisheries production (metric tons),ER.FSH.PROD.MT,62946.078125
+728,Croatia,HRV,2007,Total fisheries production (metric tons),ER.FSH.PROD.MT,54273.6328125
+729,Croatia,HRV,2006,Total fisheries production (metric tons),ER.FSH.PROD.MT,53373.1328125
+730,Croatia,HRV,2005,Total fisheries production (metric tons),ER.FSH.PROD.MT,46822.08984375
+731,Croatia,HRV,2004,Total fisheries production (metric tons),ER.FSH.PROD.MT,41089.12109375
+732,Croatia,HRV,2003,Total fisheries production (metric tons),ER.FSH.PROD.MT,29463.03515625
+733,Croatia,HRV,2002,Total fisheries production (metric tons),ER.FSH.PROD.MT,30334.5390625
+734,Croatia,HRV,2001,Total fisheries production (metric tons),ER.FSH.PROD.MT,29019.125
+735,Croatia,HRV,2000,Total fisheries production (metric tons),ER.FSH.PROD.MT,27944.244140625
+736,Croatia,HRV,1999,Total fisheries production (metric tons),ER.FSH.PROD.MT,25222.19140625
+737,Croatia,HRV,1998,Total fisheries production (metric tons),ER.FSH.PROD.MT,27935.078125
+738,Croatia,HRV,1997,Total fisheries production (metric tons),ER.FSH.PROD.MT,20551.4921875
+739,Croatia,HRV,1996,Total fisheries production (metric tons),ER.FSH.PROD.MT,21125.99609375
+740,Croatia,HRV,1995,Total fisheries production (metric tons),ER.FSH.PROD.MT,20275.0546875
+741,Croatia,HRV,1994,Total fisheries production (metric tons),ER.FSH.PROD.MT,22422.0078125
+742,Croatia,HRV,1993,Total fisheries production (metric tons),ER.FSH.PROD.MT,31233.2734375
+743,Croatia,HRV,1992,Total fisheries production (metric tons),ER.FSH.PROD.MT,33534.078125
+744,Croatia,HRV,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,38.2536302140039
+745,Croatia,HRV,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,38.2536302140039
+746,Croatia,HRV,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,38.11
+747,Croatia,HRV,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,8.54108490852191
+748,Croatia,HRV,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,8.54108490852191
+749,Croatia,HRV,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,8.540921417
+750,Croatia,HRV,2017,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,89.959411265514
+751,Croatia,HRV,2016,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,89.9594907584319
+752,Croatia,HRV,2015,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,90.4526045134902
+753,Croatia,HRV,2014,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,90.9457063951209
+754,Croatia,HRV,2013,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,91.3660636669015
+755,Croatia,HRV,2012,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,91.7846472586847
+756,Croatia,HRV,2011,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.2015655550726
+757,Croatia,HRV,2010,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.6169205764362
+758,Croatia,HRV,2009,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.0306162564779
+759,Croatia,HRV,2008,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.288674849099
+760,Croatia,HRV,2007,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.6783561259105
+761,Croatia,HRV,2006,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.0657931414536
+762,Croatia,HRV,2005,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,91.45102348944
+763,Croatia,HRV,2004,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,90.8340694600511
+764,Croatia,HRV,2003,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,90.2149680459142
+765,Croatia,HRV,2002,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,89.5733035861062
+766,Croatia,HRV,2001,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,88.9298135477604
+767,Croatia,HRV,2000,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,88.8932339040343
+768,Croatia,HRV,2017,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.4969408529031
+769,Croatia,HRV,2016,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.4468649650868
+770,Croatia,HRV,2015,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.3989204084721
+771,Croatia,HRV,2014,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.3530992476201
+772,Croatia,HRV,2013,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.3092759533742
+773,Croatia,HRV,2012,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.2677094429081
+774,Croatia,HRV,2011,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.2282692467559
+775,Croatia,HRV,2010,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.1910778678027
+776,Croatia,HRV,2009,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.1537640233485
+777,Croatia,HRV,2008,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.116461176165
+778,Croatia,HRV,2007,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.0791713941895
+779,Croatia,HRV,2006,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.0418855289683
+780,Croatia,HRV,2005,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,58.0046105702016
+781,Croatia,HRV,2004,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,57.9673437750702
+782,Croatia,HRV,2003,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,57.9300914333943
+783,Croatia,HRV,2002,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,57.8927117464189
+784,Croatia,HRV,2001,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,57.8554746341766
+785,Croatia,HRV,2000,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,57.8273004134612
+786,Croatia,HRV,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,5
+787,Croatia,HRV,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,5
+788,Croatia,HRV,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,5
+789,Croatia,HRV,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,5
+790,Croatia,HRV,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,5
+791,Croatia,HRV,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,5
+792,Croatia,HRV,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,5
+793,Croatia,HRV,2016,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.1
+794,Croatia,HRV,2015,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.4
+795,Croatia,HRV,2014,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.8
+796,Croatia,HRV,2013,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.5
+797,Croatia,HRV,2012,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.3
+798,Croatia,HRV,2011,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.2
+799,Croatia,HRV,2010,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.4
+800,Croatia,HRV,2009,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.6
+801,Croatia,HRV,2008,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.9
+802,Croatia,HRV,2007,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.3
+803,Croatia,HRV,2006,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.6
+804,Croatia,HRV,2005,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.9
+805,Croatia,HRV,2004,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.1
+806,Croatia,HRV,2003,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.3
+807,Croatia,HRV,2002,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.5
+808,Croatia,HRV,2001,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.8
+809,Croatia,HRV,2000,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.1
+810,Croatia,HRV,1999,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.4
+811,Croatia,HRV,1998,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.9
+812,Croatia,HRV,1997,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,29.4
+813,Croatia,HRV,1996,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.1
+814,Croatia,HRV,1995,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.9
+815,Croatia,HRV,1994,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,31.8
+816,Croatia,HRV,1993,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,32.8
+817,Croatia,HRV,1992,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,34
+818,Croatia,HRV,1991,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,35.3
+819,Croatia,HRV,1990,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,36.7
+820,Croatia,HRV,2017,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.54
+821,Croatia,HRV,2016,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.49
+822,Croatia,HRV,2015,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.56
+823,Croatia,HRV,2014,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.91
+824,Croatia,HRV,2013,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.86
+825,Croatia,HRV,2012,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.89
+826,Croatia,HRV,2011,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.84
+827,Croatia,HRV,2010,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.78
+828,Croatia,HRV,2009,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.53
+829,Croatia,HRV,2008,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.63
+830,Croatia,HRV,2007,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.65
+831,Croatia,HRV,2006,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.62
+832,Croatia,HRV,2005,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.45
+833,Croatia,HRV,2004,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.53
+834,Croatia,HRV,2003,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.61
+835,Croatia,HRV,2002,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.67
+836,Croatia,HRV,2001,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6
+837,Croatia,HRV,2000,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.15
+838,Croatia,HRV,1999,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.9299998283
+839,Croatia,HRV,1998,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.0599999428
+840,Croatia,HRV,1997,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.0100002289
+841,Croatia,HRV,1996,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.1900000572
+842,Croatia,HRV,1995,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.75
+843,Croatia,HRV,1994,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.9095001221
+844,Croatia,HRV,1993,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.071199894
+845,Croatia,HRV,1992,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.210100174
+846,Croatia,HRV,1991,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.5201001167
+847,Croatia,HRV,1990,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.3777999878
+848,Croatia,HRV,1989,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.39300012588501
+849,Croatia,HRV,1988,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.44169998168945
+850,Croatia,HRV,1987,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.4225001335144
+851,Croatia,HRV,1986,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.40259981155396
+852,Croatia,HRV,1985,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.45429992675781
+853,Croatia,HRV,1984,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.44659996032715
+854,Croatia,HRV,1983,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.46519994735718
+855,Croatia,HRV,1982,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.42350006103516
+856,Croatia,HRV,1981,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.30810022354126
+857,Croatia,HRV,1980,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.23479986190796
+858,Croatia,HRV,2019,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.4
+859,Croatia,HRV,2018,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.4
+860,Croatia,HRV,2017,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15.7
+861,Croatia,HRV,2016,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.4
+862,Croatia,HRV,2015,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.6
+863,Croatia,HRV,2014,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.3
+864,Croatia,HRV,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.5
+865,Croatia,HRV,2012,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.4
+866,Croatia,HRV,2011,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.4
+867,Croatia,HRV,2010,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.3
+868,Croatia,HRV,2009,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.3
+869,Croatia,HRV,2008,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.4
+870,Croatia,HRV,2007,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.1
+871,Croatia,HRV,2006,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.3
+872,Croatia,HRV,2005,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.1
+873,Croatia,HRV,2004,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.2
+874,Croatia,HRV,2003,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19.7
+875,Croatia,HRV,2002,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19.5
+876,Croatia,HRV,2001,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19.7
+877,Croatia,HRV,2000,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.8
+878,Croatia,HRV,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.9
+879,Croatia,HRV,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.4
+880,Croatia,HRV,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.7
+881,Croatia,HRV,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.1
+882,Croatia,HRV,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.3
+883,Croatia,HRV,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.2
+884,Croatia,HRV,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.2
+885,Croatia,HRV,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.6
+886,Croatia,HRV,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.1
+887,Croatia,HRV,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.5
+888,Croatia,HRV,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13
+889,Croatia,HRV,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.7
+890,Croatia,HRV,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.6
+891,Croatia,HRV,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.5
+892,Croatia,HRV,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.1
+893,Croatia,HRV,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.3
+894,Croatia,HRV,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.5
+895,Croatia,HRV,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.7
+896,Croatia,HRV,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.1
+897,Croatia,HRV,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.2
+898,Croatia,HRV,2018,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.82702351
+899,Croatia,HRV,2017,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.77827311
+900,Croatia,HRV,2016,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.82976627
+901,Croatia,HRV,2015,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.78635979
+902,Croatia,HRV,2014,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.69970798
+903,Croatia,HRV,2013,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.53333521
+904,Croatia,HRV,2012,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.7956953
+905,Croatia,HRV,2011,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.79134035
+906,Croatia,HRV,2010,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.10364056
+907,Croatia,HRV,2009,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.17594814
+908,Croatia,HRV,2008,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.725914
+909,Croatia,HRV,2007,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.46290779
+910,Croatia,HRV,2006,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.97705221
+911,Croatia,HRV,2005,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.90637589
+912,Croatia,HRV,2004,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.56943607
+913,Croatia,HRV,2003,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.35693502
+914,Croatia,HRV,2002,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.20467758
+915,Croatia,HRV,2001,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.19601297
+916,Croatia,HRV,2000,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.70187807
+917,Croatia,HRV,2018,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,83.20935059
+918,Croatia,HRV,2017,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,82.84589386
+919,Croatia,HRV,2016,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,82.76351166
+920,Croatia,HRV,2015,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,83.09547424
+921,Croatia,HRV,2014,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,84.03981781
+922,Croatia,HRV,2013,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,85.05267334
+923,Croatia,HRV,2012,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,82.65220642
+924,Croatia,HRV,2011,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,81.97130585
+925,Croatia,HRV,2010,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,83.4090271
+926,Croatia,HRV,2009,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,82.83022308
+927,Croatia,HRV,2008,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,83.83042908
+928,Croatia,HRV,2007,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,86.4317627
+929,Croatia,HRV,2006,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,84.65945435
+930,Croatia,HRV,2005,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,84.98887634
+931,Croatia,HRV,2004,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,79.81884003
+932,Croatia,HRV,2003,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,81.33018494
+933,Croatia,HRV,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,79.01168823
+934,Croatia,HRV,2001,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,82.19972992
+935,Croatia,HRV,2000,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,85.02520752
+936,Croatia,HRV,2019,Refugee population by country or territory of asylum,SM.POP.REFG,916
+937,Croatia,HRV,2018,Refugee population by country or territory of asylum,SM.POP.REFG,787
+938,Croatia,HRV,2017,Refugee population by country or territory of asylum,SM.POP.REFG,508
+939,Croatia,HRV,2016,Refugee population by country or territory of asylum,SM.POP.REFG,300
+940,Croatia,HRV,2015,Refugee population by country or territory of asylum,SM.POP.REFG,518
+941,Croatia,HRV,2014,Refugee population by country or territory of asylum,SM.POP.REFG,724
+942,Croatia,HRV,2013,Refugee population by country or territory of asylum,SM.POP.REFG,679
+943,Croatia,HRV,2012,Refugee population by country or territory of asylum,SM.POP.REFG,722
+944,Croatia,HRV,2011,Refugee population by country or territory of asylum,SM.POP.REFG,818
+945,Croatia,HRV,2010,Refugee population by country or territory of asylum,SM.POP.REFG,933
+946,Croatia,HRV,2009,Refugee population by country or territory of asylum,SM.POP.REFG,1238
+947,Croatia,HRV,2008,Refugee population by country or territory of asylum,SM.POP.REFG,1591
+948,Croatia,HRV,2007,Refugee population by country or territory of asylum,SM.POP.REFG,1641
+949,Croatia,HRV,2006,Refugee population by country or territory of asylum,SM.POP.REFG,2442
+950,Croatia,HRV,2005,Refugee population by country or territory of asylum,SM.POP.REFG,2927
+951,Croatia,HRV,2004,Refugee population by country or territory of asylum,SM.POP.REFG,3662
+952,Croatia,HRV,2003,Refugee population by country or territory of asylum,SM.POP.REFG,4385
+953,Croatia,HRV,2002,Refugee population by country or territory of asylum,SM.POP.REFG,8392
+954,Croatia,HRV,2001,Refugee population by country or territory of asylum,SM.POP.REFG,21875
+955,Croatia,HRV,2000,Refugee population by country or territory of asylum,SM.POP.REFG,22437
+956,Croatia,HRV,1999,Refugee population by country or territory of asylum,SM.POP.REFG,28374
+957,Croatia,HRV,1998,Refugee population by country or territory of asylum,SM.POP.REFG,29027
+958,Croatia,HRV,1997,Refugee population by country or territory of asylum,SM.POP.REFG,68863
+959,Croatia,HRV,1996,Refugee population by country or territory of asylum,SM.POP.REFG,165395
+960,Croatia,HRV,1995,Refugee population by country or territory of asylum,SM.POP.REFG,198647
+961,Croatia,HRV,1994,Refugee population by country or territory of asylum,SM.POP.REFG,183600
+962,Croatia,HRV,1993,Refugee population by country or territory of asylum,SM.POP.REFG,287000
+963,Croatia,HRV,1992,Refugee population by country or territory of asylum,SM.POP.REFG,403000
+964,Croatia,HRV,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+965,Croatia,HRV,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+966,Croatia,HRV,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+967,Croatia,HRV,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+968,Croatia,HRV,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+969,Croatia,HRV,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+970,Croatia,HRV,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+971,Croatia,HRV,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+972,Croatia,HRV,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+973,Croatia,HRV,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+974,Croatia,HRV,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+975,Croatia,HRV,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+976,Croatia,HRV,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+977,Croatia,HRV,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+978,Croatia,HRV,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.1
+979,Croatia,HRV,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.7
+980,Croatia,HRV,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,4.7
+981,Croatia,HRV,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,6.9
+982,Croatia,HRV,2019,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.9
+983,Croatia,HRV,2018,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+984,Croatia,HRV,2017,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.9
+985,Croatia,HRV,2016,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+986,Croatia,HRV,2015,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.9
+987,Croatia,HRV,2014,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.3
+988,Croatia,HRV,2013,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+989,Croatia,HRV,2012,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+990,Croatia,HRV,2011,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.6
+991,Croatia,HRV,2010,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+992,Croatia,HRV,2009,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.1
+993,Croatia,HRV,2008,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+994,Croatia,HRV,2007,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+995,Croatia,HRV,2006,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.33
+996,Croatia,HRV,2005,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.563
+997,Croatia,HRV,2004,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+998,Croatia,HRV,2003,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.9
+999,Croatia,HRV,2002,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+1000,Croatia,HRV,2001,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.2
+1001,Croatia,HRV,2000,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1002,Croatia,HRV,1999,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10
+1003,Croatia,HRV,1998,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.4
+1004,Croatia,HRV,1997,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.2
+1005,Croatia,HRV,1996,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.8
+1006,Croatia,HRV,1995,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.9
+1007,Croatia,HRV,1994,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.4
+1008,Croatia,HRV,1993,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.6
+1009,Croatia,HRV,1992,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1010,Croatia,HRV,1991,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.1
+1011,Croatia,HRV,1990,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.6
+1012,Croatia,HRV,1989,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.7
+1013,Croatia,HRV,1988,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.3
+1014,Croatia,HRV,1987,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.5
+1015,Croatia,HRV,1986,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.8
+1016,Croatia,HRV,1985,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.3
+1017,Croatia,HRV,1984,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.9
+1018,Croatia,HRV,1983,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.1
+1019,Croatia,HRV,1982,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.4
+1020,Croatia,HRV,1981,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.6
+1021,Croatia,HRV,1980,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.8
+1022,Croatia,HRV,1979,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1023,Croatia,HRV,1978,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15
+1024,Croatia,HRV,1977,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.9
+1025,Croatia,HRV,1976,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.8
+1026,Croatia,HRV,1975,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.9
+1027,Croatia,HRV,1974,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15
+1028,Croatia,HRV,1973,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1029,Croatia,HRV,1972,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.8
+1030,Croatia,HRV,1971,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.6
+1031,Croatia,HRV,1970,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.8
+1032,Croatia,HRV,1969,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.5
+1033,Croatia,HRV,1968,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15
+1034,Croatia,HRV,1967,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.5
+1035,Croatia,HRV,1966,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.5
+1036,Croatia,HRV,1965,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.6
+1037,Croatia,HRV,1964,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.2
+1038,Croatia,HRV,1963,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.5
+1039,Croatia,HRV,1962,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.2
+1040,Croatia,HRV,1961,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.8
+1041,Croatia,HRV,1960,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.4
+1042,Croatia,HRV,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.4243902439025
+1043,Croatia,HRV,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.0707317073171
+1044,Croatia,HRV,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.8268292682927
+1045,Croatia,HRV,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.0219512195122
+1046,Croatia,HRV,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.2756097560976
+1047,Croatia,HRV,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.4780487804878
+1048,Croatia,HRV,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.1268292682927
+1049,Croatia,HRV,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.9243902439024
+1050,Croatia,HRV,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.7756097560976
+1051,Croatia,HRV,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.4756097560976
+1052,Croatia,HRV,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.1682926829268
+1053,Croatia,HRV,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.9121951219512
+1054,Croatia,HRV,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.7056097560976
+1055,Croatia,HRV,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.8368292682927
+1056,Croatia,HRV,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.2446341463415
+1057,Croatia,HRV,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.520243902439
+1058,Croatia,HRV,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.6139024390244
+1059,Croatia,HRV,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.7173170731707
+1060,Croatia,HRV,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.5129268292683
+1061,Croatia,HRV,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.8078048780488
+1062,Croatia,HRV,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.6419512195122
+1063,Croatia,HRV,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.3170731707317
+1064,Croatia,HRV,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.4951219512195
+1065,Croatia,HRV,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.3653658536585
+1066,Croatia,HRV,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.0843902439024
+1067,Croatia,HRV,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.8034146341463
+1068,Croatia,HRV,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.5224390243903
+1069,Croatia,HRV,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.2414634146342
+1070,Croatia,HRV,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.1853658536586
+1071,Croatia,HRV,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.1704878048781
+1072,Croatia,HRV,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.8446341463415
+1073,Croatia,HRV,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.4882926829268
+1074,Croatia,HRV,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.470243902439
+1075,Croatia,HRV,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.4190243902439
+1076,Croatia,HRV,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8860975609756
+1077,Croatia,HRV,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2185365853659
+1078,Croatia,HRV,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2748780487805
+1079,Croatia,HRV,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4826829268293
+1080,Croatia,HRV,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3443902439025
+1081,Croatia,HRV,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1753658536586
+1082,Croatia,HRV,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4273170731707
+1083,Croatia,HRV,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5387804878049
+1084,Croatia,HRV,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7443902439024
+1085,Croatia,HRV,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4553658536585
+1086,Croatia,HRV,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0019512195122
+1087,Croatia,HRV,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.2527073170732
+1088,Croatia,HRV,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.029243902439
+1089,Croatia,HRV,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.7787317073171
+1090,Croatia,HRV,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.5016341463415
+1091,Croatia,HRV,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.2004878048781
+1092,Croatia,HRV,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.8813658536585
+1093,Croatia,HRV,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.5489268292683
+1094,Croatia,HRV,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.2087317073171
+1095,Croatia,HRV,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.8627804878049
+1096,Croatia,HRV,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.5120487804878
+1097,Croatia,HRV,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.1544390243903
+1098,Croatia,HRV,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.7878780487805
+1099,Croatia,HRV,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.408243902439
+1100,Croatia,HRV,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.015512195122
+1101,Croatia,HRV,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.6086585365854
+1102,Croatia,HRV,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,20.8601352345977
+1103,Croatia,HRV,2018,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,20.445433012423
+1104,Croatia,HRV,2017,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,20.0223913942074
+1105,Croatia,HRV,2016,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.6156823572293
+1106,Croatia,HRV,2015,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.2458835297247
+1107,Croatia,HRV,2014,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.9064676588857
+1108,Croatia,HRV,2013,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.5614359825263
+1109,Croatia,HRV,2012,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.2012152114189
+1110,Croatia,HRV,2011,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.8546562460078
+1111,Croatia,HRV,2010,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.5602362664085
+1112,Croatia,HRV,2009,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.4266296636187
+1113,Croatia,HRV,2008,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.407497433739
+1114,Croatia,HRV,2007,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.4403646044655
+1115,Croatia,HRV,2006,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.4125561656429
+1116,Croatia,HRV,2005,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.2475330386212
+1117,Croatia,HRV,2004,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.0888951846788
+1118,Croatia,HRV,2003,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.7934981356355
+1119,Croatia,HRV,2002,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.3977697797374
+1120,Croatia,HRV,2001,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.9739795715817
+1121,Croatia,HRV,2000,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.5657029296026
+1122,Croatia,HRV,1999,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.2270973425631
+1123,Croatia,HRV,1998,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.8785582604448
+1124,Croatia,HRV,1997,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.5127935502618
+1125,Croatia,HRV,1996,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.1174166449539
+1126,Croatia,HRV,1995,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.6853589720597
+1127,Croatia,HRV,1994,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.2551977831609
+1128,Croatia,HRV,1993,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.8284859004866
+1129,Croatia,HRV,1992,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.4072073092349
+1130,Croatia,HRV,1991,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.9900554684524
+1131,Croatia,HRV,1990,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5757057550351
+1132,Croatia,HRV,1989,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3262106986781
+1133,Croatia,HRV,1988,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.0847350116744
+1134,Croatia,HRV,1987,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.8710295238634
+1135,Croatia,HRV,1986,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.7205693266368
+1136,Croatia,HRV,1985,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.6547823135007
+1137,Croatia,HRV,1984,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.7663242519172
+1138,Croatia,HRV,1983,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.9821068722168
+1139,Croatia,HRV,1982,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.2508618717001
+1140,Croatia,HRV,1981,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4811056950257
+1141,Croatia,HRV,1980,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6051090334549
+1142,Croatia,HRV,1979,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.62963641215
+1143,Croatia,HRV,1978,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5501120753107
+1144,Croatia,HRV,1977,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3841566474487
+1145,Croatia,HRV,1976,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.1717265347263
+1146,Croatia,HRV,1975,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.9356708385296
+1147,Croatia,HRV,1974,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.6713690619939
+1148,Croatia,HRV,1973,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.3691219452598
+1149,Croatia,HRV,1972,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.037454074865
+1150,Croatia,HRV,1971,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.69037907639764
+1151,Croatia,HRV,1970,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.33830393484349
+1152,Croatia,HRV,1969,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.04017740637579
+1153,Croatia,HRV,1968,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.75593286524271
+1154,Croatia,HRV,1967,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.48078146652637
+1155,Croatia,HRV,1966,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.20381739885116
+1156,Croatia,HRV,1965,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.91681903327918
+1157,Croatia,HRV,1964,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.70517827227393
+1158,Croatia,HRV,1963,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.49327948351285
+1159,Croatia,HRV,1962,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.28605800272427
+1160,Croatia,HRV,1961,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.09628862312235
+1161,Croatia,HRV,1960,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,6.93072494982272
+1162,Croatia,HRV,2019,Population growth (annual %),SP.POP.GROW,-0.554146739042888
+1163,Croatia,HRV,2018,Population growth (annual %),SP.POP.GROW,-0.893486927711056
+1164,Croatia,HRV,2017,Population growth (annual %),SP.POP.GROW,-1.20061016480925
+1165,Croatia,HRV,2016,Population growth (annual %),SP.POP.GROW,-0.69838345731273
+1166,Croatia,HRV,2015,Population growth (annual %),SP.POP.GROW,-0.824099163913538
+1167,Croatia,HRV,2014,Population growth (annual %),SP.POP.GROW,-0.407343184777633
+1168,Croatia,HRV,2013,Population growth (annual %),SP.POP.GROW,-0.278509062850129
+1169,Croatia,HRV,2012,Population growth (annual %),SP.POP.GROW,-0.305655944795909
+1170,Croatia,HRV,2011,Population growth (annual %),SP.POP.GROW,-0.345264228485821
+1171,Croatia,HRV,2010,Population growth (annual %),SP.POP.GROW,-0.226821270818422
+1172,Croatia,HRV,2009,Population growth (annual %),SP.POP.GROW,-0.10502751669287
+1173,Croatia,HRV,2008,Population growth (annual %),SP.POP.GROW,-0.0118794578559279
+1174,Croatia,HRV,2007,Population growth (annual %),SP.POP.GROW,-0.0218526602655707
+1175,Croatia,HRV,2006,Population growth (annual %),SP.POP.GROW,0.0235231237565747
+1176,Croatia,HRV,2005,Population growth (annual %),SP.POP.GROW,0.128732789322745
+1177,Croatia,HRV,2004,Population growth (annual %),SP.POP.GROW,0.0279042785156658
+1178,Croatia,HRV,2003,Population growth (annual %),SP.POP.GROW,0.0284699231131846
+1179,Croatia,HRV,2002,Population growth (annual %),SP.POP.GROW,0.0588712912047699
+1180,Croatia,HRV,2001,Population growth (annual %),SP.POP.GROW,-3.8476707266781
+1181,Croatia,HRV,2000,Population growth (annual %),SP.POP.GROW,-0.986434858645568
+1182,Croatia,HRV,1999,Population growth (annual %),SP.POP.GROW,-0.432031162225091
+1183,Croatia,HRV,1998,Population growth (annual %),SP.POP.GROW,-0.061431194309139
+1184,Croatia,HRV,1997,Population growth (annual %),SP.POP.GROW,-0.487835515074698
+1185,Croatia,HRV,1996,Population growth (annual %),SP.POP.GROW,-1.37154005901268
+1186,Croatia,HRV,1995,Population growth (annual %),SP.POP.GROW,-0.690119513541903
+1187,Croatia,HRV,1994,Population growth (annual %),SP.POP.GROW,1.11454431106051
+1188,Croatia,HRV,1993,Population growth (annual %),SP.POP.GROW,0.537147004460399
+1189,Croatia,HRV,1992,Population growth (annual %),SP.POP.GROW,-2.44385513691215
+1190,Croatia,HRV,1991,Population growth (annual %),SP.POP.GROW,-1.86657353088556
+1191,Croatia,HRV,1990,Population growth (annual %),SP.POP.GROW,0.211805086145315
+1192,Croatia,HRV,1989,Population growth (annual %),SP.POP.GROW,0.253148820294905
+1193,Croatia,HRV,1988,Population growth (annual %),SP.POP.GROW,0.325689138134816
+1194,Croatia,HRV,1987,Population growth (annual %),SP.POP.GROW,0.386822817922415
+1195,Croatia,HRV,1986,Population growth (annual %),SP.POP.GROW,0.425115597334071
+1196,Croatia,HRV,1985,Population growth (annual %),SP.POP.GROW,0.450494712765103
+1197,Croatia,HRV,1984,Population growth (annual %),SP.POP.GROW,0.471830569469422
+1198,Croatia,HRV,1983,Population growth (annual %),SP.POP.GROW,0.516977874983413
+1199,Croatia,HRV,1982,Population growth (annual %),SP.POP.GROW,0.491578573238622
+1200,Croatia,HRV,1981,Population growth (annual %),SP.POP.GROW,0.254622426666637
+1201,Croatia,HRV,1980,Population growth (annual %),SP.POP.GROW,0.108846981129012
+1202,Croatia,HRV,1979,Population growth (annual %),SP.POP.GROW,0.298457162326635
+1203,Croatia,HRV,1978,Population growth (annual %),SP.POP.GROW,0.470732947991721
+1204,Croatia,HRV,1977,Population growth (annual %),SP.POP.GROW,0.519752409818
+1205,Croatia,HRV,1976,Population growth (annual %),SP.POP.GROW,0.527232826556227
+1206,Croatia,HRV,1975,Population growth (annual %),SP.POP.GROW,0.475900351929317
+1207,Croatia,HRV,1974,Population growth (annual %),SP.POP.GROW,0.457525839624875
+1208,Croatia,HRV,1973,Population growth (annual %),SP.POP.GROW,0.439359615379226
+1209,Croatia,HRV,1972,Population growth (annual %),SP.POP.GROW,0.434347668881993
+1210,Croatia,HRV,1971,Population growth (annual %),SP.POP.GROW,0.430213631742067
+1211,Croatia,HRV,1970,Population growth (annual %),SP.POP.GROW,0.471663946773186
+1212,Croatia,HRV,1969,Population growth (annual %),SP.POP.GROW,0.590652659639334
+1213,Croatia,HRV,1968,Population growth (annual %),SP.POP.GROW,0.619120481082276
+1214,Croatia,HRV,1967,Population growth (annual %),SP.POP.GROW,0.647030993696805
+1215,Croatia,HRV,1966,Population growth (annual %),SP.POP.GROW,0.693189535270421
+1216,Croatia,HRV,1965,Population growth (annual %),SP.POP.GROW,0.657318059279203
+1217,Croatia,HRV,1964,Population growth (annual %),SP.POP.GROW,0.641644859454767
+1218,Croatia,HRV,1963,Population growth (annual %),SP.POP.GROW,0.687764980815768
+1219,Croatia,HRV,1962,Population growth (annual %),SP.POP.GROW,0.703493717452063
+1220,Croatia,HRV,1961,Population growth (annual %),SP.POP.GROW,0.652691769096606
+1221,Croatia,HRV,2019,"Population, total",SP.POP.TOTL,4065253
+1222,Croatia,HRV,2018,"Population, total",SP.POP.TOTL,4087843
+1223,Croatia,HRV,2017,"Population, total",SP.POP.TOTL,4124531
+1224,Croatia,HRV,2016,"Population, total",SP.POP.TOTL,4174349
+1225,Croatia,HRV,2015,"Population, total",SP.POP.TOTL,4203604
+1226,Croatia,HRV,2014,"Population, total",SP.POP.TOTL,4238389
+1227,Croatia,HRV,2013,"Population, total",SP.POP.TOTL,4255689
+1228,Croatia,HRV,2012,"Population, total",SP.POP.TOTL,4267558
+1229,Croatia,HRV,2011,"Population, total",SP.POP.TOTL,4280622
+1230,Croatia,HRV,2010,"Population, total",SP.POP.TOTL,4295427
+1231,Croatia,HRV,2009,"Population, total",SP.POP.TOTL,4305181
+1232,Croatia,HRV,2008,"Population, total",SP.POP.TOTL,4309705
+1233,Croatia,HRV,2007,"Population, total",SP.POP.TOTL,4310217
+1234,Croatia,HRV,2006,"Population, total",SP.POP.TOTL,4311159
+1235,Croatia,HRV,2005,"Population, total",SP.POP.TOTL,4310145
+1236,Croatia,HRV,2004,"Population, total",SP.POP.TOTL,4304600
+1237,Croatia,HRV,2003,"Population, total",SP.POP.TOTL,4303399
+1238,Croatia,HRV,2002,"Population, total",SP.POP.TOTL,4302174
+1239,Croatia,HRV,2001,"Population, total",SP.POP.TOTL,4299642
+1240,Croatia,HRV,2000,"Population, total",SP.POP.TOTL,4468302
+1241,Croatia,HRV,1999,"Population, total",SP.POP.TOTL,4512597
+1242,Croatia,HRV,1998,"Population, total",SP.POP.TOTL,4532135
+1243,Croatia,HRV,1997,"Population, total",SP.POP.TOTL,4534920
+1244,Croatia,HRV,1996,"Population, total",SP.POP.TOTL,4557097
+1245,Croatia,HRV,1995,"Population, total",SP.POP.TOTL,4620030
+1246,Croatia,HRV,1994,"Population, total",SP.POP.TOTL,4652024
+1247,Croatia,HRV,1993,"Population, total",SP.POP.TOTL,4600463
+1248,Croatia,HRV,1992,"Population, total",SP.POP.TOTL,4575818
+1249,Croatia,HRV,1991,"Population, total",SP.POP.TOTL,4689022
+1250,Croatia,HRV,1990,"Population, total",SP.POP.TOTL,4777368
+1251,Croatia,HRV,1989,"Population, total",SP.POP.TOTL,4767260
+1252,Croatia,HRV,1988,"Population, total",SP.POP.TOTL,4755207
+1253,Croatia,HRV,1987,"Population, total",SP.POP.TOTL,4739745
+1254,Croatia,HRV,1986,"Population, total",SP.POP.TOTL,4721446
+1255,Croatia,HRV,1985,"Population, total",SP.POP.TOTL,4701417
+1256,Croatia,HRV,1984,"Population, total",SP.POP.TOTL,4680285
+1257,Croatia,HRV,1983,"Population, total",SP.POP.TOTL,4658254
+1258,Croatia,HRV,1982,"Population, total",SP.POP.TOTL,4634234
+1259,Croatia,HRV,1981,"Population, total",SP.POP.TOTL,4611509
+1260,Croatia,HRV,1980,"Population, total",SP.POP.TOTL,4599782
+1261,Croatia,HRV,1979,"Population, total",SP.POP.TOTL,4594778
+1262,Croatia,HRV,1978,"Population, total",SP.POP.TOTL,4581085
+1263,Croatia,HRV,1977,"Population, total",SP.POP.TOTL,4559571
+1264,Croatia,HRV,1976,"Population, total",SP.POP.TOTL,4535934
+1265,Croatia,HRV,1975,"Population, total",SP.POP.TOTL,4512082
+1266,Croatia,HRV,1974,"Population, total",SP.POP.TOTL,4490660
+1267,Croatia,HRV,1973,"Population, total",SP.POP.TOTL,4470161
+1268,Croatia,HRV,1972,"Population, total",SP.POP.TOTL,4450564
+1269,Croatia,HRV,1971,"Population, total",SP.POP.TOTL,4431275
+1270,Croatia,HRV,1970,"Population, total",SP.POP.TOTL,4412252
+1271,Croatia,HRV,1969,"Population, total",SP.POP.TOTL,4391490
+1272,Croatia,HRV,1968,"Population, total",SP.POP.TOTL,4365628
+1273,Croatia,HRV,1967,"Population, total",SP.POP.TOTL,4338683
+1274,Croatia,HRV,1966,"Population, total",SP.POP.TOTL,4310701
+1275,Croatia,HRV,1965,"Population, total",SP.POP.TOTL,4280923
+1276,Croatia,HRV,1964,"Population, total",SP.POP.TOTL,4252876
+1277,Croatia,HRV,1963,"Population, total",SP.POP.TOTL,4225675
+1278,Croatia,HRV,1962,"Population, total",SP.POP.TOTL,4196712
+1279,Croatia,HRV,1961,"Population, total",SP.POP.TOTL,4167292
+1280,Croatia,HRV,1960,"Population, total",SP.POP.TOTL,4140181
+1281,Croatia,HRV,2019,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8191055901764
+1282,Croatia,HRV,2018,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8526217475815
+1283,Croatia,HRV,2017,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8830834596628
+1284,Croatia,HRV,2016,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.9048921366218
+1285,Croatia,HRV,2015,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.9143494467353
+1286,Croatia,HRV,2014,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.910319730759
+1287,Croatia,HRV,2013,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8944168874616
+1288,Croatia,HRV,2012,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8722521566649
+1289,Croatia,HRV,2011,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8510128914298
+1290,Croatia,HRV,2010,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8362409179137
+1291,Croatia,HRV,2009,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8287658816183
+1292,Croatia,HRV,2008,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8268112747232
+1293,Croatia,HRV,2007,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8296581237921
+1294,Croatia,HRV,2006,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8359414859858
+1295,Croatia,HRV,2005,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8436907986312
+1296,Croatia,HRV,2004,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8545798616156
+1297,Croatia,HRV,2003,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8674003038113
+1298,Croatia,HRV,2002,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.877200110469
+1299,Croatia,HRV,2001,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8763868021242
+1300,Croatia,HRV,2000,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8606392168154
+1301,Croatia,HRV,1999,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.828138386508
+1302,Croatia,HRV,1998,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7818271352962
+1303,Croatia,HRV,1997,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7279898861642
+1304,Croatia,HRV,1996,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6748388157262
+1305,Croatia,HRV,1995,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6285328053443
+1306,Croatia,HRV,1994,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5894843058955
+1307,Croatia,HRV,1993,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5569967836336
+1308,Croatia,HRV,1992,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5328133101592
+1309,Croatia,HRV,1991,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.518707026025
+1310,Croatia,HRV,1990,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5151673760617
+1311,Croatia,HRV,1989,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.524098607108
+1312,Croatia,HRV,1988,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5440695278531
+1313,Croatia,HRV,1987,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5694111623962
+1314,Croatia,HRV,1986,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5919529822366
+1315,Croatia,HRV,1985,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.606054379837
+1316,Croatia,HRV,1984,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6093581146728
+1317,Croatia,HRV,1983,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.603417065325
+1318,Croatia,HRV,1982,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5910133973278
+1319,Croatia,HRV,1981,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5764418728443
+1320,Croatia,HRV,1980,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5631045263015
+1321,Croatia,HRV,1979,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5515089611539
+1322,Croatia,HRV,1978,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5410348084795
+1323,Croatia,HRV,1977,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.533013902621
+1324,Croatia,HRV,1976,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5292154823454
+1325,Croatia,HRV,1975,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5307592685949
+1326,Croatia,HRV,1974,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5386586265696
+1327,Croatia,HRV,1973,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5528411732827
+1328,Croatia,HRV,1972,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5714579191443
+1329,Croatia,HRV,1971,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5916050681026
+1330,Croatia,HRV,1970,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6113585386075
+1331,Croatia,HRV,1969,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6294399817002
+1332,Croatia,HRV,1968,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6468610171963
+1333,Croatia,HRV,1967,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6660573278748
+1334,Croatia,HRV,1966,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6913490041066
+1335,Croatia,HRV,1965,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7252077188625
+1336,Croatia,HRV,1964,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7693300636401
+1337,Croatia,HRV,1963,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8221170485768
+1338,Croatia,HRV,1962,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8786890598016
+1339,Croatia,HRV,1961,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.9321596692767
+1340,Croatia,HRV,1960,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.9778106448895
+1341,Croatia,HRV,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,27.95854736
+1342,Croatia,HRV,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,27.14540571
+1343,Croatia,HRV,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.19934174
+1344,Croatia,HRV,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,24.80146614
+1345,Croatia,HRV,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,23.29894535
+1346,Croatia,HRV,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,23.13434905
+1347,Croatia,HRV,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,22.32428673
+1348,Croatia,HRV,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,21.39776781
+1349,Croatia,HRV,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,20.70054501
+1350,Croatia,HRV,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,19.3583655
+1351,Croatia,HRV,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,16.52408147
+1352,Croatia,HRV,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,12.13032746
+1353,Croatia,HRV,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,8.872356803
+1354,Croatia,HRV,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,5.760989408
+1355,Croatia,HRV,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.654144829
+1356,Croatia,HRV,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.597643823
+1357,Croatia,HRV,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.077468247
+1358,Croatia,HRV,2019,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.6500015258789
+1359,Croatia,HRV,2018,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.9300003051758
+1360,Croatia,HRV,2017,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.629997253418
+1361,Croatia,HRV,2016,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.0899963378906
+1362,Croatia,HRV,2015,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.3300018310547
+1363,Croatia,HRV,2014,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.379997253418
+1364,Croatia,HRV,2013,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,81.9199981689453
+1365,Croatia,HRV,2012,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.25
+1366,Croatia,HRV,2011,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,78.2200012207031
+1367,Croatia,HRV,2010,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,78.1600036621094
+1368,Croatia,HRV,2009,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.1399993896484
+1369,Croatia,HRV,2008,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.129997253418
+1370,Croatia,HRV,2007,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.2200012207031
+1371,Croatia,HRV,2006,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,77.0199966430664
+1372,Croatia,HRV,2005,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,75.1100006103516
+1373,Croatia,HRV,2004,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,75.879997253418
+1374,Croatia,HRV,2003,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,75.5599975585938
+1375,Croatia,HRV,2002,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,75.8899993896484
+1376,Croatia,HRV,2001,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,75.75
+1377,Croatia,HRV,2000,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,76.1399993896484
+1378,Croatia,HRV,1999,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,75.1600036621094
+1379,Croatia,HRV,1998,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,75.3399963378906
+1380,Croatia,HRV,1997,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,74.0800018310547
+1381,Croatia,HRV,1996,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,71.4400024414063
+1382,Croatia,HRV,1995,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,71.0800018310547
+1383,Croatia,HRV,1994,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,70.629997253418
+1384,Croatia,HRV,1993,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,70.4599990844727
+1385,Croatia,HRV,1992,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,71.1100006103516
+1386,Croatia,HRV,1991,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,71.6699981689453
+1387,Croatia,HRV,2019,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,26.0900001525879
+1388,Croatia,HRV,2018,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.5
+1389,Croatia,HRV,2017,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.25
+1390,Croatia,HRV,2016,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.1900005340576
+1391,Croatia,HRV,2015,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.8199996948242
+1392,Croatia,HRV,2014,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.9699993133545
+1393,Croatia,HRV,2013,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.4400005340576
+1394,Croatia,HRV,2012,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.8700008392334
+1395,Croatia,HRV,2011,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.1599998474121
+1396,Croatia,HRV,2010,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.7199993133545
+1397,Croatia,HRV,2009,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.7299995422363
+1398,Croatia,HRV,2008,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.1299991607666
+1399,Croatia,HRV,2007,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.2299995422363
+1400,Croatia,HRV,2006,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,16.6700000762939
+1401,Croatia,HRV,2005,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.2999992370605
+1402,Croatia,HRV,2004,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.0900001525879
+1403,Croatia,HRV,2003,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.5500001907349
+1404,Croatia,HRV,2002,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.1199998855591
+1405,Croatia,HRV,2019,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.7799997329712
+1406,Croatia,HRV,2018,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.5699996948242
+1407,Croatia,HRV,2017,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,15.3500003814697
+1408,Croatia,HRV,2016,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,16.8999996185303
+1409,Croatia,HRV,2015,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,18.1200008392334
+1410,Croatia,HRV,2014,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,19.3299999237061
+1411,Croatia,HRV,2013,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,19.6299991607666
+1412,Croatia,HRV,2012,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,16.5900001525879
+1413,Croatia,HRV,2011,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,16.2199993133545
+1414,Croatia,HRV,2010,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,15.6700000762939
+1415,Croatia,HRV,2009,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.4300003051758
+1416,Croatia,HRV,2008,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.6199998855591
+1417,Croatia,HRV,2007,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.8699998855591
+1418,Croatia,HRV,2006,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,14.1800003051758
+1419,Croatia,HRV,2005,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,16.7199993133545
+1420,Croatia,HRV,2018,Gini index (World Bank estimate),SI.POV.GINI,29.7
+1421,Croatia,HRV,2017,Gini index (World Bank estimate),SI.POV.GINI,30.4
+1422,Croatia,HRV,2016,Gini index (World Bank estimate),SI.POV.GINI,30.9
+1423,Croatia,HRV,2015,Gini index (World Bank estimate),SI.POV.GINI,31.1
+1424,Croatia,HRV,2014,Gini index (World Bank estimate),SI.POV.GINI,32.1
+1425,Croatia,HRV,2013,Gini index (World Bank estimate),SI.POV.GINI,32
+1426,Croatia,HRV,2012,Gini index (World Bank estimate),SI.POV.GINI,32.5
+1427,Croatia,HRV,2011,Gini index (World Bank estimate),SI.POV.GINI,32.3
+1428,Croatia,HRV,2010,Gini index (World Bank estimate),SI.POV.GINI,32.4
+1429,Croatia,HRV,2009,Gini index (World Bank estimate),SI.POV.GINI,32.6
+1430,Croatia,HRV,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.4
+1431,Croatia,HRV,2017,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.6
+1432,Croatia,HRV,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.1
+1433,Croatia,HRV,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,5
+1434,Croatia,HRV,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,5.8
+1435,Croatia,HRV,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,6.7
+1436,Croatia,HRV,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,6.8
+1437,Croatia,HRV,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,6.9
+1438,Croatia,HRV,2010,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,5.8
+1439,Croatia,HRV,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.5
+1440,Croatia,HRV,2020,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1441,Croatia,HRV,2019,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1442,Croatia,HRV,2018,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1443,Croatia,HRV,2017,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1444,Croatia,HRV,2016,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1445,Croatia,HRV,2015,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1446,Croatia,HRV,2014,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1447,Croatia,HRV,2013,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1448,Croatia,HRV,2012,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1449,Croatia,HRV,2011,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1450,Croatia,HRV,2010,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1451,Croatia,HRV,2009,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1452,Croatia,HRV,2008,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1453,Croatia,HRV,2007,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1454,Croatia,HRV,2006,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1455,Croatia,HRV,2005,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1456,Croatia,HRV,2004,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1457,Croatia,HRV,2003,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1458,Croatia,HRV,2002,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1459,Croatia,HRV,2001,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1460,Croatia,HRV,2000,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1461,Croatia,HRV,1999,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1462,Croatia,HRV,1998,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1463,Croatia,HRV,1997,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1464,Croatia,HRV,1996,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1465,Croatia,HRV,1995,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1466,Croatia,HRV,1994,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1467,Croatia,HRV,1993,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1468,Croatia,HRV,1992,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1469,Croatia,HRV,1991,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1470,Croatia,HRV,1990,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1471,Croatia,HRV,1989,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1472,Croatia,HRV,1988,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1473,Croatia,HRV,1987,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1474,Croatia,HRV,1986,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1475,Croatia,HRV,1985,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1476,Croatia,HRV,1984,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1477,Croatia,HRV,1983,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1478,Croatia,HRV,1982,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1479,Croatia,HRV,1981,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1480,Croatia,HRV,1980,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1481,Croatia,HRV,1979,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1482,Croatia,HRV,1978,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1483,Croatia,HRV,1977,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1484,Croatia,HRV,1976,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1485,Croatia,HRV,1975,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1486,Croatia,HRV,1974,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1487,Croatia,HRV,1973,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1488,Croatia,HRV,1972,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1489,Croatia,HRV,1971,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1490,Croatia,HRV,1970,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1491,Croatia,HRV,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1492,Croatia,HRV,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1493,Croatia,HRV,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1494,Croatia,HRV,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1495,Croatia,HRV,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1496,Croatia,HRV,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1497,Croatia,HRV,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1498,Croatia,HRV,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1499,Croatia,HRV,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1500,Croatia,HRV,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1501,Croatia,HRV,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1502,Croatia,HRV,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1503,Croatia,HRV,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1504,Croatia,HRV,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1505,Croatia,HRV,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1506,Croatia,HRV,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1507,Croatia,HRV,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1508,Croatia,HRV,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1509,Croatia,HRV,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1510,Croatia,HRV,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1511,Croatia,HRV,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1512,Croatia,HRV,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1513,Croatia,HRV,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1514,Croatia,HRV,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1515,Croatia,HRV,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1516,Croatia,HRV,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1517,Croatia,HRV,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1518,Croatia,HRV,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1519,Croatia,HRV,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1520,Croatia,HRV,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1521,Croatia,HRV,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1522,Croatia,HRV,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1523,Croatia,HRV,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1524,Croatia,HRV,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1525,Croatia,HRV,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1526,Croatia,HRV,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1527,Croatia,HRV,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1528,Croatia,HRV,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1529,Croatia,HRV,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1530,Croatia,HRV,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1531,Croatia,HRV,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1532,Croatia,HRV,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1533,Croatia,HRV,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1534,Croatia,HRV,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1535,Croatia,HRV,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1536,Croatia,HRV,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1537,Croatia,HRV,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1538,Croatia,HRV,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1539,Croatia,HRV,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1540,Croatia,HRV,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1541,Croatia,HRV,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1542,Croatia,HRV,2018,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.97489
+1543,Croatia,HRV,2017,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.8645
+1544,Croatia,HRV,2016,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.8627
+1545,Croatia,HRV,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.84027
+1546,Croatia,HRV,2014,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.78252
+1547,Croatia,HRV,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.81016
+1548,Croatia,HRV,2012,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.75029
+1549,Croatia,HRV,2011,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.75041
+1550,Croatia,HRV,2010,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.7422
+1551,Croatia,HRV,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.84323
+1552,Croatia,HRV,2008,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.88397
+1553,Croatia,HRV,2007,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.79187
+1554,Croatia,HRV,2006,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.74081
+1555,Croatia,HRV,2005,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.85689
+1556,Croatia,HRV,2004,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.03207
+1557,Croatia,HRV,2003,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.95034
+1558,Croatia,HRV,2002,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.94846
+1559,Croatia,HRV,2001,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.91644
+1560,Croatia,HRV,2000,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.0441
+1561,Croatia,HRV,1999,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.8404
+1562,Croatia,HRV,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.242
+1563,Croatia,HRV,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.947
+1564,Croatia,HRV,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.667
+1565,Croatia,HRV,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.403
+1566,Croatia,HRV,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.155
+1567,Croatia,HRV,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.923
+1568,Croatia,HRV,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.706
+1569,Croatia,HRV,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.506
+1570,Croatia,HRV,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.322
+1571,Croatia,HRV,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.155
+1572,Croatia,HRV,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.987
+1573,Croatia,HRV,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.819
+1574,Croatia,HRV,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.651
+1575,Croatia,HRV,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.483
+1576,Croatia,HRV,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.315
+1577,Croatia,HRV,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.147
+1578,Croatia,HRV,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.979
+1579,Croatia,HRV,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.81
+1580,Croatia,HRV,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.642
+1581,Croatia,HRV,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.428
+1582,Croatia,HRV,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.198
+1583,Croatia,HRV,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.968
+1584,Croatia,HRV,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.739
+1585,Croatia,HRV,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.509
+1586,Croatia,HRV,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.279
+1587,Croatia,HRV,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.048
+1588,Croatia,HRV,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.818
+1589,Croatia,HRV,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.588
+1590,Croatia,HRV,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.357
+1591,Croatia,HRV,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.037
+1592,Croatia,HRV,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.687
+1593,Croatia,HRV,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.338
+1594,Croatia,HRV,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.987
+1595,Croatia,HRV,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.637
+1596,Croatia,HRV,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.287
+1597,Croatia,HRV,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.937
+1598,Croatia,HRV,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.587
+1599,Croatia,HRV,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.237
+1600,Croatia,HRV,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.887
+1601,Croatia,HRV,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.285
+1602,Croatia,HRV,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.597
+1603,Croatia,HRV,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.911
+1604,Croatia,HRV,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.227
+1605,Croatia,HRV,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.545
+1606,Croatia,HRV,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.864
+1607,Croatia,HRV,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.186
+1608,Croatia,HRV,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.511
+1609,Croatia,HRV,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.839
+1610,Croatia,HRV,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.168
+1611,Croatia,HRV,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.196
+1612,Croatia,HRV,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.13
+1613,Croatia,HRV,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.076
+1614,Croatia,HRV,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.03
+1615,Croatia,HRV,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.997
+1616,Croatia,HRV,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.977
+1617,Croatia,HRV,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.972
+1618,Croatia,HRV,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.979
+1619,Croatia,HRV,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.001
+1620,Croatia,HRV,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.04
+1621,Croatia,HRV,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.154
+1622,Croatia,HRV,2016,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.5
+1623,Croatia,HRV,2015,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.1
+1624,Croatia,HRV,2014,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.7
+1625,Croatia,HRV,2013,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.3
+1626,Croatia,HRV,2012,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.9
+1627,Croatia,HRV,2011,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.6
+1628,Croatia,HRV,2010,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.2
+1629,Croatia,HRV,2009,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.8
+1630,Croatia,HRV,2008,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.5
+1631,Croatia,HRV,2007,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.1
+1632,Croatia,HRV,2006,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.8
+1633,Croatia,HRV,2005,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.5
+1634,Croatia,HRV,2004,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.2
+1635,Croatia,HRV,2003,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.9
+1636,Croatia,HRV,2002,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.6
+1637,Croatia,HRV,2001,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.3
+1638,Croatia,HRV,2000,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19
+1639,Croatia,HRV,1999,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.7
+1640,Croatia,HRV,1998,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.5
+1641,Croatia,HRV,1997,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.2
+1642,Croatia,HRV,1996,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18
+1643,Croatia,HRV,1995,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.7
+1644,Croatia,HRV,1994,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.5
+1645,Croatia,HRV,1993,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.2
+1646,Croatia,HRV,1992,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17
+1647,Croatia,HRV,1991,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.7
+1648,Croatia,HRV,1990,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.5
+1649,Croatia,HRV,1989,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.2
+1650,Croatia,HRV,1988,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16
+1651,Croatia,HRV,1987,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.7
+1652,Croatia,HRV,1986,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.4
+1653,Croatia,HRV,1985,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.1
+1654,Croatia,HRV,1984,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.8
+1655,Croatia,HRV,1983,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.5
+1656,Croatia,HRV,1982,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.1
+1657,Croatia,HRV,1981,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.8
+1658,Croatia,HRV,1980,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.4
+1659,Croatia,HRV,1979,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13
+1660,Croatia,HRV,1978,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,12.6
+1661,Croatia,HRV,1977,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,12.2
+1662,Croatia,HRV,1976,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,11.9
+1663,Croatia,HRV,1975,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,11.5
+1664,Croatia,HRV,2016,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,24.1
+1665,Croatia,HRV,2015,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,23.5
+1666,Croatia,HRV,2014,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22.9
+1667,Croatia,HRV,2013,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22.3
+1668,Croatia,HRV,2012,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.8
+1669,Croatia,HRV,2011,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.2
+1670,Croatia,HRV,2010,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.6
+1671,Croatia,HRV,2009,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.1
+1672,Croatia,HRV,2008,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.6
+1673,Croatia,HRV,2007,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19
+1674,Croatia,HRV,2006,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.5
+1675,Croatia,HRV,2005,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18
+1676,Croatia,HRV,2004,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.5
+1677,Croatia,HRV,2003,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.1
+1678,Croatia,HRV,2002,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.6
+1679,Croatia,HRV,2001,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.1
+1680,Croatia,HRV,2000,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.7
+1681,Croatia,HRV,1999,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.2
+1682,Croatia,HRV,1998,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.8
+1683,Croatia,HRV,1997,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.4
+1684,Croatia,HRV,1996,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14
+1685,Croatia,HRV,1995,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.6
+1686,Croatia,HRV,1994,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.2
+1687,Croatia,HRV,1993,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.8
+1688,Croatia,HRV,1992,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.4
+1689,Croatia,HRV,1991,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12
+1690,Croatia,HRV,1990,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.7
+1691,Croatia,HRV,1989,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.3
+1692,Croatia,HRV,1988,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.9
+1693,Croatia,HRV,1987,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.5
+1694,Croatia,HRV,1986,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.2
+1695,Croatia,HRV,1985,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.8
+1696,Croatia,HRV,1984,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.4
+1697,Croatia,HRV,1983,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.1
+1698,Croatia,HRV,1982,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.7
+1699,Croatia,HRV,1981,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.3
+1700,Croatia,HRV,1980,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8
+1701,Croatia,HRV,1979,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.6
+1702,Croatia,HRV,1978,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.2
+1703,Croatia,HRV,1977,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,6.9
+1704,Croatia,HRV,1976,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,6.5
+1705,Croatia,HRV,1975,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,6.2

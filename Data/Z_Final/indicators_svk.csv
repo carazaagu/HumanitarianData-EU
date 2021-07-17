@@ -1,0 +1,1776 @@
+,Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+0,Slovak Republic,SVK,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,97.38
+1,Slovak Republic,SVK,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,87.54
+2,Slovak Republic,SVK,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,108.31
+3,Slovak Republic,SVK,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,86.67
+4,Slovak Republic,SVK,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,105.03
+5,Slovak Republic,SVK,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,82.1
+6,Slovak Republic,SVK,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,70.23
+7,Slovak Republic,SVK,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,89.61
+8,Slovak Republic,SVK,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,69.05
+9,Slovak Republic,SVK,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,87.17
+10,Slovak Republic,SVK,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,100.93
+11,Slovak Republic,SVK,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,76.33
+12,Slovak Republic,SVK,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,82.69
+13,Slovak Republic,SVK,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,92.73
+14,Slovak Republic,SVK,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.05
+15,Slovak Republic,SVK,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,74.32
+16,Slovak Republic,SVK,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,87.69
+17,Slovak Republic,SVK,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,88.43
+18,Slovak Republic,SVK,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,72.9
+19,Slovak Republic,SVK,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,89.65
+20,Slovak Republic,SVK,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,96.74
+21,Slovak Republic,SVK,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.66
+22,Slovak Republic,SVK,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.22
+23,Slovak Republic,SVK,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,95.51
+24,Slovak Republic,SVK,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,101.98
+25,Slovak Republic,SVK,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,99.24
+26,Slovak Republic,SVK,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.46610731901139
+27,Slovak Republic,SVK,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.37973404675239
+28,Slovak Republic,SVK,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.39904109429744
+29,Slovak Republic,SVK,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.69155293475818
+30,Slovak Republic,SVK,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.62377700289306
+31,Slovak Republic,SVK,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.22726037340153
+32,Slovak Republic,SVK,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.73096817916193
+33,Slovak Republic,SVK,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.2721228247732
+34,Slovak Republic,SVK,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.1627257821802
+35,Slovak Republic,SVK,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.66759272495957
+36,Slovak Republic,SVK,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.08513328365435
+37,Slovak Republic,SVK,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.5332008641309
+38,Slovak Republic,SVK,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.29599752717367
+39,Slovak Republic,SVK,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.84829606419639
+40,Slovak Republic,SVK,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.61878627564451
+41,Slovak Republic,SVK,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.66748149791647
+42,Slovak Republic,SVK,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.81038352971388
+43,Slovak Republic,SVK,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.04289904767007
+44,Slovak Republic,SVK,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.12021767859932
+45,Slovak Republic,SVK,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.71030559393339
+46,Slovak Republic,SVK,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.64410671789987
+47,Slovak Republic,SVK,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.12467053420717
+48,Slovak Republic,SVK,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.06754867934644
+49,Slovak Republic,SVK,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.30027848412194
+50,Slovak Republic,SVK,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.25484365616011
+51,Slovak Republic,SVK,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.0699995458126
+52,Slovak Republic,SVK,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,11.900000192225
+53,Slovak Republic,SVK,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.0600000396371
+54,Slovak Republic,SVK,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.2299998849631
+55,Slovak Republic,SVK,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.0300001204014
+56,Slovak Republic,SVK,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.2299999296666
+57,Slovak Republic,SVK,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.4800001531839
+58,Slovak Republic,SVK,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.4999996572732
+59,Slovak Republic,SVK,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.4999996572732
+60,Slovak Republic,SVK,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.4000004529953
+61,Slovak Republic,SVK,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.2499996572732
+62,Slovak Republic,SVK,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.5799998044967
+63,Slovak Republic,SVK,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.77000030875206
+64,Slovak Republic,SVK,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.55000030249357
+65,Slovak Republic,SVK,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.46000042557716
+66,Slovak Republic,SVK,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.70999974012375
+67,Slovak Republic,SVK,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.83999978750944
+68,Slovak Republic,SVK,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.14000000059605
+69,Slovak Republic,SVK,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.83000007271767
+70,Slovak Republic,SVK,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.37999999523163
+71,Slovak Republic,SVK,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.26000013947486
+72,Slovak Republic,SVK,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.33000007271767
+73,Slovak Republic,SVK,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.31999984383583
+74,Slovak Republic,SVK,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.22999994456768
+75,Slovak Republic,SVK,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.26000015437603
+76,Slovak Republic,SVK,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.24000017344952
+77,Slovak Republic,SVK,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.17000000178814
+78,Slovak Republic,SVK,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.12000004947186
+79,Slovak Republic,SVK,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.14000003039837
+80,Slovak Republic,SVK,2019,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2842002855.24102
+81,Slovak Republic,SVK,2018,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2292976666.62363
+82,Slovak Republic,SVK,2017,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1853472834.30745
+83,Slovak Republic,SVK,2016,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2432487662.19632
+84,Slovak Republic,SVK,2015,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1849289470.10001
+85,Slovak Republic,SVK,2014,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1198842398.64519
+86,Slovak Republic,SVK,2013,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1797193193.20943
+87,Slovak Republic,SVK,2012,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,889408167.614757
+88,Slovak Republic,SVK,2011,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4909247747.63555
+89,Slovak Republic,SVK,2010,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4209659221.63652
+90,Slovak Republic,SVK,2009,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3020735525.69651
+91,Slovak Republic,SVK,2008,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-6270398054.51731
+92,Slovak Republic,SVK,2007,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4632972214.12302
+93,Slovak Republic,SVK,2006,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-5452492095.42579
+94,Slovak Republic,SVK,2005,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-5125148705.73897
+95,Slovak Republic,SVK,2004,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4359155976.55466
+96,Slovak Republic,SVK,2003,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-281938471.148367
+97,Slovak Republic,SVK,2002,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1954963121.23889
+98,Slovak Republic,SVK,2001,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1742435398.7939
+99,Slovak Republic,SVK,2000,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-694258356.335149
+100,Slovak Republic,SVK,1999,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1155087877.95392
+101,Slovak Republic,SVK,1998,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2126446990.33185
+102,Slovak Republic,SVK,1997,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1961267455.66061
+103,Slovak Republic,SVK,1996,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2090418276.28368
+104,Slovak Republic,SVK,1995,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,390042186.469901
+105,Slovak Republic,SVK,1994,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,670588295.672414
+106,Slovak Republic,SVK,1993,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-579688780.962889
+107,Slovak Republic,SVK,2019,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2271804195.71272
+108,Slovak Republic,SVK,2018,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1292870175.91312
+109,Slovak Republic,SVK,2017,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2726796237.36831
+110,Slovak Republic,SVK,2016,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-669237899.210614
+111,Slovak Republic,SVK,2015,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-102094545.709385
+112,Slovak Republic,SVK,2014,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,642121248.168715
+113,Slovak Republic,SVK,2013,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,272819684.739024
+114,Slovak Republic,SVK,2012,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3008780998.68329
+115,Slovak Republic,SVK,2011,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2733621386.16048
+116,Slovak Republic,SVK,2010,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-876088379.957723
+117,Slovak Republic,SVK,2009,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,972626959.187675
+118,Slovak Republic,SVK,2008,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4117039837.04155
+119,Slovak Republic,SVK,2007,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3414699099.69783
+120,Slovak Republic,SVK,2006,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-5202385156.69255
+121,Slovak Republic,SVK,2005,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2909248458.43999
+122,Slovak Republic,SVK,2004,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4059377511.5885
+123,Slovak Republic,SVK,2003,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-535685661.038278
+124,Slovak Republic,SVK,2002,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4100939036.19803
+125,Slovak Republic,SVK,2001,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1508052722.11698
+126,Slovak Republic,SVK,2000,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2030972175.37504
+127,Slovak Republic,SVK,1999,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-730400699.621128
+128,Slovak Republic,SVK,1998,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-417252734.173362
+129,Slovak Republic,SVK,1997,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-78462071.1787663
+130,Slovak Republic,SVK,1996,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-303169160.409049
+131,Slovak Republic,SVK,1995,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-226045942.033329
+132,Slovak Republic,SVK,1994,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-256015796.857739
+133,Slovak Republic,SVK,1993,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-138198444.195011
+134,Slovak Republic,SVK,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.9369412669422
+135,Slovak Republic,SVK,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.66456133425443
+136,Slovak Republic,SVK,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.51403712883808
+137,Slovak Republic,SVK,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.31194588223234
+138,Slovak Republic,SVK,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.520010196278324
+139,Slovak Republic,SVK,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.325219777427739
+140,Slovak Republic,SVK,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0761653295419824
+141,Slovak Republic,SVK,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.40047368963031
+142,Slovak Republic,SVK,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.60610263522886
+143,Slovak Republic,SVK,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.91928599146294
+144,Slovak Republic,SVK,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.957018132975136
+145,Slovak Republic,SVK,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.61510464058236
+146,Slovak Republic,SVK,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.59817976325028
+147,Slovak Republic,SVK,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.75672371638138
+148,Slovak Republic,SVK,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.48333120449611
+149,Slovak Republic,SVK,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.70908494588391
+150,Slovak Republic,SVK,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.54850088183419
+151,Slovak Republic,SVK,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.55414305406651
+152,Slovak Republic,SVK,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.12714222984604
+153,Slovak Republic,SVK,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.32962019115532
+154,Slovak Republic,SVK,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,12.0357805974299
+155,Slovak Republic,SVK,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.5704416075224
+156,Slovak Republic,SVK,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.66565123195829
+157,Slovak Republic,SVK,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.14198999595653
+158,Slovak Republic,SVK,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.77582786155945
+159,Slovak Republic,SVK,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.84109579837757
+160,Slovak Republic,SVK,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,13.4155203422246
+161,Slovak Republic,SVK,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,23.287027664545
+162,Slovak Republic,SVK,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.89350519771171
+163,Slovak Republic,SVK,2019,Trade (% of GDP),NE.TRD.GNFS.ZS,184.479249423884
+164,Slovak Republic,SVK,2018,Trade (% of GDP),NE.TRD.GNFS.ZS,190.54363649986
+165,Slovak Republic,SVK,2017,Trade (% of GDP),NE.TRD.GNFS.ZS,188.106721379078
+166,Slovak Republic,SVK,2016,Trade (% of GDP),NE.TRD.GNFS.ZS,184.475681319602
+167,Slovak Republic,SVK,2015,Trade (% of GDP),NE.TRD.GNFS.ZS,180.949607537219
+168,Slovak Republic,SVK,2014,Trade (% of GDP),NE.TRD.GNFS.ZS,178.186061562847
+169,Slovak Republic,SVK,2013,Trade (% of GDP),NE.TRD.GNFS.ZS,181.398202430821
+170,Slovak Republic,SVK,2012,Trade (% of GDP),NE.TRD.GNFS.ZS,176.331835086592
+171,Slovak Republic,SVK,2011,Trade (% of GDP),NE.TRD.GNFS.ZS,169.110709394268
+172,Slovak Republic,SVK,2010,Trade (% of GDP),NE.TRD.GNFS.ZS,154.726636918999
+173,Slovak Republic,SVK,2009,Trade (% of GDP),NE.TRD.GNFS.ZS,136.24069102241
+174,Slovak Republic,SVK,2008,Trade (% of GDP),NE.TRD.GNFS.ZS,162.070856599542
+175,Slovak Republic,SVK,2007,Trade (% of GDP),NE.TRD.GNFS.ZS,166.329552934429
+176,Slovak Republic,SVK,2006,Trade (% of GDP),NE.TRD.GNFS.ZS,164.626286507128
+177,Slovak Republic,SVK,2005,Trade (% of GDP),NE.TRD.GNFS.ZS,147.727895586359
+178,Slovak Republic,SVK,2004,Trade (% of GDP),NE.TRD.GNFS.ZS,139.650377296647
+179,Slovak Republic,SVK,2003,Trade (% of GDP),NE.TRD.GNFS.ZS,125.147678981072
+180,Slovak Republic,SVK,2002,Trade (% of GDP),NE.TRD.GNFS.ZS,120.373886604428
+181,Slovak Republic,SVK,2001,Trade (% of GDP),NE.TRD.GNFS.ZS,121.679291527254
+182,Slovak Republic,SVK,2000,Trade (% of GDP),NE.TRD.GNFS.ZS,108.788415121954
+183,Slovak Republic,SVK,1999,Trade (% of GDP),NE.TRD.GNFS.ZS,97.4838776126657
+184,Slovak Republic,SVK,1998,Trade (% of GDP),NE.TRD.GNFS.ZS,102.070148472294
+185,Slovak Republic,SVK,1997,Trade (% of GDP),NE.TRD.GNFS.ZS,117.588008984748
+186,Slovak Republic,SVK,1996,Trade (% of GDP),NE.TRD.GNFS.ZS,111.818028658475
+187,Slovak Republic,SVK,1995,Trade (% of GDP),NE.TRD.GNFS.ZS,108.551829367
+188,Slovak Republic,SVK,1994,Trade (% of GDP),NE.TRD.GNFS.ZS,108.372095431577
+189,Slovak Republic,SVK,1993,Trade (% of GDP),NE.TRD.GNFS.ZS,112.195702426185
+190,Slovak Republic,SVK,1992,Trade (% of GDP),NE.TRD.GNFS.ZS,133.060724087364
+191,Slovak Republic,SVK,1991,Trade (% of GDP),NE.TRD.GNFS.ZS,87.8426049374332
+192,Slovak Republic,SVK,1990,Trade (% of GDP),NE.TRD.GNFS.ZS,57.167531703951
+193,Slovak Republic,SVK,2019,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.7207864104917
+194,Slovak Republic,SVK,2018,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.2660621347697
+195,Slovak Republic,SVK,2017,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.9869820125684
+196,Slovak Republic,SVK,2016,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.2745233496545
+197,Slovak Republic,SVK,2015,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.5111937478748
+198,Slovak Republic,SVK,2014,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.794352821095
+199,Slovak Republic,SVK,2013,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.7422898986554
+200,Slovak Republic,SVK,2012,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,31.1378136195261
+201,Slovak Republic,SVK,2011,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,31.0354117998344
+202,Slovak Republic,SVK,2010,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.6273630398208
+203,Slovak Republic,SVK,2009,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.4367021195351
+204,Slovak Republic,SVK,2008,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.0565541303411
+205,Slovak Republic,SVK,2007,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.544719095972
+206,Slovak Republic,SVK,2006,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,34.2862427626697
+207,Slovak Republic,SVK,2005,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,31.9269842623046
+208,Slovak Republic,SVK,2004,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,32.0426492963052
+209,Slovak Republic,SVK,2003,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.5821565150089
+210,Slovak Republic,SVK,2002,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.2403327127339
+211,Slovak Republic,SVK,2001,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.8464554363896
+212,Slovak Republic,SVK,2000,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.4168544604008
+213,Slovak Republic,SVK,1999,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.3665364682185
+214,Slovak Republic,SVK,1998,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.9728115851906
+215,Slovak Republic,SVK,1997,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.0937680974706
+216,Slovak Republic,SVK,1996,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.5969125924404
+217,Slovak Republic,SVK,1995,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.7400136141198
+218,Slovak Republic,SVK,2019,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.23901780300352
+219,Slovak Republic,SVK,2018,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.19923558790294
+220,Slovak Republic,SVK,2017,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.2797708695008
+221,Slovak Republic,SVK,2016,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.33359643776557
+222,Slovak Republic,SVK,2015,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.25984266406271
+223,Slovak Republic,SVK,2014,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.03169872320002
+224,Slovak Republic,SVK,2013,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.08985295560196
+225,Slovak Republic,SVK,2012,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.09616364394366
+226,Slovak Republic,SVK,2011,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.07502248786153
+227,Slovak Republic,SVK,2010,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.17001951033832
+228,Slovak Republic,SVK,2009,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.0605986597651
+229,Slovak Republic,SVK,2008,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.02296657509683
+230,Slovak Republic,SVK,2007,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.1244244579345
+231,Slovak Republic,SVK,2006,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.39226664317877
+232,Slovak Republic,SVK,2005,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.49452510828654
+233,Slovak Republic,SVK,2004,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.54868781132949
+234,Slovak Republic,SVK,2003,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.86001099818386
+235,Slovak Republic,SVK,2002,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.25699142768996
+236,Slovak Republic,SVK,2001,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.48129437338339
+237,Slovak Republic,SVK,2000,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.29316587871617
+238,Slovak Republic,SVK,1999,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.29836284227392
+239,Slovak Republic,SVK,1998,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.31716995119451
+240,Slovak Republic,SVK,1997,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.44786931661536
+241,Slovak Republic,SVK,1996,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.33513618091042
+242,Slovak Republic,SVK,1995,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.47831983006195
+243,Slovak Republic,SVK,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00301380716615769
+244,Slovak Republic,SVK,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00404868292367735
+245,Slovak Republic,SVK,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00551976825974633
+246,Slovak Republic,SVK,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00319348605147553
+247,Slovak Republic,SVK,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00389898254535272
+248,Slovak Republic,SVK,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00611505953059677
+249,Slovak Republic,SVK,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00963343239249228
+250,Slovak Republic,SVK,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0169748955051943
+251,Slovak Republic,SVK,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0276396766825038
+252,Slovak Republic,SVK,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0222532262604982
+253,Slovak Republic,SVK,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0144686586772574
+254,Slovak Republic,SVK,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0359028178148543
+255,Slovak Republic,SVK,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0166920032769395
+256,Slovak Republic,SVK,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0218934228203454
+257,Slovak Republic,SVK,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0178652351410229
+258,Slovak Republic,SVK,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0301354063851308
+259,Slovak Republic,SVK,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0159987544684689
+260,Slovak Republic,SVK,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0171095198874838
+261,Slovak Republic,SVK,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0308011783114637
+262,Slovak Republic,SVK,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0252901323998561
+263,Slovak Republic,SVK,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00973802235921103
+264,Slovak Republic,SVK,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00661185822113062
+265,Slovak Republic,SVK,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0177835360957292
+266,Slovak Republic,SVK,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0243211026421706
+267,Slovak Republic,SVK,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0243336719965883
+268,Slovak Republic,SVK,2019,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.122784377421614
+269,Slovak Republic,SVK,2018,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.111839543293319
+270,Slovak Republic,SVK,2017,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.111839543293319
+271,Slovak Republic,SVK,2016,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.111343231666507
+272,Slovak Republic,SVK,2015,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.120340760878851
+273,Slovak Republic,SVK,2014,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.118691971377625
+274,Slovak Republic,SVK,2013,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.122231697119559
+275,Slovak Republic,SVK,2012,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.131280790076326
+276,Slovak Republic,SVK,2011,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.139123867660937
+277,Slovak Republic,SVK,2010,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.139655330815155
+278,Slovak Republic,SVK,2009,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.149602912454195
+279,Slovak Republic,SVK,2008,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.146093233656862
+280,Slovak Republic,SVK,2007,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.143733318247906
+281,Slovak Republic,SVK,2006,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.153263088849315
+282,Slovak Republic,SVK,2005,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.167721524396272
+283,Slovak Republic,SVK,2004,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.166752818429946
+284,Slovak Republic,SVK,2003,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.175770161297413
+285,Slovak Republic,SVK,2002,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.169863125782157
+286,Slovak Republic,SVK,2001,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.168480829525622
+287,Slovak Republic,SVK,2000,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.169901146521464
+288,Slovak Republic,SVK,1999,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.177488423562332
+289,Slovak Republic,SVK,1998,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.178546274795374
+290,Slovak Republic,SVK,1997,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.178822347977887
+291,Slovak Republic,SVK,1996,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.19034395456583
+292,Slovak Republic,SVK,1995,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.194119109923532
+293,Slovak Republic,SVK,2019,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.42366129082983
+294,Slovak Republic,SVK,2018,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.68485926044854
+295,Slovak Republic,SVK,2017,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.67259258480832
+296,Slovak Republic,SVK,2016,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.61399602657043
+297,Slovak Republic,SVK,2015,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.42176954571101
+298,Slovak Republic,SVK,2014,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.27081188816857
+299,Slovak Republic,SVK,2013,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.94861123334567
+300,Slovak Republic,SVK,2012,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.54694692968801
+301,Slovak Republic,SVK,2011,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.62649697622648
+302,Slovak Republic,SVK,2010,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.36115909103381
+303,Slovak Republic,SVK,2009,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-1.16064638856486
+304,Slovak Republic,SVK,2008,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.72225542477889
+305,Slovak Republic,SVK,2007,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.03539837259773
+306,Slovak Republic,SVK,2006,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.43269077622497
+307,Slovak Republic,SVK,2005,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.5132376235953
+308,Slovak Republic,SVK,2004,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-1.59401352762266
+309,Slovak Republic,SVK,2003,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-4.19495970041528
+310,Slovak Republic,SVK,2002,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-2.01464049139504
+311,Slovak Republic,SVK,2001,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-3.21761357557567
+312,Slovak Republic,SVK,2000,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-4.23329766246984
+313,Slovak Republic,SVK,1999,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.0773207968519682
+314,Slovak Republic,SVK,1998,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.00357953263559202
+315,Slovak Republic,SVK,1997,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.413115319713466
+316,Slovak Republic,SVK,1996,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-3.99590324089795
+317,Slovak Republic,SVK,1995,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-5.7946596371798
+318,Slovak Republic,SVK,2019,GDP (current US$),NY.GDP.MKTP.CD,105079673009.733
+319,Slovak Republic,SVK,2018,GDP (current US$),NY.GDP.MKTP.CD,105701930962.982
+320,Slovak Republic,SVK,2017,GDP (current US$),NY.GDP.MKTP.CD,95494424978.5166
+321,Slovak Republic,SVK,2016,GDP (current US$),NY.GDP.MKTP.CD,89655253976.4258
+322,Slovak Republic,SVK,2015,GDP (current US$),NY.GDP.MKTP.CD,88467555243.7256
+323,Slovak Republic,SVK,2014,GDP (current US$),NY.GDP.MKTP.CD,101189715749.374
+324,Slovak Republic,SVK,2013,GDP (current US$),NY.GDP.MKTP.CD,98848641554.6311
+325,Slovak Republic,SVK,2012,GDP (current US$),NY.GDP.MKTP.CD,94534730680.6023
+326,Slovak Republic,SVK,2011,GDP (current US$),NY.GDP.MKTP.CD,99122802874.1718
+327,Slovak Republic,SVK,2010,GDP (current US$),NY.GDP.MKTP.CD,90310718349.0156
+328,Slovak Republic,SVK,2009,GDP (current US$),NY.GDP.MKTP.CD,89046289247.0131
+329,Slovak Republic,SVK,2008,GDP (current US$),NY.GDP.MKTP.CD,100469509301.304
+330,Slovak Republic,SVK,2007,GDP (current US$),NY.GDP.MKTP.CD,86454081576.7862
+331,Slovak Republic,SVK,2006,GDP (current US$),NY.GDP.MKTP.CD,70708098105.6329
+332,Slovak Republic,SVK,2005,GDP (current US$),NY.GDP.MKTP.CD,62785305310.2848
+333,Slovak Republic,SVK,2004,GDP (current US$),NY.GDP.MKTP.CD,57332015147.7527
+334,Slovak Republic,SVK,2003,GDP (current US$),NY.GDP.MKTP.CD,46816589164.7856
+335,Slovak Republic,SVK,2002,GDP (current US$),NY.GDP.MKTP.CD,35130340673.8189
+336,Slovak Republic,SVK,2001,GDP (current US$),NY.GDP.MKTP.CD,30752150335.5705
+337,Slovak Republic,SVK,2000,GDP (current US$),NY.GDP.MKTP.CD,29169953012.7142
+338,Slovak Republic,SVK,1999,GDP (current US$),NY.GDP.MKTP.CD,30453383763.0514
+339,Slovak Republic,SVK,1998,GDP (current US$),NY.GDP.MKTP.CD,29856000671.216
+340,Slovak Republic,SVK,1997,GDP (current US$),NY.GDP.MKTP.CD,27706028095.6157
+341,Slovak Republic,SVK,1996,GDP (current US$),NY.GDP.MKTP.CD,27925036755.3866
+342,Slovak Republic,SVK,1995,GDP (current US$),NY.GDP.MKTP.CD,25840146405.2288
+343,Slovak Republic,SVK,1994,GDP (current US$),NY.GDP.MKTP.CD,20162936291.375
+344,Slovak Republic,SVK,1993,GDP (current US$),NY.GDP.MKTP.CD,16520676973.5301
+345,Slovak Republic,SVK,1992,GDP (current US$),NY.GDP.MKTP.CD,15495514296.8042
+346,Slovak Republic,SVK,1991,GDP (current US$),NY.GDP.MKTP.CD,14272201755.4704
+347,Slovak Republic,SVK,1990,GDP (current US$),NY.GDP.MKTP.CD,12747380650.0762
+348,Slovak Republic,SVK,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,19266.0141007811
+349,Slovak Republic,SVK,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,19406.3475337924
+350,Slovak Republic,SVK,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,17556.6008176369
+351,Slovak Republic,SVK,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,16508.6703604932
+352,Slovak Republic,SVK,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,16310.9884090005
+353,Slovak Republic,SVK,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,18674.3440568625
+354,Slovak Republic,SVK,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,18260.0157710019
+355,Slovak Republic,SVK,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,17481.8954435252
+356,Slovak Republic,SVK,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,18361.5694760083
+357,Slovak Republic,SVK,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,16750.7974416083
+358,Slovak Republic,SVK,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,16531.6705140706
+359,Slovak Republic,SVK,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,18677.2927109318
+360,Slovak Republic,SVK,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,16085.611523338
+361,Slovak Republic,SVK,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,13159.7594413964
+362,Slovak Republic,SVK,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,11685.7548224391
+363,Slovak Republic,SVK,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,10671.8218610632
+364,Slovak Republic,SVK,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,8712.69879312059
+365,Slovak Republic,SVK,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,6533.55321303732
+366,Slovak Republic,SVK,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,5717.21708969017
+367,Slovak Republic,SVK,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,5413.15062068807
+368,Slovak Republic,SVK,1999,GDP per capita (current US$),NY.GDP.PCAP.CD,5643.6751092567
+369,Slovak Republic,SVK,1998,GDP per capita (current US$),NY.GDP.PCAP.CD,5538.61646477184
+370,Slovak Republic,SVK,1997,GDP per capita (current US$),NY.GDP.PCAP.CD,5146.67107827084
+371,Slovak Republic,SVK,1996,GDP per capita (current US$),NY.GDP.PCAP.CD,5196.94037965932
+372,Slovak Republic,SVK,1995,GDP per capita (current US$),NY.GDP.PCAP.CD,4819.12555470987
+373,Slovak Republic,SVK,1994,GDP per capita (current US$),NY.GDP.PCAP.CD,3771.35951578288
+374,Slovak Republic,SVK,1993,GDP per capita (current US$),NY.GDP.PCAP.CD,3102.29685877712
+375,Slovak Republic,SVK,1992,GDP per capita (current US$),NY.GDP.PCAP.CD,2920.91754234186
+376,Slovak Republic,SVK,1991,GDP per capita (current US$),NY.GDP.PCAP.CD,2691.19565226261
+377,Slovak Republic,SVK,1990,GDP per capita (current US$),NY.GDP.PCAP.CD,2405.53516040785
+378,Slovak Republic,SVK,2019,GNI (current US$),NY.GNP.MKTP.CD,103226140032.784
+379,Slovak Republic,SVK,2018,GNI (current US$),NY.GNP.MKTP.CD,104250110364.9
+380,Slovak Republic,SVK,2017,GNI (current US$),NY.GNP.MKTP.CD,93700674278.6319
+381,Slovak Republic,SVK,2016,GNI (current US$),NY.GNP.MKTP.CD,87325133237.8922
+382,Slovak Republic,SVK,2015,GNI (current US$),NY.GNP.MKTP.CD,86329752502.3307
+383,Slovak Republic,SVK,2014,GNI (current US$),NY.GNP.MKTP.CD,100064028605.852
+384,Slovak Republic,SVK,2013,GNI (current US$),NY.GNP.MKTP.CD,98111356511.3311
+385,Slovak Republic,SVK,2012,GNI (current US$),NY.GNP.MKTP.CD,92944810118.807
+386,Slovak Republic,SVK,2011,GNI (current US$),NY.GNP.MKTP.CD,95710420761.6006
+387,Slovak Republic,SVK,2010,GNI (current US$),NY.GNP.MKTP.CD,88432325550.9944
+388,Slovak Republic,SVK,2009,GNI (current US$),NY.GNP.MKTP.CD,88574794387.3298
+389,Slovak Republic,SVK,2008,GNI (current US$),NY.GNP.MKTP.CD,98754551047.3121
+390,Slovak Republic,SVK,2007,GNI (current US$),NY.GNP.MKTP.CD,84062098275.3901
+391,Slovak Republic,SVK,2006,GNI (current US$),NY.GNP.MKTP.CD,68746493539.0792
+392,Slovak Republic,SVK,2005,GNI (current US$),NY.GNP.MKTP.CD,61186987936.8238
+393,Slovak Republic,SVK,2004,GNI (current US$),NY.GNP.MKTP.CD,55136991556.9903
+394,Slovak Republic,SVK,2003,GNI (current US$),NY.GNP.MKTP.CD,44561077878.1038
+395,Slovak Republic,SVK,2002,GNI (current US$),NY.GNP.MKTP.CD,35044216073.7813
+396,Slovak Republic,SVK,2001,GNI (current US$),NY.GNP.MKTP.CD,30772569127.5168
+397,Slovak Republic,SVK,2000,GNI (current US$),NY.GNP.MKTP.CD,29053840980.2838
+398,Slovak Republic,SVK,1999,GNI (current US$),NY.GNP.MKTP.CD,30323412529.299
+399,Slovak Republic,SVK,1998,GNI (current US$),NY.GNP.MKTP.CD,29912564045.1952
+400,Slovak Republic,SVK,1997,GNI (current US$),NY.GNP.MKTP.CD,27768722102.6396
+401,Slovak Republic,SVK,1996,GNI (current US$),NY.GNP.MKTP.CD,28166168567.8074
+402,Slovak Republic,SVK,1995,GNI (current US$),NY.GNP.MKTP.CD,25983596078.4314
+403,Slovak Republic,SVK,2017,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.67760665989798
+404,Slovak Republic,SVK,2016,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.59834734125539
+405,Slovak Republic,SVK,2015,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.29139633980179
+406,Slovak Republic,SVK,2014,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.17358273365815
+407,Slovak Republic,SVK,2013,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.56017773034579
+408,Slovak Republic,SVK,2012,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.61885505090504
+409,Slovak Republic,SVK,2011,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.2802879589173
+410,Slovak Republic,SVK,2010,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.08139094836793
+411,Slovak Republic,SVK,2009,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-4.39400684705245
+412,Slovak Republic,SVK,2008,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.72578306880165
+413,Slovak Republic,SVK,2007,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,10.8481699968658
+414,Slovak Republic,SVK,2006,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,8.2379142686305
+415,Slovak Republic,SVK,2005,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,8.15937442214167
+416,Slovak Republic,SVK,2004,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.51097229756019
+417,Slovak Republic,SVK,2003,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,0.313451267223599
+418,Slovak Republic,SVK,2002,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.07122771227513
+419,Slovak Republic,SVK,2001,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.07075012663051
+420,Slovak Republic,SVK,2000,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.33878624140516
+421,Slovak Republic,SVK,1999,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.867576797780345
+422,Slovak Republic,SVK,1998,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.89351045631281
+423,Slovak Republic,SVK,1997,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.01379615749893
+424,Slovak Republic,SVK,1996,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.72166255042256
+425,Slovak Republic,SVK,2018,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,486.164854293562
+426,Slovak Republic,SVK,2015,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,475.2301
+427,Slovak Republic,SVK,2012,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,481.644744006325
+428,Slovak Republic,SVK,2009,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,496.683420165049
+429,Slovak Republic,SVK,2006,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,492.106237695083
+430,Slovak Republic,SVK,2003,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,498.18345599
+431,Slovak Republic,SVK,2018,PISA: Mean performance on the reading scale,LO.PISA.REA,457.983967040748
+432,Slovak Republic,SVK,2015,PISA: Mean performance on the reading scale,LO.PISA.REA,452.5143
+433,Slovak Republic,SVK,2012,PISA: Mean performance on the reading scale,LO.PISA.REA,462.767032770162
+434,Slovak Republic,SVK,2009,PISA: Mean performance on the reading scale,LO.PISA.REA,477.443352445841
+435,Slovak Republic,SVK,2006,PISA: Mean performance on the reading scale,LO.PISA.REA,466.349768580048
+436,Slovak Republic,SVK,2003,PISA: Mean performance on the reading scale,LO.PISA.REA,469.1590334
+437,Slovak Republic,SVK,2018,PISA: Mean performance on the science scale,LO.PISA.SCI,464.047578343491
+438,Slovak Republic,SVK,2015,PISA: Mean performance on the science scale,LO.PISA.SCI,460.7749
+439,Slovak Republic,SVK,2012,PISA: Mean performance on the science scale,LO.PISA.SCI,471.193177266055
+440,Slovak Republic,SVK,2009,PISA: Mean performance on the science scale,LO.PISA.SCI,490.265922092352
+441,Slovak Republic,SVK,2006,PISA: Mean performance on the science scale,LO.PISA.SCI,488.433398223006
+442,Slovak Republic,SVK,2003,PISA: Mean performance on the science scale,LO.PISA.SCI,494.85838344
+443,Slovak Republic,SVK,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33852005004883
+444,Slovak Republic,SVK,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34472000598907
+445,Slovak Republic,SVK,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34238004684448
+446,Slovak Republic,SVK,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35145998001099
+447,Slovak Republic,SVK,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35280001163483
+448,Slovak Republic,SVK,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3521900177002
+449,Slovak Republic,SVK,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35023999214172
+450,Slovak Republic,SVK,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35063004493713
+451,Slovak Republic,SVK,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35333001613617
+452,Slovak Republic,SVK,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.37215995788574
+453,Slovak Republic,SVK,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.36752998828888
+454,Slovak Republic,SVK,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32969999313354
+455,Slovak Republic,SVK,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29579997062683
+456,Slovak Republic,SVK,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22415995597839
+457,Slovak Republic,SVK,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18424999713898
+458,Slovak Republic,SVK,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15042996406555
+459,Slovak Republic,SVK,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11653995513916
+460,Slovak Republic,SVK,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.08765995502472
+461,Slovak Republic,SVK,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05348002910614
+462,Slovak Republic,SVK,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.10106003284454
+463,Slovak Republic,SVK,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.07563996315002
+464,Slovak Republic,SVK,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.04578995704651
+465,Slovak Republic,SVK,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.02239000797272
+466,Slovak Republic,SVK,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.9998499751091
+467,Slovak Republic,SVK,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.986699998378754
+468,Slovak Republic,SVK,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.963670015335083
+469,Slovak Republic,SVK,2018,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.43058013916016
+470,Slovak Republic,SVK,2017,Children out of school (% of primary school age),SE.PRM.UNER.ZS,5.49838018417358
+471,Slovak Republic,SVK,2016,Children out of school (% of primary school age),SE.PRM.UNER.ZS,6.4764199256897
+472,Slovak Republic,SVK,2015,Children out of school (% of primary school age),SE.PRM.UNER.ZS,6.08403015136719
+473,Slovak Republic,SVK,2014,Children out of school (% of primary school age),SE.PRM.UNER.ZS,5.14975023269653
+474,Slovak Republic,SVK,2013,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.06477022171021
+475,Slovak Republic,SVK,2012,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.39433002471924
+476,Slovak Republic,SVK,2011,Children out of school (% of primary school age),SE.PRM.UNER.ZS,5.59499979019165
+477,Slovak Republic,SVK,2010,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.97112989425659
+478,Slovak Republic,SVK,2009,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.80048990249634
+479,Slovak Republic,SVK,2008,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.57321000099182
+480,Slovak Republic,SVK,2007,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.55069994926453
+481,Slovak Republic,SVK,2006,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.8841700553894
+482,Slovak Republic,SVK,2005,Children out of school (% of primary school age),SE.PRM.UNER.ZS,7.21301984786987
+483,Slovak Republic,SVK,2004,Children out of school (% of primary school age),SE.PRM.UNER.ZS,8.51115989685059
+484,Slovak Republic,SVK,2003,Children out of school (% of primary school age),SE.PRM.UNER.ZS,7.80250978469849
+485,Slovak Republic,SVK,2002,Children out of school (% of primary school age),SE.PRM.UNER.ZS,6.4240198135376
+486,Slovak Republic,SVK,2001,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.54259991645813
+487,Slovak Republic,SVK,2017,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.2805023193359
+488,Slovak Republic,SVK,2016,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.3035583496094
+489,Slovak Republic,SVK,2015,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.2700729370117
+490,Slovak Republic,SVK,2014,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.3442611694336
+491,Slovak Republic,SVK,2013,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.2826919555664
+492,Slovak Republic,SVK,2012,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.3027725219727
+493,Slovak Republic,SVK,2001,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.6387634277344
+494,Slovak Republic,SVK,1991,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,61.0101013183594
+495,Slovak Republic,SVK,2017,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.5111618041992
+496,Slovak Republic,SVK,2016,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.7405624389648
+497,Slovak Republic,SVK,2015,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,84.9659423828125
+498,Slovak Republic,SVK,2014,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.8465881347656
+499,Slovak Republic,SVK,2013,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.8245315551758
+500,Slovak Republic,SVK,2012,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.3809967041016
+501,Slovak Republic,SVK,2011,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.0127716064453
+502,Slovak Republic,SVK,2010,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.8179931640625
+503,Slovak Republic,SVK,2009,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.3474884033203
+504,Slovak Republic,SVK,2008,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.2805786132813
+505,Slovak Republic,SVK,2007,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.8598098754883
+506,Slovak Republic,SVK,2006,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.1937408447266
+507,Slovak Republic,SVK,2005,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.3642272949219
+508,Slovak Republic,SVK,2004,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.5894393920898
+509,Slovak Republic,SVK,2003,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.2698364257813
+510,Slovak Republic,SVK,2002,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.073371887207
+511,Slovak Republic,SVK,2001,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.8267822265625
+512,Slovak Republic,SVK,2000,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.2435989379883
+513,Slovak Republic,SVK,1999,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.8013763427734
+514,Slovak Republic,SVK,2017,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.93913006782532
+515,Slovak Republic,SVK,2016,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.91171002388
+516,Slovak Republic,SVK,2015,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.59954023361206
+517,Slovak Republic,SVK,2014,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.221360206604
+518,Slovak Republic,SVK,2013,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.07648992538452
+519,Slovak Republic,SVK,2012,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.86770009994507
+520,Slovak Republic,SVK,2011,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.92964005470276
+521,Slovak Republic,SVK,2010,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.08471012115479
+522,Slovak Republic,SVK,2009,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.00641012191772
+523,Slovak Republic,SVK,2008,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.52165007591248
+524,Slovak Republic,SVK,2007,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.52321004867554
+525,Slovak Republic,SVK,2006,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.70770001411438
+526,Slovak Republic,SVK,2005,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.75995993614197
+527,Slovak Republic,SVK,2004,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.10157012939453
+528,Slovak Republic,SVK,2003,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.20956993103027
+529,Slovak Republic,SVK,2002,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.24539995193481
+530,Slovak Republic,SVK,2001,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.93569993972778
+531,Slovak Republic,SVK,2000,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.86468005180359
+532,Slovak Republic,SVK,1999,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.1072998046875
+533,Slovak Republic,SVK,1997,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.1223201751709
+534,Slovak Republic,SVK,1996,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.12440013885498
+535,Slovak Republic,SVK,1995,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.29757976531982
+536,Slovak Republic,SVK,1994,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.71250009536743
+537,Slovak Republic,SVK,1993,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.44960021972656
+538,Slovak Republic,SVK,1992,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.35694980621338
+539,Slovak Republic,SVK,2019,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4257166147535
+540,Slovak Republic,SVK,2018,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.3713460336042
+541,Slovak Republic,SVK,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.6194746975633
+542,Slovak Republic,SVK,2016,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4443295530112
+543,Slovak Republic,SVK,2015,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.2558796681392
+544,Slovak Republic,SVK,2014,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.7577242254484
+545,Slovak Republic,SVK,2013,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.803328059516
+546,Slovak Republic,SVK,2012,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.5763892910723
+547,Slovak Republic,SVK,2011,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.4389138098374
+548,Slovak Republic,SVK,2010,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.783786885759
+549,Slovak Republic,SVK,2009,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.4459372473878
+550,Slovak Republic,SVK,2008,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.7325071272024
+551,Slovak Republic,SVK,2007,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.7114011460118
+552,Slovak Republic,SVK,2006,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.6334886167765
+553,Slovak Republic,SVK,2005,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.8142019747086
+554,Slovak Republic,SVK,2004,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4161057260815
+555,Slovak Republic,SVK,2003,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4719867101736
+556,Slovak Republic,SVK,2002,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.5651569442126
+557,Slovak Republic,SVK,2001,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.5304150076639
+558,Slovak Republic,SVK,2000,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.5858818159135
+559,Slovak Republic,SVK,1999,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.339584842129
+560,Slovak Republic,SVK,1998,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.0119106788196
+561,Slovak Republic,SVK,1997,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.2375201512146
+562,Slovak Republic,SVK,1996,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.2529658281902
+563,Slovak Republic,SVK,1995,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.7991465547225
+564,Slovak Republic,SVK,1994,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.6280446885997
+565,Slovak Republic,SVK,1993,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.1265405094618
+566,Slovak Republic,SVK,1992,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.6008581889741
+567,Slovak Republic,SVK,1991,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.9271797601171
+568,Slovak Republic,SVK,1990,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.855107122986
+569,Slovak Republic,SVK,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.78999996185303
+570,Slovak Republic,SVK,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.75
+571,Slovak Republic,SVK,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.53999996185303
+572,Slovak Republic,SVK,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.13000011444092
+573,Slovak Republic,SVK,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.67000007629395
+574,Slovak Republic,SVK,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.4799995422363
+575,Slovak Republic,SVK,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.1800003051758
+576,Slovak Republic,SVK,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,14.2200002670288
+577,Slovak Republic,SVK,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.960000038147
+578,Slovak Republic,SVK,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.6199998855591
+579,Slovak Republic,SVK,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,14.3800001144409
+580,Slovak Republic,SVK,2009,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.0299997329712
+581,Slovak Republic,SVK,2008,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.51000022888184
+582,Slovak Republic,SVK,2007,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.1400003433228
+583,Slovak Republic,SVK,2006,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.3699998855591
+584,Slovak Republic,SVK,2005,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.2600002288818
+585,Slovak Republic,SVK,2004,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,18.6000003814697
+586,Slovak Republic,SVK,2003,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,17.1200008392334
+587,Slovak Republic,SVK,2002,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,18.7199993133545
+588,Slovak Republic,SVK,2001,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.3799991607666
+589,Slovak Republic,SVK,2000,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.0599994659424
+590,Slovak Republic,SVK,1999,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,15.9499998092651
+591,Slovak Republic,SVK,1998,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.1899995803833
+592,Slovak Republic,SVK,1997,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.8900003433228
+593,Slovak Republic,SVK,1996,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.3400001525879
+594,Slovak Republic,SVK,1995,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.1099996566772
+595,Slovak Republic,SVK,1994,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.6499996185303
+596,Slovak Republic,SVK,1993,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.1999998092651
+597,Slovak Republic,SVK,1992,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.25
+598,Slovak Republic,SVK,1991,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.2700004577637
+599,Slovak Republic,SVK,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+600,Slovak Republic,SVK,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+601,Slovak Republic,SVK,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+602,Slovak Republic,SVK,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+603,Slovak Republic,SVK,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+604,Slovak Republic,SVK,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+605,Slovak Republic,SVK,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+606,Slovak Republic,SVK,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+607,Slovak Republic,SVK,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+608,Slovak Republic,SVK,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+609,Slovak Republic,SVK,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+610,Slovak Republic,SVK,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+611,Slovak Republic,SVK,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+612,Slovak Republic,SVK,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+613,Slovak Republic,SVK,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+614,Slovak Republic,SVK,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+615,Slovak Republic,SVK,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+616,Slovak Republic,SVK,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+617,Slovak Republic,SVK,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+618,Slovak Republic,SVK,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+619,Slovak Republic,SVK,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+620,Slovak Republic,SVK,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+621,Slovak Republic,SVK,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+622,Slovak Republic,SVK,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+623,Slovak Republic,SVK,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+624,Slovak Republic,SVK,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+625,Slovak Republic,SVK,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+626,Slovak Republic,SVK,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+627,Slovak Republic,SVK,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+628,Slovak Republic,SVK,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+629,Slovak Republic,SVK,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.4091682209694
+630,Slovak Republic,SVK,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.2427515458209
+631,Slovak Republic,SVK,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.6783822104781
+632,Slovak Republic,SVK,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.4725845421321
+633,Slovak Republic,SVK,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.3575669304655
+634,Slovak Republic,SVK,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.2797356630759
+635,Slovak Republic,SVK,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,9.9991415642967
+636,Slovak Republic,SVK,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.62943025901257
+637,Slovak Republic,SVK,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.23217672720624
+638,Slovak Republic,SVK,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.56761632766667
+639,Slovak Republic,SVK,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.30646548231091
+640,Slovak Republic,SVK,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.24730156517817
+641,Slovak Republic,SVK,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.34686805551431
+642,Slovak Republic,SVK,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.48104882704932
+643,Slovak Republic,SVK,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.00100095064196
+644,Slovak Republic,SVK,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.72808858274496
+645,Slovak Republic,SVK,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.79794546750553
+646,Slovak Republic,SVK,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.6305891268809
+647,Slovak Republic,SVK,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.85338386581007
+648,Slovak Republic,SVK,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.90550462698082
+649,Slovak Republic,SVK,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.20701048584553
+650,Slovak Republic,SVK,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.71744245421623
+651,Slovak Republic,SVK,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.10421535255107
+652,Slovak Republic,SVK,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.31861271248188
+653,Slovak Republic,SVK,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.08678406996911
+654,Slovak Republic,SVK,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.22533593364972
+655,Slovak Republic,SVK,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,32423.614
+656,Slovak Republic,SVK,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,31283.177
+657,Slovak Republic,SVK,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,30678.122
+658,Slovak Republic,SVK,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,33091.008
+659,Slovak Republic,SVK,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,32804.982
+660,Slovak Republic,SVK,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,34524.805
+661,Slovak Republic,SVK,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,36240.961
+662,Slovak Republic,SVK,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,34037.094
+663,Slovak Republic,SVK,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,37711.428
+664,Slovak Republic,SVK,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,36780.01
+665,Slovak Republic,SVK,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,39104.888
+666,Slovak Republic,SVK,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,39357.911
+667,Slovak Republic,SVK,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,38749.189
+668,Slovak Republic,SVK,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,39493.59
+669,Slovak Republic,SVK,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,39251.568
+670,Slovak Republic,SVK,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,39357.911
+671,Slovak Republic,SVK,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,35885.262
+672,Slovak Republic,SVK,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,39240.567
+673,Slovak Republic,SVK,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,40480.013
+674,Slovak Republic,SVK,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,41048.398
+675,Slovak Republic,SVK,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,41312.422
+676,Slovak Republic,SVK,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,42115.495
+677,Slovak Republic,SVK,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,40421.341
+678,Slovak Republic,SVK,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,42881.898
+679,Slovak Republic,SVK,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,44183.683
+680,Slovak Republic,SVK,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,46301.2739711681
+681,Slovak Republic,SVK,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48551.7499855841
+682,Slovak Republic,SVK,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49973.282
+683,Slovak Republic,SVK,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,46722.85803
+684,Slovak Republic,SVK,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49160.9889427
+685,Slovak Republic,SVK,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48141.598
+686,Slovak Republic,SVK,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48387.52
+687,Slovak Republic,SVK,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48958.7859605
+688,Slovak Republic,SVK,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48357.39172
+689,Slovak Republic,SVK,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49336.11102
+690,Slovak Republic,SVK,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49587.27692
+691,Slovak Republic,SVK,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,50059.67704
+692,Slovak Republic,SVK,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,50421.399
+693,Slovak Republic,SVK,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52301.806
+694,Slovak Republic,SVK,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53026.068
+695,Slovak Republic,SVK,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54885.143
+696,Slovak Republic,SVK,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54863.255
+697,Slovak Republic,SVK,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53824.71
+698,Slovak Republic,SVK,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53999.395
+699,Slovak Republic,SVK,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,56027.312
+700,Slovak Republic,SVK,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,59272.15
+701,Slovak Republic,SVK,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,63383.655
+702,Slovak Republic,SVK,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,72262.4462
+703,Slovak Republic,SVK,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,73397.566
+704,Slovak Republic,SVK,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,74921.464
+705,Slovak Republic,SVK,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,71836.673
+706,Slovak Republic,SVK,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,72102.662
+707,Slovak Republic,SVK,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,75116.154
+708,Slovak Republic,SVK,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,75846.946
+709,Slovak Republic,SVK,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,72867.259
+710,Slovak Republic,SVK,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,73119.803
+711,Slovak Republic,SVK,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,75527.629
+712,Slovak Republic,SVK,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,76255.227
+713,Slovak Republic,SVK,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,68990.889
+714,Slovak Republic,SVK,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,67885.735
+715,Slovak Republic,SVK,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,60680.003
+716,Slovak Republic,SVK,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,58390.431
+717,Slovak Republic,SVK,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,57617.918
+718,Slovak Republic,SVK,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,56047.973
+719,Slovak Republic,SVK,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54993.112
+720,Slovak Republic,SVK,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53252.355
+721,Slovak Republic,SVK,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52047.333
+722,Slovak Republic,SVK,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53503.762
+723,Slovak Republic,SVK,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+724,Slovak Republic,SVK,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+725,Slovak Republic,SVK,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+726,Slovak Republic,SVK,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+727,Slovak Republic,SVK,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+728,Slovak Republic,SVK,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+729,Slovak Republic,SVK,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+730,Slovak Republic,SVK,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+731,Slovak Republic,SVK,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+732,Slovak Republic,SVK,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+733,Slovak Republic,SVK,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+734,Slovak Republic,SVK,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+735,Slovak Republic,SVK,2018,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2224.40991210938
+736,Slovak Republic,SVK,2017,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2646.26391601563
+737,Slovak Republic,SVK,2016,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2168.65014648438
+738,Slovak Republic,SVK,2015,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1308.63000488281
+739,Slovak Republic,SVK,2014,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1230.66003417969
+740,Slovak Republic,SVK,2013,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1106.19995117188
+741,Slovak Republic,SVK,2012,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1310.56005859375
+742,Slovak Republic,SVK,2011,Aquaculture production (metric tons),ER.FSH.AQUA.MT,834.5
+743,Slovak Republic,SVK,2010,Aquaculture production (metric tons),ER.FSH.AQUA.MT,702.400024414063
+744,Slovak Republic,SVK,2009,Aquaculture production (metric tons),ER.FSH.AQUA.MT,834.900024414063
+745,Slovak Republic,SVK,2008,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1071
+746,Slovak Republic,SVK,2007,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1199
+747,Slovak Republic,SVK,2006,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1263
+748,Slovak Republic,SVK,2005,Aquaculture production (metric tons),ER.FSH.AQUA.MT,955
+749,Slovak Republic,SVK,2004,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1180
+750,Slovak Republic,SVK,2003,Aquaculture production (metric tons),ER.FSH.AQUA.MT,881
+751,Slovak Republic,SVK,2002,Aquaculture production (metric tons),ER.FSH.AQUA.MT,829
+752,Slovak Republic,SVK,2001,Aquaculture production (metric tons),ER.FSH.AQUA.MT,999
+753,Slovak Republic,SVK,2000,Aquaculture production (metric tons),ER.FSH.AQUA.MT,887
+754,Slovak Republic,SVK,1999,Aquaculture production (metric tons),ER.FSH.AQUA.MT,872
+755,Slovak Republic,SVK,1998,Aquaculture production (metric tons),ER.FSH.AQUA.MT,648
+756,Slovak Republic,SVK,1997,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1254
+757,Slovak Republic,SVK,1996,Aquaculture production (metric tons),ER.FSH.AQUA.MT,954
+758,Slovak Republic,SVK,1995,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1617
+759,Slovak Republic,SVK,1994,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1861
+760,Slovak Republic,SVK,1993,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1588
+761,Slovak Republic,SVK,2018,Total fisheries production (metric tons),ER.FSH.PROD.MT,4161.41015625
+762,Slovak Republic,SVK,2017,Total fisheries production (metric tons),ER.FSH.PROD.MT,4516.26416015625
+763,Slovak Republic,SVK,2016,Total fisheries production (metric tons),ER.FSH.PROD.MT,4034.64990234375
+764,Slovak Republic,SVK,2015,Total fisheries production (metric tons),ER.FSH.PROD.MT,3279.6298828125
+765,Slovak Republic,SVK,2014,Total fisheries production (metric tons),ER.FSH.PROD.MT,3174.65991210938
+766,Slovak Republic,SVK,2013,Total fisheries production (metric tons),ER.FSH.PROD.MT,3092.19995117188
+767,Slovak Republic,SVK,2012,Total fisheries production (metric tons),ER.FSH.PROD.MT,3255.56005859375
+768,Slovak Republic,SVK,2011,Total fisheries production (metric tons),ER.FSH.PROD.MT,2769.5
+769,Slovak Republic,SVK,2010,Total fisheries production (metric tons),ER.FSH.PROD.MT,2310.39990234375
+770,Slovak Republic,SVK,2009,Total fisheries production (metric tons),ER.FSH.PROD.MT,2595.89990234375
+771,Slovak Republic,SVK,2008,Total fisheries production (metric tons),ER.FSH.PROD.MT,2726
+772,Slovak Republic,SVK,2007,Total fisheries production (metric tons),ER.FSH.PROD.MT,3193
+773,Slovak Republic,SVK,2006,Total fisheries production (metric tons),ER.FSH.PROD.MT,2981
+774,Slovak Republic,SVK,2005,Total fisheries production (metric tons),ER.FSH.PROD.MT,2648
+775,Slovak Republic,SVK,2004,Total fisheries production (metric tons),ER.FSH.PROD.MT,2783
+776,Slovak Republic,SVK,2003,Total fisheries production (metric tons),ER.FSH.PROD.MT,2527
+777,Slovak Republic,SVK,2002,Total fisheries production (metric tons),ER.FSH.PROD.MT,2575
+778,Slovak Republic,SVK,2001,Total fisheries production (metric tons),ER.FSH.PROD.MT,2530
+779,Slovak Republic,SVK,2000,Total fisheries production (metric tons),ER.FSH.PROD.MT,2255
+780,Slovak Republic,SVK,1999,Total fisheries production (metric tons),ER.FSH.PROD.MT,2268
+781,Slovak Republic,SVK,1998,Total fisheries production (metric tons),ER.FSH.PROD.MT,2009
+782,Slovak Republic,SVK,1997,Total fisheries production (metric tons),ER.FSH.PROD.MT,2618
+783,Slovak Republic,SVK,1996,Total fisheries production (metric tons),ER.FSH.PROD.MT,2368
+784,Slovak Republic,SVK,1995,Total fisheries production (metric tons),ER.FSH.PROD.MT,3567
+785,Slovak Republic,SVK,1994,Total fisheries production (metric tons),ER.FSH.PROD.MT,3488
+786,Slovak Republic,SVK,1993,Total fisheries production (metric tons),ER.FSH.PROD.MT,2773
+787,Slovak Republic,SVK,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,37.6304133373472
+788,Slovak Republic,SVK,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,37.6304133373472
+789,Slovak Republic,SVK,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,37.28
+790,Slovak Republic,SVK,2017,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,99.7877341102388
+791,Slovak Republic,SVK,2016,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,99.6978212290503
+792,Slovak Republic,SVK,2015,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,99.554497206704
+793,Slovak Republic,SVK,2014,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,99.4111731843576
+794,Slovak Republic,SVK,2013,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,99.2678491620112
+795,Slovak Republic,SVK,2012,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,99.1245251396649
+796,Slovak Republic,SVK,2011,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,98.5790425177401
+797,Slovak Republic,SVK,2010,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.9330884269509
+798,Slovak Republic,SVK,2009,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.2888806125331
+799,Slovak Republic,SVK,2008,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.6464887372212
+800,Slovak Republic,SVK,2007,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.005106128173
+801,Slovak Republic,SVK,2006,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,95.3647365601759
+802,Slovak Republic,SVK,2005,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.7253798582661
+803,Slovak Republic,SVK,2004,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.0870223537142
+804,Slovak Republic,SVK,2003,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.4496709638431
+805,Slovak Republic,SVK,2002,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.8133257435489
+806,Slovak Republic,SVK,2001,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.177986623211
+807,Slovak Republic,SVK,2000,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.1796462659574
+808,Slovak Republic,SVK,2017,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.5197201577606
+809,Slovak Republic,SVK,2016,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.6083869343751
+810,Slovak Republic,SVK,2015,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.7006386533545
+811,Slovak Republic,SVK,2014,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.7965037511922
+812,Slovak Republic,SVK,2013,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.8961376952274
+813,Slovak Republic,SVK,2012,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.9958568201036
+814,Slovak Republic,SVK,2011,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.0956607118591
+815,Slovak Republic,SVK,2010,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.2116394302683
+816,Slovak Republic,SVK,2009,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.3290774716046
+817,Slovak Republic,SVK,2008,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.4306464863054
+818,Slovak Republic,SVK,2007,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.5321786741121
+819,Slovak Republic,SVK,2006,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.6339317892197
+820,Slovak Republic,SVK,2005,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.7357781496565
+821,Slovak Republic,SVK,2004,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.8375863593281
+822,Slovak Republic,SVK,2003,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.9394863845207
+823,Slovak Republic,SVK,2002,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.9518552476819
+824,Slovak Republic,SVK,2001,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.9642534206152
+825,Slovak Republic,SVK,2000,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.9661731034787
+826,Slovak Republic,SVK,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+827,Slovak Republic,SVK,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+828,Slovak Republic,SVK,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+829,Slovak Republic,SVK,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+830,Slovak Republic,SVK,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+831,Slovak Republic,SVK,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+832,Slovak Republic,SVK,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+833,Slovak Republic,SVK,2016,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.1
+834,Slovak Republic,SVK,2015,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.4
+835,Slovak Republic,SVK,2014,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25
+836,Slovak Republic,SVK,2013,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.7
+837,Slovak Republic,SVK,2012,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.5
+838,Slovak Republic,SVK,2011,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.5
+839,Slovak Republic,SVK,2010,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.7
+840,Slovak Republic,SVK,2009,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.9
+841,Slovak Republic,SVK,2008,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.2
+842,Slovak Republic,SVK,2007,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.5
+843,Slovak Republic,SVK,2006,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.9
+844,Slovak Republic,SVK,2005,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.1
+845,Slovak Republic,SVK,2004,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.3
+846,Slovak Republic,SVK,2003,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.5
+847,Slovak Republic,SVK,2002,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.7
+848,Slovak Republic,SVK,2001,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.9
+849,Slovak Republic,SVK,2000,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.1
+850,Slovak Republic,SVK,1999,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.5
+851,Slovak Republic,SVK,1998,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.8
+852,Slovak Republic,SVK,1997,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.3
+853,Slovak Republic,SVK,1996,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.9
+854,Slovak Republic,SVK,1995,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,29.6
+855,Slovak Republic,SVK,1994,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.4
+856,Slovak Republic,SVK,1993,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,31.3
+857,Slovak Republic,SVK,1992,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,32.4
+858,Slovak Republic,SVK,1991,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,33.6
+859,Slovak Republic,SVK,1990,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,35
+860,Slovak Republic,SVK,2018,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.7
+861,Slovak Republic,SVK,2017,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.82
+862,Slovak Republic,SVK,2016,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.78
+863,Slovak Republic,SVK,2015,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.75
+864,Slovak Republic,SVK,2014,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.79
+865,Slovak Republic,SVK,2013,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.8
+866,Slovak Republic,SVK,2012,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.91
+867,Slovak Republic,SVK,2011,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.05
+868,Slovak Republic,SVK,2010,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.46
+869,Slovak Republic,SVK,2009,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.54
+870,Slovak Republic,SVK,2008,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.59
+871,Slovak Republic,SVK,2007,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.78
+872,Slovak Republic,SVK,2006,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.73
+873,Slovak Republic,SVK,2005,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.79
+874,Slovak Republic,SVK,2004,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.91
+875,Slovak Republic,SVK,2003,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.25
+876,Slovak Republic,SVK,2002,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.57
+877,Slovak Republic,SVK,2001,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.67
+878,Slovak Republic,SVK,2000,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.86
+879,Slovak Republic,SVK,1999,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8
+880,Slovak Republic,SVK,1998,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8
+881,Slovak Republic,SVK,1997,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.1000003815
+882,Slovak Republic,SVK,1996,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.3000001907
+883,Slovak Republic,SVK,1994,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.0992999077
+884,Slovak Republic,SVK,1993,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.8740000725
+885,Slovak Republic,SVK,1992,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.5609002113
+886,Slovak Republic,SVK,1991,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.5778999329
+887,Slovak Republic,SVK,1990,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.4482002258
+888,Slovak Republic,SVK,1989,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.81631
+889,Slovak Republic,SVK,1988,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.81316
+890,Slovak Republic,SVK,1987,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.95051
+891,Slovak Republic,SVK,1986,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.94222
+892,Slovak Republic,SVK,1985,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.95471
+893,Slovak Republic,SVK,2019,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.1
+894,Slovak Republic,SVK,2018,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.2
+895,Slovak Republic,SVK,2017,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.3
+896,Slovak Republic,SVK,2016,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.3
+897,Slovak Republic,SVK,2015,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.4
+898,Slovak Republic,SVK,2014,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.9
+899,Slovak Republic,SVK,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.3
+900,Slovak Republic,SVK,2012,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.6
+901,Slovak Republic,SVK,2011,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.9
+902,Slovak Republic,SVK,2010,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.6
+903,Slovak Republic,SVK,2009,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.1
+904,Slovak Republic,SVK,2008,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.7
+905,Slovak Republic,SVK,2007,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,14
+906,Slovak Republic,SVK,2006,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,14.5
+907,Slovak Republic,SVK,2005,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.7
+908,Slovak Republic,SVK,2004,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.9
+909,Slovak Republic,SVK,2003,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15
+910,Slovak Republic,SVK,2002,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,14.6
+911,Slovak Republic,SVK,2001,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.9
+912,Slovak Republic,SVK,2000,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,14.2
+913,Slovak Republic,SVK,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.1
+914,Slovak Republic,SVK,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.1
+915,Slovak Republic,SVK,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.2
+916,Slovak Republic,SVK,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.3
+917,Slovak Republic,SVK,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.4
+918,Slovak Republic,SVK,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.6
+919,Slovak Republic,SVK,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.2
+920,Slovak Republic,SVK,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.9
+921,Slovak Republic,SVK,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.7
+922,Slovak Republic,SVK,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9
+923,Slovak Republic,SVK,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.6
+924,Slovak Republic,SVK,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.4
+925,Slovak Republic,SVK,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.5
+926,Slovak Republic,SVK,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.9
+927,Slovak Republic,SVK,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.7
+928,Slovak Republic,SVK,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.5
+929,Slovak Republic,SVK,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.3
+930,Slovak Republic,SVK,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.3
+931,Slovak Republic,SVK,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.1
+932,Slovak Republic,SVK,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.1
+933,Slovak Republic,SVK,2018,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.68639565
+934,Slovak Republic,SVK,2017,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.76883841
+935,Slovak Republic,SVK,2016,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.11145544
+936,Slovak Republic,SVK,2015,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.79333973
+937,Slovak Republic,SVK,2014,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.89302301
+938,Slovak Republic,SVK,2013,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.50908709
+939,Slovak Republic,SVK,2012,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.55277967
+940,Slovak Republic,SVK,2011,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.35716248
+941,Slovak Republic,SVK,2010,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.74204493
+942,Slovak Republic,SVK,2009,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.94779444
+943,Slovak Republic,SVK,2008,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.9563446
+944,Slovak Republic,SVK,2007,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.17735386
+945,Slovak Republic,SVK,2006,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.85076714
+946,Slovak Republic,SVK,2005,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.58870029
+947,Slovak Republic,SVK,2004,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.37190485
+948,Slovak Republic,SVK,2003,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.44849873
+949,Slovak Republic,SVK,2002,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.50947618
+950,Slovak Republic,SVK,2001,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.3315053
+951,Slovak Republic,SVK,2000,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.30256939
+952,Slovak Republic,SVK,2018,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,79.2390976
+953,Slovak Republic,SVK,2017,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,79.1057663
+954,Slovak Republic,SVK,2016,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,79.78240967
+955,Slovak Republic,SVK,2015,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,78.84928131
+956,Slovak Republic,SVK,2014,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,79.59914398
+957,Slovak Republic,SVK,2013,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,73.67860413
+958,Slovak Republic,SVK,2012,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.63899994
+959,Slovak Republic,SVK,2011,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,73.29391479
+960,Slovak Republic,SVK,2010,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.58911133
+961,Slovak Republic,SVK,2009,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,73.0799408
+962,Slovak Republic,SVK,2008,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,74.84070587
+963,Slovak Republic,SVK,2007,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,68.44287872
+964,Slovak Republic,SVK,2006,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.11797333
+965,Slovak Republic,SVK,2005,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,74.3661499
+966,Slovak Republic,SVK,2004,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,78.0765686
+967,Slovak Republic,SVK,2003,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,87.06156158
+968,Slovak Republic,SVK,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,88.24501801
+969,Slovak Republic,SVK,2001,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,88.35826111
+970,Slovak Republic,SVK,2000,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,88.44744873
+971,Slovak Republic,SVK,2019,Refugee population by country or territory of asylum,SM.POP.REFG,965
+972,Slovak Republic,SVK,2018,Refugee population by country or territory of asylum,SM.POP.REFG,938
+973,Slovak Republic,SVK,2017,Refugee population by country or territory of asylum,SM.POP.REFG,912
+974,Slovak Republic,SVK,2016,Refugee population by country or territory of asylum,SM.POP.REFG,980
+975,Slovak Republic,SVK,2015,Refugee population by country or territory of asylum,SM.POP.REFG,816
+976,Slovak Republic,SVK,2014,Refugee population by country or territory of asylum,SM.POP.REFG,791
+977,Slovak Republic,SVK,2013,Refugee population by country or territory of asylum,SM.POP.REFG,691
+978,Slovak Republic,SVK,2012,Refugee population by country or territory of asylum,SM.POP.REFG,650
+979,Slovak Republic,SVK,2011,Refugee population by country or territory of asylum,SM.POP.REFG,535
+980,Slovak Republic,SVK,2010,Refugee population by country or territory of asylum,SM.POP.REFG,451
+981,Slovak Republic,SVK,2009,Refugee population by country or territory of asylum,SM.POP.REFG,387
+982,Slovak Republic,SVK,2008,Refugee population by country or territory of asylum,SM.POP.REFG,301
+983,Slovak Republic,SVK,2007,Refugee population by country or territory of asylum,SM.POP.REFG,265
+984,Slovak Republic,SVK,2006,Refugee population by country or territory of asylum,SM.POP.REFG,235
+985,Slovak Republic,SVK,2005,Refugee population by country or territory of asylum,SM.POP.REFG,352
+986,Slovak Republic,SVK,2004,Refugee population by country or territory of asylum,SM.POP.REFG,396
+987,Slovak Republic,SVK,2003,Refugee population by country or territory of asylum,SM.POP.REFG,412
+988,Slovak Republic,SVK,2002,Refugee population by country or territory of asylum,SM.POP.REFG,443
+989,Slovak Republic,SVK,2001,Refugee population by country or territory of asylum,SM.POP.REFG,461
+990,Slovak Republic,SVK,2000,Refugee population by country or territory of asylum,SM.POP.REFG,444
+991,Slovak Republic,SVK,1999,Refugee population by country or territory of asylum,SM.POP.REFG,436
+992,Slovak Republic,SVK,1998,Refugee population by country or territory of asylum,SM.POP.REFG,418
+993,Slovak Republic,SVK,1997,Refugee population by country or territory of asylum,SM.POP.REFG,746
+994,Slovak Republic,SVK,1996,Refugee population by country or territory of asylum,SM.POP.REFG,1387
+995,Slovak Republic,SVK,1995,Refugee population by country or territory of asylum,SM.POP.REFG,2339
+996,Slovak Republic,SVK,1994,Refugee population by country or territory of asylum,SM.POP.REFG,159
+997,Slovak Republic,SVK,1993,Refugee population by country or territory of asylum,SM.POP.REFG,1521
+998,Slovak Republic,SVK,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,6.1
+999,Slovak Republic,SVK,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5.8
+1000,Slovak Republic,SVK,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,6.5
+1001,Slovak Republic,SVK,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5.8
+1002,Slovak Republic,SVK,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5.2
+1003,Slovak Republic,SVK,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.7
+1004,Slovak Republic,SVK,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.5
+1005,Slovak Republic,SVK,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.5
+1006,Slovak Republic,SVK,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.6
+1007,Slovak Republic,SVK,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,4
+1008,Slovak Republic,SVK,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5
+1009,Slovak Republic,SVK,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5.4
+1010,Slovak Republic,SVK,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5.7
+1011,Slovak Republic,SVK,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5.5
+1012,Slovak Republic,SVK,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5.9
+1013,Slovak Republic,SVK,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,6.1
+1014,Slovak Republic,SVK,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,6.2
+1015,Slovak Republic,SVK,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,6.2
+1016,Slovak Republic,SVK,2019,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.5
+1017,Slovak Republic,SVK,2018,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.6
+1018,Slovak Republic,SVK,2017,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1019,Slovak Republic,SVK,2016,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.6
+1020,Slovak Republic,SVK,2015,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1021,Slovak Republic,SVK,2014,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1022,Slovak Republic,SVK,2013,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.1
+1023,Slovak Republic,SVK,2012,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1024,Slovak Republic,SVK,2011,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.3
+1025,Slovak Republic,SVK,2010,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.2
+1026,Slovak Republic,SVK,2009,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.4
+1027,Slovak Republic,SVK,2008,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1028,Slovak Republic,SVK,2007,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.1
+1029,Slovak Republic,SVK,2006,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10
+1030,Slovak Republic,SVK,2005,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.1
+1031,Slovak Republic,SVK,2004,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10
+1032,Slovak Republic,SVK,2003,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.6
+1033,Slovak Republic,SVK,2002,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+1034,Slovak Republic,SVK,2001,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+1035,Slovak Republic,SVK,2000,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1036,Slovak Republic,SVK,1999,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.4
+1037,Slovak Republic,SVK,1998,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1038,Slovak Republic,SVK,1997,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11
+1039,Slovak Republic,SVK,1996,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.2
+1040,Slovak Republic,SVK,1995,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.5
+1041,Slovak Republic,SVK,1994,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.4
+1042,Slovak Republic,SVK,1993,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.8
+1043,Slovak Republic,SVK,1992,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.1
+1044,Slovak Republic,SVK,1991,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.8
+1045,Slovak Republic,SVK,1990,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1046,Slovak Republic,SVK,1989,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.2
+1047,Slovak Republic,SVK,1988,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.9
+1048,Slovak Republic,SVK,1987,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.1
+1049,Slovak Republic,SVK,1986,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.8
+1050,Slovak Republic,SVK,1985,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.5
+1051,Slovak Republic,SVK,1984,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.7
+1052,Slovak Republic,SVK,1983,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.1
+1053,Slovak Republic,SVK,1982,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.3
+1054,Slovak Republic,SVK,1981,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.6
+1055,Slovak Republic,SVK,1980,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.1
+1056,Slovak Republic,SVK,1979,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.3
+1057,Slovak Republic,SVK,1978,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.5
+1058,Slovak Republic,SVK,1977,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.6
+1059,Slovak Republic,SVK,1976,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.8
+1060,Slovak Republic,SVK,1975,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.6
+1061,Slovak Republic,SVK,1974,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.8
+1062,Slovak Republic,SVK,1973,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20
+1063,Slovak Republic,SVK,1972,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.1
+1064,Slovak Republic,SVK,1971,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.2
+1065,Slovak Republic,SVK,1970,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.8
+1066,Slovak Republic,SVK,1969,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.7
+1067,Slovak Republic,SVK,1968,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17
+1068,Slovak Republic,SVK,1967,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.4
+1069,Slovak Republic,SVK,1966,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.5
+1070,Slovak Republic,SVK,1965,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.3
+1071,Slovak Republic,SVK,1964,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.1
+1072,Slovak Republic,SVK,1963,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.4
+1073,Slovak Republic,SVK,1962,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.8
+1074,Slovak Republic,SVK,1961,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.8
+1075,Slovak Republic,SVK,1960,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,21.7
+1076,Slovak Republic,SVK,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.4707317073171
+1077,Slovak Republic,SVK,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.2658536585366
+1078,Slovak Republic,SVK,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.1658536585366
+1079,Slovak Republic,SVK,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.1658536585366
+1080,Slovak Republic,SVK,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.5634146341463
+1081,Slovak Republic,SVK,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.8121951219512
+1082,Slovak Republic,SVK,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.4121951219512
+1083,Slovak Republic,SVK,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.109756097561
+1084,Slovak Republic,SVK,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.9585365853659
+1085,Slovak Republic,SVK,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.1121951219512
+1086,Slovak Republic,SVK,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.909756097561
+1087,Slovak Republic,SVK,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.7048780487805
+1088,Slovak Republic,SVK,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.2073170731707
+1089,Slovak Republic,SVK,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.2048780487805
+1090,Slovak Republic,SVK,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.9048780487805
+1091,Slovak Republic,SVK,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.9585365853659
+1092,Slovak Republic,SVK,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.6048780487805
+1093,Slovak Republic,SVK,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.6048780487805
+1094,Slovak Republic,SVK,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.4024390243903
+1095,Slovak Republic,SVK,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.0512195121951
+1096,Slovak Republic,SVK,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.9024390243902
+1097,Slovak Republic,SVK,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.5512195121951
+1098,Slovak Republic,SVK,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.7048780487805
+1099,Slovak Republic,SVK,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.6536585365854
+1100,Slovak Republic,SVK,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.2536585365854
+1101,Slovak Republic,SVK,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.3
+1102,Slovak Republic,SVK,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.4487804878049
+1103,Slovak Republic,SVK,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.7951219512195
+1104,Slovak Republic,SVK,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8829268292683
+1105,Slovak Republic,SVK,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.9326829268293
+1106,Slovak Republic,SVK,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0263414634146
+1107,Slovak Republic,SVK,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.2078048780488
+1108,Slovak Republic,SVK,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0887804878049
+1109,Slovak Republic,SVK,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0212195121951
+1110,Slovak Republic,SVK,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7346341463415
+1111,Slovak Republic,SVK,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7509756097561
+1112,Slovak Republic,SVK,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4790243902439
+1113,Slovak Republic,SVK,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6890243902439
+1114,Slovak Republic,SVK,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6292682926829
+1115,Slovak Republic,SVK,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4085365853659
+1116,Slovak Republic,SVK,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5199024390244
+1117,Slovak Republic,SVK,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.465243902439
+1118,Slovak Republic,SVK,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3986097560976
+1119,Slovak Republic,SVK,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3224634146341
+1120,Slovak Republic,SVK,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2448780487805
+1121,Slovak Republic,SVK,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1759024390244
+1122,Slovak Republic,SVK,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1250731707317
+1123,Slovak Republic,SVK,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0989268292683
+1124,Slovak Republic,SVK,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0994878048781
+1125,Slovak Republic,SVK,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.134243902439
+1126,Slovak Republic,SVK,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2057073170732
+1127,Slovak Republic,SVK,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3068292682927
+1128,Slovak Republic,SVK,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4185365853659
+1129,Slovak Republic,SVK,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.525243902439
+1130,Slovak Republic,SVK,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6033658536585
+1131,Slovak Republic,SVK,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6327804878049
+1132,Slovak Republic,SVK,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5949268292683
+1133,Slovak Republic,SVK,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4722926829268
+1134,Slovak Republic,SVK,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2508536585366
+1135,Slovak Republic,SVK,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.9236585365854
+1136,Slovak Republic,SVK,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.1723638921146
+1137,Slovak Republic,SVK,2018,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.629246504777
+1138,Slovak Republic,SVK,2017,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.0810220451917
+1139,Slovak Republic,SVK,2016,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.5481176691744
+1140,Slovak Republic,SVK,2015,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.0470684896325
+1141,Slovak Republic,SVK,2014,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.6510571483253
+1142,Slovak Republic,SVK,2013,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.303183027542
+1143,Slovak Republic,SVK,2012,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.996166680425
+1144,Slovak Republic,SVK,2011,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.716102997687
+1145,Slovak Republic,SVK,2010,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.4523388253859
+1146,Slovak Republic,SVK,2009,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2575494528668
+1147,Slovak Republic,SVK,2008,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.0821851286011
+1148,Slovak Republic,SVK,2007,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.9217766081117
+1149,Slovak Republic,SVK,2006,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.7743193558862
+1150,Slovak Republic,SVK,2005,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6376793098971
+1151,Slovak Republic,SVK,2004,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5756438702221
+1152,Slovak Republic,SVK,2003,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5262432141432
+1153,Slovak Republic,SVK,2002,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4766110839718
+1154,Slovak Republic,SVK,2001,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4040539319318
+1155,Slovak Republic,SVK,2000,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.2915942718297
+1156,Slovak Republic,SVK,1999,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.2346573767977
+1157,Slovak Republic,SVK,1998,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.1390863154914
+1158,Slovak Republic,SVK,1997,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.0125493303537
+1159,Slovak Republic,SVK,1996,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.8716814849535
+1160,Slovak Republic,SVK,1995,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.7267643573492
+1161,Slovak Republic,SVK,1994,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.662298877323
+1162,Slovak Republic,SVK,1993,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.5990334405917
+1163,Slovak Republic,SVK,1992,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.5224719006244
+1164,Slovak Republic,SVK,1991,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.4075634248625
+1165,Slovak Republic,SVK,1990,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.2364698643498
+1166,Slovak Republic,SVK,1989,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.0798890560575
+1167,Slovak Republic,SVK,1988,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.85706429170204
+1168,Slovak Republic,SVK,1987,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.60785324175918
+1169,Slovak Republic,SVK,1986,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.40701221683898
+1170,Slovak Republic,SVK,1985,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.30628602085856
+1171,Slovak Republic,SVK,1984,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.41908661196628
+1172,Slovak Republic,SVK,1983,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.67552505008333
+1173,Slovak Republic,SVK,1982,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.0122391301349
+1174,Slovak Republic,SVK,1981,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.3103006129623
+1175,Slovak Republic,SVK,1980,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.4842546056612
+1176,Slovak Republic,SVK,1979,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.5636994152415
+1177,Slovak Republic,SVK,1978,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.5084595739682
+1178,Slovak Republic,SVK,1977,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.3488987216272
+1179,Slovak Republic,SVK,1976,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.1595233895373
+1180,Slovak Republic,SVK,1975,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.99175177904868
+1181,Slovak Republic,SVK,1974,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.8427879475719
+1182,Slovak Republic,SVK,1973,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.70508318881887
+1183,Slovak Republic,SVK,1972,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.56575316557301
+1184,Slovak Republic,SVK,1971,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.39731351092751
+1185,Slovak Republic,SVK,1970,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.18344572986804
+1186,Slovak Republic,SVK,1969,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.95403777542593
+1187,Slovak Republic,SVK,1968,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.70606036779646
+1188,Slovak Republic,SVK,1967,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.44807858740488
+1189,Slovak Republic,SVK,1966,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.18986443589648
+1190,Slovak Republic,SVK,1965,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.932492473968
+1191,Slovak Republic,SVK,1964,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.67466666543877
+1192,Slovak Republic,SVK,1963,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.42584069544762
+1193,Slovak Republic,SVK,1962,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.18889768792045
+1194,Slovak Republic,SVK,1961,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,6.97054695114831
+1195,Slovak Republic,SVK,1960,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,6.77609320868987
+1196,Slovak Republic,SVK,2019,Population growth (annual %),SP.POP.GROW,0.135328072840865
+1197,Slovak Republic,SVK,2018,Population growth (annual %),SP.POP.GROW,0.138508159611326
+1198,Slovak Republic,SVK,2017,Population growth (annual %),SP.POP.GROW,0.155178995687406
+1199,Slovak Republic,SVK,2016,Population growth (annual %),SP.POP.GROW,0.128922329956911
+1200,Slovak Republic,SVK,2015,Population growth (annual %),SP.POP.GROW,0.0950338786482762
+1201,Slovak Republic,SVK,2014,Population growth (annual %),SP.POP.GROW,0.0970454215834878
+1202,Slovak Republic,SVK,2013,Population growth (annual %),SP.POP.GROW,0.107458009492367
+1203,Slovak Republic,SVK,2012,Population growth (annual %),SP.POP.GROW,0.170183855326072
+1204,Slovak Republic,SVK,2011,Population growth (annual %),SP.POP.GROW,0.128936462723796
+1205,Slovak Republic,SVK,2010,Population growth (annual %),SP.POP.GROW,0.0931912731899838
+1206,Slovak Republic,SVK,2009,Population growth (annual %),SP.POP.GROW,0.133257321027673
+1207,Slovak Republic,SVK,2008,Population growth (annual %),SP.POP.GROW,0.0857552995195914
+1208,Slovak Republic,SVK,2007,Population growth (annual %),SP.POP.GROW,0.0291784011934372
+1209,Slovak Republic,SVK,2006,Population growth (annual %),SP.POP.GROW,0.00459711883568263
+1210,Slovak Republic,SVK,2005,Population growth (annual %),SP.POP.GROW,0.00980913417308711
+1211,Slovak Republic,SVK,2004,Population growth (annual %),SP.POP.GROW,-0.0203617202597358
+1212,Slovak Republic,SVK,2003,Population growth (annual %),SP.POP.GROW,-0.0658215070322074
+1213,Slovak Republic,SVK,2002,Population growth (annual %),SP.POP.GROW,-0.0363525509687338
+1214,Slovak Republic,SVK,2001,Population growth (annual %),SP.POP.GROW,-0.18301227099618
+1215,Slovak Republic,SVK,2000,Population growth (annual %),SP.POP.GROW,-0.135376487794425
+1216,Slovak Republic,SVK,1999,Population growth (annual %),SP.POP.GROW,0.102053161046239
+1217,Slovak Republic,SVK,1998,Population growth (annual %),SP.POP.GROW,0.13412159848536
+1218,Slovak Republic,SVK,1997,Population growth (annual %),SP.POP.GROW,0.184629991205462
+1219,Slovak Republic,SVK,1996,Population growth (annual %),SP.POP.GROW,0.211674396431709
+1220,Slovak Republic,SVK,1995,Population growth (annual %),SP.POP.GROW,0.29263220653253
+1221,Slovak Republic,SVK,1994,Population growth (annual %),SP.POP.GROW,0.39405443003197
+1222,Slovak Republic,SVK,1993,Population growth (annual %),SP.POP.GROW,0.381719886651125
+1223,Slovak Republic,SVK,1992,Population growth (annual %),SP.POP.GROW,0.0324651148981277
+1224,Slovak Republic,SVK,1991,Population growth (annual %),SP.POP.GROW,0.0774724369780578
+1225,Slovak Republic,SVK,1990,Population growth (annual %),SP.POP.GROW,0.439617094726275
+1226,Slovak Republic,SVK,1989,Population growth (annual %),SP.POP.GROW,0.481564764827773
+1227,Slovak Republic,SVK,1988,Population growth (annual %),SP.POP.GROW,0.530027872017792
+1228,Slovak Republic,SVK,1987,Population growth (annual %),SP.POP.GROW,0.556839232981892
+1229,Slovak Republic,SVK,1986,Population growth (annual %),SP.POP.GROW,0.619376645352564
+1230,Slovak Republic,SVK,1985,Population growth (annual %),SP.POP.GROW,0.673954439753091
+1231,Slovak Republic,SVK,1984,Population growth (annual %),SP.POP.GROW,0.687462659789032
+1232,Slovak Republic,SVK,1983,Population growth (annual %),SP.POP.GROW,0.726754862038002
+1233,Slovak Republic,SVK,1982,Population growth (annual %),SP.POP.GROW,0.774370072451157
+1234,Slovak Republic,SVK,1981,Population growth (annual %),SP.POP.GROW,0.726099437372322
+1235,Slovak Republic,SVK,1980,Population growth (annual %),SP.POP.GROW,0.823532690227528
+1236,Slovak Republic,SVK,1979,Population growth (annual %),SP.POP.GROW,0.993954931762582
+1237,Slovak Republic,SVK,1978,Population growth (annual %),SP.POP.GROW,1.01996377640607
+1238,Slovak Republic,SVK,1977,Population growth (annual %),SP.POP.GROW,1.05907443980237
+1239,Slovak Republic,SVK,1976,Population growth (annual %),SP.POP.GROW,1.05791840570578
+1240,Slovak Republic,SVK,1975,Population growth (annual %),SP.POP.GROW,1.04961038811862
+1241,Slovak Republic,SVK,1974,Population growth (annual %),SP.POP.GROW,1.0326455261866
+1242,Slovak Republic,SVK,1973,Population growth (annual %),SP.POP.GROW,0.970405426654067
+1243,Slovak Republic,SVK,1972,Population growth (annual %),SP.POP.GROW,0.855864874103741
+1244,Slovak Republic,SVK,1971,Population growth (annual %),SP.POP.GROW,0.422751142162509
+1245,Slovak Republic,SVK,1970,Population growth (annual %),SP.POP.GROW,0.433176523644296
+1246,Slovak Republic,SVK,1969,Population growth (annual %),SP.POP.GROW,0.770721176320319
+1247,Slovak Republic,SVK,1968,Population growth (annual %),SP.POP.GROW,0.773470987216663
+1248,Slovak Republic,SVK,1967,Population growth (annual %),SP.POP.GROW,0.850944297257204
+1249,Slovak Republic,SVK,1966,Population growth (annual %),SP.POP.GROW,0.926446929305
+1250,Slovak Republic,SVK,1965,Population growth (annual %),SP.POP.GROW,1.00346609779566
+1251,Slovak Republic,SVK,1964,Population growth (annual %),SP.POP.GROW,1.05291053584313
+1252,Slovak Republic,SVK,1963,Population growth (annual %),SP.POP.GROW,1.02883408574012
+1253,Slovak Republic,SVK,1962,Population growth (annual %),SP.POP.GROW,1.10373125690825
+1254,Slovak Republic,SVK,1961,Population growth (annual %),SP.POP.GROW,2.99236759278997
+1255,Slovak Republic,SVK,2019,"Population, total",SP.POP.TOTL,5454147
+1256,Slovak Republic,SVK,2018,"Population, total",SP.POP.TOTL,5446771
+1257,Slovak Republic,SVK,2017,"Population, total",SP.POP.TOTL,5439232
+1258,Slovak Republic,SVK,2016,"Population, total",SP.POP.TOTL,5430798
+1259,Slovak Republic,SVK,2015,"Population, total",SP.POP.TOTL,5423801
+1260,Slovak Republic,SVK,2014,"Population, total",SP.POP.TOTL,5418649
+1261,Slovak Republic,SVK,2013,"Population, total",SP.POP.TOTL,5413393
+1262,Slovak Republic,SVK,2012,"Population, total",SP.POP.TOTL,5407579
+1263,Slovak Republic,SVK,2011,"Population, total",SP.POP.TOTL,5398384
+1264,Slovak Republic,SVK,2010,"Population, total",SP.POP.TOTL,5391428
+1265,Slovak Republic,SVK,2009,"Population, total",SP.POP.TOTL,5386406
+1266,Slovak Republic,SVK,2008,"Population, total",SP.POP.TOTL,5379233
+1267,Slovak Republic,SVK,2007,"Population, total",SP.POP.TOTL,5374622
+1268,Slovak Republic,SVK,2006,"Population, total",SP.POP.TOTL,5373054
+1269,Slovak Republic,SVK,2005,"Population, total",SP.POP.TOTL,5372807
+1270,Slovak Republic,SVK,2004,"Population, total",SP.POP.TOTL,5372280
+1271,Slovak Republic,SVK,2003,"Population, total",SP.POP.TOTL,5373374
+1272,Slovak Republic,SVK,2002,"Population, total",SP.POP.TOTL,5376912
+1273,Slovak Republic,SVK,2001,"Population, total",SP.POP.TOTL,5378867
+1274,Slovak Republic,SVK,2000,"Population, total",SP.POP.TOTL,5388720
+1275,Slovak Republic,SVK,1999,"Population, total",SP.POP.TOTL,5396020
+1276,Slovak Republic,SVK,1998,"Population, total",SP.POP.TOTL,5390516
+1277,Slovak Republic,SVK,1997,"Population, total",SP.POP.TOTL,5383291
+1278,Slovak Republic,SVK,1996,"Population, total",SP.POP.TOTL,5373361
+1279,Slovak Republic,SVK,1995,"Population, total",SP.POP.TOTL,5361999
+1280,Slovak Republic,SVK,1994,"Population, total",SP.POP.TOTL,5346331
+1281,Slovak Republic,SVK,1993,"Population, total",SP.POP.TOTL,5325305
+1282,Slovak Republic,SVK,1992,"Population, total",SP.POP.TOTL,5305016
+1283,Slovak Republic,SVK,1991,"Population, total",SP.POP.TOTL,5303294
+1284,Slovak Republic,SVK,1990,"Population, total",SP.POP.TOTL,5299187
+1285,Slovak Republic,SVK,1989,"Population, total",SP.POP.TOTL,5275942
+1286,Slovak Republic,SVK,1988,"Population, total",SP.POP.TOTL,5250596
+1287,Slovak Republic,SVK,1987,"Population, total",SP.POP.TOTL,5222840
+1288,Slovak Republic,SVK,1986,"Population, total",SP.POP.TOTL,5193838
+1289,Slovak Republic,SVK,1985,"Population, total",SP.POP.TOTL,5161768
+1290,Slovak Republic,SVK,1984,"Population, total",SP.POP.TOTL,5127097
+1291,Slovak Republic,SVK,1983,"Population, total",SP.POP.TOTL,5091971
+1292,Slovak Republic,SVK,1982,"Population, total",SP.POP.TOTL,5055099
+1293,Slovak Republic,SVK,1981,"Population, total",SP.POP.TOTL,5016105
+1294,Slovak Republic,SVK,1980,"Population, total",SP.POP.TOTL,4979815
+1295,Slovak Republic,SVK,1979,"Population, total",SP.POP.TOTL,4938973
+1296,Slovak Republic,SVK,1978,"Population, total",SP.POP.TOTL,4890125
+1297,Slovak Republic,SVK,1977,"Population, total",SP.POP.TOTL,4840501
+1298,Slovak Republic,SVK,1976,"Population, total",SP.POP.TOTL,4789507
+1299,Slovak Republic,SVK,1975,"Population, total",SP.POP.TOTL,4739105
+1300,Slovak Republic,SVK,1974,"Population, total",SP.POP.TOTL,4689623
+1301,Slovak Republic,SVK,1973,"Population, total",SP.POP.TOTL,4641445
+1302,Slovak Republic,SVK,1972,"Population, total",SP.POP.TOTL,4596622
+1303,Slovak Republic,SVK,1971,"Population, total",SP.POP.TOTL,4557449
+1304,Slovak Republic,SVK,1970,"Population, total",SP.POP.TOTL,4538223
+1305,Slovak Republic,SVK,1969,"Population, total",SP.POP.TOTL,4518607
+1306,Slovak Republic,SVK,1968,"Population, total",SP.POP.TOTL,4483915
+1307,Slovak Republic,SVK,1967,"Population, total",SP.POP.TOTL,4449367
+1308,Slovak Republic,SVK,1966,"Population, total",SP.POP.TOTL,4411666
+1309,Slovak Republic,SVK,1965,"Population, total",SP.POP.TOTL,4370983
+1310,Slovak Republic,SVK,1964,"Population, total",SP.POP.TOTL,4327341
+1311,Slovak Republic,SVK,1963,"Population, total",SP.POP.TOTL,4282017
+1312,Slovak Republic,SVK,1962,"Population, total",SP.POP.TOTL,4238188
+1313,Slovak Republic,SVK,1961,"Population, total",SP.POP.TOTL,4191667
+1314,Slovak Republic,SVK,1960,"Population, total",SP.POP.TOTL,4068095
+1315,Slovak Republic,SVK,2019,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3192750904708
+1316,Slovak Republic,SVK,2018,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3383325230785
+1317,Slovak Republic,SVK,2017,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3615789414753
+1318,Slovak Republic,SVK,2016,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3859516012584
+1319,Slovak Republic,SVK,2015,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.409095642185
+1320,Slovak Republic,SVK,2014,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4301324160523
+1321,Slovak Republic,SVK,2013,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4494013985596
+1322,Slovak Republic,SVK,2012,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4665661045258
+1323,Slovak Republic,SVK,2011,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4819006783594
+1324,Slovak Republic,SVK,2010,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4953574870941
+1325,Slovak Republic,SVK,2009,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5066886693924
+1326,Slovak Republic,SVK,2008,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5153642226619
+1327,Slovak Republic,SVK,2007,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5208773679111
+1328,Slovak Republic,SVK,2006,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5222812120161
+1329,Slovak Republic,SVK,2005,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5188845559572
+1330,Slovak Republic,SVK,2004,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.510545481754
+1331,Slovak Republic,SVK,2003,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4973765908793
+1332,Slovak Republic,SVK,2002,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4807808116999
+1333,Slovak Republic,SVK,2001,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4623809836861
+1334,Slovak Republic,SVK,2000,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4433878901105
+1335,Slovak Republic,SVK,1999,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4243542954983
+1336,Slovak Republic,SVK,1998,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4049109467156
+1337,Slovak Republic,SVK,1997,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3846633830452
+1338,Slovak Republic,SVK,1996,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3627081603152
+1339,Slovak Republic,SVK,1995,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3385062143403
+1340,Slovak Republic,SVK,1994,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3118290236578
+1341,Slovak Republic,SVK,1993,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2832294661218
+1342,Slovak Republic,SVK,1992,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2530331510675
+1343,Slovak Republic,SVK,1991,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2216368892734
+1344,Slovak Republic,SVK,1990,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.1896952890778
+1345,Slovak Republic,SVK,1989,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.1575613678502
+1346,Slovak Republic,SVK,1988,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.1252592468854
+1347,Slovak Republic,SVK,1987,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.0926793215359
+1348,Slovak Republic,SVK,1986,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.0596611440767
+1349,Slovak Republic,SVK,1985,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.0261212625951
+1350,Slovak Republic,SVK,1984,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.9920217062532
+1351,Slovak Republic,SVK,1983,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.9575418598417
+1352,Slovak Republic,SVK,1982,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.9240656365284
+1353,Slovak Republic,SVK,1981,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8931997628113
+1354,Slovak Republic,SVK,1980,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8661864859618
+1355,Slovak Republic,SVK,1979,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8434628373705
+1356,Slovak Republic,SVK,1978,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8246849102404
+1357,Slovak Republic,SVK,1977,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8085945083085
+1358,Slovak Republic,SVK,1976,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.7927542932354
+1359,Slovak Republic,SVK,1975,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.7757646074086
+1360,Slovak Republic,SVK,1974,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.7573693407709
+1361,Slovak Republic,SVK,1973,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.7382259654822
+1362,Slovak Republic,SVK,1972,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.717833440284
+1363,Slovak Republic,SVK,1971,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.6960237889903
+1364,Slovak Republic,SVK,1970,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.6728697159166
+1365,Slovak Republic,SVK,1969,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.6480029967919
+1366,Slovak Republic,SVK,1968,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.6226170354061
+1367,Slovak Republic,SVK,1967,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.5988354410234
+1368,Slovak Republic,SVK,1966,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.5799079761197
+1369,Slovak Republic,SVK,1965,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.56829717989
+1370,Slovak Republic,SVK,1964,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.5649990019475
+1371,Slovak Republic,SVK,1963,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.5703498123803
+1372,Slovak Republic,SVK,1962,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.5843912559705
+1373,Slovak Republic,SVK,1961,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.6073992730036
+1374,Slovak Republic,SVK,1960,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.6394005209501
+1375,Slovak Republic,SVK,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,29.04687968
+1376,Slovak Republic,SVK,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,27.65439443
+1377,Slovak Republic,SVK,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,25.78518328
+1378,Slovak Republic,SVK,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,24.55972553
+1379,Slovak Republic,SVK,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,23.43456881
+1380,Slovak Republic,SVK,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,21.94251661
+1381,Slovak Republic,SVK,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,20.45585123
+1382,Slovak Republic,SVK,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,19.30769033
+1383,Slovak Republic,SVK,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,17.62080054
+1384,Slovak Republic,SVK,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,16.22696693
+1385,Slovak Republic,SVK,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,14.34982494
+1386,Slovak Republic,SVK,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,11.19923043
+1387,Slovak Republic,SVK,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,10.12586012
+1388,Slovak Republic,SVK,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,5.642405087
+1389,Slovak Republic,SVK,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,3.362460532
+1390,Slovak Republic,SVK,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,1.45876008
+1391,Slovak Republic,SVK,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.415957231
+1392,Slovak Republic,SVK,2002,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.075609403
+1393,Slovak Republic,SVK,2019,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.9499969482422
+1394,Slovak Republic,SVK,2018,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.1900024414063
+1395,Slovak Republic,SVK,2017,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.7399978637695
+1396,Slovak Republic,SVK,2016,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.5699996948242
+1397,Slovak Republic,SVK,2015,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.8499984741211
+1398,Slovak Republic,SVK,2014,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.5500030517578
+1399,Slovak Republic,SVK,2013,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.3899993896484
+1400,Slovak Republic,SVK,2012,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.4800033569336
+1401,Slovak Republic,SVK,2011,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84
+1402,Slovak Republic,SVK,2010,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.0299987792969
+1403,Slovak Republic,SVK,2009,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.3300018310547
+1404,Slovak Republic,SVK,2008,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.2300033569336
+1405,Slovak Republic,SVK,2007,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.1100006103516
+1406,Slovak Republic,SVK,2006,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.3499984741211
+1407,Slovak Republic,SVK,2005,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.3199996948242
+1408,Slovak Republic,SVK,2004,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.8899993896484
+1409,Slovak Republic,SVK,2003,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,90.4899978637695
+1410,Slovak Republic,SVK,2002,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.5199966430664
+1411,Slovak Republic,SVK,2001,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.4800033569336
+1412,Slovak Republic,SVK,2000,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.0999984741211
+1413,Slovak Republic,SVK,1999,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.4199981689453
+1414,Slovak Republic,SVK,1998,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,93.1500015258789
+1415,Slovak Republic,SVK,1997,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,93.1900024414063
+1416,Slovak Republic,SVK,1996,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,93.25
+1417,Slovak Republic,SVK,1995,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,93.2300033569336
+1418,Slovak Republic,SVK,1994,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,93.2399978637695
+1419,Slovak Republic,SVK,1993,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,93.25
+1420,Slovak Republic,SVK,1992,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,93.2699966430664
+1421,Slovak Republic,SVK,1991,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,93.2799987792969
+1422,Slovak Republic,SVK,2019,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.7399997711182
+1423,Slovak Republic,SVK,2018,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.7000007629395
+1424,Slovak Republic,SVK,2017,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,26.2000007629395
+1425,Slovak Republic,SVK,2016,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.1499996185303
+1426,Slovak Republic,SVK,2015,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.3899993896484
+1427,Slovak Republic,SVK,2014,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.7299995422363
+1428,Slovak Republic,SVK,2013,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.4500007629395
+1429,Slovak Republic,SVK,2012,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.0599994659424
+1430,Slovak Republic,SVK,2011,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.1200008392334
+1431,Slovak Republic,SVK,2010,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.6800003051758
+1432,Slovak Republic,SVK,2009,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.9899997711182
+1433,Slovak Republic,SVK,2008,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.3999996185303
+1434,Slovak Republic,SVK,2007,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.2199993133545
+1435,Slovak Republic,SVK,2006,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.4400005340576
+1436,Slovak Republic,SVK,2005,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,8.52000045776367
+1437,Slovak Republic,SVK,2004,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,6.55999994277954
+1438,Slovak Republic,SVK,2003,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,5.8600001335144
+1439,Slovak Republic,SVK,2002,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.1399993896484
+1440,Slovak Republic,SVK,2001,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.0699996948242
+1441,Slovak Republic,SVK,2000,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,16.8099994659424
+1442,Slovak Republic,SVK,1999,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,12.5500001907349
+1443,Slovak Republic,SVK,1998,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.8100004196167
+1444,Slovak Republic,SVK,2019,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.3000001907349
+1445,Slovak Republic,SVK,2018,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.1899995803833
+1446,Slovak Republic,SVK,2017,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.1000003814697
+1447,Slovak Republic,SVK,2016,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.25
+1448,Slovak Republic,SVK,2015,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.7200002670288
+1449,Slovak Republic,SVK,2014,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.8000001907349
+1450,Slovak Republic,SVK,2013,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.6899995803833
+1451,Slovak Republic,SVK,2012,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.8100004196167
+1452,Slovak Republic,SVK,2011,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.8100004196167
+1453,Slovak Republic,SVK,2010,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,14.0900001525879
+1454,Slovak Republic,SVK,2009,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.5500001907349
+1455,Slovak Republic,SVK,2008,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.0600004196167
+1456,Slovak Republic,SVK,2007,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.5500001907349
+1457,Slovak Republic,SVK,2006,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,14.3599996566772
+1458,Slovak Republic,SVK,2005,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,15.8500003814697
+1459,Slovak Republic,SVK,2004,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,17.0799999237061
+1460,Slovak Republic,SVK,2003,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,16.9799995422363
+1461,Slovak Republic,SVK,2018,Gini index (World Bank estimate),SI.POV.GINI,25
+1462,Slovak Republic,SVK,2016,Gini index (World Bank estimate),SI.POV.GINI,25.2
+1463,Slovak Republic,SVK,2015,Gini index (World Bank estimate),SI.POV.GINI,26.5
+1464,Slovak Republic,SVK,2014,Gini index (World Bank estimate),SI.POV.GINI,26.1
+1465,Slovak Republic,SVK,2013,Gini index (World Bank estimate),SI.POV.GINI,28.1
+1466,Slovak Republic,SVK,2012,Gini index (World Bank estimate),SI.POV.GINI,26.1
+1467,Slovak Republic,SVK,2011,Gini index (World Bank estimate),SI.POV.GINI,26.5
+1468,Slovak Republic,SVK,2010,Gini index (World Bank estimate),SI.POV.GINI,27.3
+1469,Slovak Republic,SVK,2009,Gini index (World Bank estimate),SI.POV.GINI,27.2
+1470,Slovak Republic,SVK,2008,Gini index (World Bank estimate),SI.POV.GINI,26
+1471,Slovak Republic,SVK,2007,Gini index (World Bank estimate),SI.POV.GINI,24.7
+1472,Slovak Republic,SVK,2006,Gini index (World Bank estimate),SI.POV.GINI,25.8
+1473,Slovak Republic,SVK,2005,Gini index (World Bank estimate),SI.POV.GINI,29.3
+1474,Slovak Republic,SVK,2004,Gini index (World Bank estimate),SI.POV.GINI,27.1
+1475,Slovak Republic,SVK,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.4
+1476,Slovak Republic,SVK,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.2
+1477,Slovak Republic,SVK,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.8
+1478,Slovak Republic,SVK,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.5
+1479,Slovak Republic,SVK,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.9
+1480,Slovak Republic,SVK,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.7
+1481,Slovak Republic,SVK,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.3
+1482,Slovak Republic,SVK,2010,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.2
+1483,Slovak Republic,SVK,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.4
+1484,Slovak Republic,SVK,2008,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.2
+1485,Slovak Republic,SVK,2007,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2
+1486,Slovak Republic,SVK,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.1
+1487,Slovak Republic,SVK,2005,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.1
+1488,Slovak Republic,SVK,2004,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,5.1
+1489,Slovak Republic,SVK,2020,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1490,Slovak Republic,SVK,2019,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1491,Slovak Republic,SVK,2018,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1492,Slovak Republic,SVK,2017,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1493,Slovak Republic,SVK,2016,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1494,Slovak Republic,SVK,2015,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1495,Slovak Republic,SVK,2014,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1496,Slovak Republic,SVK,2013,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1497,Slovak Republic,SVK,2012,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1498,Slovak Republic,SVK,2011,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1499,Slovak Republic,SVK,2010,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1500,Slovak Republic,SVK,2009,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1501,Slovak Republic,SVK,2008,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1502,Slovak Republic,SVK,2007,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1503,Slovak Republic,SVK,2006,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1504,Slovak Republic,SVK,2005,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1505,Slovak Republic,SVK,2004,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1506,Slovak Republic,SVK,2003,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1507,Slovak Republic,SVK,2002,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1508,Slovak Republic,SVK,2001,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1509,Slovak Republic,SVK,2000,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1510,Slovak Republic,SVK,1999,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1511,Slovak Republic,SVK,1998,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1512,Slovak Republic,SVK,1997,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1513,Slovak Republic,SVK,1996,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1514,Slovak Republic,SVK,1995,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1515,Slovak Republic,SVK,1994,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1516,Slovak Republic,SVK,1993,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1517,Slovak Republic,SVK,1992,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1518,Slovak Republic,SVK,1991,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1519,Slovak Republic,SVK,1990,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1520,Slovak Republic,SVK,1989,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1521,Slovak Republic,SVK,1988,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1522,Slovak Republic,SVK,1987,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1523,Slovak Republic,SVK,1986,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1524,Slovak Republic,SVK,1985,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1525,Slovak Republic,SVK,1984,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1526,Slovak Republic,SVK,1983,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1527,Slovak Republic,SVK,1982,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1528,Slovak Republic,SVK,1981,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1529,Slovak Republic,SVK,1980,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1530,Slovak Republic,SVK,1979,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1531,Slovak Republic,SVK,1978,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1532,Slovak Republic,SVK,1977,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1533,Slovak Republic,SVK,1976,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1534,Slovak Republic,SVK,1975,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1535,Slovak Republic,SVK,1974,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1536,Slovak Republic,SVK,1973,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1537,Slovak Republic,SVK,1972,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1538,Slovak Republic,SVK,1971,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1539,Slovak Republic,SVK,1970,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1540,Slovak Republic,SVK,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1541,Slovak Republic,SVK,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1542,Slovak Republic,SVK,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1543,Slovak Republic,SVK,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1544,Slovak Republic,SVK,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1545,Slovak Republic,SVK,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1546,Slovak Republic,SVK,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1547,Slovak Republic,SVK,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1548,Slovak Republic,SVK,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1549,Slovak Republic,SVK,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1550,Slovak Republic,SVK,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1551,Slovak Republic,SVK,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1552,Slovak Republic,SVK,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1553,Slovak Republic,SVK,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1554,Slovak Republic,SVK,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1555,Slovak Republic,SVK,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1556,Slovak Republic,SVK,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1557,Slovak Republic,SVK,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1558,Slovak Republic,SVK,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1559,Slovak Republic,SVK,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1560,Slovak Republic,SVK,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1561,Slovak Republic,SVK,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1562,Slovak Republic,SVK,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1563,Slovak Republic,SVK,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1564,Slovak Republic,SVK,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1565,Slovak Republic,SVK,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1566,Slovak Republic,SVK,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1567,Slovak Republic,SVK,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1568,Slovak Republic,SVK,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1569,Slovak Republic,SVK,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1570,Slovak Republic,SVK,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1571,Slovak Republic,SVK,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1572,Slovak Republic,SVK,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1573,Slovak Republic,SVK,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1574,Slovak Republic,SVK,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1575,Slovak Republic,SVK,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1576,Slovak Republic,SVK,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1577,Slovak Republic,SVK,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1578,Slovak Republic,SVK,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1579,Slovak Republic,SVK,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1580,Slovak Republic,SVK,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1581,Slovak Republic,SVK,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1582,Slovak Republic,SVK,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1583,Slovak Republic,SVK,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1584,Slovak Republic,SVK,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1585,Slovak Republic,SVK,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1586,Slovak Republic,SVK,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1587,Slovak Republic,SVK,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1588,Slovak Republic,SVK,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1589,Slovak Republic,SVK,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1590,Slovak Republic,SVK,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1591,Slovak Republic,SVK,2018,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.83252
+1592,Slovak Republic,SVK,2017,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.88267
+1593,Slovak Republic,SVK,2016,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.78895
+1594,Slovak Republic,SVK,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.17171
+1595,Slovak Republic,SVK,2014,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.88008
+1596,Slovak Republic,SVK,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.82362
+1597,Slovak Republic,SVK,2012,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.80495
+1598,Slovak Republic,SVK,2011,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.66326
+1599,Slovak Republic,SVK,2010,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.61614
+1600,Slovak Republic,SVK,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.47326
+1601,Slovak Republic,SVK,2008,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.46204
+1602,Slovak Republic,SVK,2007,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.44824
+1603,Slovak Republic,SVK,2006,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.47563
+1604,Slovak Republic,SVK,2005,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.49401
+1605,Slovak Republic,SVK,2004,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.50149
+1606,Slovak Republic,SVK,2003,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.56247
+1607,Slovak Republic,SVK,2002,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.56389
+1608,Slovak Republic,SVK,2001,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.62565
+1609,Slovak Republic,SVK,2000,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.63927
+1610,Slovak Republic,SVK,1999,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.64556
+1611,Slovak Republic,SVK,1998,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.76611
+1612,Slovak Republic,SVK,1997,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.05283
+1613,Slovak Republic,SVK,1996,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.89292
+1614,Slovak Republic,SVK,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.729
+1615,Slovak Republic,SVK,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.726
+1616,Slovak Republic,SVK,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.751
+1617,Slovak Republic,SVK,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.806
+1618,Slovak Republic,SVK,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.889
+1619,Slovak Republic,SVK,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54
+1620,Slovak Republic,SVK,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.14
+1621,Slovak Republic,SVK,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.28
+1622,Slovak Republic,SVK,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.42
+1623,Slovak Republic,SVK,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.685
+1624,Slovak Republic,SVK,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.96
+1625,Slovak Republic,SVK,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.111
+1626,Slovak Republic,SVK,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.261
+1627,Slovak Republic,SVK,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.412
+1628,Slovak Republic,SVK,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.563
+1629,Slovak Republic,SVK,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.713
+1630,Slovak Republic,SVK,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.863
+1631,Slovak Republic,SVK,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.013
+1632,Slovak Republic,SVK,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.163
+1633,Slovak Republic,SVK,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.233
+1634,Slovak Republic,SVK,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.294
+1635,Slovak Republic,SVK,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.355
+1636,Slovak Republic,SVK,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.416
+1637,Slovak Republic,SVK,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.476
+1638,Slovak Republic,SVK,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.537
+1639,Slovak Republic,SVK,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.598
+1640,Slovak Republic,SVK,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.659
+1641,Slovak Republic,SVK,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.719
+1642,Slovak Republic,SVK,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.78
+1643,Slovak Republic,SVK,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.491
+1644,Slovak Republic,SVK,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.03
+1645,Slovak Republic,SVK,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.568
+1646,Slovak Republic,SVK,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.105
+1647,Slovak Republic,SVK,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.641
+1648,Slovak Republic,SVK,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.176
+1649,Slovak Republic,SVK,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.711
+1650,Slovak Republic,SVK,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.244
+1651,Slovak Republic,SVK,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.777
+1652,Slovak Republic,SVK,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.31
+1653,Slovak Republic,SVK,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.638
+1654,Slovak Republic,SVK,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.56
+1655,Slovak Republic,SVK,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.482
+1656,Slovak Republic,SVK,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.405
+1657,Slovak Republic,SVK,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.331
+1658,Slovak Republic,SVK,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.257
+1659,Slovak Republic,SVK,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.187
+1660,Slovak Republic,SVK,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.122
+1661,Slovak Republic,SVK,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.064
+1662,Slovak Republic,SVK,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.009
+1663,Slovak Republic,SVK,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.057
+1664,Slovak Republic,SVK,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.243
+1665,Slovak Republic,SVK,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.435
+1666,Slovak Republic,SVK,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.63
+1667,Slovak Republic,SVK,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.833
+1668,Slovak Republic,SVK,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.043
+1669,Slovak Republic,SVK,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.26
+1670,Slovak Republic,SVK,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.483
+1671,Slovak Republic,SVK,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.714
+1672,Slovak Republic,SVK,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.953
+1673,Slovak Republic,SVK,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.464
+1674,Slovak Republic,SVK,2016,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.9
+1675,Slovak Republic,SVK,2015,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.7
+1676,Slovak Republic,SVK,2014,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.4
+1677,Slovak Republic,SVK,2013,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.1
+1678,Slovak Republic,SVK,2012,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.9
+1679,Slovak Republic,SVK,2011,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.7
+1680,Slovak Republic,SVK,2010,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.4
+1681,Slovak Republic,SVK,2009,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.2
+1682,Slovak Republic,SVK,2008,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18
+1683,Slovak Republic,SVK,2007,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.7
+1684,Slovak Republic,SVK,2006,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.5
+1685,Slovak Republic,SVK,2005,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.3
+1686,Slovak Republic,SVK,2004,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.1
+1687,Slovak Republic,SVK,2003,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.9
+1688,Slovak Republic,SVK,2002,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.7
+1689,Slovak Republic,SVK,2001,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.5
+1690,Slovak Republic,SVK,2000,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.3
+1691,Slovak Republic,SVK,1999,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.2
+1692,Slovak Republic,SVK,1998,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16
+1693,Slovak Republic,SVK,1997,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.8
+1694,Slovak Republic,SVK,1996,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.6
+1695,Slovak Republic,SVK,1995,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.5
+1696,Slovak Republic,SVK,1994,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.3
+1697,Slovak Republic,SVK,1993,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.1
+1698,Slovak Republic,SVK,1992,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.9
+1699,Slovak Republic,SVK,1991,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.7
+1700,Slovak Republic,SVK,1990,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.4
+1701,Slovak Republic,SVK,1989,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.2
+1702,Slovak Republic,SVK,1988,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.9
+1703,Slovak Republic,SVK,1987,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.7
+1704,Slovak Republic,SVK,1986,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.4
+1705,Slovak Republic,SVK,1985,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.1
+1706,Slovak Republic,SVK,1984,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,12.8
+1707,Slovak Republic,SVK,1983,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,12.5
+1708,Slovak Republic,SVK,1982,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,12.2
+1709,Slovak Republic,SVK,1981,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,11.9
+1710,Slovak Republic,SVK,1980,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,11.6
+1711,Slovak Republic,SVK,1979,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,11.2
+1712,Slovak Republic,SVK,1978,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,10.9
+1713,Slovak Republic,SVK,1977,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,10.5
+1714,Slovak Republic,SVK,1976,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,10.2
+1715,Slovak Republic,SVK,1975,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,9.9
+1716,Slovak Republic,SVK,2016,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21
+1717,Slovak Republic,SVK,2015,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.5
+1718,Slovak Republic,SVK,2014,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20
+1719,Slovak Republic,SVK,2013,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.6
+1720,Slovak Republic,SVK,2012,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.2
+1721,Slovak Republic,SVK,2011,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.7
+1722,Slovak Republic,SVK,2010,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.3
+1723,Slovak Republic,SVK,2009,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.9
+1724,Slovak Republic,SVK,2008,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.5
+1725,Slovak Republic,SVK,2007,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.1
+1726,Slovak Republic,SVK,2006,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.6
+1727,Slovak Republic,SVK,2005,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.3
+1728,Slovak Republic,SVK,2004,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.9
+1729,Slovak Republic,SVK,2003,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.5
+1730,Slovak Republic,SVK,2002,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.1
+1731,Slovak Republic,SVK,2001,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.7
+1732,Slovak Republic,SVK,2000,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.4
+1733,Slovak Republic,SVK,1999,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14
+1734,Slovak Republic,SVK,1998,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.7
+1735,Slovak Republic,SVK,1997,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.3
+1736,Slovak Republic,SVK,1996,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13
+1737,Slovak Republic,SVK,1995,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.6
+1738,Slovak Republic,SVK,1994,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.3
+1739,Slovak Republic,SVK,1993,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12
+1740,Slovak Republic,SVK,1992,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.6
+1741,Slovak Republic,SVK,1991,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.3
+1742,Slovak Republic,SVK,1990,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.9
+1743,Slovak Republic,SVK,1989,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.6
+1744,Slovak Republic,SVK,1988,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.2
+1745,Slovak Republic,SVK,1987,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.8
+1746,Slovak Republic,SVK,1986,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.5
+1747,Slovak Republic,SVK,1985,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.1
+1748,Slovak Republic,SVK,1984,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.8
+1749,Slovak Republic,SVK,1983,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.4
+1750,Slovak Republic,SVK,1982,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.1
+1751,Slovak Republic,SVK,1981,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.7
+1752,Slovak Republic,SVK,1980,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.4
+1753,Slovak Republic,SVK,1979,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7
+1754,Slovak Republic,SVK,1978,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,6.7
+1755,Slovak Republic,SVK,1977,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,6.4
+1756,Slovak Republic,SVK,1976,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,6
+1757,Slovak Republic,SVK,1975,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,5.7
+1758,Slovak Republic,SVK,2016,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.121
+1759,Slovak Republic,SVK,2015,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.101
+1760,Slovak Republic,SVK,2014,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.086
+1761,Slovak Republic,SVK,2013,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.093
+1762,Slovak Republic,SVK,2012,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.089
+1763,Slovak Republic,SVK,2011,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.091
+1764,Slovak Republic,SVK,2010,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.085
+1765,Slovak Republic,SVK,2009,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.087
+1766,Slovak Republic,SVK,2008,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.1
+1767,Slovak Republic,SVK,2007,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.093
+1768,Slovak Republic,SVK,2006,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.103
+1769,Slovak Republic,SVK,2004,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.072
+1770,Slovak Republic,SVK,2003,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.046
+1771,Slovak Republic,SVK,2002,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.024
+1772,Slovak Republic,SVK,2001,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.041
+1773,Slovak Republic,SVK,2000,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.031
+1774,Slovak Republic,SVK,1999,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.038

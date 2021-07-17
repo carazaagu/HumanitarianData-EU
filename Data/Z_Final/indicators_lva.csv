@@ -1,0 +1,1770 @@
+,Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+0,Latvia,LVA,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,82.54
+1,Latvia,LVA,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,107.8
+2,Latvia,LVA,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,105.65
+3,Latvia,LVA,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,112.13
+4,Latvia,LVA,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,82.21
+5,Latvia,LVA,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,79.17
+6,Latvia,LVA,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,84.98
+7,Latvia,LVA,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,62.58
+8,Latvia,LVA,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,62.36
+9,Latvia,LVA,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,68.94
+10,Latvia,LVA,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,72.69
+11,Latvia,LVA,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,70.68
+12,Latvia,LVA,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,58.4
+13,Latvia,LVA,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,66.58
+14,Latvia,LVA,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,56.03
+15,Latvia,LVA,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,55.04
+16,Latvia,LVA,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,57.53
+17,Latvia,LVA,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,49.5
+18,Latvia,LVA,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,50.44
+19,Latvia,LVA,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,48.96
+20,Latvia,LVA,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,49.57
+21,Latvia,LVA,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,62.83
+22,Latvia,LVA,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,59.64
+23,Latvia,LVA,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,53.19
+24,Latvia,LVA,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,58.23
+25,Latvia,LVA,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,80.24
+26,Latvia,LVA,1992,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,71.35
+27,Latvia,LVA,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.7249613248036
+28,Latvia,LVA,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.59509856021811
+29,Latvia,LVA,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.5528209518006
+30,Latvia,LVA,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.26087779444776
+31,Latvia,LVA,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.49619016062862
+32,Latvia,LVA,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.54245064148004
+33,Latvia,LVA,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.20048233049279
+34,Latvia,LVA,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.20505769085699
+35,Latvia,LVA,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.29022139171058
+36,Latvia,LVA,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.04439148417865
+37,Latvia,LVA,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.2039191965459
+38,Latvia,LVA,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.94955601268542
+39,Latvia,LVA,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.28469122390209
+40,Latvia,LVA,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.25241661169235
+41,Latvia,LVA,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.71935966221877
+42,Latvia,LVA,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.20651688005675
+43,Latvia,LVA,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.94261443705924
+44,Latvia,LVA,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.50412068508399
+45,Latvia,LVA,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.418927096408
+46,Latvia,LVA,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.47033223200586
+47,Latvia,LVA,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.66158047323065
+48,Latvia,LVA,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.82392770738252
+49,Latvia,LVA,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.97152350632434
+50,Latvia,LVA,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.76692468761478
+51,Latvia,LVA,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.84562727108252
+52,Latvia,LVA,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.49000012874603
+53,Latvia,LVA,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.22000002861023
+54,Latvia,LVA,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.98000025749207
+55,Latvia,LVA,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.64000016450882
+56,Latvia,LVA,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.3099997639656
+57,Latvia,LVA,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.57000023126603
+58,Latvia,LVA,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.3500002026558
+59,Latvia,LVA,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.46999996900558
+60,Latvia,LVA,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.68000018596649
+61,Latvia,LVA,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.56000006198883
+62,Latvia,LVA,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.75999975204468
+63,Latvia,LVA,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.78000009059906
+64,Latvia,LVA,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.73000001907348
+65,Latvia,LVA,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.34000027179718
+66,Latvia,LVA,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.10999989509582
+67,Latvia,LVA,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.3700001239777
+68,Latvia,LVA,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.1799998283386
+69,Latvia,LVA,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.5499997138977
+70,Latvia,LVA,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.8499999046326
+71,Latvia,LVA,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.7399997711182
+72,Latvia,LVA,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.0599999427795
+73,Latvia,LVA,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.1899995803833
+74,Latvia,LVA,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.2499995231628
+75,Latvia,LVA,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,11.5499997138977
+76,Latvia,LVA,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,11.3099999427795
+77,Latvia,LVA,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,11.1300001144409
+78,Latvia,LVA,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.7300000190735
+79,Latvia,LVA,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.4799997806549
+80,Latvia,LVA,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.1300001144409
+81,Latvia,LVA,2019,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-221774132.27814
+82,Latvia,LVA,2018,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-98926686.5842491
+83,Latvia,LVA,2017,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,398886707.734844
+84,Latvia,LVA,2016,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,437837856.427763
+85,Latvia,LVA,2015,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-167037259.602979
+86,Latvia,LVA,2014,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-530305486.772318
+87,Latvia,LVA,2013,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-841193109.029087
+88,Latvia,LVA,2012,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1049324807.33871
+89,Latvia,LVA,2011,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-943496960.619588
+90,Latvia,LVA,2010,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,412690878.210678
+91,Latvia,LVA,2009,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,2059020546.0826
+92,Latvia,LVA,2008,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4483621315.02016
+93,Latvia,LVA,2007,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-6426791354.30909
+94,Latvia,LVA,2006,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4520558736.67533
+95,Latvia,LVA,2005,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1985616844.08391
+96,Latvia,LVA,2004,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1679792106.92641
+97,Latvia,LVA,2003,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-849262842.484464
+98,Latvia,LVA,2002,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-522806938.288995
+99,Latvia,LVA,2001,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-500858721.499298
+100,Latvia,LVA,2000,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-290706944.739849
+101,Latvia,LVA,1999,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-654300000
+102,Latvia,LVA,1998,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-649503000
+103,Latvia,LVA,1997,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-345041000
+104,Latvia,LVA,1996,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-279783000
+105,Latvia,LVA,1995,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-16164000
+106,Latvia,LVA,1994,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,201218000
+107,Latvia,LVA,1993,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,416796000
+108,Latvia,LVA,1992,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,191424010
+109,Latvia,LVA,2019,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-975622956.385284
+110,Latvia,LVA,2018,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-745302476.858975
+111,Latvia,LVA,2017,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-586973956.398439
+112,Latvia,LVA,2016,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-90021671.972353
+113,Latvia,LVA,2015,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-668794640.191423
+114,Latvia,LVA,2014,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-350967570.709325
+115,Latvia,LVA,2013,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-495450664.354446
+116,Latvia,LVA,2012,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-919475458.849257
+117,Latvia,LVA,2011,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1411691737.49323
+118,Latvia,LVA,2010,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-372158418.326118
+119,Latvia,LVA,2009,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-43651066.407822
+120,Latvia,LVA,2008,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1091444008.28446
+121,Latvia,LVA,2007,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1944010189.55102
+122,Latvia,LVA,2006,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1493147462.25413
+123,Latvia,LVA,2005,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-584119480.420051
+124,Latvia,LVA,2004,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-506537386.652237
+125,Latvia,LVA,2003,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-230780324.275589
+126,Latvia,LVA,2002,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-206816279.734557
+127,Latvia,LVA,2001,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-89220707.2027994
+128,Latvia,LVA,2000,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-317259071.488834
+129,Latvia,LVA,1999,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-330600000
+130,Latvia,LVA,1998,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-302900000
+131,Latvia,LVA,1997,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-514970000
+132,Latvia,LVA,1996,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-378705000
+133,Latvia,LVA,1995,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-244594000
+134,Latvia,LVA,1994,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-279076000
+135,Latvia,LVA,1993,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-49624000
+136,Latvia,LVA,1992,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-27291249
+137,Latvia,LVA,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.219064904842049
+138,Latvia,LVA,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.81140920075622
+139,Latvia,LVA,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.53445424186602
+140,Latvia,LVA,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.93036312374664
+141,Latvia,LVA,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.140633334505292
+142,Latvia,LVA,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.174242243625214
+143,Latvia,LVA,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.620490636732377
+144,Latvia,LVA,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0294547782578977
+145,Latvia,LVA,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.25778924374594
+146,Latvia,LVA,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.37073559939221
+147,Latvia,LVA,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-1.08463595015159
+148,Latvia,LVA,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.53410672858941
+149,Latvia,LVA,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,15.4023191064986
+150,Latvia,LVA,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.0929775849168
+151,Latvia,LVA,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.53619908765875
+152,Latvia,LVA,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.74845027893117
+153,Latvia,LVA,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.19238547197433
+154,Latvia,LVA,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.94264752948481
+155,Latvia,LVA,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.93887573855892
+156,Latvia,LVA,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.48704003555455
+157,Latvia,LVA,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.65425477796052
+158,Latvia,LVA,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.36481836111806
+159,Latvia,LVA,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.64421422660782
+160,Latvia,LVA,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.44738342092955
+161,Latvia,LVA,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,17.6104698431032
+162,Latvia,LVA,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,24.975935531675
+163,Latvia,LVA,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,35.9247053929643
+164,Latvia,LVA,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,108.989540624323
+165,Latvia,LVA,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,951.696194870801
+166,Latvia,LVA,1994,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,9.02152038159077
+167,Latvia,LVA,2019,Trade (% of GDP),NE.TRD.GNFS.ZS,121.094501082498
+168,Latvia,LVA,2018,Trade (% of GDP),NE.TRD.GNFS.ZS,123.62322994575
+169,Latvia,LVA,2017,Trade (% of GDP),NE.TRD.GNFS.ZS,123.899835566485
+170,Latvia,LVA,2016,Trade (% of GDP),NE.TRD.GNFS.ZS,118.89339742514
+171,Latvia,LVA,2015,Trade (% of GDP),NE.TRD.GNFS.ZS,122.283612988102
+172,Latvia,LVA,2014,Trade (% of GDP),NE.TRD.GNFS.ZS,125.273716882175
+173,Latvia,LVA,2013,Trade (% of GDP),NE.TRD.GNFS.ZS,124.204084672017
+174,Latvia,LVA,2012,Trade (% of GDP),NE.TRD.GNFS.ZS,127.527265705273
+175,Latvia,LVA,2011,Trade (% of GDP),NE.TRD.GNFS.ZS,121.508531900181
+176,Latvia,LVA,2010,Trade (% of GDP),NE.TRD.GNFS.ZS,108.997940157366
+177,Latvia,LVA,2009,Trade (% of GDP),NE.TRD.GNFS.ZS,86.7198611753153
+178,Latvia,LVA,2008,Trade (% of GDP),NE.TRD.GNFS.ZS,91.4264738479481
+179,Latvia,LVA,2007,Trade (% of GDP),NE.TRD.GNFS.ZS,95.7257673273977
+180,Latvia,LVA,2006,Trade (% of GDP),NE.TRD.GNFS.ZS,100.377905107999
+181,Latvia,LVA,2005,Trade (% of GDP),NE.TRD.GNFS.ZS,100.496675376948
+182,Latvia,LVA,2004,Trade (% of GDP),NE.TRD.GNFS.ZS,93.3543750107829
+183,Latvia,LVA,2003,Trade (% of GDP),NE.TRD.GNFS.ZS,84.773343920746
+184,Latvia,LVA,2002,Trade (% of GDP),NE.TRD.GNFS.ZS,83.3097187281367
+185,Latvia,LVA,2001,Trade (% of GDP),NE.TRD.GNFS.ZS,86.4819722951741
+186,Latvia,LVA,2000,Trade (% of GDP),NE.TRD.GNFS.ZS,81.6347060132014
+187,Latvia,LVA,1999,Trade (% of GDP),NE.TRD.GNFS.ZS,79.9540032127527
+188,Latvia,LVA,1998,Trade (% of GDP),NE.TRD.GNFS.ZS,90.6434529583898
+189,Latvia,LVA,1997,Trade (% of GDP),NE.TRD.GNFS.ZS,88.5262973954331
+190,Latvia,LVA,1996,Trade (% of GDP),NE.TRD.GNFS.ZS,89.9311112716942
+191,Latvia,LVA,1995,Trade (% of GDP),NE.TRD.GNFS.ZS,73.9098680646174
+192,Latvia,LVA,2019,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,18.5550670227276
+193,Latvia,LVA,2018,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,18.6666576992485
+194,Latvia,LVA,2017,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,19.0419684696371
+195,Latvia,LVA,2016,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,18.5276484241819
+196,Latvia,LVA,2015,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,19.1123175645431
+197,Latvia,LVA,2014,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,18.948058870563
+198,Latvia,LVA,2013,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,20.2821219837059
+199,Latvia,LVA,2012,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,20.8830745800374
+200,Latvia,LVA,2011,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.0060361029564
+201,Latvia,LVA,2010,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,20.5200531151319
+202,Latvia,LVA,2009,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.0241394551298
+203,Latvia,LVA,2008,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.8304535323693
+204,Latvia,LVA,2007,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.6158113464767
+205,Latvia,LVA,2006,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,20.8034078075833
+206,Latvia,LVA,2005,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,20.2624341665341
+207,Latvia,LVA,2004,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.4839820365907
+208,Latvia,LVA,2003,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.3582941425656
+209,Latvia,LVA,2002,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,22.6333961176922
+210,Latvia,LVA,2001,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,22.8044853645314
+211,Latvia,LVA,2000,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.6485464139124
+212,Latvia,LVA,1999,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.7547143913924
+213,Latvia,LVA,1998,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.8005778629655
+214,Latvia,LVA,1997,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.9724832964245
+215,Latvia,LVA,1996,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.595406249372
+216,Latvia,LVA,1995,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.7867574598483
+217,Latvia,LVA,2019,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.875316443430816
+218,Latvia,LVA,2018,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.833201561442653
+219,Latvia,LVA,2017,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.870556348770949
+220,Latvia,LVA,2016,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.898190457493663
+221,Latvia,LVA,2015,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.898689704161809
+222,Latvia,LVA,2014,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.743122080180347
+223,Latvia,LVA,2013,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.753527226787313
+224,Latvia,LVA,2012,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.779666459385046
+225,Latvia,LVA,2011,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.760276730148681
+226,Latvia,LVA,2010,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.955850619954188
+227,Latvia,LVA,2009,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.708830780271819
+228,Latvia,LVA,2008,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.59966997250931
+229,Latvia,LVA,2007,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.710491157075202
+230,Latvia,LVA,2006,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.934837773736952
+231,Latvia,LVA,2005,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.03914632052038
+232,Latvia,LVA,2004,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.15677040099651
+233,Latvia,LVA,2003,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.32298716134523
+234,Latvia,LVA,2002,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.4567531611073
+235,Latvia,LVA,2001,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.61787063709821
+236,Latvia,LVA,2000,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.48522979125844
+237,Latvia,LVA,1999,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.61558595704692
+238,Latvia,LVA,1998,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.91608211755723
+239,Latvia,LVA,1997,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.13129417199584
+240,Latvia,LVA,1996,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.42472201925299
+241,Latvia,LVA,1995,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.4773538261203
+242,Latvia,LVA,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+243,Latvia,LVA,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+244,Latvia,LVA,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+245,Latvia,LVA,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+246,Latvia,LVA,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+247,Latvia,LVA,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+248,Latvia,LVA,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+249,Latvia,LVA,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+250,Latvia,LVA,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+251,Latvia,LVA,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+252,Latvia,LVA,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+253,Latvia,LVA,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+254,Latvia,LVA,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+255,Latvia,LVA,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+256,Latvia,LVA,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+257,Latvia,LVA,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+258,Latvia,LVA,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+259,Latvia,LVA,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+260,Latvia,LVA,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+261,Latvia,LVA,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+262,Latvia,LVA,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+263,Latvia,LVA,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+264,Latvia,LVA,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+265,Latvia,LVA,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+266,Latvia,LVA,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+267,Latvia,LVA,2019,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.125130582669489
+268,Latvia,LVA,2018,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.110155452329021
+269,Latvia,LVA,2017,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.110155452329021
+270,Latvia,LVA,2016,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.116311999012862
+271,Latvia,LVA,2015,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.134281478305726
+272,Latvia,LVA,2014,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.142807663322268
+273,Latvia,LVA,2013,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.167068174866135
+274,Latvia,LVA,2012,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.184538892972534
+275,Latvia,LVA,2011,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.199701471099223
+276,Latvia,LVA,2010,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.223485885427143
+277,Latvia,LVA,2009,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.235724910542637
+278,Latvia,LVA,2008,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.267922701869023
+279,Latvia,LVA,2007,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.264056680082223
+280,Latvia,LVA,2006,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.261354623461884
+281,Latvia,LVA,2005,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.241221929726848
+282,Latvia,LVA,2004,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.238824787476327
+283,Latvia,LVA,2003,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.220235517202427
+284,Latvia,LVA,2002,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.263667934479676
+285,Latvia,LVA,2001,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.2514944717278
+286,Latvia,LVA,2000,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.256996416232379
+287,Latvia,LVA,1999,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.306791597065826
+288,Latvia,LVA,1998,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.334331241220476
+289,Latvia,LVA,1997,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.395638470199489
+290,Latvia,LVA,1996,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.487403097079578
+291,Latvia,LVA,1995,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.580321112910602
+292,Latvia,LVA,2019,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.453282232870522
+293,Latvia,LVA,2018,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.13051560184912
+294,Latvia,LVA,2017,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.20039307652406
+295,Latvia,LVA,2016,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.143741231301683
+296,Latvia,LVA,2015,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.403597036678871
+297,Latvia,LVA,2014,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-1.7649487498322
+298,Latvia,LVA,2013,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-1.6685483193959
+299,Latvia,LVA,2012,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-1.01043466040623
+300,Latvia,LVA,2011,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.86566863616405
+301,Latvia,LVA,2010,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-2.86174288225284
+302,Latvia,LVA,2009,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.54847860532121
+303,Latvia,LVA,2008,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.52263727225407
+304,Latvia,LVA,2007,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.0640937236067392
+305,Latvia,LVA,2006,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-3.42289627141099
+306,Latvia,LVA,2005,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.67422280016161
+307,Latvia,LVA,2004,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-1.91916575774326
+308,Latvia,LVA,2003,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-2.81559609408153
+309,Latvia,LVA,2002,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-4.64636332015738
+310,Latvia,LVA,2001,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-6.66274972262722
+311,Latvia,LVA,2000,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-10.1604673308435
+312,Latvia,LVA,1999,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-19.2623136998664
+313,Latvia,LVA,1998,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-17.0911495205444
+314,Latvia,LVA,1997,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-19.816182489372
+315,Latvia,LVA,1996,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-23.721708623663
+316,Latvia,LVA,1995,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-26.0446579769092
+317,Latvia,LVA,2019,GDP (current US$),NY.GDP.MKTP.CD,34102913582.4235
+318,Latvia,LVA,2018,GDP (current US$),NY.GDP.MKTP.CD,34416012859.1866
+319,Latvia,LVA,2017,GDP (current US$),NY.GDP.MKTP.CD,30458763245.5118
+320,Latvia,LVA,2016,GDP (current US$),NY.GDP.MKTP.CD,28052325862.0461
+321,Latvia,LVA,2015,GDP (current US$),NY.GDP.MKTP.CD,27239653843.5022
+322,Latvia,LVA,2014,GDP (current US$),NY.GDP.MKTP.CD,31329367172.7409
+323,Latvia,LVA,2013,GDP (current US$),NY.GDP.MKTP.CD,30432796305.7043
+324,Latvia,LVA,2012,GDP (current US$),NY.GDP.MKTP.CD,28330632928.5559
+325,Latvia,LVA,2011,GDP (current US$),NY.GDP.MKTP.CD,28619991391.7457
+326,Latvia,LVA,2010,GDP (current US$),NY.GDP.MKTP.CD,23877564355.9904
+327,Latvia,LVA,2009,GDP (current US$),NY.GDP.MKTP.CD,26317286627.7453
+328,Latvia,LVA,2008,GDP (current US$),NY.GDP.MKTP.CD,35756225697.9974
+329,Latvia,LVA,2007,GDP (current US$),NY.GDP.MKTP.CD,31004884420.7359
+330,Latvia,LVA,2006,GDP (current US$),NY.GDP.MKTP.CD,21517445447.705
+331,Latvia,LVA,2005,GDP (current US$),NY.GDP.MKTP.CD,16959313005.6005
+332,Latvia,LVA,2004,GDP (current US$),NY.GDP.MKTP.CD,14401882398.8552
+333,Latvia,LVA,2003,GDP (current US$),NY.GDP.MKTP.CD,11749456401.4266
+334,Latvia,LVA,2002,GDP (current US$),NY.GDP.MKTP.CD,9545172805.82083
+335,Latvia,LVA,2001,GDP (current US$),NY.GDP.MKTP.CD,8351415939.10902
+336,Latvia,LVA,2000,GDP (current US$),NY.GDP.MKTP.CD,7949253765.93279
+337,Latvia,LVA,1999,GDP (current US$),NY.GDP.MKTP.CD,7525408359.35623
+338,Latvia,LVA,1998,GDP (current US$),NY.GDP.MKTP.CD,7159169546.05028
+339,Latvia,LVA,1997,GDP (current US$),NY.GDP.MKTP.CD,6521609000.72587
+340,Latvia,LVA,1996,GDP (current US$),NY.GDP.MKTP.CD,5969114344.05309
+341,Latvia,LVA,1995,GDP (current US$),NY.GDP.MKTP.CD,5785775812.89218
+342,Latvia,LVA,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,17819.2713755111
+343,Latvia,LVA,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,17858.2799784486
+344,Latvia,LVA,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,15682.2214493267
+345,Latvia,LVA,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,14315.7928949778
+346,Latvia,LVA,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,13774.6052739114
+347,Latvia,LVA,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,15713.536972819
+348,Latvia,LVA,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,15120.7818885797
+349,Latvia,LVA,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,13926.3473076523
+350,Latvia,LVA,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,13895.1625650739
+351,Latvia,LVA,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,11383.5224134721
+352,Latvia,LVA,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,12288.2138312435
+353,Latvia,LVA,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,16422.1119788425
+354,Latvia,LVA,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,14091.0476501135
+355,Latvia,LVA,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,9699.72166234066
+356,Latvia,LVA,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,7575.18339323919
+357,Latvia,LVA,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,6363.7233869209
+358,Latvia,LVA,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,5135.3529249599
+359,Latvia,LVA,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,4131.80000191364
+360,Latvia,LVA,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,3573.30272898806
+361,Latvia,LVA,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,3357.58643573855
+362,Latvia,LVA,1999,GDP per capita (current US$),NY.GDP.PCAP.CD,3148.07154346121
+363,Latvia,LVA,1998,GDP per capita (current US$),NY.GDP.PCAP.CD,2970.5863505849
+364,Latvia,LVA,1997,GDP per capita (current US$),NY.GDP.PCAP.CD,2680.64464314743
+365,Latvia,LVA,1996,GDP per capita (current US$),NY.GDP.PCAP.CD,2429.21247817783
+366,Latvia,LVA,1995,GDP per capita (current US$),NY.GDP.PCAP.CD,2328.22753808855
+367,Latvia,LVA,2019,GNI (current US$),NY.GNP.MKTP.CD,33621087275.5058
+368,Latvia,LVA,2018,GNI (current US$),NY.GNP.MKTP.CD,33852147233.2086
+369,Latvia,LVA,2017,GNI (current US$),NY.GNP.MKTP.CD,30382439725.8671
+370,Latvia,LVA,2016,GNI (current US$),NY.GNP.MKTP.CD,28007742417.4941
+371,Latvia,LVA,2015,GNI (current US$),NY.GNP.MKTP.CD,27109891921.337
+372,Latvia,LVA,2014,GNI (current US$),NY.GNP.MKTP.CD,31367845104.6962
+373,Latvia,LVA,2013,GNI (current US$),NY.GNP.MKTP.CD,30364869906.9183
+374,Latvia,LVA,2012,GNI (current US$),NY.GNP.MKTP.CD,28133196249.0075
+375,Latvia,LVA,2011,GNI (current US$),NY.GNP.MKTP.CD,28590354160.6198
+376,Latvia,LVA,2010,GNI (current US$),NY.GNP.MKTP.CD,24118075086.464
+377,Latvia,LVA,2009,GNI (current US$),NY.GNP.MKTP.CD,28156845982.7634
+378,Latvia,LVA,2008,GNI (current US$),NY.GNP.MKTP.CD,35301362373.9219
+379,Latvia,LVA,2007,GNI (current US$),NY.GNP.MKTP.CD,30082501709.7524
+380,Latvia,LVA,2006,GNI (current US$),NY.GNP.MKTP.CD,20978190368.6983
+381,Latvia,LVA,2005,GNI (current US$),NY.GNP.MKTP.CD,16783490976.9757
+382,Latvia,LVA,2004,GNI (current US$),NY.GNP.MKTP.CD,14104067906.8557
+383,Latvia,LVA,2003,GNI (current US$),NY.GNP.MKTP.CD,11692191612.3478
+384,Latvia,LVA,2002,GNI (current US$),NY.GNP.MKTP.CD,9561489313.32424
+385,Latvia,LVA,2001,GNI (current US$),NY.GNP.MKTP.CD,8376683456.45847
+386,Latvia,LVA,2000,GNI (current US$),NY.GNP.MKTP.CD,7939406720.7416
+387,Latvia,LVA,1999,GNI (current US$),NY.GNP.MKTP.CD,7453824165.26543
+388,Latvia,LVA,1998,GNI (current US$),NY.GNP.MKTP.CD,7205977600.38127
+389,Latvia,LVA,1997,GNI (current US$),NY.GNP.MKTP.CD,6570141543.67288
+390,Latvia,LVA,1996,GNI (current US$),NY.GNP.MKTP.CD,6007293261.8683
+391,Latvia,LVA,1995,GNI (current US$),NY.GNP.MKTP.CD,5827936394.75185
+392,Latvia,LVA,2019,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.00290326707075
+393,Latvia,LVA,2018,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.32128146033874
+394,Latvia,LVA,2017,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.071364622891
+395,Latvia,LVA,2016,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.63926120620832
+396,Latvia,LVA,2015,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.23470091169141
+397,Latvia,LVA,2014,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.38373105755782
+398,Latvia,LVA,2013,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.90377087520825
+399,Latvia,LVA,2012,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.92891058485139
+400,Latvia,LVA,2011,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,7.23274603644721
+401,Latvia,LVA,2010,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-7.87144525546879
+402,Latvia,LVA,2009,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-5.51745744142896
+403,Latvia,LVA,2008,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.57547250210223
+404,Latvia,LVA,2007,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,10.2945976337729
+405,Latvia,LVA,2006,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,11.3833620450794
+406,Latvia,LVA,2005,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,13.0770300880249
+407,Latvia,LVA,2004,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,7.99354401005749
+408,Latvia,LVA,2003,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,8.79406664160618
+409,Latvia,LVA,2002,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,8.19458429756988
+410,Latvia,LVA,2001,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,8.15066464932291
+411,Latvia,LVA,2000,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,7.5796598210555
+412,Latvia,LVA,1999,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.95775286135216
+413,Latvia,LVA,1998,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,7.26029465577398
+414,Latvia,LVA,1997,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,10.0420620992391
+415,Latvia,LVA,1996,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.63306551592115
+416,Latvia,LVA,2018,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,496.126330696125
+417,Latvia,LVA,2015,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,482.3051
+418,Latvia,LVA,2012,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,490.571021411359
+419,Latvia,LVA,2009,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,481.953822620897
+420,Latvia,LVA,2006,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,486.166083936096
+421,Latvia,LVA,2003,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,483.37494854
+422,Latvia,LVA,2000,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,463
+423,Latvia,LVA,2018,PISA: Mean performance on the reading scale,LO.PISA.REA,478.698674145046
+424,Latvia,LVA,2015,PISA: Mean performance on the reading scale,LO.PISA.REA,487.7581
+425,Latvia,LVA,2012,PISA: Mean performance on the reading scale,LO.PISA.REA,488.694413789431
+426,Latvia,LVA,2009,PISA: Mean performance on the reading scale,LO.PISA.REA,483.960145534221
+427,Latvia,LVA,2006,PISA: Mean performance on the reading scale,LO.PISA.REA,479.491835425478
+428,Latvia,LVA,2003,PISA: Mean performance on the reading scale,LO.PISA.REA,490.56253369
+429,Latvia,LVA,2000,PISA: Mean performance on the reading scale,LO.PISA.REA,458.071081873092
+430,Latvia,LVA,2018,PISA: Mean performance on the science scale,LO.PISA.SCI,487.250588357622
+431,Latvia,LVA,2015,PISA: Mean performance on the science scale,LO.PISA.SCI,490.225
+432,Latvia,LVA,2012,PISA: Mean performance on the science scale,LO.PISA.SCI,502.18619208774
+433,Latvia,LVA,2009,PISA: Mean performance on the science scale,LO.PISA.SCI,493.878923880063
+434,Latvia,LVA,2006,PISA: Mean performance on the science scale,LO.PISA.SCI,489.543777480505
+435,Latvia,LVA,2003,PISA: Mean performance on the science scale,LO.PISA.SCI,489.12491714
+436,Latvia,LVA,2000,PISA: Mean performance on the science scale,LO.PISA.SCI,460.060834794716
+437,Latvia,LVA,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32555997371674
+438,Latvia,LVA,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31445002555847
+439,Latvia,LVA,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34677004814148
+440,Latvia,LVA,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35910999774933
+441,Latvia,LVA,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29967999458313
+442,Latvia,LVA,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34127998352051
+443,Latvia,LVA,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35783994197845
+444,Latvia,LVA,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.38943004608154
+445,Latvia,LVA,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.42969000339508
+446,Latvia,LVA,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.456169962883
+447,Latvia,LVA,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.47449004650116
+448,Latvia,LVA,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.46051001548767
+449,Latvia,LVA,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.44510996341705
+450,Latvia,LVA,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.44059002399445
+451,Latvia,LVA,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.41507995128632
+452,Latvia,LVA,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.40116000175476
+453,Latvia,LVA,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39627003669739
+454,Latvia,LVA,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.40234994888306
+455,Latvia,LVA,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.44356000423431
+456,Latvia,LVA,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39596998691559
+457,Latvia,LVA,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31994998455048
+458,Latvia,LVA,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33896005153656
+459,Latvia,LVA,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.16129994392395
+460,Latvia,LVA,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22781002521515
+461,Latvia,LVA,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30256998538971
+462,Latvia,LVA,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.42040002346039
+463,Latvia,LVA,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.41010999679565
+464,Latvia,LVA,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.45618999004364
+465,Latvia,LVA,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3829300403595
+466,Latvia,LVA,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31675004959106
+467,Latvia,LVA,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30915999412537
+468,Latvia,LVA,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27602994441986
+469,Latvia,LVA,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26767003536224
+470,Latvia,LVA,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26900005340576
+471,Latvia,LVA,2018,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.1314400434494
+472,Latvia,LVA,2017,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.5161999464035
+473,Latvia,LVA,2016,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.73730003833771
+474,Latvia,LVA,2015,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.03865003585815
+475,Latvia,LVA,2014,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.96988999843597
+476,Latvia,LVA,2013,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.86098003387451
+477,Latvia,LVA,2012,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.46035003662109
+478,Latvia,LVA,2011,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.766680002212524
+479,Latvia,LVA,2010,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.867569983005524
+480,Latvia,LVA,2009,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.875699996948242
+481,Latvia,LVA,2008,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.00853999983519316
+482,Latvia,LVA,1999,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.412380009889603
+483,Latvia,LVA,2018,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,100
+484,Latvia,LVA,2016,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,100
+485,Latvia,LVA,2015,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.621208190918
+486,Latvia,LVA,2014,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.4213790893555
+487,Latvia,LVA,2013,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.3210372924805
+488,Latvia,LVA,2012,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.2243881225586
+489,Latvia,LVA,2011,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.0966415405273
+490,Latvia,LVA,2010,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.1183013916016
+491,Latvia,LVA,2009,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,98.9634780883789
+492,Latvia,LVA,2008,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,97.9207077026367
+493,Latvia,LVA,2007,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,98.2003326416016
+494,Latvia,LVA,2006,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,98.2539672851563
+495,Latvia,LVA,2005,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,97.9973678588867
+496,Latvia,LVA,2004,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,96.9755172729492
+497,Latvia,LVA,1989,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,59.6433906555176
+498,Latvia,LVA,2017,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,88.6027526855469
+499,Latvia,LVA,2016,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.6947708129883
+500,Latvia,LVA,2015,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,84.3717727661133
+501,Latvia,LVA,2014,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,82.0541915893555
+502,Latvia,LVA,2013,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.3852462768555
+503,Latvia,LVA,2012,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.5598983764648
+504,Latvia,LVA,2011,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.7100067138672
+505,Latvia,LVA,2010,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.3211517333984
+506,Latvia,LVA,2009,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.3064804077148
+507,Latvia,LVA,2008,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,84.1820373535156
+508,Latvia,LVA,2007,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,84.6086196899414
+509,Latvia,LVA,2006,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.4823837280273
+510,Latvia,LVA,2004,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.6215362548828
+511,Latvia,LVA,2003,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.1454696655273
+512,Latvia,LVA,2002,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,86.4963531494141
+513,Latvia,LVA,2001,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.1088485717773
+514,Latvia,LVA,2000,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.1693725585938
+515,Latvia,LVA,1999,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,96.4043807983398
+516,Latvia,LVA,2017,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.39711999893188
+517,Latvia,LVA,2016,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.71298980712891
+518,Latvia,LVA,2015,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.31412982940674
+519,Latvia,LVA,2014,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.27489995956421
+520,Latvia,LVA,2013,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,6.98040008544922
+521,Latvia,LVA,2012,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,6.58249998092651
+522,Latvia,LVA,2011,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.93298006057739
+523,Latvia,LVA,2010,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.07271003723145
+524,Latvia,LVA,2009,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.55632019042969
+525,Latvia,LVA,2008,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.39598989486694
+526,Latvia,LVA,2007,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.65674018859863
+527,Latvia,LVA,2006,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.71378993988037
+528,Latvia,LVA,2004,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.86113023757935
+529,Latvia,LVA,2003,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.07451009750366
+530,Latvia,LVA,2002,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.61846017837524
+531,Latvia,LVA,2001,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.46503019332886
+532,Latvia,LVA,2000,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.29064989089966
+533,Latvia,LVA,1999,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.55098009109497
+534,Latvia,LVA,1998,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.82429981231689
+535,Latvia,LVA,1997,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.52927017211914
+536,Latvia,LVA,1996,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.27811002731323
+537,Latvia,LVA,2019,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.0132652013617
+538,Latvia,LVA,2018,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.9464586201622
+539,Latvia,LVA,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.8903525159141
+540,Latvia,LVA,2016,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.090518632538
+541,Latvia,LVA,2015,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.5789977856602
+542,Latvia,LVA,2014,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.5664377924706
+543,Latvia,LVA,2013,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.9452797005815
+544,Latvia,LVA,2012,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.9175903336727
+545,Latvia,LVA,2011,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.7986858350315
+546,Latvia,LVA,2010,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.2908237419039
+547,Latvia,LVA,2009,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.8354341610125
+548,Latvia,LVA,2008,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.1027447448961
+549,Latvia,LVA,2007,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.4003894489614
+550,Latvia,LVA,2006,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.5332480738471
+551,Latvia,LVA,2005,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.4989257142857
+552,Latvia,LVA,2004,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.5127808253477
+553,Latvia,LVA,2003,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.8970822871251
+554,Latvia,LVA,2002,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.6887564010943
+555,Latvia,LVA,2001,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.7830457912884
+556,Latvia,LVA,2000,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.1180748843635
+557,Latvia,LVA,1999,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.7213867500265
+558,Latvia,LVA,1998,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.3356925694522
+559,Latvia,LVA,1997,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.7932721884757
+560,Latvia,LVA,1996,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.9020458572093
+561,Latvia,LVA,1995,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.8371092485039
+562,Latvia,LVA,1994,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.7569395330194
+563,Latvia,LVA,1993,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.6463062031657
+564,Latvia,LVA,1992,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.5629839419842
+565,Latvia,LVA,1991,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.8168584361976
+566,Latvia,LVA,1990,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.9217526719533
+567,Latvia,LVA,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.1899995803833
+568,Latvia,LVA,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.30999994277954
+569,Latvia,LVA,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.40999984741211
+570,Latvia,LVA,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.72000026702881
+571,Latvia,LVA,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.64000034332275
+572,Latvia,LVA,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.86999988555908
+573,Latvia,LVA,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.8500003814697
+574,Latvia,LVA,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.8699998855591
+575,Latvia,LVA,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,15.0500001907349
+576,Latvia,LVA,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.2099990844727
+577,Latvia,LVA,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.4799995422363
+578,Latvia,LVA,2009,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,17.5200004577637
+579,Latvia,LVA,2008,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.73999977111816
+580,Latvia,LVA,2007,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.05000019073486
+581,Latvia,LVA,2006,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.03000020980835
+582,Latvia,LVA,2005,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.0299997329712
+583,Latvia,LVA,2004,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.710000038147
+584,Latvia,LVA,2003,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.0600004196167
+585,Latvia,LVA,2002,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.8299999237061
+586,Latvia,LVA,2001,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.8199996948242
+587,Latvia,LVA,2000,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,14.210000038147
+588,Latvia,LVA,1999,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.789999961853
+589,Latvia,LVA,1998,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,14.460000038147
+590,Latvia,LVA,1997,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,14.8999996185303
+591,Latvia,LVA,1996,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,20.7000007629395
+592,Latvia,LVA,1995,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19
+593,Latvia,LVA,1994,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,18.7000007629395
+594,Latvia,LVA,1993,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.7000007629395
+595,Latvia,LVA,1992,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.59999990463257
+596,Latvia,LVA,1991,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.70000004768372
+597,Latvia,LVA,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+598,Latvia,LVA,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+599,Latvia,LVA,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+600,Latvia,LVA,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+601,Latvia,LVA,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+602,Latvia,LVA,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+603,Latvia,LVA,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+604,Latvia,LVA,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+605,Latvia,LVA,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+606,Latvia,LVA,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+607,Latvia,LVA,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+608,Latvia,LVA,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+609,Latvia,LVA,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+610,Latvia,LVA,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+611,Latvia,LVA,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+612,Latvia,LVA,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+613,Latvia,LVA,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+614,Latvia,LVA,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+615,Latvia,LVA,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+616,Latvia,LVA,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+617,Latvia,LVA,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+618,Latvia,LVA,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+619,Latvia,LVA,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+620,Latvia,LVA,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+621,Latvia,LVA,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+622,Latvia,LVA,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+623,Latvia,LVA,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+624,Latvia,LVA,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+625,Latvia,LVA,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+626,Latvia,LVA,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+627,Latvia,LVA,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.0980171666829
+628,Latvia,LVA,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,40.2360616036777
+629,Latvia,LVA,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,39.6030380302764
+630,Latvia,LVA,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,40.3656247937447
+631,Latvia,LVA,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.5339217998253
+632,Latvia,LVA,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.0640004053054
+633,Latvia,LVA,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.3941409605993
+634,Latvia,LVA,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.7049355819667
+635,Latvia,LVA,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.0753863668246
+636,Latvia,LVA,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.9989639035687
+637,Latvia,LVA,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.3005004373237
+638,Latvia,LVA,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.1124754730002
+639,Latvia,LVA,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.3376624768393
+640,Latvia,LVA,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.3825894940908
+641,Latvia,LVA,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.3472297989126
+642,Latvia,LVA,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.8203898144672
+643,Latvia,LVA,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.3311304479174
+644,Latvia,LVA,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.3488108747756
+645,Latvia,LVA,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.8914211234083
+646,Latvia,LVA,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.025379599921
+647,Latvia,LVA,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.4288068962795
+648,Latvia,LVA,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,28.3408349404455
+649,Latvia,LVA,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,25.3821176602644
+650,Latvia,LVA,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,21.5923200282608
+651,Latvia,LVA,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.6812183561287
+652,Latvia,LVA,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.5696905194457
+653,Latvia,LVA,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,7003.97
+654,Latvia,LVA,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,7007.637
+655,Latvia,LVA,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,6926.963
+656,Latvia,LVA,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,7080.977
+657,Latvia,LVA,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,7062.642
+658,Latvia,LVA,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,7293.663
+659,Latvia,LVA,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,8074.734
+660,Latvia,LVA,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,7231.324
+661,Latvia,LVA,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,7902.385
+662,Latvia,LVA,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,8316.756
+663,Latvia,LVA,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,8012.395
+664,Latvia,LVA,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,7506.349
+665,Latvia,LVA,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,7403.673
+666,Latvia,LVA,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,7370.67
+667,Latvia,LVA,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,6912.295
+668,Latvia,LVA,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,6985.635
+669,Latvia,LVA,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,6351.244
+670,Latvia,LVA,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,6780.283
+671,Latvia,LVA,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,8063.733
+672,Latvia,LVA,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,8456.102
+673,Latvia,LVA,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,9149.165
+674,Latvia,LVA,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,9442.525
+675,Latvia,LVA,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,10912.992
+676,Latvia,LVA,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,12016.759
+677,Latvia,LVA,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,14143.619
+678,Latvia,LVA,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13943.921724239
+679,Latvia,LVA,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14150.0953121195
+680,Latvia,LVA,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14670.0039
+681,Latvia,LVA,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13580.3226
+682,Latvia,LVA,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14204.6668
+683,Latvia,LVA,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14416.1433
+684,Latvia,LVA,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14054.3664
+685,Latvia,LVA,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13288.2027
+686,Latvia,LVA,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13021.8197
+687,Latvia,LVA,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,12783.2611
+688,Latvia,LVA,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13748.3487
+689,Latvia,LVA,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,12089.6607
+690,Latvia,LVA,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11507.8095
+691,Latvia,LVA,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,12076.2856
+692,Latvia,LVA,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,12905.7988
+693,Latvia,LVA,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18051.4526
+694,Latvia,LVA,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18788.7645
+695,Latvia,LVA,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18782.998
+696,Latvia,LVA,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21073.774
+697,Latvia,LVA,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24046.0891
+698,Latvia,LVA,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27370.8426
+699,Latvia,LVA,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,31579.4731
+700,Latvia,LVA,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,33667.7706
+701,Latvia,LVA,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,72636.905
+702,Latvia,LVA,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,71797.628
+703,Latvia,LVA,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,69206.671
+704,Latvia,LVA,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,69206.824
+705,Latvia,LVA,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,67655.5
+706,Latvia,LVA,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,65898.317
+707,Latvia,LVA,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,64501.615
+708,Latvia,LVA,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,62860.074
+709,Latvia,LVA,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,62361.524
+710,Latvia,LVA,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,61084.521
+711,Latvia,LVA,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,59444.6101
+712,Latvia,LVA,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,57305.0302
+713,Latvia,LVA,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,55699.819
+714,Latvia,LVA,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53714.9787
+715,Latvia,LVA,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52338.0379
+716,Latvia,LVA,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52362.8725
+717,Latvia,LVA,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,50365.8282
+718,Latvia,LVA,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,47957.4588
+719,Latvia,LVA,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,45620.2012
+720,Latvia,LVA,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,45385.3107
+721,Latvia,LVA,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,89.0140461977576
+722,Latvia,LVA,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,89.4114981713697
+723,Latvia,LVA,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,92.2730865530648
+724,Latvia,LVA,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,96.6290782272796
+725,Latvia,LVA,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,96.5867702247195
+726,Latvia,LVA,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,97.9709600275977
+727,Latvia,LVA,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.2602528939341
+728,Latvia,LVA,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.5500346799215
+729,Latvia,LVA,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.5149947949509
+730,Latvia,LVA,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.3565090671867
+731,Latvia,LVA,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.6080811192517
+732,Latvia,LVA,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9794952292974
+733,Latvia,LVA,2018,Aquaculture production (metric tons),ER.FSH.AQUA.MT,829.659973144531
+734,Latvia,LVA,2017,Aquaculture production (metric tons),ER.FSH.AQUA.MT,807.93994140625
+735,Latvia,LVA,2016,Aquaculture production (metric tons),ER.FSH.AQUA.MT,788.077026367188
+736,Latvia,LVA,2015,Aquaculture production (metric tons),ER.FSH.AQUA.MT,862.849975585938
+737,Latvia,LVA,2014,Aquaculture production (metric tons),ER.FSH.AQUA.MT,686.280029296875
+738,Latvia,LVA,2013,Aquaculture production (metric tons),ER.FSH.AQUA.MT,643.210021972656
+739,Latvia,LVA,2012,Aquaculture production (metric tons),ER.FSH.AQUA.MT,574.539978027344
+740,Latvia,LVA,2011,Aquaculture production (metric tons),ER.FSH.AQUA.MT,545.5
+741,Latvia,LVA,2010,Aquaculture production (metric tons),ER.FSH.AQUA.MT,548.799987792969
+742,Latvia,LVA,2009,Aquaculture production (metric tons),ER.FSH.AQUA.MT,517.200012207031
+743,Latvia,LVA,2008,Aquaculture production (metric tons),ER.FSH.AQUA.MT,584
+744,Latvia,LVA,2007,Aquaculture production (metric tons),ER.FSH.AQUA.MT,729
+745,Latvia,LVA,2006,Aquaculture production (metric tons),ER.FSH.AQUA.MT,565
+746,Latvia,LVA,2005,Aquaculture production (metric tons),ER.FSH.AQUA.MT,542
+747,Latvia,LVA,2004,Aquaculture production (metric tons),ER.FSH.AQUA.MT,545
+748,Latvia,LVA,2003,Aquaculture production (metric tons),ER.FSH.AQUA.MT,637
+749,Latvia,LVA,2002,Aquaculture production (metric tons),ER.FSH.AQUA.MT,430
+750,Latvia,LVA,2001,Aquaculture production (metric tons),ER.FSH.AQUA.MT,463
+751,Latvia,LVA,2000,Aquaculture production (metric tons),ER.FSH.AQUA.MT,325
+752,Latvia,LVA,1999,Aquaculture production (metric tons),ER.FSH.AQUA.MT,468
+753,Latvia,LVA,1998,Aquaculture production (metric tons),ER.FSH.AQUA.MT,425
+754,Latvia,LVA,1997,Aquaculture production (metric tons),ER.FSH.AQUA.MT,345
+755,Latvia,LVA,1996,Aquaculture production (metric tons),ER.FSH.AQUA.MT,380
+756,Latvia,LVA,1995,Aquaculture production (metric tons),ER.FSH.AQUA.MT,525
+757,Latvia,LVA,1994,Aquaculture production (metric tons),ER.FSH.AQUA.MT,560
+758,Latvia,LVA,1993,Aquaculture production (metric tons),ER.FSH.AQUA.MT,339
+759,Latvia,LVA,1992,Aquaculture production (metric tons),ER.FSH.AQUA.MT,641
+760,Latvia,LVA,1991,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2685
+761,Latvia,LVA,1990,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2235
+762,Latvia,LVA,1989,Aquaculture production (metric tons),ER.FSH.AQUA.MT,6288
+763,Latvia,LVA,1988,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2926
+764,Latvia,LVA,2018,Total fisheries production (metric tons),ER.FSH.PROD.MT,136296.65625
+765,Latvia,LVA,2017,Total fisheries production (metric tons),ER.FSH.PROD.MT,118947.9375
+766,Latvia,LVA,2016,Total fisheries production (metric tons),ER.FSH.PROD.MT,115066.078125
+767,Latvia,LVA,2015,Total fisheries production (metric tons),ER.FSH.PROD.MT,82202.8515625
+768,Latvia,LVA,2014,Total fisheries production (metric tons),ER.FSH.PROD.MT,120222.28125
+769,Latvia,LVA,2013,Total fisheries production (metric tons),ER.FSH.PROD.MT,116672.2109375
+770,Latvia,LVA,2012,Total fisheries production (metric tons),ER.FSH.PROD.MT,94978.5390625
+771,Latvia,LVA,2011,Total fisheries production (metric tons),ER.FSH.PROD.MT,154855.5
+772,Latvia,LVA,2010,Total fisheries production (metric tons),ER.FSH.PROD.MT,165367.796875
+773,Latvia,LVA,2009,Total fisheries production (metric tons),ER.FSH.PROD.MT,163730.203125
+774,Latvia,LVA,2008,Total fisheries production (metric tons),ER.FSH.PROD.MT,158518
+775,Latvia,LVA,2007,Total fisheries production (metric tons),ER.FSH.PROD.MT,156005
+776,Latvia,LVA,2006,Total fisheries production (metric tons),ER.FSH.PROD.MT,140954
+777,Latvia,LVA,2005,Total fisheries production (metric tons),ER.FSH.PROD.MT,151160
+778,Latvia,LVA,2004,Total fisheries production (metric tons),ER.FSH.PROD.MT,125936
+779,Latvia,LVA,2003,Total fisheries production (metric tons),ER.FSH.PROD.MT,115180
+780,Latvia,LVA,2002,Total fisheries production (metric tons),ER.FSH.PROD.MT,117983
+781,Latvia,LVA,2001,Total fisheries production (metric tons),ER.FSH.PROD.MT,128639
+782,Latvia,LVA,2000,Total fisheries production (metric tons),ER.FSH.PROD.MT,136728
+783,Latvia,LVA,1999,Total fisheries production (metric tons),ER.FSH.PROD.MT,125857
+784,Latvia,LVA,1998,Total fisheries production (metric tons),ER.FSH.PROD.MT,102756
+785,Latvia,LVA,1997,Total fisheries production (metric tons),ER.FSH.PROD.MT,106027
+786,Latvia,LVA,1996,Total fisheries production (metric tons),ER.FSH.PROD.MT,143024
+787,Latvia,LVA,1995,Total fisheries production (metric tons),ER.FSH.PROD.MT,149719
+788,Latvia,LVA,1994,Total fisheries production (metric tons),ER.FSH.PROD.MT,138665
+789,Latvia,LVA,1993,Total fisheries production (metric tons),ER.FSH.PROD.MT,142313
+790,Latvia,LVA,1992,Total fisheries production (metric tons),ER.FSH.PROD.MT,157388
+791,Latvia,LVA,1991,Total fisheries production (metric tons),ER.FSH.PROD.MT,412642
+792,Latvia,LVA,1990,Total fisheries production (metric tons),ER.FSH.PROD.MT,459833
+793,Latvia,LVA,1989,Total fisheries production (metric tons),ER.FSH.PROD.MT,541723
+794,Latvia,LVA,1988,Total fisheries production (metric tons),ER.FSH.PROD.MT,544138
+795,Latvia,LVA,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,18.1713211908866
+796,Latvia,LVA,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,18.1713211908866
+797,Latvia,LVA,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,18.17
+798,Latvia,LVA,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,16.0363617853212
+799,Latvia,LVA,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,16.0363617853212
+800,Latvia,LVA,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,16.03554066
+801,Latvia,LVA,2017,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,95.1908583413694
+802,Latvia,LVA,2016,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.9847143022774
+803,Latvia,LVA,2015,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.7796805288915
+804,Latvia,LVA,2014,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.5760094437589
+805,Latvia,LVA,2013,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.3725824278263
+806,Latvia,LVA,2012,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.1691797679967
+807,Latvia,LVA,2011,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.9659159459797
+808,Latvia,LVA,2010,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.7627890576475
+809,Latvia,LVA,2009,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.5599420553376
+810,Latvia,LVA,2008,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.3640715952861
+811,Latvia,LVA,2007,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.1759172267361
+812,Latvia,LVA,2006,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.989242491172
+813,Latvia,LVA,2005,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.9563232691773
+814,Latvia,LVA,2004,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.8963160804173
+815,Latvia,LVA,2003,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.8360681013741
+816,Latvia,LVA,2002,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.7999903501389
+817,Latvia,LVA,2001,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.7722424672968
+818,Latvia,LVA,2000,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.7914380106057
+819,Latvia,LVA,2017,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,85.8237614342374
+820,Latvia,LVA,2016,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,85.3394226460052
+821,Latvia,LVA,2015,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,84.8566219208584
+822,Latvia,LVA,2014,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,84.0743986405953
+823,Latvia,LVA,2013,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.4687376012418
+824,Latvia,LVA,2012,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.8647257937556
+825,Latvia,LVA,2011,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.2625449159226
+826,Latvia,LVA,2010,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,81.7608251320522
+827,Latvia,LVA,2009,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,81.3179732907524
+828,Latvia,LVA,2008,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,80.8851392384952
+829,Latvia,LVA,2007,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,80.4629458222768
+830,Latvia,LVA,2006,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,80.0439739953272
+831,Latvia,LVA,2005,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,79.6216932035536
+832,Latvia,LVA,2004,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,79.4603203603967
+833,Latvia,LVA,2003,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,79.2967501167601
+834,Latvia,LVA,2002,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,79.088910555377
+835,Latvia,LVA,2001,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,78.8044604415156
+836,Latvia,LVA,2000,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,78.8291014420875
+837,Latvia,LVA,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+838,Latvia,LVA,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+839,Latvia,LVA,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+840,Latvia,LVA,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+841,Latvia,LVA,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+842,Latvia,LVA,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+843,Latvia,LVA,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+844,Latvia,LVA,2016,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.1
+845,Latvia,LVA,2015,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.5
+846,Latvia,LVA,2014,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.9
+847,Latvia,LVA,2013,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.6
+848,Latvia,LVA,2012,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.4
+849,Latvia,LVA,2011,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.3
+850,Latvia,LVA,2010,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.4
+851,Latvia,LVA,2009,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.6
+852,Latvia,LVA,2008,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.9
+853,Latvia,LVA,2007,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.2
+854,Latvia,LVA,2006,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.4
+855,Latvia,LVA,2005,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.7
+856,Latvia,LVA,2004,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.9
+857,Latvia,LVA,2003,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26
+858,Latvia,LVA,2002,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.1
+859,Latvia,LVA,2001,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.3
+860,Latvia,LVA,2000,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.6
+861,Latvia,LVA,1999,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.9
+862,Latvia,LVA,1998,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.2
+863,Latvia,LVA,1997,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.7
+864,Latvia,LVA,1996,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.2
+865,Latvia,LVA,1995,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.9
+866,Latvia,LVA,1994,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,29.7
+867,Latvia,LVA,1993,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.6
+868,Latvia,LVA,1992,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,31.7
+869,Latvia,LVA,1991,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,32.8
+870,Latvia,LVA,1990,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,34.2
+871,Latvia,LVA,2018,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.49
+872,Latvia,LVA,2017,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.57
+873,Latvia,LVA,2016,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.72
+874,Latvia,LVA,2015,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.69
+875,Latvia,LVA,2014,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.66
+876,Latvia,LVA,2013,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.8
+877,Latvia,LVA,2012,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.89
+878,Latvia,LVA,2011,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.88
+879,Latvia,LVA,2010,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.68
+880,Latvia,LVA,2009,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.74
+881,Latvia,LVA,2008,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.77
+882,Latvia,LVA,2007,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.83
+883,Latvia,LVA,2006,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.85
+884,Latvia,LVA,2005,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.9
+885,Latvia,LVA,2004,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.91
+886,Latvia,LVA,2003,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.95
+887,Latvia,LVA,2002,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.87
+888,Latvia,LVA,2001,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.28
+889,Latvia,LVA,2000,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.77
+890,Latvia,LVA,1999,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,9.029999733
+891,Latvia,LVA,1998,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,9.4099998474
+892,Latvia,LVA,1997,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,9.8000001907
+893,Latvia,LVA,1996,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,10.4399995804
+894,Latvia,LVA,1995,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.1899995804
+895,Latvia,LVA,1994,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.0551996231
+896,Latvia,LVA,1993,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.2314996719
+897,Latvia,LVA,1992,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.9406003952
+898,Latvia,LVA,1991,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,13.6218996048
+899,Latvia,LVA,1990,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,14.0754003525
+900,Latvia,LVA,1989,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,14.0235004425049
+901,Latvia,LVA,1988,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,14.0949001312256
+902,Latvia,LVA,1987,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,14.2390003204346
+903,Latvia,LVA,1986,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,14.1928997039795
+904,Latvia,LVA,1985,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,14.3086004257202
+905,Latvia,LVA,1980,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,13.8909997940063
+906,Latvia,LVA,2019,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.1
+907,Latvia,LVA,2018,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.1
+908,Latvia,LVA,2017,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,21.4
+909,Latvia,LVA,2016,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,21.3
+910,Latvia,LVA,2015,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,21.6
+911,Latvia,LVA,2014,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.7
+912,Latvia,LVA,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.6
+913,Latvia,LVA,2012,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,23.5
+914,Latvia,LVA,2011,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,22.7
+915,Latvia,LVA,2010,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,22.5
+916,Latvia,LVA,2009,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,26.3
+917,Latvia,LVA,2008,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,26.4
+918,Latvia,LVA,2007,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.9
+919,Latvia,LVA,2006,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,23.2
+920,Latvia,LVA,2005,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,26.5
+921,Latvia,LVA,2004,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,26.8
+922,Latvia,LVA,2003,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,29.1
+923,Latvia,LVA,2002,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,31.5
+924,Latvia,LVA,2001,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,32.2
+925,Latvia,LVA,2000,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,34.7
+926,Latvia,LVA,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.1
+927,Latvia,LVA,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.1
+928,Latvia,LVA,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.1
+929,Latvia,LVA,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.3
+930,Latvia,LVA,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.2
+931,Latvia,LVA,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.4
+932,Latvia,LVA,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.9
+933,Latvia,LVA,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.1
+934,Latvia,LVA,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9
+935,Latvia,LVA,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.8
+936,Latvia,LVA,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.3
+937,Latvia,LVA,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,18.5
+938,Latvia,LVA,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,20.1
+939,Latvia,LVA,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,20
+940,Latvia,LVA,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,21.4
+941,Latvia,LVA,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,23.5
+942,Latvia,LVA,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,24.6
+943,Latvia,LVA,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,25.8
+944,Latvia,LVA,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,25.9
+945,Latvia,LVA,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,29.2
+946,Latvia,LVA,2018,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.18923044
+947,Latvia,LVA,2017,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.00696659
+948,Latvia,LVA,2016,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.20632744
+949,Latvia,LVA,2015,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.68592453
+950,Latvia,LVA,2014,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.4568367
+951,Latvia,LVA,2013,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.39593935
+952,Latvia,LVA,2012,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.41030407
+953,Latvia,LVA,2011,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.56752443
+954,Latvia,LVA,2010,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.13846397
+955,Latvia,LVA,2009,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.13475847
+956,Latvia,LVA,2008,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.61553001
+957,Latvia,LVA,2007,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.54140186
+958,Latvia,LVA,2006,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.7398572
+959,Latvia,LVA,2005,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.86492682
+960,Latvia,LVA,2004,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.23694801
+961,Latvia,LVA,2003,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.49818659
+962,Latvia,LVA,2002,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.77924252
+963,Latvia,LVA,2001,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.78918362
+964,Latvia,LVA,2000,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.45028639
+965,Latvia,LVA,2018,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,59.7159729
+966,Latvia,LVA,2017,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,57.16550827
+967,Latvia,LVA,2016,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,55.84833145
+968,Latvia,LVA,2015,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,58.67530823
+969,Latvia,LVA,2014,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,59.67239761
+970,Latvia,LVA,2013,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,60.01409149
+971,Latvia,LVA,2012,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,60.3478241
+972,Latvia,LVA,2011,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,63.49742889
+973,Latvia,LVA,2010,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,60.18483734
+974,Latvia,LVA,2009,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,59.6487999
+975,Latvia,LVA,2008,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,60.3269043
+976,Latvia,LVA,2007,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,60.8907814
+977,Latvia,LVA,2006,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,61.53560257
+978,Latvia,LVA,2005,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,55.69818497
+979,Latvia,LVA,2004,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,56.17494583
+980,Latvia,LVA,2003,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,49.82992554
+981,Latvia,LVA,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,49.57962418
+982,Latvia,LVA,2001,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,48.73086166
+983,Latvia,LVA,2000,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,50.75323105
+984,Latvia,LVA,2019,Refugee population by country or territory of asylum,SM.POP.REFG,665
+985,Latvia,LVA,2018,Refugee population by country or territory of asylum,SM.POP.REFG,664
+986,Latvia,LVA,2017,Refugee population by country or territory of asylum,SM.POP.REFG,653
+987,Latvia,LVA,2016,Refugee population by country or territory of asylum,SM.POP.REFG,340
+988,Latvia,LVA,2015,Refugee population by country or territory of asylum,SM.POP.REFG,193
+989,Latvia,LVA,2014,Refugee population by country or territory of asylum,SM.POP.REFG,168
+990,Latvia,LVA,2013,Refugee population by country or territory of asylum,SM.POP.REFG,149
+991,Latvia,LVA,2012,Refugee population by country or territory of asylum,SM.POP.REFG,113
+992,Latvia,LVA,2011,Refugee population by country or territory of asylum,SM.POP.REFG,88
+993,Latvia,LVA,2010,Refugee population by country or territory of asylum,SM.POP.REFG,60
+994,Latvia,LVA,2009,Refugee population by country or territory of asylum,SM.POP.REFG,40
+995,Latvia,LVA,2008,Refugee population by country or territory of asylum,SM.POP.REFG,27
+996,Latvia,LVA,2007,Refugee population by country or territory of asylum,SM.POP.REFG,27
+997,Latvia,LVA,2006,Refugee population by country or territory of asylum,SM.POP.REFG,22
+998,Latvia,LVA,2005,Refugee population by country or territory of asylum,SM.POP.REFG,10
+999,Latvia,LVA,2004,Refugee population by country or territory of asylum,SM.POP.REFG,10
+1000,Latvia,LVA,2003,Refugee population by country or territory of asylum,SM.POP.REFG,16
+1001,Latvia,LVA,2002,Refugee population by country or territory of asylum,SM.POP.REFG,5
+1002,Latvia,LVA,2001,Refugee population by country or territory of asylum,SM.POP.REFG,5
+1003,Latvia,LVA,2000,Refugee population by country or territory of asylum,SM.POP.REFG,5
+1004,Latvia,LVA,1999,Refugee population by country or territory of asylum,SM.POP.REFG,5
+1005,Latvia,LVA,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1006,Latvia,LVA,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1007,Latvia,LVA,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1008,Latvia,LVA,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1009,Latvia,LVA,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1010,Latvia,LVA,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1011,Latvia,LVA,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1012,Latvia,LVA,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1013,Latvia,LVA,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1014,Latvia,LVA,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1015,Latvia,LVA,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1016,Latvia,LVA,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1017,Latvia,LVA,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1018,Latvia,LVA,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1019,Latvia,LVA,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1020,Latvia,LVA,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.8
+1021,Latvia,LVA,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.5
+1022,Latvia,LVA,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,4.6
+1023,Latvia,LVA,2019,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1024,Latvia,LVA,2018,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10
+1025,Latvia,LVA,2017,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1026,Latvia,LVA,2016,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.2
+1027,Latvia,LVA,2015,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.1
+1028,Latvia,LVA,2014,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.9
+1029,Latvia,LVA,2013,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1030,Latvia,LVA,2012,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1031,Latvia,LVA,2011,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+1032,Latvia,LVA,2010,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+1033,Latvia,LVA,2009,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1034,Latvia,LVA,2008,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.2
+1035,Latvia,LVA,2007,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.9
+1036,Latvia,LVA,2006,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1037,Latvia,LVA,2005,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1038,Latvia,LVA,2004,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+1039,Latvia,LVA,2003,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.2
+1040,Latvia,LVA,2002,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.7
+1041,Latvia,LVA,2001,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.4
+1042,Latvia,LVA,2000,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.6
+1043,Latvia,LVA,1999,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.1
+1044,Latvia,LVA,1998,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,7.6
+1045,Latvia,LVA,1997,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,7.7
+1046,Latvia,LVA,1996,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.1
+1047,Latvia,LVA,1995,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.7
+1048,Latvia,LVA,1994,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.6
+1049,Latvia,LVA,1993,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.4
+1050,Latvia,LVA,1992,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.1
+1051,Latvia,LVA,1991,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.1
+1052,Latvia,LVA,1990,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.2
+1053,Latvia,LVA,1989,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.6
+1054,Latvia,LVA,1988,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.6
+1055,Latvia,LVA,1987,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16
+1056,Latvia,LVA,1986,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.1
+1057,Latvia,LVA,1985,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.4
+1058,Latvia,LVA,1984,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.9
+1059,Latvia,LVA,1983,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.9
+1060,Latvia,LVA,1982,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.8
+1061,Latvia,LVA,1981,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.2
+1062,Latvia,LVA,1980,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.1
+1063,Latvia,LVA,1979,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.8
+1064,Latvia,LVA,1978,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.7
+1065,Latvia,LVA,1977,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.8
+1066,Latvia,LVA,1976,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14
+1067,Latvia,LVA,1975,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.2
+1068,Latvia,LVA,1974,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.3
+1069,Latvia,LVA,1973,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.1
+1070,Latvia,LVA,1972,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.6
+1071,Latvia,LVA,1971,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.8
+1072,Latvia,LVA,1970,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.6
+1073,Latvia,LVA,1969,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14
+1074,Latvia,LVA,1968,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.1
+1075,Latvia,LVA,1967,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14
+1076,Latvia,LVA,1966,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14
+1077,Latvia,LVA,1965,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.8
+1078,Latvia,LVA,1964,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.8
+1079,Latvia,LVA,1963,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.3
+1080,Latvia,LVA,1962,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.1
+1081,Latvia,LVA,1961,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7
+1082,Latvia,LVA,1960,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7
+1083,Latvia,LVA,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.2390243902439
+1084,Latvia,LVA,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.7829268292683
+1085,Latvia,LVA,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.6292682926829
+1086,Latvia,LVA,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.580487804878
+1087,Latvia,LVA,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.4804878048781
+1088,Latvia,LVA,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.1243902439024
+1089,Latvia,LVA,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.9829268292683
+1090,Latvia,LVA,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.7780487804878
+1091,Latvia,LVA,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.5756097560976
+1092,Latvia,LVA,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.4829268292683
+1093,Latvia,LVA,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.0804878048781
+1094,Latvia,LVA,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.419512195122
+1095,Latvia,LVA,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.019512195122
+1096,Latvia,LVA,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8658536585366
+1097,Latvia,LVA,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.3560975609756
+1098,Latvia,LVA,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.0268292682927
+1099,Latvia,LVA,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.2658536585366
+1100,Latvia,LVA,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.9609756097561
+1101,Latvia,LVA,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7609756097561
+1102,Latvia,LVA,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3146341463415
+1103,Latvia,LVA,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.7429268292683
+1104,Latvia,LVA,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0121951219512
+1105,Latvia,LVA,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3492682926829
+1106,Latvia,LVA,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.7765853658537
+1107,Latvia,LVA,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.3912195121951
+1108,Latvia,LVA,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.6643902439025
+1109,Latvia,LVA,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.7226829268293
+1110,Latvia,LVA,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.3960975609756
+1111,Latvia,LVA,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0324390243903
+1112,Latvia,LVA,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.2731707317073
+1113,Latvia,LVA,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1553658536586
+1114,Latvia,LVA,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6153658536585
+1115,Latvia,LVA,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6929268292683
+1116,Latvia,LVA,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6224390243903
+1117,Latvia,LVA,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.2914634146342
+1118,Latvia,LVA,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1629268292683
+1119,Latvia,LVA,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1190243902439
+1120,Latvia,LVA,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3282926829268
+1121,Latvia,LVA,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.7863414634146
+1122,Latvia,LVA,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.8085365853659
+1123,Latvia,LVA,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.4956097560976
+1124,Latvia,LVA,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9878048780488
+1125,Latvia,LVA,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1046341463415
+1126,Latvia,LVA,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0478048780488
+1127,Latvia,LVA,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9253658536585
+1128,Latvia,LVA,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.7409756097561
+1129,Latvia,LVA,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8134146341464
+1130,Latvia,LVA,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8787804878049
+1131,Latvia,LVA,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1646341463415
+1132,Latvia,LVA,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8353658536586
+1133,Latvia,LVA,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.7968292682927
+1134,Latvia,LVA,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0429268292683
+1135,Latvia,LVA,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3939024390244
+1136,Latvia,LVA,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7073170731707
+1137,Latvia,LVA,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7265853658537
+1138,Latvia,LVA,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0280487804878
+1139,Latvia,LVA,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8290243902439
+1140,Latvia,LVA,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.430487804878
+1141,Latvia,LVA,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0324390243903
+1142,Latvia,LVA,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.7868292682927
+1143,Latvia,LVA,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,20.3365110033182
+1144,Latvia,LVA,2018,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,20.0436203206809
+1145,Latvia,LVA,2017,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.833304033577
+1146,Latvia,LVA,2016,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.6798708988556
+1147,Latvia,LVA,2015,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.5186001319535
+1148,Latvia,LVA,2014,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.2751008178728
+1149,Latvia,LVA,2013,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.0245076057834
+1150,Latvia,LVA,2012,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.7641371550534
+1151,Latvia,LVA,2011,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.4855345551464
+1152,Latvia,LVA,2010,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.1786346532406
+1153,Latvia,LVA,2009,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.999986012584
+1154,Latvia,LVA,2008,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.7799147867666
+1155,Latvia,LVA,2007,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.513030637067
+1156,Latvia,LVA,2006,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.2033998092641
+1157,Latvia,LVA,2005,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.857823270321
+1158,Latvia,LVA,2004,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.5738522748265
+1159,Latvia,LVA,2003,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.2239661937821
+1160,Latvia,LVA,2002,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.8265488546771
+1161,Latvia,LVA,2001,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.4095509674214
+1162,Latvia,LVA,2000,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.9884823359467
+1163,Latvia,LVA,1999,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.7482737370499
+1164,Latvia,LVA,1998,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.5332186267382
+1165,Latvia,LVA,1997,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.3189580431638
+1166,Latvia,LVA,1996,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.0588793431745
+1167,Latvia,LVA,1995,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.7212973593571
+1168,Latvia,LVA,1994,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.3946866444307
+1169,Latvia,LVA,1993,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.0182784345293
+1170,Latvia,LVA,1992,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6166776198033
+1171,Latvia,LVA,1991,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2277535311166
+1172,Latvia,LVA,1990,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.875295324832
+1173,Latvia,LVA,1989,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.767488146286
+1174,Latvia,LVA,1988,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6866786498299
+1175,Latvia,LVA,1987,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6417901356995
+1176,Latvia,LVA,1986,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6551723607867
+1177,Latvia,LVA,1985,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.7433715210802
+1178,Latvia,LVA,1984,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.9585946646678
+1179,Latvia,LVA,1983,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2748765746193
+1180,Latvia,LVA,1982,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6331654889216
+1181,Latvia,LVA,1981,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.9249128513061
+1182,Latvia,LVA,1980,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.0727047094243
+1183,Latvia,LVA,1979,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.2097323806335
+1184,Latvia,LVA,1978,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.2054647381017
+1185,Latvia,LVA,1977,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.0948589362315
+1186,Latvia,LVA,1976,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.9534611830056
+1187,Latvia,LVA,1975,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.8293251436356
+1188,Latvia,LVA,1974,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6994429186127
+1189,Latvia,LVA,1973,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.5731582022531
+1190,Latvia,LVA,1972,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.436101120055
+1191,Latvia,LVA,1971,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2584411144189
+1192,Latvia,LVA,1970,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.0216347963285
+1193,Latvia,LVA,1969,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.8041910579452
+1194,Latvia,LVA,1968,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5639305319251
+1195,Latvia,LVA,1967,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3146105232959
+1196,Latvia,LVA,1966,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.0825025704046
+1197,Latvia,LVA,1965,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.8850112243669
+1198,Latvia,LVA,1964,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.7591567315068
+1199,Latvia,LVA,1963,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.6873604775856
+1200,Latvia,LVA,1962,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.6526939505801
+1201,Latvia,LVA,1961,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.6228506808302
+1202,Latvia,LVA,1960,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.5743557668016
+1203,Latvia,LVA,2019,Population growth (annual %),SP.POP.GROW,-0.695239140136066
+1204,Latvia,LVA,2018,Population growth (annual %),SP.POP.GROW,-0.779138396192231
+1205,Latvia,LVA,2017,Population growth (annual %),SP.POP.GROW,-0.886215573292392
+1206,Latvia,LVA,2016,Population growth (annual %),SP.POP.GROW,-0.913885332226604
+1207,Latvia,LVA,2015,Population growth (annual %),SP.POP.GROW,-0.818626340945853
+1208,Latvia,LVA,2014,Population growth (annual %),SP.POP.GROW,-0.941743354234222
+1209,Latvia,LVA,2013,Population growth (annual %),SP.POP.GROW,-1.07103480329077
+1210,Latvia,LVA,2012,Population growth (annual %),SP.POP.GROW,-1.24035915329271
+1211,Latvia,LVA,2011,Population growth (annual %),SP.POP.GROW,-1.82076700208005
+1212,Latvia,LVA,2010,Population growth (annual %),SP.POP.GROW,-2.08130508988111
+1213,Latvia,LVA,2009,Population growth (annual %),SP.POP.GROW,-1.65102496759116
+1214,Latvia,LVA,2008,Population growth (annual %),SP.POP.GROW,-1.0509395443743
+1215,Latvia,LVA,2007,Population growth (annual %),SP.POP.GROW,-0.816175506582982
+1216,Latvia,LVA,2006,Population growth (annual %),SP.POP.GROW,-0.91727295748817
+1217,Latvia,LVA,2005,Population growth (annual %),SP.POP.GROW,-1.08057145691172
+1218,Latvia,LVA,2004,Population growth (annual %),SP.POP.GROW,-1.09131295557421
+1219,Latvia,LVA,2003,Population growth (annual %),SP.POP.GROW,-0.966400801237561
+1220,Latvia,LVA,2002,Population growth (annual %),SP.POP.GROW,-1.1618382239436
+1221,Latvia,LVA,2001,Population growth (annual %),SP.POP.GROW,-1.29148694354873
+1222,Latvia,LVA,2000,Population growth (annual %),SP.POP.GROW,-0.963935407092365
+1223,Latvia,LVA,1999,Population growth (annual %),SP.POP.GROW,-0.813961203872195
+1224,Latvia,LVA,1998,Population growth (annual %),SP.POP.GROW,-0.942918937122207
+1225,Latvia,LVA,1997,Population growth (annual %),SP.POP.GROW,-0.996762288757542
+1226,Latvia,LVA,1996,Population growth (annual %),SP.POP.GROW,-1.12637509582344
+1227,Latvia,LVA,1995,Population growth (annual %),SP.POP.GROW,-1.42581081215727
+1228,Latvia,LVA,1994,Population growth (annual %),SP.POP.GROW,-1.67382870075107
+1229,Latvia,LVA,1993,Population growth (annual %),SP.POP.GROW,-1.97193209570356
+1230,Latvia,LVA,1992,Population growth (annual %),SP.POP.GROW,-1.37679506583504
+1231,Latvia,LVA,1991,Population growth (annual %),SP.POP.GROW,-0.473114694040671
+1232,Latvia,LVA,1990,Population growth (annual %),SP.POP.GROW,-0.142736397581795
+1233,Latvia,LVA,1989,Population growth (annual %),SP.POP.GROW,0.508272199965741
+1234,Latvia,LVA,1988,Population growth (annual %),SP.POP.GROW,1.01708882644933
+1235,Latvia,LVA,1987,Population growth (annual %),SP.POP.GROW,1.0213856199337
+1236,Latvia,LVA,1986,Population growth (annual %),SP.POP.GROW,0.811742390944632
+1237,Latvia,LVA,1985,Population growth (annual %),SP.POP.GROW,0.654593344449627
+1238,Latvia,LVA,1984,Population growth (annual %),SP.POP.GROW,0.627872772057869
+1239,Latvia,LVA,1983,Population growth (annual %),SP.POP.GROW,0.588173150511269
+1240,Latvia,LVA,1982,Population growth (annual %),SP.POP.GROW,0.461697590425841
+1241,Latvia,LVA,1981,Population growth (annual %),SP.POP.GROW,0.306890036020135
+1242,Latvia,LVA,1980,Population growth (annual %),SP.POP.GROW,0.229111154908763
+1243,Latvia,LVA,1979,Population growth (annual %),SP.POP.GROW,0.321031540691557
+1244,Latvia,LVA,1978,Population growth (annual %),SP.POP.GROW,0.515675052839177
+1245,Latvia,LVA,1977,Population growth (annual %),SP.POP.GROW,0.56835600171116
+1246,Latvia,LVA,1976,Population growth (annual %),SP.POP.GROW,0.603153487739212
+1247,Latvia,LVA,1975,Population growth (annual %),SP.POP.GROW,0.774284540119002
+1248,Latvia,LVA,1974,Population growth (annual %),SP.POP.GROW,0.880573503137927
+1249,Latvia,LVA,1973,Population growth (annual %),SP.POP.GROW,0.837374915156971
+1250,Latvia,LVA,1972,Population growth (annual %),SP.POP.GROW,0.808250225764662
+1251,Latvia,LVA,1971,Population growth (annual %),SP.POP.GROW,0.727478964584023
+1252,Latvia,LVA,1970,Population growth (annual %),SP.POP.GROW,0.680132523152894
+1253,Latvia,LVA,1969,Population growth (annual %),SP.POP.GROW,0.838010969142035
+1254,Latvia,LVA,1968,Population growth (annual %),SP.POP.GROW,0.968646698267354
+1255,Latvia,LVA,1967,Population growth (annual %),SP.POP.GROW,0.785400368393627
+1256,Latvia,LVA,1966,Population growth (annual %),SP.POP.GROW,0.760499724364783
+1257,Latvia,LVA,1965,Population growth (annual %),SP.POP.GROW,1.12264639619669
+1258,Latvia,LVA,1964,Population growth (annual %),SP.POP.GROW,1.33456859999138
+1259,Latvia,LVA,1963,Population growth (annual %),SP.POP.GROW,1.33561309771935
+1260,Latvia,LVA,1962,Population growth (annual %),SP.POP.GROW,1.33380931662705
+1261,Latvia,LVA,1961,Population growth (annual %),SP.POP.GROW,1.48362675105514
+1262,Latvia,LVA,2019,"Population, total",SP.POP.TOTL,1913822
+1263,Latvia,LVA,2018,"Population, total",SP.POP.TOTL,1927174
+1264,Latvia,LVA,2017,"Population, total",SP.POP.TOTL,1942248
+1265,Latvia,LVA,2016,"Population, total",SP.POP.TOTL,1959537
+1266,Latvia,LVA,2015,"Population, total",SP.POP.TOTL,1977527
+1267,Latvia,LVA,2014,"Population, total",SP.POP.TOTL,1993782
+1268,Latvia,LVA,2013,"Population, total",SP.POP.TOTL,2012647
+1269,Latvia,LVA,2012,"Population, total",SP.POP.TOTL,2034319
+1270,Latvia,LVA,2011,"Population, total",SP.POP.TOTL,2059709
+1271,Latvia,LVA,2010,"Population, total",SP.POP.TOTL,2097555
+1272,Latvia,LVA,2009,"Population, total",SP.POP.TOTL,2141669
+1273,Latvia,LVA,2008,"Population, total",SP.POP.TOTL,2177322
+1274,Latvia,LVA,2007,"Population, total",SP.POP.TOTL,2200325
+1275,Latvia,LVA,2006,"Population, total",SP.POP.TOTL,2218357
+1276,Latvia,LVA,2005,"Population, total",SP.POP.TOTL,2238799
+1277,Latvia,LVA,2004,"Population, total",SP.POP.TOTL,2263122
+1278,Latvia,LVA,2003,"Population, total",SP.POP.TOTL,2287955
+1279,Latvia,LVA,2002,"Population, total",SP.POP.TOTL,2310173
+1280,Latvia,LVA,2001,"Population, total",SP.POP.TOTL,2337170
+1281,Latvia,LVA,2000,"Population, total",SP.POP.TOTL,2367550
+1282,Latvia,LVA,1999,"Population, total",SP.POP.TOTL,2390482
+1283,Latvia,LVA,1998,"Population, total",SP.POP.TOTL,2410019
+1284,Latvia,LVA,1997,"Population, total",SP.POP.TOTL,2432851
+1285,Latvia,LVA,1996,"Population, total",SP.POP.TOTL,2457222
+1286,Latvia,LVA,1995,"Population, total",SP.POP.TOTL,2485056
+1287,Latvia,LVA,1994,"Population, total",SP.POP.TOTL,2520742
+1288,Latvia,LVA,1993,"Population, total",SP.POP.TOTL,2563290
+1289,Latvia,LVA,1992,"Population, total",SP.POP.TOTL,2614338
+1290,Latvia,LVA,1991,"Population, total",SP.POP.TOTL,2650581
+1291,Latvia,LVA,1990,"Population, total",SP.POP.TOTL,2663151
+1292,Latvia,LVA,1989,"Population, total",SP.POP.TOTL,2666955
+1293,Latvia,LVA,1988,"Population, total",SP.POP.TOTL,2653434
+1294,Latvia,LVA,1987,"Population, total",SP.POP.TOTL,2626583
+1295,Latvia,LVA,1986,"Population, total",SP.POP.TOTL,2599892
+1296,Latvia,LVA,1985,"Population, total",SP.POP.TOTL,2578873
+1297,Latvia,LVA,1984,"Population, total",SP.POP.TOTL,2562047
+1298,Latvia,LVA,1983,"Population, total",SP.POP.TOTL,2546011
+1299,Latvia,LVA,1982,"Population, total",SP.POP.TOTL,2531080
+1300,Latvia,LVA,1981,"Population, total",SP.POP.TOTL,2519421
+1301,Latvia,LVA,1980,"Population, total",SP.POP.TOTL,2511701
+1302,Latvia,LVA,1979,"Population, total",SP.POP.TOTL,2505953
+1303,Latvia,LVA,1978,"Population, total",SP.POP.TOTL,2497921
+1304,Latvia,LVA,1977,"Population, total",SP.POP.TOTL,2485073
+1305,Latvia,LVA,1976,"Population, total",SP.POP.TOTL,2470989
+1306,Latvia,LVA,1975,"Population, total",SP.POP.TOTL,2456130
+1307,Latvia,LVA,1974,"Population, total",SP.POP.TOTL,2437186
+1308,Latvia,LVA,1973,"Population, total",SP.POP.TOTL,2415819
+1309,Latvia,LVA,1972,"Population, total",SP.POP.TOTL,2395674
+1310,Latvia,LVA,1971,"Population, total",SP.POP.TOTL,2376389
+1311,Latvia,LVA,1970,"Population, total",SP.POP.TOTL,2359164
+1312,Latvia,LVA,1969,"Population, total",SP.POP.TOTL,2343173
+1313,Latvia,LVA,1968,"Population, total",SP.POP.TOTL,2323619
+1314,Latvia,LVA,1967,"Population, total",SP.POP.TOTL,2301220
+1315,Latvia,LVA,1966,"Population, total",SP.POP.TOTL,2283217
+1316,Latvia,LVA,1965,"Population, total",SP.POP.TOTL,2265919
+1317,Latvia,LVA,1964,"Population, total",SP.POP.TOTL,2240623
+1318,Latvia,LVA,1963,"Population, total",SP.POP.TOTL,2210919
+1319,Latvia,LVA,1962,"Population, total",SP.POP.TOTL,2181586
+1320,Latvia,LVA,1961,"Population, total",SP.POP.TOTL,2152681
+1321,Latvia,LVA,1960,"Population, total",SP.POP.TOTL,2120979
+1322,Latvia,LVA,2019,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9555471642699
+1323,Latvia,LVA,2018,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0101666562093
+1324,Latvia,LVA,2017,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0678397844905
+1325,Latvia,LVA,2016,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1199383061544
+1326,Latvia,LVA,2015,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1603614201509
+1327,Latvia,LVA,2014,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1873225081881
+1328,Latvia,LVA,2013,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.2033301547715
+1329,Latvia,LVA,2012,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.2096298823886
+1330,Latvia,LVA,2011,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.2105821248124
+1331,Latvia,LVA,2010,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.2080510464378
+1332,Latvia,LVA,2009,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.2027542167416
+1333,Latvia,LVA,2008,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1941316698968
+1334,Latvia,LVA,2007,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1825194521241
+1335,Latvia,LVA,2006,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.168263999716
+1336,Latvia,LVA,2005,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1518279783801
+1337,Latvia,LVA,2004,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1323924206269
+1338,Latvia,LVA,2003,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1096647866617
+1339,Latvia,LVA,2002,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0863389421263
+1340,Latvia,LVA,2001,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0653727557978
+1341,Latvia,LVA,2000,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0477738397332
+1342,Latvia,LVA,1999,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0383906235985
+1343,Latvia,LVA,1998,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0354718651694
+1344,Latvia,LVA,1997,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0259486163591
+1345,Latvia,LVA,1996,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9926868783363
+1346,Latvia,LVA,1995,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9267666902135
+1347,Latvia,LVA,1994,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.8214647401825
+1348,Latvia,LVA,1993,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.6873252285049
+1349,Latvia,LVA,1992,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5522510413113
+1350,Latvia,LVA,1991,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4515644764512
+1351,Latvia,LVA,1990,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4075175824477
+1352,Latvia,LVA,1989,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4288083491276
+1353,Latvia,LVA,1988,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5049540820466
+1354,Latvia,LVA,1987,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.6152035893176
+1355,Latvia,LVA,1986,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.7269536906376
+1356,Latvia,LVA,1985,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.8146664377938
+1357,Latvia,LVA,1984,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.8705706991644
+1358,Latvia,LVA,1983,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.901083995967
+1359,Latvia,LVA,1982,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9120720629937
+1360,Latvia,LVA,1981,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9146334910565
+1361,Latvia,LVA,1980,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9168019430622
+1362,Latvia,LVA,1979,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.919979615684
+1363,Latvia,LVA,1978,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9216501140052
+1364,Latvia,LVA,1977,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9252157254118
+1365,Latvia,LVA,1976,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9334710339268
+1366,Latvia,LVA,1975,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9496217561965
+1367,Latvia,LVA,1974,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9749681897427
+1368,Latvia,LVA,1973,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0106188299592
+1369,Latvia,LVA,1972,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0599103495046
+1370,Latvia,LVA,1971,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1264103269707
+1371,Latvia,LVA,1970,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.2129130849084
+1372,Latvia,LVA,1969,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.3193338053244
+1373,Latvia,LVA,1968,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.4450712617032
+1374,Latvia,LVA,1967,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.5886249592786
+1375,Latvia,LVA,1966,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.7487181814651
+1376,Latvia,LVA,1965,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.9226754326762
+1377,Latvia,LVA,1964,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.1127715202546
+1378,Latvia,LVA,1963,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.3162541416249
+1379,Latvia,LVA,1962,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.5209749148281
+1380,Latvia,LVA,1961,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.7086844081088
+1381,Latvia,LVA,1960,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.8669674452851
+1382,Latvia,LVA,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.68917626
+1383,Latvia,LVA,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,27.27540487
+1384,Latvia,LVA,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.97057091
+1385,Latvia,LVA,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.29605129
+1386,Latvia,LVA,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,25.20446279
+1387,Latvia,LVA,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,24.98492247
+1388,Latvia,LVA,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,24.25478873
+1389,Latvia,LVA,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,23.01292015
+1390,Latvia,LVA,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,21.84848181
+1391,Latvia,LVA,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,20.5240457
+1392,Latvia,LVA,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,21.20091291
+1393,Latvia,LVA,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,18.98014009
+1394,Latvia,LVA,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,15.40242456
+1395,Latvia,LVA,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,4.92902233
+1396,Latvia,LVA,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.698498619
+1397,Latvia,LVA,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.156590773
+1398,Latvia,LVA,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.847107008
+1399,Latvia,LVA,2002,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.42871903
+1400,Latvia,LVA,2001,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.137152228
+1401,Latvia,LVA,2000,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.011911932
+1402,Latvia,LVA,2019,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.4199981689453
+1403,Latvia,LVA,2018,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.4800033569336
+1404,Latvia,LVA,2017,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.3399963378906
+1405,Latvia,LVA,2016,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.120002746582
+1406,Latvia,LVA,2015,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.3899993896484
+1407,Latvia,LVA,2014,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.4599990844727
+1408,Latvia,LVA,2013,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.4499969482422
+1409,Latvia,LVA,2012,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.629997253418
+1410,Latvia,LVA,2011,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.6600036621094
+1411,Latvia,LVA,2010,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.5100021362305
+1412,Latvia,LVA,2009,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.4800033569336
+1413,Latvia,LVA,2008,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.7600021362305
+1414,Latvia,LVA,2007,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.0299987792969
+1415,Latvia,LVA,2006,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.3399963378906
+1416,Latvia,LVA,2005,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.5299987792969
+1417,Latvia,LVA,2004,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.4899978637695
+1418,Latvia,LVA,2003,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.4899978637695
+1419,Latvia,LVA,2002,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.2900009155273
+1420,Latvia,LVA,2001,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.7799987792969
+1421,Latvia,LVA,2000,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.1399993896484
+1422,Latvia,LVA,1999,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.0899963378906
+1423,Latvia,LVA,1998,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.6699981689453
+1424,Latvia,LVA,1997,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.5699996948242
+1425,Latvia,LVA,1996,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.379997253418
+1426,Latvia,LVA,1995,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.629997253418
+1427,Latvia,LVA,1994,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.870002746582
+1428,Latvia,LVA,1993,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.1999969482422
+1429,Latvia,LVA,1992,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.5699996948242
+1430,Latvia,LVA,1991,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.9100036621094
+1431,Latvia,LVA,2019,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.8799991607666
+1432,Latvia,LVA,2018,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.0599994659424
+1433,Latvia,LVA,2017,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.3500003814697
+1434,Latvia,LVA,2016,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.0599994659424
+1435,Latvia,LVA,2015,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.0100002288818
+1436,Latvia,LVA,2014,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.2800006866455
+1437,Latvia,LVA,2013,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.9200000762939
+1438,Latvia,LVA,2012,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.5100002288818
+1439,Latvia,LVA,2011,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.4300003051758
+1440,Latvia,LVA,2010,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.6200008392334
+1441,Latvia,LVA,2009,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.3999996185303
+1442,Latvia,LVA,2008,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.2700004577637
+1443,Latvia,LVA,2007,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,12.9200000762939
+1444,Latvia,LVA,2006,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.5500001907349
+1445,Latvia,LVA,2005,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.4499998092651
+1446,Latvia,LVA,2004,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.9200000762939
+1447,Latvia,LVA,2003,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.7900009155273
+1448,Latvia,LVA,2002,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.9200000762939
+1449,Latvia,LVA,2001,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.1399993896484
+1450,Latvia,LVA,2000,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.3299999237061
+1451,Latvia,LVA,1999,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.2199993133545
+1452,Latvia,LVA,1998,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.3299999237061
+1453,Latvia,LVA,2019,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7.8600001335144
+1454,Latvia,LVA,2018,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7.84000015258789
+1455,Latvia,LVA,2017,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.2600002288818
+1456,Latvia,LVA,2016,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.210000038147
+1457,Latvia,LVA,2015,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.5200004577637
+1458,Latvia,LVA,2014,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.0100002288818
+1459,Latvia,LVA,2013,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.0299997329712
+1460,Latvia,LVA,2012,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,14.8900003433228
+1461,Latvia,LVA,2011,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,16.0300006866455
+1462,Latvia,LVA,2010,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,17.8099994659424
+1463,Latvia,LVA,2009,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,17.4899997711182
+1464,Latvia,LVA,2008,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.8199996948242
+1465,Latvia,LVA,2007,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.9399995803833
+1466,Latvia,LVA,2006,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.460000038147
+1467,Latvia,LVA,2005,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.8900003433228
+1468,Latvia,LVA,2004,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.3400001525879
+1469,Latvia,LVA,2003,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.7299995422363
+1470,Latvia,LVA,2018,Gini index (World Bank estimate),SI.POV.GINI,35.1
+1471,Latvia,LVA,2017,Gini index (World Bank estimate),SI.POV.GINI,35.6
+1472,Latvia,LVA,2016,Gini index (World Bank estimate),SI.POV.GINI,34.3
+1473,Latvia,LVA,2015,Gini index (World Bank estimate),SI.POV.GINI,34.2
+1474,Latvia,LVA,2014,Gini index (World Bank estimate),SI.POV.GINI,35.1
+1475,Latvia,LVA,2013,Gini index (World Bank estimate),SI.POV.GINI,35.5
+1476,Latvia,LVA,2012,Gini index (World Bank estimate),SI.POV.GINI,35.2
+1477,Latvia,LVA,2011,Gini index (World Bank estimate),SI.POV.GINI,35.8
+1478,Latvia,LVA,2010,Gini index (World Bank estimate),SI.POV.GINI,35
+1479,Latvia,LVA,2009,Gini index (World Bank estimate),SI.POV.GINI,36
+1480,Latvia,LVA,2008,Gini index (World Bank estimate),SI.POV.GINI,37.2
+1481,Latvia,LVA,2007,Gini index (World Bank estimate),SI.POV.GINI,37.5
+1482,Latvia,LVA,2006,Gini index (World Bank estimate),SI.POV.GINI,35.6
+1483,Latvia,LVA,2005,Gini index (World Bank estimate),SI.POV.GINI,39
+1484,Latvia,LVA,2004,Gini index (World Bank estimate),SI.POV.GINI,36.4
+1485,Latvia,LVA,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.5
+1486,Latvia,LVA,2017,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.4
+1487,Latvia,LVA,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.6
+1488,Latvia,LVA,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.9
+1489,Latvia,LVA,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,5.5
+1490,Latvia,LVA,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,6
+1491,Latvia,LVA,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,7.4
+1492,Latvia,LVA,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,8.7
+1493,Latvia,LVA,2010,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,9.5
+1494,Latvia,LVA,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,9.5
+1495,Latvia,LVA,2008,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,6.1
+1496,Latvia,LVA,2007,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.9
+1497,Latvia,LVA,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,7.7
+1498,Latvia,LVA,2005,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,14
+1499,Latvia,LVA,2004,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,15.2
+1500,Latvia,LVA,2020,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1501,Latvia,LVA,2019,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1502,Latvia,LVA,2018,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1503,Latvia,LVA,2017,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1504,Latvia,LVA,2016,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1505,Latvia,LVA,2015,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1506,Latvia,LVA,2014,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1507,Latvia,LVA,2013,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1508,Latvia,LVA,2012,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1509,Latvia,LVA,2011,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1510,Latvia,LVA,2010,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1511,Latvia,LVA,2009,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1512,Latvia,LVA,2008,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1513,Latvia,LVA,2007,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1514,Latvia,LVA,2006,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1515,Latvia,LVA,2005,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1516,Latvia,LVA,2004,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1517,Latvia,LVA,2003,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1518,Latvia,LVA,2002,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1519,Latvia,LVA,2001,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1520,Latvia,LVA,2000,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1521,Latvia,LVA,1999,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1522,Latvia,LVA,1998,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1523,Latvia,LVA,1997,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1524,Latvia,LVA,1996,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1525,Latvia,LVA,1995,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1526,Latvia,LVA,1994,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1527,Latvia,LVA,1993,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1528,Latvia,LVA,1992,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1529,Latvia,LVA,1991,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1530,Latvia,LVA,1990,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1531,Latvia,LVA,1989,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1532,Latvia,LVA,1988,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1533,Latvia,LVA,1987,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1534,Latvia,LVA,1986,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1535,Latvia,LVA,1985,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1536,Latvia,LVA,1984,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1537,Latvia,LVA,1983,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1538,Latvia,LVA,1982,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1539,Latvia,LVA,1981,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1540,Latvia,LVA,1980,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1541,Latvia,LVA,1979,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1542,Latvia,LVA,1978,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1543,Latvia,LVA,1977,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1544,Latvia,LVA,1976,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1545,Latvia,LVA,1975,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1546,Latvia,LVA,1974,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1547,Latvia,LVA,1973,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1548,Latvia,LVA,1972,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1549,Latvia,LVA,1971,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1550,Latvia,LVA,1970,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1551,Latvia,LVA,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1552,Latvia,LVA,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1553,Latvia,LVA,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1554,Latvia,LVA,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1555,Latvia,LVA,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1556,Latvia,LVA,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1557,Latvia,LVA,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1558,Latvia,LVA,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1559,Latvia,LVA,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1560,Latvia,LVA,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1561,Latvia,LVA,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1562,Latvia,LVA,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1563,Latvia,LVA,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1564,Latvia,LVA,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1565,Latvia,LVA,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1566,Latvia,LVA,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1567,Latvia,LVA,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1568,Latvia,LVA,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1569,Latvia,LVA,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1570,Latvia,LVA,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1571,Latvia,LVA,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1572,Latvia,LVA,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1573,Latvia,LVA,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1574,Latvia,LVA,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1575,Latvia,LVA,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1576,Latvia,LVA,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1577,Latvia,LVA,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1578,Latvia,LVA,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1579,Latvia,LVA,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1580,Latvia,LVA,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1581,Latvia,LVA,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1582,Latvia,LVA,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1583,Latvia,LVA,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1584,Latvia,LVA,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1585,Latvia,LVA,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1586,Latvia,LVA,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1587,Latvia,LVA,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1588,Latvia,LVA,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1589,Latvia,LVA,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1590,Latvia,LVA,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1591,Latvia,LVA,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1592,Latvia,LVA,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1593,Latvia,LVA,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1594,Latvia,LVA,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1595,Latvia,LVA,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1596,Latvia,LVA,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1597,Latvia,LVA,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1598,Latvia,LVA,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1599,Latvia,LVA,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1600,Latvia,LVA,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1601,Latvia,LVA,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1602,Latvia,LVA,2018,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.63068
+1603,Latvia,LVA,2017,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.51012
+1604,Latvia,LVA,2016,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.44094
+1605,Latvia,LVA,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.62623
+1606,Latvia,LVA,2014,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.6893
+1607,Latvia,LVA,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.6122
+1608,Latvia,LVA,2012,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.66424
+1609,Latvia,LVA,2011,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.69662
+1610,Latvia,LVA,2010,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.61078
+1611,Latvia,LVA,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.45271
+1612,Latvia,LVA,2008,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.58139
+1613,Latvia,LVA,2007,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.55379
+1614,Latvia,LVA,2006,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.65063
+1615,Latvia,LVA,2005,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.52959
+1616,Latvia,LVA,2004,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.40013
+1617,Latvia,LVA,2003,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.36002
+1618,Latvia,LVA,2002,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.40888
+1619,Latvia,LVA,2001,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.40321
+1620,Latvia,LVA,2000,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.43598
+1621,Latvia,LVA,1999,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.35186
+1622,Latvia,LVA,1998,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.37876
+1623,Latvia,LVA,1997,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.3664
+1624,Latvia,LVA,1996,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.39723
+1625,Latvia,LVA,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.222
+1626,Latvia,LVA,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.142
+1627,Latvia,LVA,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.075
+1628,Latvia,LVA,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.021
+1629,Latvia,LVA,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.98
+1630,Latvia,LVA,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.952
+1631,Latvia,LVA,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.925
+1632,Latvia,LVA,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.897
+1633,Latvia,LVA,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.869
+1634,Latvia,LVA,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.841
+1635,Latvia,LVA,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.814
+1636,Latvia,LVA,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.834
+1637,Latvia,LVA,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.9
+1638,Latvia,LVA,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.967
+1639,Latvia,LVA,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68
+1640,Latvia,LVA,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.9
+1641,Latvia,LVA,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.8
+1642,Latvia,LVA,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.85
+1643,Latvia,LVA,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.95
+1644,Latvia,LVA,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.067
+1645,Latvia,LVA,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.22
+1646,Latvia,LVA,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.451
+1647,Latvia,LVA,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.6
+1648,Latvia,LVA,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.65
+1649,Latvia,LVA,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.75
+1650,Latvia,LVA,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.901
+1651,Latvia,LVA,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.799
+1652,Latvia,LVA,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.852
+1653,Latvia,LVA,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.201
+1654,Latvia,LVA,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.25
+1655,Latvia,LVA,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.2
+1656,Latvia,LVA,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.112
+1657,Latvia,LVA,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.947
+1658,Latvia,LVA,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.782
+1659,Latvia,LVA,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.56
+1660,Latvia,LVA,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.283
+1661,Latvia,LVA,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.003
+1662,Latvia,LVA,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.722
+1663,Latvia,LVA,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.44
+1664,Latvia,LVA,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.095
+1665,Latvia,LVA,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.686
+1666,Latvia,LVA,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.143
+1667,Latvia,LVA,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.487
+1668,Latvia,LVA,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.826
+1669,Latvia,LVA,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.157
+1670,Latvia,LVA,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.484
+1671,Latvia,LVA,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.805
+1672,Latvia,LVA,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.122
+1673,Latvia,LVA,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.433
+1674,Latvia,LVA,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.713
+1675,Latvia,LVA,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.946
+1676,Latvia,LVA,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.175
+1677,Latvia,LVA,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.398
+1678,Latvia,LVA,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.617
+1679,Latvia,LVA,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.832
+1680,Latvia,LVA,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.045
+1681,Latvia,LVA,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.253
+1682,Latvia,LVA,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.459
+1683,Latvia,LVA,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.663
+1684,Latvia,LVA,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.867
+1685,Latvia,LVA,2016,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.1
+1686,Latvia,LVA,2015,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.9
+1687,Latvia,LVA,2014,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.8
+1688,Latvia,LVA,2013,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.6
+1689,Latvia,LVA,2012,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.4
+1690,Latvia,LVA,2011,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.2
+1691,Latvia,LVA,2010,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.1
+1692,Latvia,LVA,2009,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.9
+1693,Latvia,LVA,2008,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.7
+1694,Latvia,LVA,2007,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.6
+1695,Latvia,LVA,2006,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.4
+1696,Latvia,LVA,2005,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.3
+1697,Latvia,LVA,2004,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.1
+1698,Latvia,LVA,2003,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23
+1699,Latvia,LVA,2002,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.8
+1700,Latvia,LVA,2001,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.7
+1701,Latvia,LVA,2000,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.6
+1702,Latvia,LVA,1999,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.5
+1703,Latvia,LVA,1998,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.4
+1704,Latvia,LVA,1997,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.3
+1705,Latvia,LVA,1996,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.2
+1706,Latvia,LVA,1995,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.1
+1707,Latvia,LVA,1994,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22
+1708,Latvia,LVA,1993,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.9
+1709,Latvia,LVA,1992,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.8
+1710,Latvia,LVA,1991,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.7
+1711,Latvia,LVA,1990,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.5
+1712,Latvia,LVA,1989,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.4
+1713,Latvia,LVA,1988,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.2
+1714,Latvia,LVA,1987,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.1
+1715,Latvia,LVA,1986,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.9
+1716,Latvia,LVA,1985,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.7
+1717,Latvia,LVA,1984,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.5
+1718,Latvia,LVA,1983,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.2
+1719,Latvia,LVA,1982,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20
+1720,Latvia,LVA,1981,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.8
+1721,Latvia,LVA,1980,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.5
+1722,Latvia,LVA,1979,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.2
+1723,Latvia,LVA,1978,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.9
+1724,Latvia,LVA,1977,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.6
+1725,Latvia,LVA,1976,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.3
+1726,Latvia,LVA,1975,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18
+1727,Latvia,LVA,2016,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.6
+1728,Latvia,LVA,2015,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.1
+1729,Latvia,LVA,2014,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.7
+1730,Latvia,LVA,2013,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.2
+1731,Latvia,LVA,2012,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.8
+1732,Latvia,LVA,2011,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.4
+1733,Latvia,LVA,2010,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.9
+1734,Latvia,LVA,2009,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.5
+1735,Latvia,LVA,2008,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.1
+1736,Latvia,LVA,2007,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.7
+1737,Latvia,LVA,2006,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.3
+1738,Latvia,LVA,2005,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.9
+1739,Latvia,LVA,2004,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.5
+1740,Latvia,LVA,2003,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.1
+1741,Latvia,LVA,2002,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.7
+1742,Latvia,LVA,2001,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.4
+1743,Latvia,LVA,2000,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15
+1744,Latvia,LVA,1999,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.7
+1745,Latvia,LVA,1998,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.4
+1746,Latvia,LVA,1997,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14
+1747,Latvia,LVA,1996,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.7
+1748,Latvia,LVA,1995,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.4
+1749,Latvia,LVA,1994,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.1
+1750,Latvia,LVA,1993,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.8
+1751,Latvia,LVA,1992,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.5
+1752,Latvia,LVA,1991,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.1
+1753,Latvia,LVA,1990,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.8
+1754,Latvia,LVA,1989,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.5
+1755,Latvia,LVA,1988,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.2
+1756,Latvia,LVA,1987,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.9
+1757,Latvia,LVA,1986,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.6
+1758,Latvia,LVA,1985,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.2
+1759,Latvia,LVA,1984,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.9
+1760,Latvia,LVA,1983,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.6
+1761,Latvia,LVA,1982,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.3
+1762,Latvia,LVA,1981,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.9
+1763,Latvia,LVA,1980,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.6
+1764,Latvia,LVA,1979,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.3
+1765,Latvia,LVA,1978,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8
+1766,Latvia,LVA,1977,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.7
+1767,Latvia,LVA,1976,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.4
+1768,Latvia,LVA,1975,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.1

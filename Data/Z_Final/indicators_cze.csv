@@ -1,0 +1,1827 @@
+,Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+0,Czech Republic,CZE,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,89.02
+1,Czech Republic,CZE,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,90.21
+2,Czech Republic,CZE,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,101.19
+3,Czech Republic,CZE,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,94.61
+4,Czech Republic,CZE,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,104.2
+5,Czech Republic,CZE,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,91.06
+6,Czech Republic,CZE,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,79.85
+7,Czech Republic,CZE,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,94.38
+8,Czech Republic,CZE,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,80.83
+9,Czech Republic,CZE,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,91.46
+10,Czech Republic,CZE,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,95.04
+11,Czech Republic,CZE,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,85.52
+12,Czech Republic,CZE,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,78.17
+13,Czech Republic,CZE,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,89.72
+14,Czech Republic,CZE,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,99.55
+15,Czech Republic,CZE,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,67.93
+16,Czech Republic,CZE,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,80.86
+17,Czech Republic,CZE,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,96.34
+18,Czech Republic,CZE,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,92.26
+19,Czech Republic,CZE,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.08
+20,Czech Republic,CZE,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,91.96
+21,Czech Republic,CZE,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,90.67
+22,Czech Republic,CZE,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,94.89
+23,Czech Republic,CZE,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,93.16
+24,Czech Republic,CZE,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,89.31
+25,Czech Republic,CZE,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,97.05
+26,Czech Republic,CZE,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.93420458443591
+27,Czech Republic,CZE,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.93635664770855
+28,Czech Republic,CZE,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.0576068880787
+29,Czech Republic,CZE,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.08704712424115
+30,Czech Republic,CZE,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.21121387268241
+31,Czech Republic,CZE,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.41345254208349
+32,Czech Republic,CZE,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.36477116624437
+33,Czech Republic,CZE,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.25118564547244
+34,Czech Republic,CZE,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.98251099186352
+35,Czech Republic,CZE,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.54059611257066
+36,Czech Republic,CZE,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.75678751340306
+37,Czech Republic,CZE,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.91992797178235
+38,Czech Republic,CZE,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.08890557484545
+39,Czech Republic,CZE,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.164955431803
+40,Czech Republic,CZE,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.28463529199072
+41,Czech Republic,CZE,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.41539461296366
+42,Czech Republic,CZE,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.44002731408219
+43,Czech Republic,CZE,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.65958672335973
+44,Czech Republic,CZE,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.20352708630753
+45,Czech Republic,CZE,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.25052833080989
+46,Czech Republic,CZE,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.2176008429713
+47,Czech Republic,CZE,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.50696273434776
+48,Czech Republic,CZE,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.48925228713603
+49,Czech Republic,CZE,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.89475496855277
+50,Czech Republic,CZE,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.03606827262442
+51,Czech Republic,CZE,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.27337443278907
+52,Czech Republic,CZE,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.25600158537729
+53,Czech Republic,CZE,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.7699997425079
+54,Czech Republic,CZE,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.8199999332428
+55,Czech Republic,CZE,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.9800002276897
+56,Czech Republic,CZE,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.019999742508
+57,Czech Republic,CZE,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.8100000619889
+58,Czech Republic,CZE,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.5299995541573
+59,Czech Republic,CZE,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.500000178814
+60,Czech Republic,CZE,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.0299997925758
+61,Czech Republic,CZE,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.4399998188019
+62,Czech Republic,CZE,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.0799995660782
+63,Czech Republic,CZE,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.049999833107
+64,Czech Republic,CZE,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.5500000715255
+65,Czech Republic,CZE,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.4399999380112
+66,Czech Republic,CZE,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.0799998641014
+67,Czech Republic,CZE,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.2999997138977
+68,Czech Republic,CZE,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.910000026226
+69,Czech Republic,CZE,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.2000000476837
+70,Czech Republic,CZE,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,11.8399997949601
+71,Czech Republic,CZE,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,11.160000026226
+72,Czech Republic,CZE,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.8299997448921
+73,Czech Republic,CZE,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.3100002408028
+74,Czech Republic,CZE,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.30999988317489
+75,Czech Republic,CZE,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.14000022411347
+76,Czech Republic,CZE,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.02999985218048
+77,Czech Republic,CZE,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.92999994754792
+78,Czech Republic,CZE,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.90000000596046
+79,Czech Republic,CZE,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.85999977588654
+80,Czech Republic,CZE,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.81999981403351
+81,Czech Republic,CZE,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.74999988079071
+82,Czech Republic,CZE,2019,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,898074466.879909
+83,Czech Republic,CZE,2018,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1259692069.45759
+84,Czech Republic,CZE,2017,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,2960666451.91053
+85,Czech Republic,CZE,2016,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,3462558729.3382
+86,Czech Republic,CZE,2015,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,845256960.753614
+87,Czech Republic,CZE,2014,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,457719869.135026
+88,Czech Republic,CZE,2013,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1105890387.14822
+89,Czech Republic,CZE,2012,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3158497435.6835
+90,Czech Republic,CZE,2011,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-5020059122.20126
+91,Czech Republic,CZE,2010,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-7351204483.70952
+92,Czech Republic,CZE,2009,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4869768332.55461
+93,Czech Republic,CZE,2008,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4407952631.4357
+94,Czech Republic,CZE,2007,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-8945618935.57798
+95,Czech Republic,CZE,2006,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3996084353.2344
+96,Czech Republic,CZE,2005,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2809704225.91577
+97,Czech Republic,CZE,2004,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4457211225.0831
+98,Czech Republic,CZE,2003,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-5785485093.44665
+99,Czech Republic,CZE,2002,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4264835726.29032
+100,Czech Republic,CZE,2001,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3272573493.81492
+101,Czech Republic,CZE,2000,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2689755313.83905
+102,Czech Republic,CZE,1999,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1465751162.91064
+103,Czech Republic,CZE,1998,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1308286938.64821
+104,Czech Republic,CZE,1997,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3621726040.44344
+105,Czech Republic,CZE,1996,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4127553020.16764
+106,Czech Republic,CZE,1995,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1373523087.20907
+107,Czech Republic,CZE,1994,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-819875392.269922
+108,Czech Republic,CZE,1993,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,466333364.631825
+109,Czech Republic,CZE,2019,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-5975777816.22998
+110,Czech Republic,CZE,2018,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2244655309.3198
+111,Czech Republic,CZE,2017,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1834383759.13018
+112,Czech Republic,CZE,2016,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-7711369348.17033
+113,Czech Republic,CZE,2015,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,2026234172.19674
+114,Czech Republic,CZE,2014,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4014531794.05128
+115,Czech Republic,CZE,2013,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,379979406.465375
+116,Czech Republic,CZE,2012,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-6180626419.76952
+117,Czech Republic,CZE,2011,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2592551185.93328
+118,Czech Republic,CZE,2010,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4918465928.19759
+119,Czech Republic,CZE,2009,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1951523283.4102
+120,Czech Republic,CZE,2008,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2257634943.81369
+121,Czech Republic,CZE,2007,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-8963737208.91151
+122,Czech Republic,CZE,2006,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4042665553.77182
+123,Czech Republic,CZE,2005,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-11628846667.3047
+124,Czech Republic,CZE,2004,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3940285580.8331
+125,Czech Republic,CZE,2003,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1813296003.76823
+126,Czech Republic,CZE,2002,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-8285212458.94275
+127,Czech Republic,CZE,2001,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-5476031435.08422
+128,Czech Republic,CZE,2000,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4944400745.08804
+129,Czech Republic,CZE,1999,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-6222615310.50356
+130,Czech Republic,CZE,1998,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3574817996.37713
+131,Czech Republic,CZE,1997,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1258834973.62446
+132,Czech Republic,CZE,1996,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1280582848.30646
+133,Czech Republic,CZE,1995,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2530950304.11482
+134,Czech Republic,CZE,1994,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-761909277.278694
+135,Czech Republic,CZE,1993,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-564357920.254326
+136,Czech Republic,CZE,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.16129528497808
+137,Czech Republic,CZE,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.84787595918047
+138,Czech Republic,CZE,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.14949494949492
+139,Czech Republic,CZE,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.45053398460138
+140,Czech Republic,CZE,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.683504209385683
+141,Czech Republic,CZE,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.309364548494974
+142,Czech Republic,CZE,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.343988589646784
+143,Czech Republic,CZE,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.43829787234043
+144,Czech Republic,CZE,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.28762306610408
+145,Czech Republic,CZE,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.91721913635547
+146,Czech Republic,CZE,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.47272727272729
+147,Czech Republic,CZE,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.0193773532923
+148,Czech Republic,CZE,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.35866380152374
+149,Czech Republic,CZE,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.85312437211172
+150,Czech Republic,CZE,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.53399258343632
+151,Czech Republic,CZE,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.85709789109223
+152,Czech Republic,CZE,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.76010781671159
+153,Czech Republic,CZE,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.118739205526785
+154,Czech Republic,CZE,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.90298097019031
+155,Czech Republic,CZE,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.66267556988255
+156,Czech Republic,CZE,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.77538829151733
+157,Czech Republic,CZE,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.1354484441733
+158,Czech Republic,CZE,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.6983655274889
+159,Czech Republic,CZE,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.59615666715562
+160,Czech Republic,CZE,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.75877472878111
+161,Czech Republic,CZE,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.99052361478446
+162,Czech Republic,CZE,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.039429835143
+163,Czech Republic,CZE,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,20.8130295438428
+164,Czech Republic,CZE,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.086500072223
+165,Czech Republic,CZE,1994,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,14.0963768118815
+166,Czech Republic,CZE,1993,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,15.8409307897154
+167,Czech Republic,CZE,2019,Trade (% of GDP),NE.TRD.GNFS.ZS,142.756165428235
+168,Czech Republic,CZE,2018,Trade (% of GDP),NE.TRD.GNFS.ZS,148.003370824325
+169,Czech Republic,CZE,2017,Trade (% of GDP),NE.TRD.GNFS.ZS,150.532652492994
+170,Czech Republic,CZE,2016,Trade (% of GDP),NE.TRD.GNFS.ZS,150.586267345414
+171,Czech Republic,CZE,2015,Trade (% of GDP),NE.TRD.GNFS.ZS,155.175663480909
+172,Czech Republic,CZE,2014,Trade (% of GDP),NE.TRD.GNFS.ZS,157.574982178056
+173,Czech Republic,CZE,2013,Trade (% of GDP),NE.TRD.GNFS.ZS,146.42241704968
+174,Czech Republic,CZE,2012,Trade (% of GDP),NE.TRD.GNFS.ZS,146.528856576028
+175,Czech Republic,CZE,2011,Trade (% of GDP),NE.TRD.GNFS.ZS,137.862818884663
+176,Czech Republic,CZE,2010,Trade (% of GDP),NE.TRD.GNFS.ZS,128.028911534811
+177,Czech Republic,CZE,2009,Trade (% of GDP),NE.TRD.GNFS.ZS,112.797244532562
+178,Czech Republic,CZE,2008,Trade (% of GDP),NE.TRD.GNFS.ZS,123.742499121909
+179,Czech Republic,CZE,2007,Trade (% of GDP),NE.TRD.GNFS.ZS,129.77901730598
+180,Czech Republic,CZE,2006,Trade (% of GDP),NE.TRD.GNFS.ZS,127.028381868435
+181,Czech Republic,CZE,2005,Trade (% of GDP),NE.TRD.GNFS.ZS,121.297960403591
+182,Czech Republic,CZE,2004,Trade (% of GDP),NE.TRD.GNFS.ZS,113.488959982229
+183,Czech Republic,CZE,2003,Trade (% of GDP),NE.TRD.GNFS.ZS,94.9735288575828
+184,Czech Republic,CZE,2002,Trade (% of GDP),NE.TRD.GNFS.ZS,91.334650324677
+185,Czech Republic,CZE,2001,Trade (% of GDP),NE.TRD.GNFS.ZS,99.0124561576286
+186,Czech Republic,CZE,2000,Trade (% of GDP),NE.TRD.GNFS.ZS,98.0463388969232
+187,Czech Republic,CZE,1999,Trade (% of GDP),NE.TRD.GNFS.ZS,85.9992285782893
+188,Czech Republic,CZE,1998,Trade (% of GDP),NE.TRD.GNFS.ZS,84.4158277010735
+189,Czech Republic,CZE,1997,Trade (% of GDP),NE.TRD.GNFS.ZS,84.6399130604194
+190,Czech Republic,CZE,1996,Trade (% of GDP),NE.TRD.GNFS.ZS,81.0974959751374
+191,Czech Republic,CZE,1995,Trade (% of GDP),NE.TRD.GNFS.ZS,83.4870632572953
+192,Czech Republic,CZE,1994,Trade (% of GDP),NE.TRD.GNFS.ZS,75.3318340565801
+193,Czech Republic,CZE,1993,Trade (% of GDP),NE.TRD.GNFS.ZS,78.7505529735655
+194,Czech Republic,CZE,1992,Trade (% of GDP),NE.TRD.GNFS.ZS,78.5122732015507
+195,Czech Republic,CZE,1991,Trade (% of GDP),NE.TRD.GNFS.ZS,71.2715410946615
+196,Czech Republic,CZE,1990,Trade (% of GDP),NE.TRD.GNFS.ZS,63.4970161630816
+197,Czech Republic,CZE,2019,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,31.4326031699865
+198,Czech Republic,CZE,2018,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,31.7639550315174
+199,Czech Republic,CZE,2017,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,32.7082970127827
+200,Czech Republic,CZE,2016,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.4093272846707
+201,Czech Republic,CZE,2015,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.7818228045362
+202,Czech Republic,CZE,2014,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.8393507611777
+203,Czech Republic,CZE,2013,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,32.6460705062336
+204,Czech Republic,CZE,2012,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,32.9223275042358
+205,Czech Republic,CZE,2011,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.6505738219241
+206,Czech Republic,CZE,2010,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.1707518651997
+207,Czech Republic,CZE,2009,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,32.9876944708572
+208,Czech Republic,CZE,2008,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.6576334575029
+209,Czech Republic,CZE,2007,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,34.1827366160621
+210,Czech Republic,CZE,2006,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,34.3332159877379
+211,Czech Republic,CZE,2005,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.6171981929638
+212,Czech Republic,CZE,2004,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.5797495913721
+213,Czech Republic,CZE,2003,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,32.3422533834469
+214,Czech Republic,CZE,2002,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.2092893969562
+215,Czech Republic,CZE,2001,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.9092002484563
+216,Czech Republic,CZE,2000,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.4912074773843
+217,Czech Republic,CZE,1999,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.7711824723045
+218,Czech Republic,CZE,1998,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,34.7892817663162
+219,Czech Republic,CZE,1997,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,35.6996667721956
+220,Czech Republic,CZE,1996,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,36.1451519881044
+221,Czech Republic,CZE,1995,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,35.3855087934268
+222,Czech Republic,CZE,1994,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,34.8189828654071
+223,Czech Republic,CZE,1993,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,34.8681258060843
+224,Czech Republic,CZE,2019,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.78775816327755
+225,Czech Republic,CZE,2018,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.73477054091569
+226,Czech Republic,CZE,2017,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.88783928556257
+227,Czech Republic,CZE,2016,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.0058728340759
+228,Czech Republic,CZE,2015,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.98219602313699
+229,Czech Republic,CZE,2014,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.67682426547253
+230,Czech Republic,CZE,2013,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.66279352837154
+231,Czech Republic,CZE,2012,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.6424323377369
+232,Czech Republic,CZE,2011,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.52505393350931
+233,Czech Republic,CZE,2010,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.66420602141556
+234,Czech Republic,CZE,2009,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.53940966356782
+235,Czech Republic,CZE,2008,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.40593805676805
+236,Czech Republic,CZE,2007,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.78064104549529
+237,Czech Republic,CZE,2006,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.03928830686994
+238,Czech Republic,CZE,2005,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.1331504143229
+239,Czech Republic,CZE,2004,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.25420928701947
+240,Czech Republic,CZE,2003,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.64787969336388
+241,Czech Republic,CZE,2002,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.04382556660721
+242,Czech Republic,CZE,2001,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.64124286384728
+243,Czech Republic,CZE,2000,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.79133861452735
+244,Czech Republic,CZE,1999,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.10848753717237
+245,Czech Republic,CZE,1998,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.18645954654226
+246,Czech Republic,CZE,1997,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.44486644842638
+247,Czech Republic,CZE,1996,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.0062801620799
+248,Czech Republic,CZE,1995,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.17269016399085
+249,Czech Republic,CZE,1994,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.84531302396801
+250,Czech Republic,CZE,1993,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,4.54785714730548
+251,Czech Republic,CZE,1992,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,5.35241324830553
+252,Czech Republic,CZE,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0415954094810423
+253,Czech Republic,CZE,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0585659665774653
+254,Czech Republic,CZE,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0550604591579024
+255,Czech Republic,CZE,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0465966415943561
+256,Czech Republic,CZE,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0521065499215331
+257,Czech Republic,CZE,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0785098579678937
+258,Czech Republic,CZE,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0963438557072416
+259,Czech Republic,CZE,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.177755455106561
+260,Czech Republic,CZE,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.324210564625848
+261,Czech Republic,CZE,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.275888179254501
+262,Czech Republic,CZE,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.186121529256502
+263,Czech Republic,CZE,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.456904114522893
+264,Czech Republic,CZE,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.192988531196762
+265,Czech Republic,CZE,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.201556743708331
+266,Czech Republic,CZE,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.206903004257138
+267,Czech Republic,CZE,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.251826494371234
+268,Czech Republic,CZE,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.081307709036269
+269,Czech Republic,CZE,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0879337217198874
+270,Czech Republic,CZE,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.157760021260022
+271,Czech Republic,CZE,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0890700230633134
+272,Czech Republic,CZE,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.036040615818953
+273,Czech Republic,CZE,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0588187384826851
+274,Czech Republic,CZE,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0737373571848187
+275,Czech Republic,CZE,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0852157660589576
+276,Czech Republic,CZE,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.100161918165877
+277,Czech Republic,CZE,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0756258163486045
+278,Czech Republic,CZE,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.121984990476138
+279,Czech Republic,CZE,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.276377218083061
+280,Czech Republic,CZE,2019,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0989001006124795
+281,Czech Republic,CZE,2018,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0917883356639535
+282,Czech Republic,CZE,2017,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0917883356639535
+283,Czech Republic,CZE,2016,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0971549407499694
+284,Czech Republic,CZE,2015,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0991746975708877
+285,Czech Republic,CZE,2014,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.104865559741312
+286,Czech Republic,CZE,2013,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.113737658192987
+287,Czech Republic,CZE,2012,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.117875077142036
+288,Czech Republic,CZE,2011,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.12332131023983
+289,Czech Republic,CZE,2010,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.12950760635274
+290,Czech Republic,CZE,2009,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.136221587115035
+291,Czech Republic,CZE,2008,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.130196474493351
+292,Czech Republic,CZE,2007,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.129899323731489
+293,Czech Republic,CZE,2006,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.130395587408144
+294,Czech Republic,CZE,2005,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.13598804412577
+295,Czech Republic,CZE,2004,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.140404584028304
+296,Czech Republic,CZE,2003,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.148809181181078
+297,Czech Republic,CZE,2002,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.149147266196441
+298,Czech Republic,CZE,2001,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.148109936319343
+299,Czech Republic,CZE,2000,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.155797463466819
+300,Czech Republic,CZE,1999,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.168480194622487
+301,Czech Republic,CZE,1998,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.182641304030936
+302,Czech Republic,CZE,1997,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.198598205120064
+303,Czech Republic,CZE,1996,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.199322968843764
+304,Czech Republic,CZE,1995,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.208290977610098
+305,Czech Republic,CZE,1994,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.223688368589411
+306,Czech Republic,CZE,1993,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.234663123061617
+307,Czech Republic,CZE,1992,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.255431548569655
+308,Czech Republic,CZE,2019,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.78896051455247
+309,Czech Republic,CZE,2018,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.34885235452485
+310,Czech Republic,CZE,2017,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.70622083883366
+311,Czech Republic,CZE,2016,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.16297666243904
+312,Czech Republic,CZE,2015,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.86964660699253
+313,Czech Republic,CZE,2014,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.38168892492412
+314,Czech Republic,CZE,2013,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.82367459633576
+315,Czech Republic,CZE,2012,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.95311192828581
+316,Czech Republic,CZE,2011,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.59170011981908
+317,Czech Republic,CZE,2010,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.86407948115325
+318,Czech Republic,CZE,2009,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.64971057380149
+319,Czech Republic,CZE,2008,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.90378385946499
+320,Czech Republic,CZE,2007,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,9.09523170521086
+321,Czech Republic,CZE,2006,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.37822893290714
+322,Czech Republic,CZE,2005,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.3204536597491
+323,Czech Republic,CZE,2004,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.75170811132952
+324,Czech Republic,CZE,2003,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.37123533654313
+325,Czech Republic,CZE,2002,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.9520627928366
+326,Czech Republic,CZE,2001,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.42773303153496
+327,Czech Republic,CZE,2000,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.95456415028171
+328,Czech Republic,CZE,1999,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.94030053167298
+329,Czech Republic,CZE,1998,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.97512932359849
+330,Czech Republic,CZE,1997,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.05852305627756
+331,Czech Republic,CZE,1996,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,9.84866449226377
+332,Czech Republic,CZE,1995,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,10.27241306543
+333,Czech Republic,CZE,1994,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.43944037393574
+334,Czech Republic,CZE,1993,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.95405999064038
+335,Czech Republic,CZE,2019,GDP (current US$),NY.GDP.MKTP.CD,250680504529.647
+336,Czech Republic,CZE,2018,GDP (current US$),NY.GDP.MKTP.CD,248908731817.502
+337,Czech Republic,CZE,2017,GDP (current US$),NY.GDP.MKTP.CD,218628940951.675
+338,Czech Republic,CZE,2016,GDP (current US$),NY.GDP.MKTP.CD,196272068576.338
+339,Czech Republic,CZE,2015,GDP (current US$),NY.GDP.MKTP.CD,188033050459.881
+340,Czech Republic,CZE,2014,GDP (current US$),NY.GDP.MKTP.CD,209358834156.329
+341,Czech Republic,CZE,2013,GDP (current US$),NY.GDP.MKTP.CD,211685616592.931
+342,Czech Republic,CZE,2012,GDP (current US$),NY.GDP.MKTP.CD,208857719320.649
+343,Czech Republic,CZE,2011,GDP (current US$),NY.GDP.MKTP.CD,229562733398.948
+344,Czech Republic,CZE,2010,GDP (current US$),NY.GDP.MKTP.CD,209069940963.177
+345,Czech Republic,CZE,2009,GDP (current US$),NY.GDP.MKTP.CD,207434296805.33
+346,Czech Republic,CZE,2008,GDP (current US$),NY.GDP.MKTP.CD,236816485762.988
+347,Czech Republic,CZE,2007,GDP (current US$),NY.GDP.MKTP.CD,190183800884.018
+348,Czech Republic,CZE,2006,GDP (current US$),NY.GDP.MKTP.CD,156264095664.643
+349,Czech Republic,CZE,2005,GDP (current US$),NY.GDP.MKTP.CD,137143471328.274
+350,Czech Republic,CZE,2004,GDP (current US$),NY.GDP.MKTP.CD,119814434353.575
+351,Czech Republic,CZE,2003,GDP (current US$),NY.GDP.MKTP.CD,100090467581.268
+352,Czech Republic,CZE,2002,GDP (current US$),NY.GDP.MKTP.CD,82196001050.7474
+353,Czech Republic,CZE,2001,GDP (current US$),NY.GDP.MKTP.CD,67808032979.5429
+354,Czech Republic,CZE,2000,GDP (current US$),NY.GDP.MKTP.CD,61828166496.0941
+355,Czech Republic,CZE,1999,GDP (current US$),NY.GDP.MKTP.CD,65173130995.2212
+356,Czech Republic,CZE,1998,GDP (current US$),NY.GDP.MKTP.CD,66807429711.411
+357,Czech Republic,CZE,1997,GDP (current US$),NY.GDP.MKTP.CD,62180159376.1239
+358,Czech Republic,CZE,1996,GDP (current US$),NY.GDP.MKTP.CD,67387788632.9812
+359,Czech Republic,CZE,1995,GDP (current US$),NY.GDP.MKTP.CD,60147174076.8651
+360,Czech Republic,CZE,1994,GDP (current US$),NY.GDP.MKTP.CD,47850203856.1751
+361,Czech Republic,CZE,1993,GDP (current US$),NY.GDP.MKTP.CD,40866748705.1075
+362,Czech Republic,CZE,1992,GDP (current US$),NY.GDP.MKTP.CD,34805013229.572
+363,Czech Republic,CZE,1991,GDP (current US$),NY.GDP.MKTP.CD,29859921158.8696
+364,Czech Republic,CZE,1990,GDP (current US$),NY.GDP.MKTP.CD,40728950704.6176
+365,Czech Republic,CZE,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,23489.8386627318
+366,Czech Republic,CZE,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,23415.8436273041
+367,Czech Republic,CZE,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,20636.199952435
+368,Czech Republic,CZE,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,18575.2320271915
+369,Czech Republic,CZE,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,17829.6983223668
+370,Czech Republic,CZE,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,19890.9199056648
+371,Czech Republic,CZE,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,20133.1691431353
+372,Czech Republic,CZE,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,19870.8012123403
+373,Czech Republic,CZE,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,21871.2660754128
+374,Czech Republic,CZE,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,19960.0684872157
+375,Czech Republic,CZE,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,19861.6974295256
+376,Czech Republic,CZE,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,22804.5776774507
+377,Czech Republic,CZE,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,18466.5479299216
+378,Czech Republic,CZE,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,15261.7975911138
+379,Czech Republic,CZE,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,13430.6698955613
+380,Czech Republic,CZE,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,11749.8526643577
+381,Czech Republic,CZE,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,9818.56849307488
+382,Czech Republic,CZE,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,8060.86870292424
+383,Czech Republic,CZE,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,6637.04165713981
+384,Czech Republic,CZE,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,6029.03819275358
+385,Czech Republic,CZE,1999,GDP per capita (current US$),NY.GDP.PCAP.CD,6337.41912037126
+386,Czech Republic,CZE,1998,GDP per capita (current US$),NY.GDP.PCAP.CD,6489.7036188033
+387,Czech Republic,CZE,1997,GDP per capita (current US$),NY.GDP.PCAP.CD,6034.48843731935
+388,Czech Republic,CZE,1996,GDP per capita (current US$),NY.GDP.PCAP.CD,6532.83705470198
+389,Czech Republic,CZE,1995,GDP per capita (current US$),NY.GDP.PCAP.CD,5824.12129119574
+390,Czech Republic,CZE,1994,GDP per capita (current US$),NY.GDP.PCAP.CD,4630.55121674353
+391,Czech Republic,CZE,1993,GDP per capita (current US$),NY.GDP.PCAP.CD,3956.1783495613
+392,Czech Republic,CZE,1992,GDP per capita (current US$),NY.GDP.PCAP.CD,3372.86542951101
+393,Czech Republic,CZE,1991,GDP per capita (current US$),NY.GDP.PCAP.CD,2896.60913065504
+394,Czech Republic,CZE,1990,GDP per capita (current US$),NY.GDP.PCAP.CD,3941.50309406941
+395,Czech Republic,CZE,2019,GNI (current US$),NY.GNP.MKTP.CD,235270023656.641
+396,Czech Republic,CZE,2018,GNI (current US$),NY.GNP.MKTP.CD,234810058329.722
+397,Czech Republic,CZE,2017,GNI (current US$),NY.GNP.MKTP.CD,206250524034.28
+398,Czech Republic,CZE,2016,GNI (current US$),NY.GNP.MKTP.CD,183030984148.2
+399,Czech Republic,CZE,2015,GNI (current US$),NY.GNP.MKTP.CD,175136907363.179
+400,Czech Republic,CZE,2014,GNI (current US$),NY.GNP.MKTP.CD,194987353968.445
+401,Czech Republic,CZE,2013,GNI (current US$),NY.GNP.MKTP.CD,198239568740.499
+402,Czech Republic,CZE,2012,GNI (current US$),NY.GNP.MKTP.CD,195428016856.085
+403,Czech Republic,CZE,2011,GNI (current US$),NY.GNP.MKTP.CD,211036199499.884
+404,Czech Republic,CZE,2010,GNI (current US$),NY.GNP.MKTP.CD,193418140405.535
+405,Czech Republic,CZE,2009,GNI (current US$),NY.GNP.MKTP.CD,193114095367.99
+406,Czech Republic,CZE,2008,GNI (current US$),NY.GNP.MKTP.CD,222389334395.52
+407,Czech Republic,CZE,2007,GNI (current US$),NY.GNP.MKTP.CD,177936058973.967
+408,Czech Republic,CZE,2006,GNI (current US$),NY.GNP.MKTP.CD,146538883676.468
+409,Czech Republic,CZE,2005,GNI (current US$),NY.GNP.MKTP.CD,130807057527.111
+410,Czech Republic,CZE,2004,GNI (current US$),NY.GNP.MKTP.CD,114139370734.403
+411,Czech Republic,CZE,2003,GNI (current US$),NY.GNP.MKTP.CD,96725406785.0686
+412,Czech Republic,CZE,2002,GNI (current US$),NY.GNP.MKTP.CD,79239888083.1801
+413,Czech Republic,CZE,2001,GNI (current US$),NY.GNP.MKTP.CD,65898379680.1426
+414,Czech Republic,CZE,2000,GNI (current US$),NY.GNP.MKTP.CD,60625668795.585
+415,Czech Republic,CZE,1999,GNI (current US$),NY.GNP.MKTP.CD,63964019994.6773
+416,Czech Republic,CZE,1998,GNI (current US$),NY.GNP.MKTP.CD,65822119375.9836
+417,Czech Republic,CZE,1997,GNI (current US$),NY.GNP.MKTP.CD,61246143362.7984
+418,Czech Republic,CZE,1996,GNI (current US$),NY.GNP.MKTP.CD,66384038430.3671
+419,Czech Republic,CZE,1995,GNI (current US$),NY.GNP.MKTP.CD,59678259231.3489
+420,Czech Republic,CZE,1994,GNI (current US$),NY.GNP.MKTP.CD,47891929789.8211
+421,Czech Republic,CZE,1993,GNI (current US$),NY.GNP.MKTP.CD,40901722601.4475
+422,Czech Republic,CZE,1992,GNI (current US$),NY.GNP.MKTP.CD,34590101839.4057
+423,Czech Republic,CZE,2019,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.40150987003915
+424,Czech Republic,CZE,2018,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.84530334500124
+425,Czech Republic,CZE,2017,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.17835855158759
+426,Czech Republic,CZE,2016,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.42521817269332
+427,Czech Republic,CZE,2015,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.17470641596964
+428,Czech Republic,CZE,2014,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.51016771130601
+429,Czech Republic,CZE,2013,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.0512290578001142
+430,Czech Republic,CZE,2012,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,0.83131804089895
+431,Czech Republic,CZE,2011,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.00686328869364
+432,Czech Republic,CZE,2010,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.59951869853296
+433,Czech Republic,CZE,2009,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-6.09399463416509
+434,Czech Republic,CZE,2008,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.2801243916574
+435,Czech Republic,CZE,2007,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.67897639641495
+436,Czech Republic,CZE,2006,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.77061502444218
+437,Czech Republic,CZE,2005,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.66411651639656
+438,Czech Republic,CZE,1994,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.88725339113114
+439,Czech Republic,CZE,1993,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.24329733158136
+440,Czech Republic,CZE,2018,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,499.467650906247
+441,Czech Republic,CZE,2015,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,492.3254
+442,Czech Republic,CZE,2012,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,498.95788231768
+443,Czech Republic,CZE,2009,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,492.814094257394
+444,Czech Republic,CZE,2006,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,509.859359147687
+445,Czech Republic,CZE,2003,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,516.45500016
+446,Czech Republic,CZE,2000,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,498
+447,Czech Republic,CZE,2018,PISA: Mean performance on the reading scale,LO.PISA.REA,490.218815026372
+448,Czech Republic,CZE,2015,PISA: Mean performance on the reading scale,LO.PISA.REA,487.2501
+449,Czech Republic,CZE,2012,PISA: Mean performance on the reading scale,LO.PISA.REA,492.889738211482
+450,Czech Republic,CZE,2009,PISA: Mean performance on the reading scale,LO.PISA.REA,478.186720579341
+451,Czech Republic,CZE,2006,PISA: Mean performance on the reading scale,LO.PISA.REA,482.715162095089
+452,Czech Republic,CZE,2003,PISA: Mean performance on the reading scale,LO.PISA.REA,488.54228438
+453,Czech Republic,CZE,2000,PISA: Mean performance on the reading scale,LO.PISA.REA,491.577032105768
+454,Czech Republic,CZE,2018,PISA: Mean performance on the science scale,LO.PISA.SCI,496.791310656231
+455,Czech Republic,CZE,2015,PISA: Mean performance on the science scale,LO.PISA.SCI,492.83
+456,Czech Republic,CZE,2012,PISA: Mean performance on the science scale,LO.PISA.SCI,508.29907935427
+457,Czech Republic,CZE,2009,PISA: Mean performance on the science scale,LO.PISA.SCI,500.497066028848
+458,Czech Republic,CZE,2006,PISA: Mean performance on the science scale,LO.PISA.SCI,512.860746074762
+459,Czech Republic,CZE,2003,PISA: Mean performance on the science scale,LO.PISA.SCI,523.2537295
+460,Czech Republic,CZE,2000,PISA: Mean performance on the science scale,LO.PISA.SCI,511.414518611378
+461,Czech Republic,CZE,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28218996524811
+462,Czech Republic,CZE,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29075002670288
+463,Czech Republic,CZE,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28910994529724
+464,Czech Republic,CZE,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28910005092621
+465,Czech Republic,CZE,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28648996353149
+466,Czech Republic,CZE,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29642999172211
+467,Czech Republic,CZE,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29385995864868
+468,Czech Republic,CZE,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29422998428345
+469,Czech Republic,CZE,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28382003307343
+470,Czech Republic,CZE,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27279996871948
+471,Czech Republic,CZE,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.23967003822327
+472,Czech Republic,CZE,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.21131002902985
+473,Czech Republic,CZE,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17993998527527
+474,Czech Republic,CZE,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1384299993515
+475,Czech Republic,CZE,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.08970999717712
+476,Czech Republic,CZE,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.06939005851746
+477,Czech Republic,CZE,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.09037005901337
+478,Czech Republic,CZE,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.04862999916077
+479,Czech Republic,CZE,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.03579998016357
+480,Czech Republic,CZE,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.03334999084473
+481,Czech Republic,CZE,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.969739973545074
+482,Czech Republic,CZE,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.979460000991821
+483,Czech Republic,CZE,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.918349981307983
+484,Czech Republic,CZE,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.961160004138947
+485,Czech Republic,CZE,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.965740025043488
+486,Czech Republic,CZE,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.8264399766922
+487,Czech Republic,CZE,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.825739979743958
+488,Czech Republic,CZE,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.809509992599487
+489,Czech Republic,CZE,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.786979973316193
+490,Czech Republic,CZE,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.79993999004364
+491,Czech Republic,CZE,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.764410018920898
+492,Czech Republic,CZE,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.751230001449585
+493,Czech Republic,CZE,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.755039989948273
+494,Czech Republic,CZE,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.743830025196075
+495,Czech Republic,CZE,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.753090023994446
+496,Czech Republic,CZE,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.745140016078949
+497,Czech Republic,CZE,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.721610009670258
+498,Czech Republic,CZE,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.707660019397736
+499,Czech Republic,CZE,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.688780009746552
+500,Czech Republic,CZE,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.67739999294281
+501,Czech Republic,CZE,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.677489995956421
+502,Czech Republic,CZE,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.677909970283508
+503,Czech Republic,CZE,1976,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.654910027980804
+504,Czech Republic,CZE,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.640990018844604
+505,Czech Republic,CZE,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.616659998893738
+506,Czech Republic,CZE,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.595809996128082
+507,Czech Republic,CZE,1972,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.576789975166321
+508,Czech Republic,CZE,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.582840025424957
+509,Czech Republic,CZE,2018,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.410930007696152
+510,Czech Republic,CZE,2017,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.322809994220734
+511,Czech Republic,CZE,2016,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.330790013074875
+512,Czech Republic,CZE,2015,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.190850004553795
+513,Czech Republic,CZE,2014,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.678449988365173
+514,Czech Republic,CZE,2013,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.01346004009247
+515,Czech Republic,CZE,2012,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.432090014219284
+516,Czech Republic,CZE,2011,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.692650020122528
+517,Czech Republic,CZE,2010,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.00364000000990927
+518,Czech Republic,CZE,2009,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.0574899986386299
+519,Czech Republic,CZE,2008,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.652750015258789
+520,Czech Republic,CZE,2007,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.0450100004673004
+521,Czech Republic,CZE,1999,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.722880005836487
+522,Czech Republic,CZE,2017,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.9458236694336
+523,Czech Republic,CZE,2016,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.8044586181641
+524,Czech Republic,CZE,2015,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.8076629638672
+525,Czech Republic,CZE,2014,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.8154830932617
+526,Czech Republic,CZE,2013,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.7996520996094
+527,Czech Republic,CZE,2012,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.8166580200195
+528,Czech Republic,CZE,2011,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.8156204223633
+529,Czech Republic,CZE,2010,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.8228225708008
+530,Czech Republic,CZE,2009,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.7891006469727
+531,Czech Republic,CZE,2008,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.7928619384766
+532,Czech Republic,CZE,2007,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.7883224487305
+533,Czech Republic,CZE,2006,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,99.7791290283203
+534,Czech Republic,CZE,1991,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,67.9149780273438
+535,Czech Republic,CZE,2017,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.2352828979492
+536,Czech Republic,CZE,2016,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.5649871826172
+537,Czech Republic,CZE,2015,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.1355590820313
+538,Czech Republic,CZE,2014,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,88.8592910766602
+539,Czech Republic,CZE,2013,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.3015518188477
+540,Czech Republic,CZE,2012,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.7386703491211
+541,Czech Republic,CZE,2011,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.3991622924805
+542,Czech Republic,CZE,2010,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.9166564941406
+543,Czech Republic,CZE,2009,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,88.8419799804688
+544,Czech Republic,CZE,2008,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.9555206298828
+545,Czech Republic,CZE,2007,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.3810729980469
+546,Czech Republic,CZE,2006,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.5749969482422
+547,Czech Republic,CZE,2005,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.3403472900391
+548,Czech Republic,CZE,2004,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.4259796142578
+549,Czech Republic,CZE,2003,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.8490295410156
+550,Czech Republic,CZE,2002,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.4833221435547
+551,Czech Republic,CZE,2001,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.7696685791016
+552,Czech Republic,CZE,2000,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.9117736816406
+553,Czech Republic,CZE,1999,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.1820297241211
+554,Czech Republic,CZE,1998,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.9640884399414
+555,Czech Republic,CZE,2017,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.85402011871338
+556,Czech Republic,CZE,2016,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.58737993240356
+557,Czech Republic,CZE,2015,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.78884983062744
+558,Czech Republic,CZE,2014,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.99462008476257
+559,Czech Republic,CZE,2013,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.0908899307251
+560,Czech Republic,CZE,2012,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.2508602142334
+561,Czech Republic,CZE,2011,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.27214002609253
+562,Czech Republic,CZE,2010,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.06445980072021
+563,Czech Republic,CZE,2009,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.17127990722656
+564,Czech Republic,CZE,2008,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.74454998970032
+565,Czech Republic,CZE,2007,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.86663007736206
+566,Czech Republic,CZE,2006,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.21710014343262
+567,Czech Republic,CZE,2005,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.89037990570068
+568,Czech Republic,CZE,2004,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.01423978805542
+569,Czech Republic,CZE,2003,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.13642978668213
+570,Czech Republic,CZE,2002,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.97255992889404
+571,Czech Republic,CZE,2001,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.7485499382019
+572,Czech Republic,CZE,2000,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.65089011192322
+573,Czech Republic,CZE,1999,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.684809923172
+574,Czech Republic,CZE,1998,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.5971999168396
+575,Czech Republic,CZE,1996,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.27039003372192
+576,Czech Republic,CZE,1995,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.54562997817993
+577,Czech Republic,CZE,1994,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.6788501739502
+578,Czech Republic,CZE,1993,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.18451976776123
+579,Czech Republic,CZE,1992,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.77507996559143
+580,Czech Republic,CZE,2019,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.6783985979903
+581,Czech Republic,CZE,2018,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.7013108334343
+582,Czech Republic,CZE,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.5248558876423
+583,Czech Republic,CZE,2016,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.3679268043724
+584,Czech Republic,CZE,2015,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.208165745374
+585,Czech Republic,CZE,2014,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.9540455172574
+586,Czech Republic,CZE,2013,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.0332788979723
+587,Czech Republic,CZE,2012,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.7452537788554
+588,Czech Republic,CZE,2011,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.5145567209833
+589,Czech Republic,CZE,2010,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.2763352574357
+590,Czech Republic,CZE,2009,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.3964356007123
+591,Czech Republic,CZE,2008,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.4173791081167
+592,Czech Republic,CZE,2007,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.7077051675982
+593,Czech Republic,CZE,2006,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.0989205522358
+594,Czech Republic,CZE,2005,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.1564869103631
+595,Czech Republic,CZE,2004,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.3620187015965
+596,Czech Republic,CZE,2003,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.565679682733
+597,Czech Republic,CZE,2002,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.2877143884463
+598,Czech Republic,CZE,2001,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.4798318654752
+599,Czech Republic,CZE,2000,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.5467898666584
+600,Czech Republic,CZE,1999,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.5364454296518
+601,Czech Republic,CZE,1998,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.3324582350011
+602,Czech Republic,CZE,1997,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.2304804724389
+603,Czech Republic,CZE,1996,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.0470838929832
+604,Czech Republic,CZE,1995,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.2925485355788
+605,Czech Republic,CZE,1994,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.4570927974635
+606,Czech Republic,CZE,1993,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.4153658226889
+607,Czech Republic,CZE,1992,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.4167025518119
+608,Czech Republic,CZE,1991,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.4022460283217
+609,Czech Republic,CZE,1990,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.4966854427712
+610,Czech Republic,CZE,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.94000005722046
+611,Czech Republic,CZE,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.00999999046326
+612,Czech Republic,CZE,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.24000000953674
+613,Czech Republic,CZE,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.89000010490417
+614,Czech Republic,CZE,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.95000004768372
+615,Czech Republic,CZE,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.05000019073486
+616,Czech Republic,CZE,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.1100001335144
+617,Czech Republic,CZE,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.94999980926514
+618,Czech Republic,CZE,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.98000001907349
+619,Czech Republic,CZE,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.71000003814697
+620,Czech Republic,CZE,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.28000020980835
+621,Czech Republic,CZE,2009,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.65999984741211
+622,Czech Republic,CZE,2008,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.3899998664856
+623,Czech Republic,CZE,2007,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.32000017166138
+624,Czech Republic,CZE,2006,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.15000009536743
+625,Czech Republic,CZE,2005,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.92999982833862
+626,Czech Republic,CZE,2004,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.21000003814697
+627,Czech Republic,CZE,2003,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.53999996185303
+628,Czech Republic,CZE,2002,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.01999998092651
+629,Czech Republic,CZE,2001,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.98999977111816
+630,Czech Republic,CZE,2000,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.76000022888184
+631,Czech Republic,CZE,1999,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.48999977111816
+632,Czech Republic,CZE,1998,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.90000009536743
+633,Czech Republic,CZE,1997,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.26999998092651
+634,Czech Republic,CZE,1996,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.89000010490417
+635,Czech Republic,CZE,1995,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.01999998092651
+636,Czech Republic,CZE,1994,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.30000019073486
+637,Czech Republic,CZE,1993,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.32000017166138
+638,Czech Republic,CZE,1992,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.22000002861023
+639,Czech Republic,CZE,1991,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.26999998092651
+640,Czech Republic,CZE,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+641,Czech Republic,CZE,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+642,Czech Republic,CZE,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+643,Czech Republic,CZE,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+644,Czech Republic,CZE,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+645,Czech Republic,CZE,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+646,Czech Republic,CZE,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+647,Czech Republic,CZE,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+648,Czech Republic,CZE,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+649,Czech Republic,CZE,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+650,Czech Republic,CZE,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+651,Czech Republic,CZE,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+652,Czech Republic,CZE,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+653,Czech Republic,CZE,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+654,Czech Republic,CZE,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+655,Czech Republic,CZE,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+656,Czech Republic,CZE,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+657,Czech Republic,CZE,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+658,Czech Republic,CZE,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+659,Czech Republic,CZE,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+660,Czech Republic,CZE,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+661,Czech Republic,CZE,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+662,Czech Republic,CZE,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+663,Czech Republic,CZE,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+664,Czech Republic,CZE,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+665,Czech Republic,CZE,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+666,Czech Republic,CZE,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+667,Czech Republic,CZE,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+668,Czech Republic,CZE,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+669,Czech Republic,CZE,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+670,Czech Republic,CZE,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.8285619496241
+671,Czech Republic,CZE,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.8307420893096
+672,Czech Republic,CZE,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.9237189142382
+673,Czech Republic,CZE,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.7628160099154
+674,Czech Republic,CZE,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.1206034597646
+675,Czech Republic,CZE,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.9177199801872
+676,Czech Republic,CZE,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.2141620436068
+677,Czech Republic,CZE,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.95510134531697
+678,Czech Republic,CZE,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.29258027824795
+679,Czech Republic,CZE,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.85828772533033
+680,Czech Republic,CZE,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.51284734290178
+681,Czech Republic,CZE,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.1141149653771
+682,Czech Republic,CZE,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.72376720110743
+683,Czech Republic,CZE,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.27551219866013
+684,Czech Republic,CZE,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.28677991600949
+685,Czech Republic,CZE,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.94112966113152
+686,Czech Republic,CZE,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.47714948058027
+687,Czech Republic,CZE,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.96694071239026
+688,Czech Republic,CZE,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.64848453410906
+689,Czech Republic,CZE,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.24157422806943
+690,Czech Republic,CZE,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.30287772828777
+691,Czech Republic,CZE,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.90775667531981
+692,Czech Republic,CZE,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.81744151606808
+693,Czech Republic,CZE,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.9001182019501
+694,Czech Republic,CZE,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.97518244966785
+695,Czech Republic,CZE,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.57150702677699
+696,Czech Republic,CZE,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,102217.625
+697,Czech Republic,CZE,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,99852.41
+698,Czech Republic,CZE,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,97160.832
+699,Czech Republic,CZE,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,102012.273
+700,Czech Republic,CZE,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,103350.728
+701,Czech Republic,CZE,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,107993.15
+702,Czech Republic,CZE,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,112745.582
+703,Czech Republic,CZE,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,107710.791
+704,Czech Republic,CZE,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,116716.943
+705,Czech Republic,CZE,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,123288.207
+706,Czech Republic,CZE,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,122092.765
+707,Czech Republic,CZE,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,120094.25
+708,Czech Republic,CZE,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,116757.28
+709,Czech Republic,CZE,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,122037.76
+710,Czech Republic,CZE,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,119694.547
+711,Czech Republic,CZE,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,123684.243
+712,Czech Republic,CZE,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,123801.587
+713,Czech Republic,CZE,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,111949.843
+714,Czech Republic,CZE,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,122492.468
+715,Czech Republic,CZE,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,127409.915
+716,Czech Republic,CZE,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,125352.728
+717,Czech Republic,CZE,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,123830.923
+718,Czech Republic,CZE,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,125734.096
+719,Czech Republic,CZE,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,132631.723
+720,Czech Republic,CZE,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,138176.227
+721,Czech Republic,CZE,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,138957.424743003
+722,Czech Republic,CZE,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,144613.247371501
+723,Czech Republic,CZE,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,145706.917
+724,Czech Republic,CZE,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,137877.28962
+725,Czech Republic,CZE,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,144072.577
+726,Czech Republic,CZE,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,149838.95488
+727,Czech Republic,CZE,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,147768.299
+728,Czech Republic,CZE,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,147551.436
+729,Czech Republic,CZE,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,152079.88929
+730,Czech Republic,CZE,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,157836.1244
+731,Czech Republic,CZE,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,152372.4188
+732,Czech Republic,CZE,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,157672.16782
+733,Czech Republic,CZE,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,162021.192
+734,Czech Republic,CZE,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,142384.428
+735,Czech Republic,CZE,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,146940.015
+736,Czech Republic,CZE,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,149454.444
+737,Czech Republic,CZE,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,154942.057
+738,Czech Republic,CZE,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,150508.561
+739,Czech Republic,CZE,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,151011.564
+740,Czech Republic,CZE,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,158445.711
+741,Czech Republic,CZE,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,167251.292
+742,Czech Republic,CZE,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,178391.636
+743,Czech Republic,CZE,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,196206.7838
+744,Czech Republic,CZE,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,207518.606
+745,Czech Republic,CZE,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,215838.887
+746,Czech Republic,CZE,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,220012.773
+747,Czech Republic,CZE,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,220236.938
+748,Czech Republic,CZE,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,221929.887
+749,Czech Republic,CZE,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,224764.393
+750,Czech Republic,CZE,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,222476.41
+751,Czech Republic,CZE,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,221727.7
+752,Czech Republic,CZE,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,220358.31
+753,Czech Republic,CZE,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,219692.171
+754,Czech Republic,CZE,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,227303.899
+755,Czech Republic,CZE,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,217160.259
+756,Czech Republic,CZE,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,219671.671
+757,Czech Republic,CZE,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,208258.057
+758,Czech Republic,CZE,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,202860.801
+759,Czech Republic,CZE,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,195493.3009
+760,Czech Republic,CZE,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,211492.3114
+761,Czech Republic,CZE,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,213022.453
+762,Czech Republic,CZE,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,212880.7745
+763,Czech Republic,CZE,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,212540.429
+764,Czech Republic,CZE,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.6772126159304
+765,Czech Republic,CZE,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.674855479732
+766,Czech Republic,CZE,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.8282838822608
+767,Czech Republic,CZE,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9178608517105
+768,Czech Republic,CZE,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9272010224121
+769,Czech Republic,CZE,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9434717498816
+770,Czech Republic,CZE,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9685195195117
+771,Czech Republic,CZE,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9684096538509
+772,Czech Republic,CZE,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9677573474524
+773,Czech Republic,CZE,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9673515864133
+774,Czech Republic,CZE,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9815721201174
+775,Czech Republic,CZE,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9816845986973
+776,Czech Republic,CZE,2018,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21751
+777,Czech Republic,CZE,2017,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21685
+778,Czech Republic,CZE,2016,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20952
+779,Czech Republic,CZE,2015,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20200
+780,Czech Republic,CZE,2014,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20135
+781,Czech Republic,CZE,2013,Aquaculture production (metric tons),ER.FSH.AQUA.MT,19357.400390625
+782,Czech Republic,CZE,2012,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20763
+783,Czech Republic,CZE,2011,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21010
+784,Czech Republic,CZE,2010,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20420
+785,Czech Republic,CZE,2009,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20071
+786,Czech Republic,CZE,2008,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20395
+787,Czech Republic,CZE,2007,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20447
+788,Czech Republic,CZE,2006,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20431
+789,Czech Republic,CZE,2005,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20455
+790,Czech Republic,CZE,2004,Aquaculture production (metric tons),ER.FSH.AQUA.MT,19384
+791,Czech Republic,CZE,2003,Aquaculture production (metric tons),ER.FSH.AQUA.MT,19670
+792,Czech Republic,CZE,2002,Aquaculture production (metric tons),ER.FSH.AQUA.MT,19210
+793,Czech Republic,CZE,2001,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20098
+794,Czech Republic,CZE,2000,Aquaculture production (metric tons),ER.FSH.AQUA.MT,19475
+795,Czech Republic,CZE,1999,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18775
+796,Czech Republic,CZE,1998,Aquaculture production (metric tons),ER.FSH.AQUA.MT,17231
+797,Czech Republic,CZE,1997,Aquaculture production (metric tons),ER.FSH.AQUA.MT,17560
+798,Czech Republic,CZE,1996,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18200
+799,Czech Republic,CZE,1995,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18679
+800,Czech Republic,CZE,1994,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18655
+801,Czech Republic,CZE,1993,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20242
+802,Czech Republic,CZE,2018,Total fisheries production (metric tons),ER.FSH.PROD.MT,25401
+803,Czech Republic,CZE,2017,Total fisheries production (metric tons),ER.FSH.PROD.MT,25242
+804,Czech Republic,CZE,2016,Total fisheries production (metric tons),ER.FSH.PROD.MT,24459
+805,Czech Republic,CZE,2015,Total fisheries production (metric tons),ER.FSH.PROD.MT,24041
+806,Czech Republic,CZE,2014,Total fisheries production (metric tons),ER.FSH.PROD.MT,23947
+807,Czech Republic,CZE,2013,Total fisheries production (metric tons),ER.FSH.PROD.MT,23118.400390625
+808,Czech Republic,CZE,2012,Total fisheries production (metric tons),ER.FSH.PROD.MT,24796
+809,Czech Republic,CZE,2011,Total fisheries production (metric tons),ER.FSH.PROD.MT,24869
+810,Czech Republic,CZE,2010,Total fisheries production (metric tons),ER.FSH.PROD.MT,24410
+811,Czech Republic,CZE,2009,Total fisheries production (metric tons),ER.FSH.PROD.MT,24183
+812,Czech Republic,CZE,2008,Total fisheries production (metric tons),ER.FSH.PROD.MT,24559
+813,Czech Republic,CZE,2007,Total fisheries production (metric tons),ER.FSH.PROD.MT,24723
+814,Czech Republic,CZE,2006,Total fisheries production (metric tons),ER.FSH.PROD.MT,25077
+815,Czech Republic,CZE,2005,Total fisheries production (metric tons),ER.FSH.PROD.MT,24697
+816,Czech Republic,CZE,2004,Total fisheries production (metric tons),ER.FSH.PROD.MT,23912
+817,Czech Republic,CZE,2003,Total fisheries production (metric tons),ER.FSH.PROD.MT,24797
+818,Czech Republic,CZE,2002,Total fisheries production (metric tons),ER.FSH.PROD.MT,24193
+819,Czech Republic,CZE,2001,Total fisheries production (metric tons),ER.FSH.PROD.MT,24744
+820,Czech Republic,CZE,2000,Total fisheries production (metric tons),ER.FSH.PROD.MT,24129
+821,Czech Republic,CZE,1999,Total fisheries production (metric tons),ER.FSH.PROD.MT,22965
+822,Czech Republic,CZE,1998,Total fisheries production (metric tons),ER.FSH.PROD.MT,21183
+823,Czech Republic,CZE,1997,Total fisheries production (metric tons),ER.FSH.PROD.MT,20881
+824,Czech Republic,CZE,1996,Total fisheries production (metric tons),ER.FSH.PROD.MT,21724
+825,Czech Republic,CZE,1995,Total fisheries production (metric tons),ER.FSH.PROD.MT,22608
+826,Czech Republic,CZE,1994,Total fisheries production (metric tons),ER.FSH.PROD.MT,22610
+827,Czech Republic,CZE,1993,Total fisheries production (metric tons),ER.FSH.PROD.MT,23427
+828,Czech Republic,CZE,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,22.1556760039807
+829,Czech Republic,CZE,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,22.1556760039807
+830,Czech Republic,CZE,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,21.69
+831,Czech Republic,CZE,2017,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.8813119507766
+832,Czech Republic,CZE,2016,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.8809979956058
+833,Czech Republic,CZE,2015,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.8807221781346
+834,Czech Republic,CZE,2014,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.8804463863185
+835,Czech Republic,CZE,2013,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.7582259632299
+836,Czech Republic,CZE,2012,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.6355782410989
+837,Czech Republic,CZE,2011,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.5133377700554
+838,Czech Republic,CZE,2010,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.3921259860639
+839,Czech Republic,CZE,2009,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.2712801843348
+840,Czech Republic,CZE,2008,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.1508264617382
+841,Czech Republic,CZE,2007,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.0307243200565
+842,Czech Republic,CZE,2006,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.9110188418797
+843,Czech Republic,CZE,2005,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.7916664082763
+844,Czech Republic,CZE,2004,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.6726827409731
+845,Czech Republic,CZE,2003,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.554069927859
+846,Czech Republic,CZE,2002,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.4358254770521
+847,Czech Republic,CZE,2001,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.3179183184895
+848,Czech Republic,CZE,2000,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.3218599810478
+849,Czech Republic,CZE,2017,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,94.4591353472004
+850,Czech Republic,CZE,2016,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,94.3129473322365
+851,Czech Republic,CZE,2015,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,93.4695405053164
+852,Czech Republic,CZE,2014,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,92.6263894474461
+853,Czech Republic,CZE,2013,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,91.7834545868041
+854,Czech Republic,CZE,2012,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,90.9409959345487
+855,Czech Republic,CZE,2011,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,90.1083881422222
+856,Czech Republic,CZE,2010,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,89.2852924621056
+857,Czech Republic,CZE,2009,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,88.4618221571368
+858,Czech Republic,CZE,2008,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,87.6382044127021
+859,Czech Republic,CZE,2007,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,86.8142078235645
+860,Czech Republic,CZE,2006,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,85.9900599186675
+861,Czech Republic,CZE,2005,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,85.1655430389291
+862,Czech Republic,CZE,2004,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,84.3407630900659
+863,Czech Republic,CZE,2003,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.5157220587016
+864,Czech Republic,CZE,2002,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.5231165851731
+865,Czech Republic,CZE,2001,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.5304078560627
+866,Czech Republic,CZE,2000,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.5421012713125
+867,Czech Republic,CZE,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+868,Czech Republic,CZE,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+869,Czech Republic,CZE,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+870,Czech Republic,CZE,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+871,Czech Republic,CZE,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+872,Czech Republic,CZE,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+873,Czech Republic,CZE,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,5
+874,Czech Republic,CZE,2016,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.8
+875,Czech Republic,CZE,2015,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.2
+876,Czech Republic,CZE,2014,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.8
+877,Czech Republic,CZE,2013,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.5
+878,Czech Republic,CZE,2012,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.3
+879,Czech Republic,CZE,2011,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.3
+880,Czech Republic,CZE,2010,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.5
+881,Czech Republic,CZE,2009,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.7
+882,Czech Republic,CZE,2008,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.9
+883,Czech Republic,CZE,2007,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.3
+884,Czech Republic,CZE,2006,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.5
+885,Czech Republic,CZE,2005,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.7
+886,Czech Republic,CZE,2004,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.9
+887,Czech Republic,CZE,2003,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26
+888,Czech Republic,CZE,2002,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.1
+889,Czech Republic,CZE,2001,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.2
+890,Czech Republic,CZE,2000,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.3
+891,Czech Republic,CZE,1999,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.5
+892,Czech Republic,CZE,1998,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.8
+893,Czech Republic,CZE,1997,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.1
+894,Czech Republic,CZE,1996,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.6
+895,Czech Republic,CZE,1995,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.1
+896,Czech Republic,CZE,1994,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.8
+897,Czech Republic,CZE,1993,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,29.6
+898,Czech Republic,CZE,1992,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.6
+899,Czech Republic,CZE,1991,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,31.7
+900,Czech Republic,CZE,1990,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,32.9
+901,Czech Republic,CZE,2018,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.62
+902,Czech Republic,CZE,2017,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.63
+903,Czech Republic,CZE,2016,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.66
+904,Czech Republic,CZE,2015,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.67
+905,Czech Republic,CZE,2014,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.68
+906,Czech Republic,CZE,2013,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.7
+907,Czech Republic,CZE,2012,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.93
+908,Czech Republic,CZE,2011,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.06
+909,Czech Republic,CZE,2010,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.3
+910,Czech Republic,CZE,2009,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.14
+911,Czech Republic,CZE,2008,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.21
+912,Czech Republic,CZE,2007,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.33
+913,Czech Republic,CZE,2006,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.45
+914,Czech Republic,CZE,2005,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.57
+915,Czech Republic,CZE,2004,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.65
+916,Czech Republic,CZE,2003,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.73
+917,Czech Republic,CZE,2002,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.76
+918,Czech Republic,CZE,2001,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.77
+919,Czech Republic,CZE,2000,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.8
+920,Czech Republic,CZE,1994,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,10.1999998093
+921,Czech Republic,CZE,1993,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,10.3999996185
+922,Czech Republic,CZE,1992,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,10.6999998093
+923,Czech Republic,CZE,1991,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.1000003815
+924,Czech Republic,CZE,1990,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.3000001907
+925,Czech Republic,CZE,1985,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.3999996185303
+926,Czech Republic,CZE,1980,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.3000001907349
+927,Czech Republic,CZE,2019,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.2
+928,Czech Republic,CZE,2018,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.6
+929,Czech Republic,CZE,2017,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.9
+930,Czech Republic,CZE,2016,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13
+931,Czech Republic,CZE,2015,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.6
+932,Czech Republic,CZE,2014,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,14.8
+933,Czech Republic,CZE,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15.7
+934,Czech Republic,CZE,2012,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.7
+935,Czech Republic,CZE,2011,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.1
+936,Czech Republic,CZE,2010,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15
+937,Czech Republic,CZE,2009,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15
+938,Czech Republic,CZE,2008,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,14.2
+939,Czech Republic,CZE,2007,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,14.1
+940,Czech Republic,CZE,2006,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,14.5
+941,Czech Republic,CZE,2005,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15.8
+942,Czech Republic,CZE,2004,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.3
+943,Czech Republic,CZE,2003,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17
+944,Czech Republic,CZE,2002,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15.4
+945,Czech Republic,CZE,2001,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.2
+946,Czech Republic,CZE,2000,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.3
+947,Czech Republic,CZE,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.9
+948,Czech Republic,CZE,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.3
+949,Czech Republic,CZE,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.6
+950,Czech Republic,CZE,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.9
+951,Czech Republic,CZE,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.2
+952,Czech Republic,CZE,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.7
+953,Czech Republic,CZE,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.4
+954,Czech Republic,CZE,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.2
+955,Czech Republic,CZE,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.5
+956,Czech Republic,CZE,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.8
+957,Czech Republic,CZE,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.9
+958,Czech Republic,CZE,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.6
+959,Czech Republic,CZE,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.2
+960,Czech Republic,CZE,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.6
+961,Czech Republic,CZE,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.9
+962,Czech Republic,CZE,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.9
+963,Czech Republic,CZE,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.6
+964,Czech Republic,CZE,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.4
+965,Czech Republic,CZE,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.4
+966,Czech Republic,CZE,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.9
+967,Czech Republic,CZE,2018,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.64651203
+968,Czech Republic,CZE,2017,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.23133898
+969,Czech Republic,CZE,2016,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.1495986
+970,Czech Republic,CZE,2015,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.24275684
+971,Czech Republic,CZE,2014,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.65308523
+972,Czech Republic,CZE,2013,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.80669546
+973,Czech Republic,CZE,2012,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.02843523
+974,Czech Republic,CZE,2011,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.97689199
+975,Czech Republic,CZE,2010,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.92806244
+976,Czech Republic,CZE,2009,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.29290485
+977,Czech Republic,CZE,2008,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.35973358
+978,Czech Republic,CZE,2007,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.01604843
+979,Czech Republic,CZE,2006,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.19553137
+980,Czech Republic,CZE,2005,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.38101006
+981,Czech Republic,CZE,2004,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.3854723
+982,Czech Republic,CZE,2003,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.55446577
+983,Czech Republic,CZE,2002,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.19887209
+984,Czech Republic,CZE,2001,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.88764715
+985,Czech Republic,CZE,2000,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.71755314
+986,Czech Republic,CZE,2018,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,82.70378113
+987,Czech Republic,CZE,2017,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,81.74878693
+988,Czech Republic,CZE,2016,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,81.87831879
+989,Czech Republic,CZE,2015,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,82.23296356
+990,Czech Republic,CZE,2014,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,82.57013702
+991,Czech Republic,CZE,2013,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,83.40599823
+992,Czech Republic,CZE,2012,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,83.54439545
+993,Czech Republic,CZE,2011,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,83.6943512
+994,Czech Republic,CZE,2010,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,83.12776947
+995,Czech Republic,CZE,2009,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,82.8833847
+996,Czech Republic,CZE,2008,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,80.99499512
+997,Czech Republic,CZE,2007,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,83.79242706
+998,Czech Republic,CZE,2006,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,85.50295258
+999,Czech Republic,CZE,2005,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,85.22625732
+1000,Czech Republic,CZE,2004,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,87.60249329
+1001,Czech Republic,CZE,2003,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,87.48166656
+1002,Czech Republic,CZE,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,88.07415771
+1003,Czech Republic,CZE,2001,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,87.44812012
+1004,Czech Republic,CZE,2000,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,88.70406342
+1005,Czech Republic,CZE,2019,Refugee population by country or territory of asylum,SM.POP.REFG,2054
+1006,Czech Republic,CZE,2018,Refugee population by country or territory of asylum,SM.POP.REFG,2186
+1007,Czech Republic,CZE,2017,Refugee population by country or territory of asylum,SM.POP.REFG,3640
+1008,Czech Republic,CZE,2016,Refugee population by country or territory of asylum,SM.POP.REFG,3640
+1009,Czech Republic,CZE,2015,Refugee population by country or territory of asylum,SM.POP.REFG,3640
+1010,Czech Republic,CZE,2014,Refugee population by country or territory of asylum,SM.POP.REFG,3129
+1011,Czech Republic,CZE,2013,Refugee population by country or territory of asylum,SM.POP.REFG,2966
+1012,Czech Republic,CZE,2012,Refugee population by country or territory of asylum,SM.POP.REFG,2780
+1013,Czech Republic,CZE,2011,Refugee population by country or territory of asylum,SM.POP.REFG,2424
+1014,Czech Republic,CZE,2010,Refugee population by country or territory of asylum,SM.POP.REFG,2424
+1015,Czech Republic,CZE,2009,Refugee population by country or territory of asylum,SM.POP.REFG,2299
+1016,Czech Republic,CZE,2008,Refugee population by country or territory of asylum,SM.POP.REFG,2095
+1017,Czech Republic,CZE,2007,Refugee population by country or territory of asylum,SM.POP.REFG,2015
+1018,Czech Republic,CZE,2006,Refugee population by country or territory of asylum,SM.POP.REFG,1886
+1019,Czech Republic,CZE,2005,Refugee population by country or territory of asylum,SM.POP.REFG,1803
+1020,Czech Republic,CZE,2004,Refugee population by country or territory of asylum,SM.POP.REFG,1624
+1021,Czech Republic,CZE,2003,Refugee population by country or territory of asylum,SM.POP.REFG,1516
+1022,Czech Republic,CZE,2002,Refugee population by country or territory of asylum,SM.POP.REFG,1296
+1023,Czech Republic,CZE,2001,Refugee population by country or territory of asylum,SM.POP.REFG,1217
+1024,Czech Republic,CZE,2000,Refugee population by country or territory of asylum,SM.POP.REFG,1186
+1025,Czech Republic,CZE,1999,Refugee population by country or territory of asylum,SM.POP.REFG,1232
+1026,Czech Republic,CZE,1998,Refugee population by country or territory of asylum,SM.POP.REFG,1805
+1027,Czech Republic,CZE,1997,Refugee population by country or territory of asylum,SM.POP.REFG,1731
+1028,Czech Republic,CZE,1996,Refugee population by country or territory of asylum,SM.POP.REFG,2266
+1029,Czech Republic,CZE,1995,Refugee population by country or territory of asylum,SM.POP.REFG,2655
+1030,Czech Republic,CZE,1994,Refugee population by country or territory of asylum,SM.POP.REFG,1186
+1031,Czech Republic,CZE,1993,Refugee population by country or territory of asylum,SM.POP.REFG,188
+1032,Czech Republic,CZE,1992,Refugee population by country or territory of asylum,SM.POP.REFG,9399
+1033,Czech Republic,CZE,1991,Refugee population by country or territory of asylum,SM.POP.REFG,691
+1034,Czech Republic,CZE,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1035,Czech Republic,CZE,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1036,Czech Republic,CZE,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1037,Czech Republic,CZE,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1038,Czech Republic,CZE,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1039,Czech Republic,CZE,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1040,Czech Republic,CZE,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1041,Czech Republic,CZE,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1042,Czech Republic,CZE,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1043,Czech Republic,CZE,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1044,Czech Republic,CZE,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1045,Czech Republic,CZE,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1046,Czech Republic,CZE,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1047,Czech Republic,CZE,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1048,Czech Republic,CZE,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1049,Czech Republic,CZE,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1050,Czech Republic,CZE,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1051,Czech Republic,CZE,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1052,Czech Republic,CZE,2019,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.5
+1053,Czech Republic,CZE,2018,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1054,Czech Republic,CZE,2017,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.8
+1055,Czech Republic,CZE,2016,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1056,Czech Republic,CZE,2015,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.5
+1057,Czech Republic,CZE,2014,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.4
+1058,Czech Republic,CZE,2013,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1059,Czech Republic,CZE,2012,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1060,Czech Republic,CZE,2011,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.4
+1061,Czech Republic,CZE,2010,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.2
+1062,Czech Republic,CZE,2009,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.3
+1063,Czech Republic,CZE,2008,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.5
+1064,Czech Republic,CZE,2007,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.1
+1065,Czech Republic,CZE,2006,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1066,Czech Republic,CZE,2005,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10
+1067,Czech Republic,CZE,2004,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.6
+1068,Czech Republic,CZE,2003,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.2
+1069,Czech Republic,CZE,2002,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+1070,Czech Republic,CZE,2001,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.9
+1071,Czech Republic,CZE,2000,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.9
+1072,Czech Republic,CZE,1999,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.7
+1073,Czech Republic,CZE,1998,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+1074,Czech Republic,CZE,1997,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+1075,Czech Republic,CZE,1996,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+1076,Czech Republic,CZE,1995,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.3
+1077,Czech Republic,CZE,1994,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1078,Czech Republic,CZE,1993,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.7
+1079,Czech Republic,CZE,1992,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.8
+1080,Czech Republic,CZE,1991,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.5
+1081,Czech Republic,CZE,1990,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.6
+1082,Czech Republic,CZE,1989,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.4
+1083,Czech Republic,CZE,1988,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.8
+1084,Czech Republic,CZE,1987,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.7
+1085,Czech Republic,CZE,1986,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.9
+1086,Czech Republic,CZE,1985,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.1
+1087,Czech Republic,CZE,1984,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.3
+1088,Czech Republic,CZE,1983,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.3
+1089,Czech Republic,CZE,1982,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.7
+1090,Czech Republic,CZE,1981,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14
+1091,Czech Republic,CZE,1980,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.9
+1092,Czech Republic,CZE,1979,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7
+1093,Czech Republic,CZE,1978,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.5
+1094,Czech Republic,CZE,1977,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.8
+1095,Czech Republic,CZE,1976,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.5
+1096,Czech Republic,CZE,1975,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.1
+1097,Czech Republic,CZE,1974,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.4
+1098,Czech Republic,CZE,1973,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.3
+1099,Czech Republic,CZE,1972,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.6
+1100,Czech Republic,CZE,1971,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.7
+1101,Czech Republic,CZE,1970,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15
+1102,Czech Republic,CZE,1969,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.5
+1103,Czech Republic,CZE,1968,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.9
+1104,Czech Republic,CZE,1967,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.1
+1105,Czech Republic,CZE,1966,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.4
+1106,Czech Republic,CZE,1965,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1107,Czech Republic,CZE,1964,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.9
+1108,Czech Republic,CZE,1963,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.4
+1109,Czech Republic,CZE,1962,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.9
+1110,Czech Republic,CZE,1961,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.7
+1111,Czech Republic,CZE,1960,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.4
+1112,Czech Republic,CZE,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.1292682926829
+1113,Czech Republic,CZE,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.0292682926829
+1114,Czech Republic,CZE,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.9780487804878
+1115,Czech Republic,CZE,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.0268292682927
+1116,Czech Republic,CZE,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.5780487804878
+1117,Czech Republic,CZE,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.8243902439024
+1118,Czech Republic,CZE,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.1756097560976
+1119,Czech Republic,CZE,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.0756097560976
+1120,Czech Republic,CZE,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.8731707317073
+1121,Czech Republic,CZE,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.4243902439025
+1122,Czech Republic,CZE,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.0780487804878
+1123,Czech Republic,CZE,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.9756097560976
+1124,Czech Republic,CZE,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.7243902439025
+1125,Czech Republic,CZE,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.5243902439024
+1126,Czech Republic,CZE,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.9243902439025
+1127,Czech Republic,CZE,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.7219512195122
+1128,Czech Republic,CZE,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.1707317073171
+1129,Czech Republic,CZE,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.2219512195122
+1130,Czech Republic,CZE,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.1731707317073
+1131,Czech Republic,CZE,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.9682926829268
+1132,Czech Republic,CZE,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.6682926829268
+1133,Czech Republic,CZE,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.5146341463415
+1134,Czech Republic,CZE,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.8248780487805
+1135,Czech Republic,CZE,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.7146341463415
+1136,Czech Republic,CZE,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.0748780487805
+1137,Czech Republic,CZE,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.9726829268293
+1138,Czech Republic,CZE,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.7678048780488
+1139,Czech Republic,CZE,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.2717073170732
+1140,Czech Republic,CZE,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.8982926829268
+1141,Czech Republic,CZE,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.3839024390244
+1142,Czech Republic,CZE,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.6756097560976
+1143,Czech Republic,CZE,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.6414634146342
+1144,Czech Republic,CZE,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.4456097560976
+1145,Czech Republic,CZE,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.9973170731707
+1146,Czech Republic,CZE,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0463414634146
+1147,Czech Republic,CZE,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8375609756098
+1148,Czech Republic,CZE,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5914634146341
+1149,Czech Republic,CZE,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8078048780488
+1150,Czech Republic,CZE,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7221951219512
+1151,Czech Republic,CZE,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2780487804878
+1152,Czech Republic,CZE,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.749512195122
+1153,Czech Republic,CZE,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6439024390244
+1154,Czech Republic,CZE,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5734146341463
+1155,Czech Republic,CZE,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5326829268293
+1156,Czech Republic,CZE,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4146341463415
+1157,Czech Republic,CZE,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0865853658537
+1158,Czech Republic,CZE,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0226829268293
+1159,Czech Republic,CZE,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1765853658537
+1160,Czech Republic,CZE,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.6770731707317
+1161,Czech Republic,CZE,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.440243902439
+1162,Czech Republic,CZE,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3670731707317
+1163,Czech Republic,CZE,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8407317073171
+1164,Czech Republic,CZE,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2641463414634
+1165,Czech Republic,CZE,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3848780487805
+1166,Czech Republic,CZE,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1631707317073
+1167,Czech Republic,CZE,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.459512195122
+1168,Czech Republic,CZE,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3043902439025
+1169,Czech Republic,CZE,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.7868292682927
+1170,Czech Republic,CZE,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5126829268293
+1171,Czech Republic,CZE,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3487804878049
+1172,Czech Republic,CZE,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.8007448446372
+1173,Czech Republic,CZE,2018,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.4208768932343
+1174,Czech Republic,CZE,2017,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.9967065230691
+1175,Czech Republic,CZE,2016,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.5215508599466
+1176,Czech Republic,CZE,2015,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.9949774543864
+1177,Czech Republic,CZE,2014,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.4908989692108
+1178,Czech Republic,CZE,2013,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.958365878612
+1179,Czech Republic,CZE,2012,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.4195245325878
+1180,Czech Republic,CZE,2011,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.9068025916203
+1181,Czech Republic,CZE,2010,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.4402621435279
+1182,Czech Republic,CZE,2009,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.0703817783013
+1183,Czech Republic,CZE,2008,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.7444966871828
+1184,Czech Republic,CZE,2007,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.4615061996393
+1185,Czech Republic,CZE,2006,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.2262347146907
+1186,Czech Republic,CZE,2005,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.0434835970208
+1187,Czech Republic,CZE,2004,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.9508619564021
+1188,Czech Republic,CZE,2003,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.9223465729921
+1189,Czech Republic,CZE,2002,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.9251624592858
+1190,Czech Republic,CZE,2001,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.9001644239786
+1191,Czech Republic,CZE,2000,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.8026291786681
+1192,Czech Republic,CZE,1999,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.7752123411341
+1193,Czech Republic,CZE,1998,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.6882416937229
+1194,Czech Republic,CZE,1997,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.5522060168466
+1195,Czech Republic,CZE,1996,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.3903731762984
+1196,Czech Republic,CZE,1995,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.2178653168559
+1197,Czech Republic,CZE,1994,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.1699457840285
+1198,Czech Republic,CZE,1993,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.1050644434769
+1199,Czech Republic,CZE,1992,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.0112272467533
+1200,Czech Republic,CZE,1991,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.8731279089682
+1201,Czech Republic,CZE,1990,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.679981142795
+1202,Czech Republic,CZE,1989,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.5231668621668
+1203,Czech Republic,CZE,1988,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2857769546192
+1204,Czech Republic,CZE,1987,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.0172754731699
+1205,Czech Republic,CZE,1986,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.805015992582
+1206,Czech Republic,CZE,1985,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.7092561781402
+1207,Czech Republic,CZE,1984,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.9391394797299
+1208,Czech Republic,CZE,1983,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.3499037338331
+1209,Czech Republic,CZE,1982,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.8551890768909
+1210,Czech Republic,CZE,1981,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.2961150830387
+1211,Czech Republic,CZE,1980,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.5592206575211
+1212,Czech Republic,CZE,1979,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.7338409559625
+1213,Czech Republic,CZE,1978,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.7117586681521
+1214,Czech Republic,CZE,1977,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.5362638681224
+1215,Czech Republic,CZE,1976,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.3105287805271
+1216,Czech Republic,CZE,1975,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.1045670015407
+1217,Czech Republic,CZE,1974,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.9415624250233
+1218,Czech Republic,CZE,1973,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.7820502121918
+1219,Czech Republic,CZE,1972,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6110960077573
+1220,Czech Republic,CZE,1971,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.3943660827588
+1221,Czech Republic,CZE,1970,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.1111742512403
+1222,Czech Republic,CZE,1969,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.848931442646
+1223,Czech Republic,CZE,1968,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5552783652269
+1224,Czech Republic,CZE,1967,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.2402359307968
+1225,Czech Republic,CZE,1966,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.9203352020041
+1226,Czech Republic,CZE,1965,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.6045970917232
+1227,Czech Republic,CZE,1964,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.3331548167786
+1228,Czech Republic,CZE,1963,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.0783785614722
+1229,Czech Republic,CZE,1962,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.83551952371769
+1230,Czech Republic,CZE,1961,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.59665263666387
+1231,Czech Republic,CZE,1960,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.35571137708242
+1232,Czech Republic,CZE,2019,Population growth (annual %),SP.POP.GROW,0.393788864202175
+1233,Czech Republic,CZE,2018,Population growth (annual %),SP.POP.GROW,0.334427262299794
+1234,Czech Republic,CZE,2017,Population growth (annual %),SP.POP.GROW,0.265642663548985
+1235,Czech Republic,CZE,2016,Population growth (annual %),SP.POP.GROW,0.192048415842684
+1236,Czech Republic,CZE,2015,Population growth (annual %),SP.POP.GROW,0.196588748472653
+1237,Czech Republic,CZE,2014,Population growth (annual %),SP.POP.GROW,0.105277581527518
+1238,Czech Republic,CZE,2013,Population growth (annual %),SP.POP.GROW,0.0331699460503076
+1239,Czech Republic,CZE,2012,Population growth (annual %),SP.POP.GROW,0.139925655740972
+1240,Czech Republic,CZE,2011,Population growth (annual %),SP.POP.GROW,0.206747667335417
+1241,Czech Republic,CZE,2010,Population growth (annual %),SP.POP.GROW,0.29136167418042
+1242,Czech Republic,CZE,2009,Population growth (annual %),SP.POP.GROW,0.569729451418061
+1243,Czech Republic,CZE,2008,Population growth (annual %),SP.POP.GROW,0.829412602993033
+1244,Czech Republic,CZE,2007,Population growth (annual %),SP.POP.GROW,0.583542205385113
+1245,Czech Republic,CZE,2006,Population growth (annual %),SP.POP.GROW,0.270795629232185
+1246,Czech Republic,CZE,2005,Population growth (annual %),SP.POP.GROW,0.138325980046718
+1247,Czech Republic,CZE,2004,Population growth (annual %),SP.POP.GROW,0.0304348483027166
+1248,Czech Republic,CZE,2003,Population growth (annual %),SP.POP.GROW,-0.028620590719166
+1249,Czech Republic,CZE,2002,Population growth (annual %),SP.POP.GROW,-0.192901617564167
+1250,Czech Republic,CZE,2001,Population growth (annual %),SP.POP.GROW,-0.375719704335905
+1251,Czech Republic,CZE,2000,Population growth (annual %),SP.POP.GROW,-0.280414108078884
+1252,Czech Republic,CZE,1999,Population growth (annual %),SP.POP.GROW,-0.102175934295454
+1253,Czech Republic,CZE,1998,Population growth (annual %),SP.POP.GROW,-0.0947447516571582
+1254,Czech Republic,CZE,1997,Population growth (annual %),SP.POP.GROW,-0.107762749274352
+1255,Czech Republic,CZE,1996,Population growth (annual %),SP.POP.GROW,-0.11638129923463
+1256,Czech Republic,CZE,1995,Population growth (annual %),SP.POP.GROW,-0.0613140627238111
+1257,Czech Republic,CZE,1994,Population growth (annual %),SP.POP.GROW,0.0361217655856125
+1258,Czech Republic,CZE,1993,Population growth (annual %),SP.POP.GROW,0.103947042476644
+1259,Czech Republic,CZE,1992,Population growth (annual %),SP.POP.GROW,0.102241165106867
+1260,Czech Republic,CZE,1991,Population growth (annual %),SP.POP.GROW,-0.240064841789636
+1261,Czech Republic,CZE,1990,Population growth (annual %),SP.POP.GROW,-0.267830773210837
+1262,Czech Republic,CZE,1989,Population growth (annual %),SP.POP.GROW,0.055917203835936
+1263,Czech Republic,CZE,1988,Population growth (annual %),SP.POP.GROW,0.0768792586277848
+1264,Czech Republic,CZE,1987,Population growth (annual %),SP.POP.GROW,0.049213263053871
+1265,Czech Republic,CZE,1986,Population growth (annual %),SP.POP.GROW,0.0494116240523893
+1266,Czech Republic,CZE,1985,Population growth (annual %),SP.POP.GROW,0.0668204351778328
+1267,Czech Republic,CZE,1984,Population growth (annual %),SP.POP.GROW,0.0615568796708922
+1268,Czech Republic,CZE,1983,Population growth (annual %),SP.POP.GROW,0.087505593392119
+1269,Czech Republic,CZE,1982,Population growth (annual %),SP.POP.GROW,0.138100551275644
+1270,Czech Republic,CZE,1981,Population growth (annual %),SP.POP.GROW,-0.034962754636898
+1271,Czech Republic,CZE,1980,Population growth (annual %),SP.POP.GROW,0.115087337589653
+1272,Czech Republic,CZE,1979,Population growth (annual %),SP.POP.GROW,0.489354496250338
+1273,Czech Republic,CZE,1978,Population growth (annual %),SP.POP.GROW,0.541813437966295
+1274,Czech Republic,CZE,1977,Population growth (annual %),SP.POP.GROW,0.59879976253946
+1275,Czech Republic,CZE,1976,Population growth (annual %),SP.POP.GROW,0.667037110958035
+1276,Czech Republic,CZE,1975,Population growth (annual %),SP.POP.GROW,0.699965181580971
+1277,Czech Republic,CZE,1974,Population growth (annual %),SP.POP.GROW,0.664900387723116
+1278,Czech Republic,CZE,1973,Population growth (annual %),SP.POP.GROW,0.552141691663197
+1279,Czech Republic,CZE,1972,Population growth (annual %),SP.POP.GROW,0.414503219518839
+1280,Czech Republic,CZE,1971,Population growth (annual %),SP.POP.GROW,-0.317563701077064
+1281,Czech Republic,CZE,1970,Population growth (annual %),SP.POP.GROW,-0.38987323824066
+1282,Czech Republic,CZE,1969,Population growth (annual %),SP.POP.GROW,0.204663761578724
+1283,Czech Republic,CZE,1968,Population growth (annual %),SP.POP.GROW,0.237687869340698
+1284,Czech Republic,CZE,1967,Population growth (annual %),SP.POP.GROW,0.323870353038585
+1285,Czech Republic,CZE,1966,Population growth (annual %),SP.POP.GROW,0.425318535206866
+1286,Czech Republic,CZE,1965,Population growth (annual %),SP.POP.GROW,0.528566072575263
+1287,Czech Republic,CZE,1964,Population growth (annual %),SP.POP.GROW,0.58890323959932
+1288,Czech Republic,CZE,1963,Population growth (annual %),SP.POP.GROW,0.477058972393582
+1289,Czech Republic,CZE,1962,Population growth (annual %),SP.POP.GROW,0.395694490537776
+1290,Czech Republic,CZE,1961,Population growth (annual %),SP.POP.GROW,-0.160042500915763
+1291,Czech Republic,CZE,2019,"Population, total",SP.POP.TOTL,10671870
+1292,Czech Republic,CZE,2018,"Population, total",SP.POP.TOTL,10629928
+1293,Czech Republic,CZE,2017,"Population, total",SP.POP.TOTL,10594438
+1294,Czech Republic,CZE,2016,"Population, total",SP.POP.TOTL,10566332
+1295,Czech Republic,CZE,2015,"Population, total",SP.POP.TOTL,10546059
+1296,Czech Republic,CZE,2014,"Population, total",SP.POP.TOTL,10525347
+1297,Czech Republic,CZE,2013,"Population, total",SP.POP.TOTL,10514272
+1298,Czech Republic,CZE,2012,"Population, total",SP.POP.TOTL,10510785
+1299,Czech Republic,CZE,2011,"Population, total",SP.POP.TOTL,10496088
+1300,Czech Republic,CZE,2010,"Population, total",SP.POP.TOTL,10474410
+1301,Czech Republic,CZE,2009,"Population, total",SP.POP.TOTL,10443936
+1302,Czech Republic,CZE,2008,"Population, total",SP.POP.TOTL,10384603
+1303,Czech Republic,CZE,2007,"Population, total",SP.POP.TOTL,10298828
+1304,Czech Republic,CZE,2006,"Population, total",SP.POP.TOTL,10238905
+1305,Czech Republic,CZE,2005,"Population, total",SP.POP.TOTL,10211216
+1306,Czech Republic,CZE,2004,"Population, total",SP.POP.TOTL,10197101
+1307,Czech Republic,CZE,2003,"Population, total",SP.POP.TOTL,10193998
+1308,Czech Republic,CZE,2002,"Population, total",SP.POP.TOTL,10196916
+1309,Czech Republic,CZE,2001,"Population, total",SP.POP.TOTL,10216605
+1310,Czech Republic,CZE,2000,"Population, total",SP.POP.TOTL,10255063
+1311,Czech Republic,CZE,1999,"Population, total",SP.POP.TOTL,10283860
+1312,Czech Republic,CZE,1998,"Population, total",SP.POP.TOTL,10294373
+1313,Czech Republic,CZE,1997,"Population, total",SP.POP.TOTL,10304131
+1314,Czech Republic,CZE,1996,"Population, total",SP.POP.TOTL,10315241
+1315,Czech Republic,CZE,1995,"Population, total",SP.POP.TOTL,10327253
+1316,Czech Republic,CZE,1994,"Population, total",SP.POP.TOTL,10333587
+1317,Czech Republic,CZE,1993,"Population, total",SP.POP.TOTL,10329855
+1318,Czech Republic,CZE,1992,"Population, total",SP.POP.TOTL,10319123
+1319,Czech Republic,CZE,1991,"Population, total",SP.POP.TOTL,10308578
+1320,Czech Republic,CZE,1990,"Population, total",SP.POP.TOTL,10333355
+1321,Czech Republic,CZE,1989,"Population, total",SP.POP.TOTL,10361068
+1322,Czech Republic,CZE,1988,"Population, total",SP.POP.TOTL,10355276
+1323,Czech Republic,CZE,1987,"Population, total",SP.POP.TOTL,10347318
+1324,Czech Republic,CZE,1986,"Population, total",SP.POP.TOTL,10342227
+1325,Czech Republic,CZE,1985,"Population, total",SP.POP.TOTL,10337118
+1326,Czech Republic,CZE,1984,"Population, total",SP.POP.TOTL,10330213
+1327,Czech Republic,CZE,1983,"Population, total",SP.POP.TOTL,10323856
+1328,Czech Republic,CZE,1982,"Population, total",SP.POP.TOTL,10314826
+1329,Czech Republic,CZE,1981,"Population, total",SP.POP.TOTL,10300591
+1330,Czech Republic,CZE,1980,"Population, total",SP.POP.TOTL,10304193
+1331,Czech Republic,CZE,1979,"Population, total",SP.POP.TOTL,10292341
+1332,Czech Republic,CZE,1978,"Population, total",SP.POP.TOTL,10242098
+1333,Czech Republic,CZE,1977,"Population, total",SP.POP.TOTL,10186755
+1334,Czech Republic,CZE,1976,"Population, total",SP.POP.TOTL,10125939
+1335,Czech Republic,CZE,1975,"Population, total",SP.POP.TOTL,10058620
+1336,Czech Republic,CZE,1974,"Population, total",SP.POP.TOTL,9988459
+1337,Czech Republic,CZE,1973,"Population, total",SP.POP.TOTL,9922266
+1338,Czech Republic,CZE,1972,"Population, total",SP.POP.TOTL,9867632
+1339,Czech Republic,CZE,1971,"Population, total",SP.POP.TOTL,9826815
+1340,Czech Republic,CZE,1970,"Population, total",SP.POP.TOTL,9858071
+1341,Czech Republic,CZE,1969,"Population, total",SP.POP.TOTL,9896580
+1342,Czech Republic,CZE,1968,"Population, total",SP.POP.TOTL,9876346
+1343,Czech Republic,CZE,1967,"Population, total",SP.POP.TOTL,9852899
+1344,Czech Republic,CZE,1966,"Population, total",SP.POP.TOTL,9821040
+1345,Czech Republic,CZE,1965,"Population, total",SP.POP.TOTL,9779358
+1346,Czech Republic,CZE,1964,"Population, total",SP.POP.TOTL,9727804
+1347,Czech Republic,CZE,1963,"Population, total",SP.POP.TOTL,9670685
+1348,Czech Republic,CZE,1962,"Population, total",SP.POP.TOTL,9624660
+1349,Czech Republic,CZE,1961,"Population, total",SP.POP.TOTL,9586651
+1350,Czech Republic,CZE,1960,"Population, total",SP.POP.TOTL,9602006
+1351,Czech Republic,CZE,2019,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.7856378201089
+1352,Czech Republic,CZE,2018,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8085889327815
+1353,Czech Republic,CZE,2017,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.831695647565
+1354,Czech Republic,CZE,2016,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8512677622511
+1355,Czech Republic,CZE,2015,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8651224037603
+1356,Czech Republic,CZE,2014,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8705513608402
+1357,Czech Republic,CZE,2013,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8695154001845
+1358,Czech Republic,CZE,2012,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.870308776746
+1359,Czech Republic,CZE,2011,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.884019248736
+1360,Czech Republic,CZE,2010,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.9181499687658
+1361,Czech Republic,CZE,2009,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.9771070316943
+1362,Czech Republic,CZE,2008,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.0568985907028
+1363,Czech Republic,CZE,2007,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.1464455587164
+1364,Czech Republic,CZE,2006,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2289572310202
+1365,Czech Republic,CZE,2005,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2918928482823
+1366,Czech Republic,CZE,2004,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3302577757152
+1367,Czech Republic,CZE,2003,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3478243417337
+1368,Czech Republic,CZE,2002,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3509503852027
+1369,Czech Republic,CZE,2001,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3500169749467
+1370,Czech Republic,CZE,2000,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3525409806272
+1371,Czech Republic,CZE,1999,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.360057300296
+1372,Czech Republic,CZE,1998,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3703444382405
+1373,Czech Republic,CZE,1997,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3825325637196
+1374,Czech Republic,CZE,1996,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3950607431551
+1375,Czech Republic,CZE,1995,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4066646779022
+1376,Czech Republic,CZE,1994,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4178410425903
+1377,Czech Republic,CZE,1993,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.429156996046
+1378,Czech Republic,CZE,1992,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4399806587855
+1379,Czech Republic,CZE,1991,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4492495886032
+1380,Czech Republic,CZE,1990,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4563706733965
+1381,Czech Republic,CZE,1989,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4609551682852
+1382,Czech Republic,CZE,1988,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4635233534267
+1383,Czech Republic,CZE,1987,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4651020114119
+1384,Czech Republic,CZE,1986,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4670934969387
+1385,Czech Republic,CZE,1985,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4707470924808
+1386,Czech Republic,CZE,1984,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4761142673236
+1387,Czech Republic,CZE,1983,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4829101515342
+1388,Czech Republic,CZE,1982,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4915201388021
+1389,Czech Republic,CZE,1981,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5019164976046
+1390,Czech Republic,CZE,1980,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5141243418258
+1391,Czech Republic,CZE,1979,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5278465761117
+1392,Czech Republic,CZE,1978,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5426314426365
+1393,Czech Republic,CZE,1977,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5581731029393
+1394,Czech Republic,CZE,1976,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.574242968736
+1395,Czech Republic,CZE,1975,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5900063158146
+1396,Czech Republic,CZE,1974,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6071757796203
+1397,Czech Republic,CZE,1973,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6246571174835
+1398,Czech Republic,CZE,1972,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6360967665686
+1399,Czech Republic,CZE,1971,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6328220720275
+1400,Czech Republic,CZE,1970,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6094811527016
+1401,Czech Republic,CZE,1969,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5621621731876
+1402,Czech Republic,CZE,1968,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4950178646022
+1403,Czech Republic,CZE,1967,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4208662223404
+1404,Czech Republic,CZE,1966,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3569457807164
+1405,Czech Republic,CZE,1965,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3153253239225
+1406,Czech Republic,CZE,1964,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3009614035324
+1407,Czech Republic,CZE,1963,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3096750254428
+1408,Czech Republic,CZE,1962,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3328313587129
+1409,Czech Republic,CZE,1961,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.356720083599
+1410,Czech Republic,CZE,1960,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3715595268409
+1411,Czech Republic,CZE,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,34.98494603
+1412,Czech Republic,CZE,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,30.21688169
+1413,Czech Republic,CZE,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,29.56565123
+1414,Czech Republic,CZE,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.91055035
+1415,Czech Republic,CZE,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,27.79469536
+1416,Czech Republic,CZE,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.27672043
+1417,Czech Republic,CZE,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.97925752
+1418,Czech Republic,CZE,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,25.11016376
+1419,Czech Republic,CZE,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,23.7457622
+1420,Czech Republic,CZE,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,21.46040086
+1421,Czech Republic,CZE,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,19.413424
+1422,Czech Republic,CZE,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,16.87809213
+1423,Czech Republic,CZE,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,14.45053834
+1424,Czech Republic,CZE,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,10.80242448
+1425,Czech Republic,CZE,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,6.912180314
+1426,Czech Republic,CZE,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.304774705
+1427,Czech Republic,CZE,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.338798117
+1428,Czech Republic,CZE,2002,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.149235374
+1429,Czech Republic,CZE,2001,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.060364085
+1430,Czech Republic,CZE,2000,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.024296913
+1431,Czech Republic,CZE,2019,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.1999969482422
+1432,Czech Republic,CZE,2018,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.0599975585938
+1433,Czech Republic,CZE,2017,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.879997253418
+1434,Czech Republic,CZE,2016,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.8399963378906
+1435,Czech Republic,CZE,2015,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.6600036621094
+1436,Czech Republic,CZE,2014,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.0100021362305
+1437,Czech Republic,CZE,2013,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.1399993896484
+1438,Czech Republic,CZE,2012,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,81.5899963378906
+1439,Czech Republic,CZE,2011,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,81.9499969482422
+1440,Czech Republic,CZE,2010,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.2799987792969
+1441,Czech Republic,CZE,2009,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.2300033569336
+1442,Czech Republic,CZE,2008,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.879997253418
+1443,Czech Republic,CZE,2007,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.8300018310547
+1444,Czech Republic,CZE,2006,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.8600006103516
+1445,Czech Republic,CZE,2005,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.9800033569336
+1446,Czech Republic,CZE,2004,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.0599975585938
+1447,Czech Republic,CZE,2003,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.5899963378906
+1448,Czech Republic,CZE,2002,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.120002746582
+1449,Czech Republic,CZE,2001,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.6999969482422
+1450,Czech Republic,CZE,2000,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85
+1451,Czech Republic,CZE,1999,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.5199966430664
+1452,Czech Republic,CZE,1998,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.5699996948242
+1453,Czech Republic,CZE,1997,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.8300018310547
+1454,Czech Republic,CZE,1996,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.9499969482422
+1455,Czech Republic,CZE,1995,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.0299987792969
+1456,Czech Republic,CZE,1994,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.0299987792969
+1457,Czech Republic,CZE,1993,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.0599975585938
+1458,Czech Republic,CZE,1992,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.0899963378906
+1459,Czech Republic,CZE,1991,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.129997253418
+1460,Czech Republic,CZE,2019,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.3700008392334
+1461,Czech Republic,CZE,2018,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.2000007629395
+1462,Czech Republic,CZE,2017,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.1900005340576
+1463,Czech Republic,CZE,2016,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.6900005340576
+1464,Czech Republic,CZE,2015,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.6200008392334
+1465,Czech Republic,CZE,2014,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,26.2000007629395
+1466,Czech Republic,CZE,2013,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,26.6800003051758
+1467,Czech Republic,CZE,2012,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.4599990844727
+1468,Czech Republic,CZE,2011,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.5
+1469,Czech Republic,CZE,2010,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.9099998474121
+1470,Czech Republic,CZE,2009,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.7800006866455
+1471,Czech Republic,CZE,2008,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.3299999237061
+1472,Czech Republic,CZE,2007,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.2700004577637
+1473,Czech Republic,CZE,2006,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.9799995422363
+1474,Czech Republic,CZE,2005,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.6499996185303
+1475,Czech Republic,CZE,2004,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.2799997329712
+1476,Czech Republic,CZE,2003,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.8099994659424
+1477,Czech Republic,CZE,2002,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.6599998474121
+1478,Czech Republic,CZE,2001,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19
+1479,Czech Republic,CZE,2000,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.2999992370605
+1480,Czech Republic,CZE,1999,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.4200000762939
+1481,Czech Republic,CZE,1998,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.1000003814697
+1482,Czech Republic,CZE,1997,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.7800006866455
+1483,Czech Republic,CZE,2019,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,5.65999984741211
+1484,Czech Republic,CZE,2018,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,5.63000011444092
+1485,Czech Republic,CZE,2017,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,6.28999996185303
+1486,Czech Republic,CZE,2016,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7
+1487,Czech Republic,CZE,2015,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7.46999979019165
+1488,Czech Republic,CZE,2014,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.10999965667725
+1489,Czech Republic,CZE,2013,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.13000011444092
+1490,Czech Republic,CZE,2012,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.89000034332275
+1491,Czech Republic,CZE,2011,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.27999973297119
+1492,Czech Republic,CZE,2010,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.82999992370605
+1493,Czech Republic,CZE,2009,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.51000022888184
+1494,Czech Republic,CZE,2008,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,6.69999980926514
+1495,Czech Republic,CZE,2007,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,6.92999982833862
+1496,Czech Republic,CZE,2006,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.15999984741211
+1497,Czech Republic,CZE,2005,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.25
+1498,Czech Republic,CZE,2004,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.5799999237061
+1499,Czech Republic,CZE,2003,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.6199998855591
+1500,Czech Republic,CZE,2018,Gini index (World Bank estimate),SI.POV.GINI,25
+1501,Czech Republic,CZE,2017,Gini index (World Bank estimate),SI.POV.GINI,24.9
+1502,Czech Republic,CZE,2016,Gini index (World Bank estimate),SI.POV.GINI,25.4
+1503,Czech Republic,CZE,2015,Gini index (World Bank estimate),SI.POV.GINI,25.9
+1504,Czech Republic,CZE,2014,Gini index (World Bank estimate),SI.POV.GINI,25.9
+1505,Czech Republic,CZE,2013,Gini index (World Bank estimate),SI.POV.GINI,26.5
+1506,Czech Republic,CZE,2012,Gini index (World Bank estimate),SI.POV.GINI,26.1
+1507,Czech Republic,CZE,2011,Gini index (World Bank estimate),SI.POV.GINI,26.4
+1508,Czech Republic,CZE,2010,Gini index (World Bank estimate),SI.POV.GINI,26.6
+1509,Czech Republic,CZE,2009,Gini index (World Bank estimate),SI.POV.GINI,26.2
+1510,Czech Republic,CZE,2008,Gini index (World Bank estimate),SI.POV.GINI,26.3
+1511,Czech Republic,CZE,2007,Gini index (World Bank estimate),SI.POV.GINI,26
+1512,Czech Republic,CZE,2006,Gini index (World Bank estimate),SI.POV.GINI,26.7
+1513,Czech Republic,CZE,2005,Gini index (World Bank estimate),SI.POV.GINI,26.9
+1514,Czech Republic,CZE,2004,Gini index (World Bank estimate),SI.POV.GINI,27.5
+1515,Czech Republic,CZE,2002,Gini index (World Bank estimate),SI.POV.GINI,26.6
+1516,Czech Republic,CZE,1996,Gini index (World Bank estimate),SI.POV.GINI,25.8
+1517,Czech Republic,CZE,1993,Gini index (World Bank estimate),SI.POV.GINI,26.6
+1518,Czech Republic,CZE,1992,Gini index (World Bank estimate),SI.POV.GINI,20.7
+1519,Czech Republic,CZE,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.2
+1520,Czech Republic,CZE,2017,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.4
+1521,Czech Republic,CZE,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.6
+1522,Czech Republic,CZE,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.3
+1523,Czech Republic,CZE,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.6
+1524,Czech Republic,CZE,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.5
+1525,Czech Republic,CZE,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.6
+1526,Czech Republic,CZE,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.6
+1527,Czech Republic,CZE,2010,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.7
+1528,Czech Republic,CZE,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.6
+1529,Czech Republic,CZE,2008,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.3
+1530,Czech Republic,CZE,2007,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.5
+1531,Czech Republic,CZE,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.6
+1532,Czech Republic,CZE,2005,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.6
+1533,Czech Republic,CZE,2004,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1
+1534,Czech Republic,CZE,2002,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.5
+1535,Czech Republic,CZE,1996,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.2
+1536,Czech Republic,CZE,1993,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.3
+1537,Czech Republic,CZE,1992,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.5
+1538,Czech Republic,CZE,2020,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1539,Czech Republic,CZE,2019,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1540,Czech Republic,CZE,2018,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1541,Czech Republic,CZE,2017,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1542,Czech Republic,CZE,2016,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1543,Czech Republic,CZE,2015,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1544,Czech Republic,CZE,2014,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1545,Czech Republic,CZE,2013,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1546,Czech Republic,CZE,2012,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1547,Czech Republic,CZE,2011,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1548,Czech Republic,CZE,2010,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1549,Czech Republic,CZE,2009,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1550,Czech Republic,CZE,2008,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1551,Czech Republic,CZE,2007,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1552,Czech Republic,CZE,2006,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1553,Czech Republic,CZE,2005,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1554,Czech Republic,CZE,2004,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1555,Czech Republic,CZE,2003,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1556,Czech Republic,CZE,2002,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1557,Czech Republic,CZE,2001,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1558,Czech Republic,CZE,2000,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1559,Czech Republic,CZE,1999,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1560,Czech Republic,CZE,1998,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1561,Czech Republic,CZE,1997,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1562,Czech Republic,CZE,1996,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1563,Czech Republic,CZE,1995,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1564,Czech Republic,CZE,1994,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1565,Czech Republic,CZE,1993,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1566,Czech Republic,CZE,1992,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1567,Czech Republic,CZE,1991,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1568,Czech Republic,CZE,1990,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1569,Czech Republic,CZE,1989,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1570,Czech Republic,CZE,1988,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1571,Czech Republic,CZE,1987,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1572,Czech Republic,CZE,1986,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1573,Czech Republic,CZE,1985,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1574,Czech Republic,CZE,1984,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1575,Czech Republic,CZE,1983,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1576,Czech Republic,CZE,1982,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1577,Czech Republic,CZE,1981,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1578,Czech Republic,CZE,1980,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1579,Czech Republic,CZE,1979,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1580,Czech Republic,CZE,1978,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1581,Czech Republic,CZE,1977,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1582,Czech Republic,CZE,1976,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1583,Czech Republic,CZE,1975,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1584,Czech Republic,CZE,1974,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1585,Czech Republic,CZE,1973,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1586,Czech Republic,CZE,1972,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1587,Czech Republic,CZE,1971,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1588,Czech Republic,CZE,1970,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1589,Czech Republic,CZE,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1590,Czech Republic,CZE,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1591,Czech Republic,CZE,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1592,Czech Republic,CZE,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1593,Czech Republic,CZE,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1594,Czech Republic,CZE,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1595,Czech Republic,CZE,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1596,Czech Republic,CZE,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1597,Czech Republic,CZE,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1598,Czech Republic,CZE,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1599,Czech Republic,CZE,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1600,Czech Republic,CZE,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1601,Czech Republic,CZE,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1602,Czech Republic,CZE,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1603,Czech Republic,CZE,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1604,Czech Republic,CZE,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1605,Czech Republic,CZE,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1606,Czech Republic,CZE,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1607,Czech Republic,CZE,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1608,Czech Republic,CZE,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1609,Czech Republic,CZE,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1610,Czech Republic,CZE,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1611,Czech Republic,CZE,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1612,Czech Republic,CZE,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1613,Czech Republic,CZE,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1614,Czech Republic,CZE,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1615,Czech Republic,CZE,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1616,Czech Republic,CZE,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1617,Czech Republic,CZE,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1618,Czech Republic,CZE,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1619,Czech Republic,CZE,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1620,Czech Republic,CZE,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1621,Czech Republic,CZE,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1622,Czech Republic,CZE,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1623,Czech Republic,CZE,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1624,Czech Republic,CZE,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1625,Czech Republic,CZE,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1626,Czech Republic,CZE,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1627,Czech Republic,CZE,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1628,Czech Republic,CZE,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1629,Czech Republic,CZE,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1630,Czech Republic,CZE,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1631,Czech Republic,CZE,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1632,Czech Republic,CZE,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1633,Czech Republic,CZE,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1634,Czech Republic,CZE,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1635,Czech Republic,CZE,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1636,Czech Republic,CZE,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1637,Czech Republic,CZE,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1638,Czech Republic,CZE,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1639,Czech Republic,CZE,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1640,Czech Republic,CZE,2018,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.92829
+1641,Czech Republic,CZE,2017,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.79079
+1642,Czech Republic,CZE,2016,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.68015
+1643,Czech Republic,CZE,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.92923
+1644,Czech Republic,CZE,2014,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.97285
+1645,Czech Republic,CZE,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.89973
+1646,Czech Republic,CZE,2012,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.78231
+1647,Czech Republic,CZE,2011,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.55571
+1648,Czech Republic,CZE,2010,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.33688
+1649,Czech Republic,CZE,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.29438
+1650,Czech Republic,CZE,2008,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.23933
+1651,Czech Republic,CZE,2007,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.30228
+1652,Czech Republic,CZE,2006,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.23173
+1653,Czech Republic,CZE,2005,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.16835
+1654,Czech Republic,CZE,2004,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.14559
+1655,Czech Republic,CZE,2003,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.14741
+1656,Czech Republic,CZE,2002,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.10202
+1657,Czech Republic,CZE,2001,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.10333
+1658,Czech Republic,CZE,2000,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.11319
+1659,Czech Republic,CZE,1999,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.05452
+1660,Czech Republic,CZE,1998,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.06528
+1661,Czech Republic,CZE,1997,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.99439
+1662,Czech Republic,CZE,1996,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.89446
+1663,Czech Republic,CZE,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.921
+1664,Czech Republic,CZE,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.792
+1665,Czech Republic,CZE,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.675
+1666,Czech Republic,CZE,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.57
+1667,Czech Republic,CZE,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.477
+1668,Czech Republic,CZE,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.384
+1669,Czech Republic,CZE,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.29
+1670,Czech Republic,CZE,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.197
+1671,Czech Republic,CZE,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.185
+1672,Czech Republic,CZE,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.255
+1673,Czech Republic,CZE,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.324
+1674,Czech Republic,CZE,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.394
+1675,Czech Republic,CZE,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.463
+1676,Czech Republic,CZE,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.533
+1677,Czech Republic,CZE,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.602
+1678,Czech Republic,CZE,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.671
+1679,Czech Republic,CZE,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.74
+1680,Czech Republic,CZE,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.809
+1681,Czech Republic,CZE,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.877
+1682,Czech Republic,CZE,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.988
+1683,Czech Republic,CZE,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.12
+1684,Czech Republic,CZE,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.251
+1685,Czech Republic,CZE,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.382
+1686,Czech Republic,CZE,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.513
+1687,Czech Republic,CZE,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.643
+1688,Czech Republic,CZE,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.772
+1689,Czech Republic,CZE,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.901
+1690,Czech Republic,CZE,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.03
+1691,Czech Republic,CZE,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.158
+1692,Czech Republic,CZE,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.22
+1693,Czech Republic,CZE,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.249
+1694,Czech Republic,CZE,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.278
+1695,Czech Republic,CZE,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.307
+1696,Czech Republic,CZE,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.336
+1697,Czech Republic,CZE,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.365
+1698,Czech Republic,CZE,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.394
+1699,Czech Republic,CZE,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.423
+1700,Czech Republic,CZE,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.452
+1701,Czech Republic,CZE,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.481
+1702,Czech Republic,CZE,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.167
+1703,Czech Republic,CZE,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.167
+1704,Czech Republic,CZE,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.142
+1705,Czech Republic,CZE,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.092
+1706,Czech Republic,CZE,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.018
+1707,Czech Republic,CZE,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.917
+1708,Czech Republic,CZE,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.794
+1709,Czech Republic,CZE,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.649
+1710,Czech Republic,CZE,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.484
+1711,Czech Republic,CZE,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.295
+1712,Czech Republic,CZE,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.402
+1713,Czech Republic,CZE,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.93
+1714,Czech Republic,CZE,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.456
+1715,Czech Republic,CZE,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.978
+1716,Czech Republic,CZE,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.498
+1717,Czech Republic,CZE,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.016
+1718,Czech Republic,CZE,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.532
+1719,Czech Republic,CZE,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.044
+1720,Czech Republic,CZE,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.555
+1721,Czech Republic,CZE,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.063
+1722,Czech Republic,CZE,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.548
+1723,Czech Republic,CZE,2016,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.4
+1724,Czech Republic,CZE,2015,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.2
+1725,Czech Republic,CZE,2014,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25
+1726,Czech Republic,CZE,2013,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.7
+1727,Czech Republic,CZE,2012,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.5
+1728,Czech Republic,CZE,2011,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.3
+1729,Czech Republic,CZE,2010,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24
+1730,Czech Republic,CZE,2009,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.8
+1731,Czech Republic,CZE,2008,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.6
+1732,Czech Republic,CZE,2007,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.4
+1733,Czech Republic,CZE,2006,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.2
+1734,Czech Republic,CZE,2005,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.1
+1735,Czech Republic,CZE,2004,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.9
+1736,Czech Republic,CZE,2003,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.7
+1737,Czech Republic,CZE,2002,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.6
+1738,Czech Republic,CZE,2001,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.4
+1739,Czech Republic,CZE,2000,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.3
+1740,Czech Republic,CZE,1999,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.1
+1741,Czech Republic,CZE,1998,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22
+1742,Czech Republic,CZE,1997,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.9
+1743,Czech Republic,CZE,1996,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.8
+1744,Czech Republic,CZE,1995,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.7
+1745,Czech Republic,CZE,1994,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.6
+1746,Czech Republic,CZE,1993,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.5
+1747,Czech Republic,CZE,1992,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.4
+1748,Czech Republic,CZE,1991,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.3
+1749,Czech Republic,CZE,1990,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.2
+1750,Czech Republic,CZE,1989,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.1
+1751,Czech Republic,CZE,1988,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21
+1752,Czech Republic,CZE,1987,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.8
+1753,Czech Republic,CZE,1986,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.7
+1754,Czech Republic,CZE,1985,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.5
+1755,Czech Republic,CZE,1984,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.3
+1756,Czech Republic,CZE,1983,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.1
+1757,Czech Republic,CZE,1982,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.8
+1758,Czech Republic,CZE,1981,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.5
+1759,Czech Republic,CZE,1980,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.1
+1760,Czech Republic,CZE,1979,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.7
+1761,Czech Republic,CZE,1978,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.3
+1762,Czech Republic,CZE,1977,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.9
+1763,Czech Republic,CZE,1976,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.5
+1764,Czech Republic,CZE,1975,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.1
+1765,Czech Republic,CZE,2016,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,26.4
+1766,Czech Republic,CZE,2015,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,25.9
+1767,Czech Republic,CZE,2014,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,25.4
+1768,Czech Republic,CZE,2013,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,24.9
+1769,Czech Republic,CZE,2012,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,24.5
+1770,Czech Republic,CZE,2011,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,24
+1771,Czech Republic,CZE,2010,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,23.6
+1772,Czech Republic,CZE,2009,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,23.1
+1773,Czech Republic,CZE,2008,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22.7
+1774,Czech Republic,CZE,2007,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22.2
+1775,Czech Republic,CZE,2006,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.8
+1776,Czech Republic,CZE,2005,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.4
+1777,Czech Republic,CZE,2004,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21
+1778,Czech Republic,CZE,2003,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.6
+1779,Czech Republic,CZE,2002,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.2
+1780,Czech Republic,CZE,2001,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.8
+1781,Czech Republic,CZE,2000,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.4
+1782,Czech Republic,CZE,1999,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19
+1783,Czech Republic,CZE,1998,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.7
+1784,Czech Republic,CZE,1997,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.3
+1785,Czech Republic,CZE,1996,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18
+1786,Czech Republic,CZE,1995,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.6
+1787,Czech Republic,CZE,1994,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.3
+1788,Czech Republic,CZE,1993,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17
+1789,Czech Republic,CZE,1992,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.6
+1790,Czech Republic,CZE,1991,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.3
+1791,Czech Republic,CZE,1990,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16
+1792,Czech Republic,CZE,1989,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.7
+1793,Czech Republic,CZE,1988,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.3
+1794,Czech Republic,CZE,1987,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15
+1795,Czech Republic,CZE,1986,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.7
+1796,Czech Republic,CZE,1985,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.3
+1797,Czech Republic,CZE,1984,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14
+1798,Czech Republic,CZE,1983,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.6
+1799,Czech Republic,CZE,1982,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.2
+1800,Czech Republic,CZE,1981,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.7
+1801,Czech Republic,CZE,1980,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.3
+1802,Czech Republic,CZE,1979,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.8
+1803,Czech Republic,CZE,1978,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.3
+1804,Czech Republic,CZE,1977,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.8
+1805,Czech Republic,CZE,1976,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.4
+1806,Czech Republic,CZE,1975,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10
+1807,Czech Republic,CZE,2016,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.142
+1808,Czech Republic,CZE,2015,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.118
+1809,Czech Republic,CZE,2014,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.112
+1810,Czech Republic,CZE,2013,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.114
+1811,Czech Republic,CZE,2012,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.121
+1812,Czech Republic,CZE,2011,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.125
+1813,Czech Republic,CZE,2010,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.127
+1814,Czech Republic,CZE,2009,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.12
+1815,Czech Republic,CZE,2008,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.124
+1816,Czech Republic,CZE,2007,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.11
+1817,Czech Republic,CZE,2006,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.12
+1818,Czech Republic,CZE,2005,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.114
+1819,Czech Republic,CZE,2004,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.107
+1820,Czech Republic,CZE,2003,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.111
+1821,Czech Republic,CZE,2002,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.065
+1822,Czech Republic,CZE,2001,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.048
+1823,Czech Republic,CZE,2000,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.033
+1824,Czech Republic,CZE,1999,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.028
+1825,Czech Republic,CZE,1998,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.029

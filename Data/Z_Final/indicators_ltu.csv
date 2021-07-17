@@ -1,0 +1,1753 @@
+,Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+0,Lithuania,LTU,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,80.53
+1,Lithuania,LTU,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.91
+2,Lithuania,LTU,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,100.27
+3,Lithuania,LTU,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,108.63
+4,Lithuania,LTU,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,91.1
+5,Lithuania,LTU,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,80.95
+6,Lithuania,LTU,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,87.13
+7,Lithuania,LTU,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,66.63
+8,Lithuania,LTU,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,56.13
+9,Lithuania,LTU,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,71.89
+10,Lithuania,LTU,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,65.16
+11,Lithuania,LTU,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,57.58
+12,Lithuania,LTU,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,39.99
+13,Lithuania,LTU,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,60.12
+14,Lithuania,LTU,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,60.54
+15,Lithuania,LTU,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,65.3
+16,Lithuania,LTU,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,63.2
+17,Lithuania,LTU,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,55.64
+18,Lithuania,LTU,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,68.47
+19,Lithuania,LTU,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,60.34
+20,Lithuania,LTU,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,71.63
+21,Lithuania,LTU,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,77.54
+22,Lithuania,LTU,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,70.65
+23,Lithuania,LTU,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,54.81
+24,Lithuania,LTU,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,45.9
+25,Lithuania,LTU,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,66.55
+26,Lithuania,LTU,1992,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,48.24
+27,Lithuania,LTU,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.22397088203729
+28,Lithuania,LTU,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.88113255812916
+29,Lithuania,LTU,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.50751154955695
+30,Lithuania,LTU,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.10876135276592
+31,Lithuania,LTU,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.42067512033113
+32,Lithuania,LTU,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.42319060134286
+33,Lithuania,LTU,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.54492086525905
+34,Lithuania,LTU,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.97945678983967
+35,Lithuania,LTU,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.49019426022174
+36,Lithuania,LTU,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.02379271503829
+37,Lithuania,LTU,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.53647105450177
+38,Lithuania,LTU,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.28389712121534
+39,Lithuania,LTU,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.47541066785232
+40,Lithuania,LTU,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.86424460586287
+41,Lithuania,LTU,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.32851922287799
+42,Lithuania,LTU,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.1728968841311
+43,Lithuania,LTU,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.42285391540034
+44,Lithuania,LTU,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.77513123922724
+45,Lithuania,LTU,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.87429863580582
+46,Lithuania,LTU,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.58605077769058
+47,Lithuania,LTU,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.38288732693551
+48,Lithuania,LTU,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.66212866952932
+49,Lithuania,LTU,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.42189911908234
+50,Lithuania,LTU,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.9424023871943
+51,Lithuania,LTU,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.87951965575277
+52,Lithuania,LTU,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.08999997377396
+53,Lithuania,LTU,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.26999974250793
+54,Lithuania,LTU,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.56999957561493
+55,Lithuania,LTU,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.980000436306
+56,Lithuania,LTU,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.99000012874603
+57,Lithuania,LTU,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.82000041007996
+58,Lithuania,LTU,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.57999980449677
+59,Lithuania,LTU,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.84999990463257
+60,Lithuania,LTU,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.22999989986419
+61,Lithuania,LTU,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.5900000333786
+62,Lithuania,LTU,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.55999982357025
+63,Lithuania,LTU,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.55000019073486
+64,Lithuania,LTU,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.5000004768372
+65,Lithuania,LTU,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.7799999713898
+66,Lithuania,LTU,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.1499996185303
+67,Lithuania,LTU,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.9899995326996
+68,Lithuania,LTU,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.6400001049042
+69,Lithuania,LTU,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.6400001049042
+70,Lithuania,LTU,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,17.7199997901917
+71,Lithuania,LTU,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,17.9599995613098
+72,Lithuania,LTU,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.4300003051758
+73,Lithuania,LTU,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.0400004386902
+74,Lithuania,LTU,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.2599995136261
+75,Lithuania,LTU,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.3200001716613
+76,Lithuania,LTU,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.1600003242492
+77,Lithuania,LTU,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.0000004768371
+78,Lithuania,LTU,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.7299997806549
+79,Lithuania,LTU,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.4399998188019
+80,Lithuania,LTU,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.2600004673004
+81,Lithuania,LTU,2019,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1816772388.46266
+82,Lithuania,LTU,2018,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,131109644.087545
+83,Lithuania,LTU,2017,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,304263512.904394
+84,Lithuania,LTU,2016,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-474135418.097438
+85,Lithuania,LTU,2015,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1014069961.22815
+86,Lithuania,LTU,2014,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1652669235.43275
+87,Lithuania,LTU,2013,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,790622492.446441
+88,Lithuania,LTU,2012,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-686270648.332043
+89,Lithuania,LTU,2011,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1592245406.21374
+90,Lithuania,LTU,2010,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,72529005.5800861
+91,Lithuania,LTU,2009,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,841595544.179404
+92,Lithuania,LTU,2008,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-6498619921.20665
+93,Lithuania,LTU,2007,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-6096360249.84749
+94,Lithuania,LTU,2006,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3217554911.89668
+95,Lithuania,LTU,2005,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1915412215.30868
+96,Lithuania,LTU,2004,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1769593568.09885
+97,Lithuania,LTU,2003,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1278352880.78805
+98,Lithuania,LTU,2002,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-720695986.246632
+99,Lithuania,LTU,2001,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-573575000
+100,Lithuania,LTU,2000,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-674897500
+101,Lithuania,LTU,1999,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1194080000
+102,Lithuania,LTU,1998,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1298212500
+103,Lithuania,LTU,1997,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-981337500
+104,Lithuania,LTU,1996,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-722610000
+105,Lithuania,LTU,1995,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-614365000
+106,Lithuania,LTU,1994,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-93994052.6719509
+107,Lithuania,LTU,1993,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-85706585.7947173
+108,Lithuania,LTU,2019,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1025568521.6434
+109,Lithuania,LTU,2018,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-260129818.336996
+110,Lithuania,LTU,2017,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-932827114.814284
+111,Lithuania,LTU,2016,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-264618974.686319
+112,Lithuania,LTU,2015,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-680317054.687205
+113,Lithuania,LTU,2014,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,188404473.209255
+114,Lithuania,LTU,2013,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-436800371.870407
+115,Lithuania,LTU,2012,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-255287867.833406
+116,Lithuania,LTU,2011,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1065438727.77279
+117,Lithuania,LTU,2010,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-995861483.601732
+118,Lithuania,LTU,2009,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,964688371.766757
+119,Lithuania,LTU,2008,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1172513251.32661
+120,Lithuania,LTU,2007,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1726313223.97124
+121,Lithuania,LTU,2006,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1739365664.55898
+122,Lithuania,LTU,2005,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-745018495.847096
+123,Lithuania,LTU,2004,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-581715794.274893
+124,Lithuania,LTU,2003,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-141984430.912372
+125,Lithuania,LTU,2002,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-694779014.95193
+126,Lithuania,LTU,2001,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-438725000
+127,Lithuania,LTU,2000,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-375175000
+128,Lithuania,LTU,1999,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-477837500
+129,Lithuania,LTU,1998,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-921325000
+130,Lithuania,LTU,1997,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-327600000
+131,Lithuania,LTU,1996,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-152275000
+132,Lithuania,LTU,1995,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-71555000
+133,Lithuania,LTU,1994,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-31304837.6374329
+134,Lithuania,LTU,1993,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-30175186.8400218
+135,Lithuania,LTU,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.19989444983569
+136,Lithuania,LTU,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.33450937988024
+137,Lithuania,LTU,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.69792779208397
+138,Lithuania,LTU,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.72288862303693
+139,Lithuania,LTU,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.905525075460439
+140,Lithuania,LTU,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.884097405500613
+141,Lithuania,LTU,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.103758009433715
+142,Lithuania,LTU,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.04747937065349
+143,Lithuania,LTU,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.08998277055416
+144,Lithuania,LTU,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.13027562645087
+145,Lithuania,LTU,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.31921362055463
+146,Lithuania,LTU,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.4530445651853
+147,Lithuania,LTU,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.9258856241655
+148,Lithuania,LTU,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.73717382799847
+149,Lithuania,LTU,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.73912004060656
+150,Lithuania,LTU,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.65848484065266
+151,Lithuania,LTU,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.16410252104669
+152,Lithuania,LTU,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-1.13430854990244
+153,Lithuania,LTU,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.281506610345511
+154,Lithuania,LTU,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.36712030817826
+155,Lithuania,LTU,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.981615478857527
+156,Lithuania,LTU,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.727550626557433
+157,Lithuania,LTU,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.06755385841976
+158,Lithuania,LTU,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.88104848465888
+159,Lithuania,LTU,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,24.62519538645
+160,Lithuania,LTU,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,39.647629032829
+161,Lithuania,LTU,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,72.2546816164428
+162,Lithuania,LTU,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,410.451858561316
+163,Lithuania,LTU,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1020.62056524354
+164,Lithuania,LTU,2019,Trade (% of GDP),NE.TRD.GNFS.ZS,149.693087967651
+165,Lithuania,LTU,2018,Trade (% of GDP),NE.TRD.GNFS.ZS,148.639351605477
+166,Lithuania,LTU,2017,Trade (% of GDP),NE.TRD.GNFS.ZS,144.873355393449
+167,Lithuania,LTU,2016,Trade (% of GDP),NE.TRD.GNFS.ZS,134.453858437451
+168,Lithuania,LTU,2015,Trade (% of GDP),NE.TRD.GNFS.ZS,138.552317324475
+169,Lithuania,LTU,2014,Trade (% of GDP),NE.TRD.GNFS.ZS,142.721642753591
+170,Lithuania,LTU,2013,Trade (% of GDP),NE.TRD.GNFS.ZS,155.886790868636
+171,Lithuania,LTU,2012,Trade (% of GDP),NE.TRD.GNFS.ZS,155.843160657432
+172,Lithuania,LTU,2011,Trade (% of GDP),NE.TRD.GNFS.ZS,148.447219109978
+173,Lithuania,LTU,2010,Trade (% of GDP),NE.TRD.GNFS.ZS,129.887382863414
+174,Lithuania,LTU,2009,Trade (% of GDP),NE.TRD.GNFS.ZS,105.338778299376
+175,Lithuania,LTU,2008,Trade (% of GDP),NE.TRD.GNFS.ZS,126.849087602913
+176,Lithuania,LTU,2007,Trade (% of GDP),NE.TRD.GNFS.ZS,116.387387927408
+177,Lithuania,LTU,2006,Trade (% of GDP),NE.TRD.GNFS.ZS,124.335443328732
+178,Lithuania,LTU,2005,Trade (% of GDP),NE.TRD.GNFS.ZS,117.483577036961
+179,Lithuania,LTU,2004,Trade (% of GDP),NE.TRD.GNFS.ZS,104.604018876523
+180,Lithuania,LTU,2003,Trade (% of GDP),NE.TRD.GNFS.ZS,98.2349064828604
+181,Lithuania,LTU,2002,Trade (% of GDP),NE.TRD.GNFS.ZS,100.490621074193
+182,Lithuania,LTU,2001,Trade (% of GDP),NE.TRD.GNFS.ZS,93.6656971630274
+183,Lithuania,LTU,2000,Trade (% of GDP),NE.TRD.GNFS.ZS,83.3785893281735
+184,Lithuania,LTU,1999,Trade (% of GDP),NE.TRD.GNFS.ZS,74.8214951638714
+185,Lithuania,LTU,1998,Trade (% of GDP),NE.TRD.GNFS.ZS,89.6582878018121
+186,Lithuania,LTU,1997,Trade (% of GDP),NE.TRD.GNFS.ZS,100.025609013827
+187,Lithuania,LTU,1996,Trade (% of GDP),NE.TRD.GNFS.ZS,93.2031317818314
+188,Lithuania,LTU,1995,Trade (% of GDP),NE.TRD.GNFS.ZS,84.9562178985158
+189,Lithuania,LTU,2019,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.2560168714011
+190,Lithuania,LTU,2018,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.6315519866108
+191,Lithuania,LTU,2017,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.8963432866412
+192,Lithuania,LTU,2016,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.9447153605225
+193,Lithuania,LTU,2015,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.7180600025202
+194,Lithuania,LTU,2014,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.5077238210517
+195,Lithuania,LTU,2013,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.3948936716951
+196,Lithuania,LTU,2012,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.0159992035956
+197,Lithuania,LTU,2011,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.0787490107662
+198,Lithuania,LTU,2010,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.1980978484105
+199,Lithuania,LTU,2009,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.0918587062542
+200,Lithuania,LTU,2008,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.221498535199
+201,Lithuania,LTU,2007,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.6173077043057
+202,Lithuania,LTU,2006,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.0299406014753
+203,Lithuania,LTU,2005,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.6399705566126
+204,Lithuania,LTU,2004,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.5852959787579
+205,Lithuania,LTU,2003,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.857682368212
+206,Lithuania,LTU,2002,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.2826291698889
+207,Lithuania,LTU,2001,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.0756521789426
+208,Lithuania,LTU,2000,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.3355586590045
+209,Lithuania,LTU,1999,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.2782579551838
+210,Lithuania,LTU,1998,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.2603228503828
+211,Lithuania,LTU,1997,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.9570016809647
+212,Lithuania,LTU,1996,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.1061642654232
+213,Lithuania,LTU,1995,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.1674473716694
+214,Lithuania,LTU,2019,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.03867626353316
+215,Lithuania,LTU,2018,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.996744637946467
+216,Lithuania,LTU,2017,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.06663394954313
+217,Lithuania,LTU,2016,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.12230491074743
+218,Lithuania,LTU,2015,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.13935960070073
+219,Lithuania,LTU,2014,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.900026074692525
+220,Lithuania,LTU,2013,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.897928683490098
+221,Lithuania,LTU,2012,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.03263991729808
+222,Lithuania,LTU,2011,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.971240089171953
+223,Lithuania,LTU,2010,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.04218621347938
+224,Lithuania,LTU,2009,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.903741491725422
+225,Lithuania,LTU,2008,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.868623577525624
+226,Lithuania,LTU,2007,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.02054741405145
+227,Lithuania,LTU,2006,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.16945733789979
+228,Lithuania,LTU,2005,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.25614396419685
+229,Lithuania,LTU,2004,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.31833535749618
+230,Lithuania,LTU,2003,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.46933587421092
+231,Lithuania,LTU,2002,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.87704998463614
+232,Lithuania,LTU,2001,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.07081767918826
+233,Lithuania,LTU,2000,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.99535692866333
+234,Lithuania,LTU,1999,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.27063911116685
+235,Lithuania,LTU,1998,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.52398136181489
+236,Lithuania,LTU,1997,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.55876132016863
+237,Lithuania,LTU,1996,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.01916941994426
+238,Lithuania,LTU,1995,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.15479794757394
+239,Lithuania,LTU,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0384551293531695
+240,Lithuania,LTU,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0150442726878027
+241,Lithuania,LTU,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0136312640705481
+242,Lithuania,LTU,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0119220507556249
+243,Lithuania,LTU,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0194084598986537
+244,Lithuania,LTU,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0432114600711123
+245,Lithuania,LTU,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0540003555587794
+246,Lithuania,LTU,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0813762762829562
+247,Lithuania,LTU,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0954895092769115
+248,Lithuania,LTU,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0726505794463746
+249,Lithuania,LTU,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0487844029128975
+250,Lithuania,LTU,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.08691459610987
+251,Lithuania,LTU,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0938181647409005
+252,Lithuania,LTU,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.134402949490368
+253,Lithuania,LTU,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.157861562006621
+254,Lithuania,LTU,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.183156609233896
+255,Lithuania,LTU,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.210742785562073
+256,Lithuania,LTU,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.264847291285893
+257,Lithuania,LTU,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.318594167387119
+258,Lithuania,LTU,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.298877480383748
+259,Lithuania,LTU,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0981716174979204
+260,Lithuania,LTU,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0326094744198787
+261,Lithuania,LTU,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.105044965784253
+262,Lithuania,LTU,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.110296603460729
+263,Lithuania,LTU,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0659921407682556
+264,Lithuania,LTU,2019,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0937827446330741
+265,Lithuania,LTU,2018,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0918567659544198
+266,Lithuania,LTU,2017,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0918567659544198
+267,Lithuania,LTU,2016,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.107597658904806
+268,Lithuania,LTU,2015,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.113658541448569
+269,Lithuania,LTU,2014,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.11513632235236
+270,Lithuania,LTU,2013,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.133872018898009
+271,Lithuania,LTU,2012,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.149092595923064
+272,Lithuania,LTU,2011,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.162878050728916
+273,Lithuania,LTU,2010,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.16853269241762
+274,Lithuania,LTU,2009,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.169512284101619
+275,Lithuania,LTU,2008,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.172942668970038
+276,Lithuania,LTU,2007,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.176170569163646
+277,Lithuania,LTU,2006,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.157244158660017
+278,Lithuania,LTU,2005,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.153617690946505
+279,Lithuania,LTU,2004,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.144912558437908
+280,Lithuania,LTU,2003,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.160500860652847
+281,Lithuania,LTU,2002,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.157649217399898
+282,Lithuania,LTU,2001,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.166923561541947
+283,Lithuania,LTU,2000,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.17064908181384
+284,Lithuania,LTU,1999,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.174124840907597
+285,Lithuania,LTU,1998,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.180762401562214
+286,Lithuania,LTU,1997,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.198216905629774
+287,Lithuania,LTU,1996,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.24107669730181
+288,Lithuania,LTU,1995,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.284090553013746
+289,Lithuania,LTU,2019,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,9.03144003528976
+290,Lithuania,LTU,2018,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.42400443361618
+291,Lithuania,LTU,2017,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.35243155337428
+292,Lithuania,LTU,2016,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.0044494577884
+293,Lithuania,LTU,2015,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.6871525477492
+294,Lithuania,LTU,2014,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,10.0301642473057
+295,Lithuania,LTU,2013,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.16748633782175
+296,Lithuania,LTU,2012,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.16127567750866
+297,Lithuania,LTU,2011,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.18800599576026
+298,Lithuania,LTU,2010,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.97148854632131
+299,Lithuania,LTU,2009,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.0841868541021822
+300,Lithuania,LTU,2008,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.93110956804486
+301,Lithuania,LTU,2007,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.66411820191429
+302,Lithuania,LTU,2006,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.5369113042152
+303,Lithuania,LTU,2005,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.77710794168223
+304,Lithuania,LTU,2004,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.47839552272716
+305,Lithuania,LTU,2003,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.1621555764013
+306,Lithuania,LTU,2002,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.06610780849429
+307,Lithuania,LTU,2001,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.0710944663562069
+308,Lithuania,LTU,2000,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-1.89265238057005
+309,Lithuania,LTU,1999,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-6.80059367265688
+310,Lithuania,LTU,1998,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-3.91001350224889
+311,Lithuania,LTU,1997,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-3.04054587065584
+312,Lithuania,LTU,1996,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-7.44147694875138
+313,Lithuania,LTU,1995,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-10.0959202724987
+314,Lithuania,LTU,2019,GDP (current US$),NY.GDP.MKTP.CD,54627411860.4705
+315,Lithuania,LTU,2018,GDP (current US$),NY.GDP.MKTP.CD,53722883091.3513
+316,Lithuania,LTU,2017,GDP (current US$),NY.GDP.MKTP.CD,47758736931.7801
+317,Lithuania,LTU,2016,GDP (current US$),NY.GDP.MKTP.CD,43018087237.5741
+318,Lithuania,LTU,2015,GDP (current US$),NY.GDP.MKTP.CD,41418872976.1196
+319,Lithuania,LTU,2014,GDP (current US$),NY.GDP.MKTP.CD,48574531941.9167
+320,Lithuania,LTU,2013,GDP (current US$),NY.GDP.MKTP.CD,46514471181.9327
+321,Lithuania,LTU,2012,GDP (current US$),NY.GDP.MKTP.CD,42943442157.7701
+322,Lithuania,LTU,2011,GDP (current US$),NY.GDP.MKTP.CD,43582248869.6143
+323,Lithuania,LTU,2010,GDP (current US$),NY.GDP.MKTP.CD,37138464732.9838
+324,Lithuania,LTU,2009,GDP (current US$),NY.GDP.MKTP.CD,37388122046.1496
+325,Lithuania,LTU,2008,GDP (current US$),NY.GDP.MKTP.CD,47797551587.8823
+326,Lithuania,LTU,2007,GDP (current US$),NY.GDP.MKTP.CD,39697891351.9431
+327,Lithuania,LTU,2006,GDP (current US$),NY.GDP.MKTP.CD,30183575103.5262
+328,Lithuania,LTU,2005,GDP (current US$),NY.GDP.MKTP.CD,26097677571.8373
+329,Lithuania,LTU,2004,GDP (current US$),NY.GDP.MKTP.CD,22627507451.5648
+330,Lithuania,LTU,2003,GDP (current US$),NY.GDP.MKTP.CD,18781721376.1985
+331,Lithuania,LTU,2002,GDP (current US$),NY.GDP.MKTP.CD,14259781159.0119
+332,Lithuania,LTU,2001,GDP (current US$),NY.GDP.MKTP.CD,12237388001.7264
+333,Lithuania,LTU,2000,GDP (current US$),NY.GDP.MKTP.CD,11524776866.6379
+334,Lithuania,LTU,1999,GDP (current US$),NY.GDP.MKTP.CD,10971583944.7561
+335,Lithuania,LTU,1998,GDP (current US$),NY.GDP.MKTP.CD,11239547690.9797
+336,Lithuania,LTU,1997,GDP (current US$),NY.GDP.MKTP.CD,10118631851.5322
+337,Lithuania,LTU,1996,GDP (current US$),NY.GDP.MKTP.CD,8382519637.46224
+338,Lithuania,LTU,1995,GDP (current US$),NY.GDP.MKTP.CD,7867140395.33705
+339,Lithuania,LTU,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,19550.7277776539
+340,Lithuania,LTU,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,19176.1765182085
+341,Lithuania,LTU,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,16885.4073948373
+342,Lithuania,LTU,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,14998.1250595137
+343,Lithuania,LTU,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,14258.2293345128
+344,Lithuania,LTU,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,16564.9565494076
+345,Lithuania,LTU,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,15726.626829911
+346,Lithuania,LTU,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,14373.060522928
+347,Lithuania,LTU,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,14392.5342563325
+348,Lithuania,LTU,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,11990.6630177633
+349,Lithuania,LTU,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,11820.7761591359
+350,Lithuania,LTU,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,14944.996652175
+351,Lithuania,LTU,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,12285.4470537014
+352,Lithuania,LTU,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,9230.70798102521
+353,Lithuania,LTU,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,7854.76527867855
+354,Lithuania,LTU,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,6700.32719189382
+355,Lithuania,LTU,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,5499.42898911387
+356,Lithuania,LTU,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,4141.59270180102
+357,Lithuania,LTU,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,3525.79363185461
+358,Lithuania,LTU,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,3293.22997867086
+359,Lithuania,LTU,1999,GDP per capita (current US$),NY.GDP.PCAP.CD,3113.17906019859
+360,Lithuania,LTU,1998,GDP per capita (current US$),NY.GDP.PCAP.CD,3166.66653264509
+361,Lithuania,LTU,1997,GDP per capita (current US$),NY.GDP.PCAP.CD,2830.27807089131
+362,Lithuania,LTU,1996,GDP per capita (current US$),NY.GDP.PCAP.CD,2327.43485695499
+363,Lithuania,LTU,1995,GDP per capita (current US$),NY.GDP.PCAP.CD,2167.79258211454
+364,Lithuania,LTU,2019,GNI (current US$),NY.GNP.MKTP.CD,52738342284.6823
+365,Lithuania,LTU,2018,GNI (current US$),NY.GNP.MKTP.CD,52055979972.2172
+366,Lithuania,LTU,2017,GNI (current US$),NY.GNP.MKTP.CD,46031966158.5295
+367,Lithuania,LTU,2016,GNI (current US$),NY.GNP.MKTP.CD,41485060525.2801
+368,Lithuania,LTU,2015,GNI (current US$),NY.GNP.MKTP.CD,39924629523.4205
+369,Lithuania,LTU,2014,GNI (current US$),NY.GNP.MKTP.CD,48000958717.0669
+370,Lithuania,LTU,2013,GNI (current US$),NY.GNP.MKTP.CD,45487025534.4306
+371,Lithuania,LTU,2012,GNI (current US$),NY.GNP.MKTP.CD,41600104319.0767
+372,Lithuania,LTU,2011,GNI (current US$),NY.GNP.MKTP.CD,42307532333.8842
+373,Lithuania,LTU,2010,GNI (current US$),NY.GNP.MKTP.CD,36896991736.4369
+374,Lithuania,LTU,2009,GNI (current US$),NY.GNP.MKTP.CD,38233051153.7392
+375,Lithuania,LTU,2008,GNI (current US$),NY.GNP.MKTP.CD,46287809161.4225
+376,Lithuania,LTU,2007,GNI (current US$),NY.GNP.MKTP.CD,38192397372.7422
+377,Lithuania,LTU,2006,GNI (current US$),NY.GNP.MKTP.CD,29632497176.5592
+378,Lithuania,LTU,2005,GNI (current US$),NY.GNP.MKTP.CD,25713164572.708
+379,Lithuania,LTU,2004,GNI (current US$),NY.GNP.MKTP.CD,22139972677.5956
+380,Lithuania,LTU,2003,GNI (current US$),NY.GNP.MKTP.CD,18315975183.3051
+381,Lithuania,LTU,2002,GNI (current US$),NY.GNP.MKTP.CD,14108872921.9498
+382,Lithuania,LTU,2001,GNI (current US$),NY.GNP.MKTP.CD,12072044022.4428
+383,Lithuania,LTU,2000,GNI (current US$),NY.GNP.MKTP.CD,11317713422.5291
+384,Lithuania,LTU,1999,GNI (current US$),NY.GNP.MKTP.CD,10710222701.7695
+385,Lithuania,LTU,1998,GNI (current US$),NY.GNP.MKTP.CD,10988111350.8848
+386,Lithuania,LTU,1997,GNI (current US$),NY.GNP.MKTP.CD,9926974536.03798
+387,Lithuania,LTU,1996,GNI (current US$),NY.GNP.MKTP.CD,8295451877.42771
+388,Lithuania,LTU,1995,GNI (current US$),NY.GNP.MKTP.CD,7853767866.19361
+389,Lithuania,LTU,2019,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.18908110747951
+390,Lithuania,LTU,2018,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.53505626277698
+391,Lithuania,LTU,2017,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.69332842718298
+392,Lithuania,LTU,2016,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.83317050463184
+393,Lithuania,LTU,2015,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,0.440058322849524
+394,Lithuania,LTU,2014,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.49908461601805
+395,Lithuania,LTU,2013,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.58143780409938
+396,Lithuania,LTU,2012,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.04850861725805
+397,Lithuania,LTU,2011,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.01483514545629
+398,Lithuania,LTU,2010,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,0.890307449940693
+399,Lithuania,LTU,2009,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-9.1135871217724
+400,Lithuania,LTU,2008,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.27869131573499
+401,Lithuania,LTU,2007,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,10.2337362063507
+402,Lithuania,LTU,2006,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,8.79038028138584
+403,Lithuania,LTU,2005,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,10.2452457299034
+404,Lithuania,LTU,2018,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,481.191188294563
+405,Lithuania,LTU,2015,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,478.3834
+406,Lithuania,LTU,2012,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,478.823277433358
+407,Lithuania,LTU,2009,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,476.602303092852
+408,Lithuania,LTU,2006,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,486.421335278023
+409,Lithuania,LTU,2018,PISA: Mean performance on the reading scale,LO.PISA.REA,475.873479608212
+410,Lithuania,LTU,2015,PISA: Mean performance on the reading scale,LO.PISA.REA,472.4066
+411,Lithuania,LTU,2012,PISA: Mean performance on the reading scale,LO.PISA.REA,477.306611549969
+412,Lithuania,LTU,2009,PISA: Mean performance on the reading scale,LO.PISA.REA,468.442734308496
+413,Lithuania,LTU,2006,PISA: Mean performance on the reading scale,LO.PISA.REA,470.070755501443
+414,Lithuania,LTU,2018,PISA: Mean performance on the science scale,LO.PISA.SCI,482.067012570461
+415,Lithuania,LTU,2015,PISA: Mean performance on the science scale,LO.PISA.SCI,475.4089
+416,Lithuania,LTU,2012,PISA: Mean performance on the science scale,LO.PISA.SCI,495.700086396902
+417,Lithuania,LTU,2009,PISA: Mean performance on the science scale,LO.PISA.SCI,491.409790863656
+418,Lithuania,LTU,2006,PISA: Mean performance on the science scale,LO.PISA.SCI,487.956698407748
+419,Lithuania,LTU,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27148997783661
+420,Lithuania,LTU,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26903998851776
+421,Lithuania,LTU,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27149999141693
+422,Lithuania,LTU,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30420994758606
+423,Lithuania,LTU,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31831002235413
+424,Lithuania,LTU,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32524001598358
+425,Lithuania,LTU,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32246994972229
+426,Lithuania,LTU,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33509004116058
+427,Lithuania,LTU,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33852005004883
+428,Lithuania,LTU,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33041000366211
+429,Lithuania,LTU,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34722995758057
+430,Lithuania,LTU,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35134994983673
+431,Lithuania,LTU,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35257995128632
+432,Lithuania,LTU,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35906004905701
+433,Lithuania,LTU,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35664999485016
+434,Lithuania,LTU,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35544002056122
+435,Lithuania,LTU,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.36336004734039
+436,Lithuania,LTU,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35123002529144
+437,Lithuania,LTU,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35060000419617
+438,Lithuania,LTU,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34555995464325
+439,Lithuania,LTU,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35248005390167
+440,Lithuania,LTU,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32650995254517
+441,Lithuania,LTU,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33723998069763
+442,Lithuania,LTU,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30481994152069
+443,Lithuania,LTU,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31017994880676
+444,Lithuania,LTU,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28877997398376
+445,Lithuania,LTU,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26408004760742
+446,Lithuania,LTU,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.710560023784637
+447,Lithuania,LTU,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.808059990406036
+448,Lithuania,LTU,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.46972000598907
+449,Lithuania,LTU,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.21991002559662
+450,Lithuania,LTU,2018,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.179499998688698
+451,Lithuania,LTU,2017,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.22545999288559
+452,Lithuania,LTU,2016,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.100450001657009
+453,Lithuania,LTU,2015,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.0821499973535538
+454,Lithuania,LTU,2014,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.0674799978733063
+455,Lithuania,LTU,2013,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.137899994850159
+456,Lithuania,LTU,2012,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.124420002102852
+457,Lithuania,LTU,2011,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.0864100009202957
+458,Lithuania,LTU,2010,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.0392099991440773
+459,Lithuania,LTU,2009,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.114289999008179
+460,Lithuania,LTU,2008,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.119599997997284
+461,Lithuania,LTU,2007,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.19378000497818
+462,Lithuania,LTU,2006,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.211640000343323
+463,Lithuania,LTU,2005,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.190400004386902
+464,Lithuania,LTU,2004,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.155039995908737
+465,Lithuania,LTU,2003,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.110509999096394
+466,Lithuania,LTU,2002,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.250869989395142
+467,Lithuania,LTU,2001,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.311410009860992
+468,Lithuania,LTU,2000,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.114419996738434
+469,Lithuania,LTU,1999,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.030349999666214
+470,Lithuania,LTU,1998,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.76129007339478
+471,Lithuania,LTU,2017,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,95.6007766723633
+472,Lithuania,LTU,2016,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,94.9413528442383
+473,Lithuania,LTU,2015,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,93.7850036621094
+474,Lithuania,LTU,2014,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,93.0639724731445
+475,Lithuania,LTU,2013,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,92.2894592285156
+476,Lithuania,LTU,2012,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,91.415168762207
+477,Lithuania,LTU,2011,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,91.6342010498047
+478,Lithuania,LTU,2010,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,90.9595184326172
+479,Lithuania,LTU,2009,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,90.2407302856445
+480,Lithuania,LTU,2008,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,89.5619125366211
+481,Lithuania,LTU,2007,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,88.5567092895508
+482,Lithuania,LTU,2006,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,88.0702209472656
+483,Lithuania,LTU,2005,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,86.9803771972656
+484,Lithuania,LTU,1989,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,69.6034393310547
+485,Lithuania,LTU,2017,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.5356292724609
+486,Lithuania,LTU,2016,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.1268081665039
+487,Lithuania,LTU,2015,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.5754318237305
+488,Lithuania,LTU,2014,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,86.0443420410156
+489,Lithuania,LTU,2012,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.5215606689453
+490,Lithuania,LTU,2011,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,88.3433303833008
+491,Lithuania,LTU,2010,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.3712615966797
+492,Lithuania,LTU,2009,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,96.0903167724609
+493,Lithuania,LTU,2008,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.9107513427734
+494,Lithuania,LTU,2007,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,88.7015075683594
+495,Lithuania,LTU,2006,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.5268325805664
+496,Lithuania,LTU,2005,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.1564712524414
+497,Lithuania,LTU,2004,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.3479995727539
+498,Lithuania,LTU,2003,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.5090713500977
+499,Lithuania,LTU,2017,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.81282997131348
+500,Lithuania,LTU,2016,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.00394010543823
+501,Lithuania,LTU,2015,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.22988986968994
+502,Lithuania,LTU,2014,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.49105978012085
+503,Lithuania,LTU,2013,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.60949993133545
+504,Lithuania,LTU,2012,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.76922988891602
+505,Lithuania,LTU,2011,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.1270899772644
+506,Lithuania,LTU,2010,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.31273984909058
+507,Lithuania,LTU,2009,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.57741022109985
+508,Lithuania,LTU,2008,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.83453989028931
+509,Lithuania,LTU,2007,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.5905499458313
+510,Lithuania,LTU,2006,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.82054996490479
+511,Lithuania,LTU,2005,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.87318992614746
+512,Lithuania,LTU,2004,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.16915988922119
+513,Lithuania,LTU,2003,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.10851001739502
+514,Lithuania,LTU,2002,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.79253005981445
+515,Lithuania,LTU,2001,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.84038019180298
+516,Lithuania,LTU,1998,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,6.1160101890564
+517,Lithuania,LTU,1997,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.44955015182495
+518,Lithuania,LTU,1996,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.84371995925903
+519,Lithuania,LTU,1995,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.76492023468018
+520,Lithuania,LTU,2019,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.4813504344093
+521,Lithuania,LTU,2018,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.2309651511849
+522,Lithuania,LTU,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.3954234618375
+523,Lithuania,LTU,2016,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.4992492036702
+524,Lithuania,LTU,2015,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.4729256364737
+525,Lithuania,LTU,2014,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.1941337906218
+526,Lithuania,LTU,2013,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.1610932344915
+527,Lithuania,LTU,2012,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.6273354562253
+528,Lithuania,LTU,2011,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.403113352599
+529,Lithuania,LTU,2010,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.6302706822219
+530,Lithuania,LTU,2009,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,50.3748483429227
+531,Lithuania,LTU,2008,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.4959840047816
+532,Lithuania,LTU,2007,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.3617421059666
+533,Lithuania,LTU,2006,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.5421727547152
+534,Lithuania,LTU,2005,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.1043519457848
+535,Lithuania,LTU,2004,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.0102624579716
+536,Lithuania,LTU,2003,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.6457901916338
+537,Lithuania,LTU,2002,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.8653477199822
+538,Lithuania,LTU,2001,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.1660421158161
+539,Lithuania,LTU,2000,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.4739063368414
+540,Lithuania,LTU,1999,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.8405281723655
+541,Lithuania,LTU,1998,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.4661195191448
+542,Lithuania,LTU,1997,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.2881472686973
+543,Lithuania,LTU,1996,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.1246212992626
+544,Lithuania,LTU,1995,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.0082872162006
+545,Lithuania,LTU,1994,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.9436532341027
+546,Lithuania,LTU,1993,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.0109007973062
+547,Lithuania,LTU,1992,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.2136238569232
+548,Lithuania,LTU,1991,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.6179527036713
+549,Lithuania,LTU,1990,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.7618992506329
+550,Lithuania,LTU,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.43000030517578
+551,Lithuania,LTU,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.26000022888184
+552,Lithuania,LTU,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.15000009536743
+553,Lithuania,LTU,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.07000017166138
+554,Lithuania,LTU,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.8600001335144
+555,Lithuania,LTU,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.11999988555908
+556,Lithuania,LTU,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.6999998092651
+557,Lithuania,LTU,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.7700004577637
+558,Lithuania,LTU,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.3699998855591
+559,Lithuania,LTU,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,15.3900003433228
+560,Lithuania,LTU,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,17.8099994659424
+561,Lithuania,LTU,2009,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.789999961853
+562,Lithuania,LTU,2008,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.82999992370605
+563,Lithuania,LTU,2007,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.25
+564,Lithuania,LTU,2006,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.78000020980835
+565,Lithuania,LTU,2005,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.32999992370605
+566,Lithuania,LTU,2004,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.6800003051758
+567,Lithuania,LTU,2003,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.8800001144409
+568,Lithuania,LTU,2002,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.0100002288818
+569,Lithuania,LTU,2001,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.8400001525879
+570,Lithuania,LTU,2000,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,15.9300003051758
+571,Lithuania,LTU,1999,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.3900003433228
+572,Lithuania,LTU,1998,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.710000038147
+573,Lithuania,LTU,1997,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,14.1300001144409
+574,Lithuania,LTU,1996,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.3999996185303
+575,Lithuania,LTU,1995,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,17.5400009155273
+576,Lithuania,LTU,1994,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.8000001907349
+577,Lithuania,LTU,1993,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.8000001907349
+578,Lithuania,LTU,1992,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1.20000004768372
+579,Lithuania,LTU,1991,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1.10000002384186
+580,Lithuania,LTU,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+581,Lithuania,LTU,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+582,Lithuania,LTU,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+583,Lithuania,LTU,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+584,Lithuania,LTU,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+585,Lithuania,LTU,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+586,Lithuania,LTU,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+587,Lithuania,LTU,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+588,Lithuania,LTU,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+589,Lithuania,LTU,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+590,Lithuania,LTU,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+591,Lithuania,LTU,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+592,Lithuania,LTU,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+593,Lithuania,LTU,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+594,Lithuania,LTU,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+595,Lithuania,LTU,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+596,Lithuania,LTU,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+597,Lithuania,LTU,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+598,Lithuania,LTU,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+599,Lithuania,LTU,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+600,Lithuania,LTU,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+601,Lithuania,LTU,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+602,Lithuania,LTU,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+603,Lithuania,LTU,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+604,Lithuania,LTU,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+605,Lithuania,LTU,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+606,Lithuania,LTU,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+607,Lithuania,LTU,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+608,Lithuania,LTU,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+609,Lithuania,LTU,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+610,Lithuania,LTU,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,28.9611792543763
+611,Lithuania,LTU,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.7050524829416
+612,Lithuania,LTU,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.3425134741084
+613,Lithuania,LTU,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,23.9225824954477
+614,Lithuania,LTU,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,22.738272612436
+615,Lithuania,LTU,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,21.4576523593236
+616,Lithuania,LTU,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.0864826899959
+617,Lithuania,LTU,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.3338324622482
+618,Lithuania,LTU,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.0621308375779
+619,Lithuania,LTU,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.4624281846828
+620,Lithuania,LTU,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.5096091951111
+621,Lithuania,LTU,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.0668032781825
+622,Lithuania,LTU,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.0656440779201
+623,Lithuania,LTU,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.8896261630838
+624,Lithuania,LTU,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.5894186276376
+625,Lithuania,LTU,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.1855643869942
+626,Lithuania,LTU,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.9732739093942
+627,Lithuania,LTU,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.9265928786273
+628,Lithuania,LTU,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.6195137056217
+629,Lithuania,LTU,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.473514207011
+630,Lithuania,LTU,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.3412667310781
+631,Lithuania,LTU,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,9.82336724476734
+632,Lithuania,LTU,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.89099335562529
+633,Lithuania,LTU,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.60923818865137
+634,Lithuania,LTU,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.88754950331016
+635,Lithuania,LTU,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.0967785138163
+636,Lithuania,LTU,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,12962.845
+637,Lithuania,LTU,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,13083.856
+638,Lithuania,LTU,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,12838.167
+639,Lithuania,LTU,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,12640.149
+640,Lithuania,LTU,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,13831.924
+641,Lithuania,LTU,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,13787.92
+642,Lithuania,LTU,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,13468.891
+643,Lithuania,LTU,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,12519.138
+644,Lithuania,LTU,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,15009.031
+645,Lithuania,LTU,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,15166.712
+646,Lithuania,LTU,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,14158.287
+647,Lithuania,LTU,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,13901.597
+648,Lithuania,LTU,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,13245.204
+649,Lithuania,LTU,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,12823.499
+650,Lithuania,LTU,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,13142.528
+651,Lithuania,LTU,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,12885.838
+652,Lithuania,LTU,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,12163.439
+653,Lithuania,LTU,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,13692.578
+654,Lithuania,LTU,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,16197.139
+655,Lithuania,LTU,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,15339.061
+656,Lithuania,LTU,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,15731.43
+657,Lithuania,LTU,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,16204.473
+658,Lithuania,LTU,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,17359.578
+659,Lithuania,LTU,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,17495.257
+660,Lithuania,LTU,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,22148.68
+661,Lithuania,LTU,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29442.2123465731
+662,Lithuania,LTU,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29324.6896732865
+663,Lithuania,LTU,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,26786.483
+664,Lithuania,LTU,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24473.52047
+665,Lithuania,LTU,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,26732.648
+666,Lithuania,LTU,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,25791.099
+667,Lithuania,LTU,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24082.2094
+668,Lithuania,LTU,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,23569.40751
+669,Lithuania,LTU,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,22521.04332
+670,Lithuania,LTU,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21789.3066
+671,Lithuania,LTU,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21963.75
+672,Lithuania,LTU,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21048.71215
+673,Lithuania,LTU,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21257.1305
+674,Lithuania,LTU,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,22732.1351
+675,Lithuania,LTU,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,25363.91101
+676,Lithuania,LTU,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29876.404
+677,Lithuania,LTU,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30160.761
+678,Lithuania,LTU,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29219.71
+679,Lithuania,LTU,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30200.133
+680,Lithuania,LTU,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,31683.24
+681,Lithuania,LTU,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,38057.553
+682,Lithuania,LTU,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,56222.146
+683,Lithuania,LTU,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54344.5327
+684,Lithuania,LTU,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,148595.876
+685,Lithuania,LTU,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,147969.545
+686,Lithuania,LTU,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,143623.652
+687,Lithuania,LTU,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,143396.829
+688,Lithuania,LTU,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,141568.504
+689,Lithuania,LTU,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,139310.817
+690,Lithuania,LTU,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,136424.903
+691,Lithuania,LTU,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,134141.744
+692,Lithuania,LTU,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,133148.662
+693,Lithuania,LTU,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,131995.884
+694,Lithuania,LTU,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,128003.215
+695,Lithuania,LTU,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,123956.74
+696,Lithuania,LTU,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,119879.5
+697,Lithuania,LTU,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,115982.734
+698,Lithuania,LTU,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,112018.107
+699,Lithuania,LTU,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,119668.912
+700,Lithuania,LTU,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,113993.131
+701,Lithuania,LTU,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,108080.086
+702,Lithuania,LTU,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,102814.511
+703,Lithuania,LTU,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,102299.251
+704,Lithuania,LTU,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,95.9998593070447
+705,Lithuania,LTU,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,97.0749574788319
+706,Lithuania,LTU,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.5312152983186
+707,Lithuania,LTU,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9339198801701
+708,Lithuania,LTU,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9347175838211
+709,Lithuania,LTU,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9355017137252
+710,Lithuania,LTU,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9362739963048
+711,Lithuania,LTU,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9370387677268
+712,Lithuania,LTU,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9408004364417
+713,Lithuania,LTU,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9443700971652
+714,Lithuania,LTU,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9363268645168
+715,Lithuania,LTU,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9380991377785
+716,Lithuania,LTU,2018,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3750.09008789063
+717,Lithuania,LTU,2017,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3749.07006835938
+718,Lithuania,LTU,2016,Aquaculture production (metric tons),ER.FSH.AQUA.MT,4392.740234375
+719,Lithuania,LTU,2015,Aquaculture production (metric tons),ER.FSH.AQUA.MT,4450.169921875
+720,Lithuania,LTU,2014,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3835.80004882813
+721,Lithuania,LTU,2013,Aquaculture production (metric tons),ER.FSH.AQUA.MT,4210.8798828125
+722,Lithuania,LTU,2012,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3581.9599609375
+723,Lithuania,LTU,2011,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3279.61010742188
+724,Lithuania,LTU,2010,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3190.98999023438
+725,Lithuania,LTU,2009,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3421.60009765625
+726,Lithuania,LTU,2008,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3008
+727,Lithuania,LTU,2007,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3377
+728,Lithuania,LTU,2006,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2224
+729,Lithuania,LTU,2005,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2013
+730,Lithuania,LTU,2004,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2697
+731,Lithuania,LTU,2003,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2356
+732,Lithuania,LTU,2002,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1750
+733,Lithuania,LTU,2001,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2001
+734,Lithuania,LTU,2000,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1996
+735,Lithuania,LTU,1999,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1650
+736,Lithuania,LTU,1998,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1516
+737,Lithuania,LTU,1997,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1516
+738,Lithuania,LTU,1996,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1537
+739,Lithuania,LTU,1995,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1714
+740,Lithuania,LTU,1994,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1874
+741,Lithuania,LTU,1993,Aquaculture production (metric tons),ER.FSH.AQUA.MT,2907
+742,Lithuania,LTU,1992,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3899
+743,Lithuania,LTU,1991,Aquaculture production (metric tons),ER.FSH.AQUA.MT,4792
+744,Lithuania,LTU,1990,Aquaculture production (metric tons),ER.FSH.AQUA.MT,4666
+745,Lithuania,LTU,1989,Aquaculture production (metric tons),ER.FSH.AQUA.MT,4580
+746,Lithuania,LTU,1988,Aquaculture production (metric tons),ER.FSH.AQUA.MT,3752
+747,Lithuania,LTU,2018,Total fisheries production (metric tons),ER.FSH.PROD.MT,78133.09375
+748,Lithuania,LTU,2017,Total fisheries production (metric tons),ER.FSH.PROD.MT,93519.0703125
+749,Lithuania,LTU,2016,Total fisheries production (metric tons),ER.FSH.PROD.MT,111337.7421875
+750,Lithuania,LTU,2015,Total fisheries production (metric tons),ER.FSH.PROD.MT,89594.171875
+751,Lithuania,LTU,2014,Total fisheries production (metric tons),ER.FSH.PROD.MT,153902.796875
+752,Lithuania,LTU,2013,Total fisheries production (metric tons),ER.FSH.PROD.MT,95081.8828125
+753,Lithuania,LTU,2012,Total fisheries production (metric tons),ER.FSH.PROD.MT,70551.9609375
+754,Lithuania,LTU,2011,Total fisheries production (metric tons),ER.FSH.PROD.MT,141836.609375
+755,Lithuania,LTU,2010,Total fisheries production (metric tons),ER.FSH.PROD.MT,153041.984375
+756,Lithuania,LTU,2009,Total fisheries production (metric tons),ER.FSH.PROD.MT,176113.59375
+757,Lithuania,LTU,2008,Total fisheries production (metric tons),ER.FSH.PROD.MT,185768
+758,Lithuania,LTU,2007,Total fisheries production (metric tons),ER.FSH.PROD.MT,190890
+759,Lithuania,LTU,2006,Total fisheries production (metric tons),ER.FSH.PROD.MT,156772
+760,Lithuania,LTU,2005,Total fisheries production (metric tons),ER.FSH.PROD.MT,141798
+761,Lithuania,LTU,2004,Total fisheries production (metric tons),ER.FSH.PROD.MT,164685
+762,Lithuania,LTU,2003,Total fisheries production (metric tons),ER.FSH.PROD.MT,159561
+763,Lithuania,LTU,2002,Total fisheries production (metric tons),ER.FSH.PROD.MT,151896
+764,Lithuania,LTU,2001,Total fisheries production (metric tons),ER.FSH.PROD.MT,152832
+765,Lithuania,LTU,2000,Total fisheries production (metric tons),ER.FSH.PROD.MT,80984
+766,Lithuania,LTU,1999,Total fisheries production (metric tons),ER.FSH.PROD.MT,74612
+767,Lithuania,LTU,1998,Total fisheries production (metric tons),ER.FSH.PROD.MT,68094
+768,Lithuania,LTU,1997,Total fisheries production (metric tons),ER.FSH.PROD.MT,45518
+769,Lithuania,LTU,1996,Total fisheries production (metric tons),ER.FSH.PROD.MT,90051
+770,Lithuania,LTU,1995,Total fisheries production (metric tons),ER.FSH.PROD.MT,59082
+771,Lithuania,LTU,1994,Total fisheries production (metric tons),ER.FSH.PROD.MT,51036
+772,Lithuania,LTU,1993,Total fisheries production (metric tons),ER.FSH.PROD.MT,120078
+773,Lithuania,LTU,1992,Total fisheries production (metric tons),ER.FSH.PROD.MT,192366
+774,Lithuania,LTU,1991,Total fisheries production (metric tons),ER.FSH.PROD.MT,472814
+775,Lithuania,LTU,1990,Total fisheries production (metric tons),ER.FSH.PROD.MT,339080
+776,Lithuania,LTU,1989,Total fisheries production (metric tons),ER.FSH.PROD.MT,416392
+777,Lithuania,LTU,1988,Total fisheries production (metric tons),ER.FSH.PROD.MT,415287
+778,Lithuania,LTU,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,17.0231009753366
+779,Lithuania,LTU,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,17.0231009753366
+780,Lithuania,LTU,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,16.94
+781,Lithuania,LTU,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,25.5910267323495
+782,Lithuania,LTU,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,25.5910267323495
+783,Lithuania,LTU,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,21.51590839
+784,Lithuania,LTU,2017,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.042865008264
+785,Lithuania,LTU,2016,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,91.600943576325
+786,Lithuania,LTU,2015,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,91.157812354636
+787,Lithuania,LTU,2014,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,89.2879550291256
+788,Lithuania,LTU,2013,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,87.4301894857156
+789,Lithuania,LTU,2012,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,85.5846047684315
+790,Lithuania,LTU,2011,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,83.751188398217
+791,Lithuania,LTU,2010,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,81.9457550855164
+792,Lithuania,LTU,2009,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,80.1623507506214
+793,Lithuania,LTU,2008,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,78.3838305216085
+794,Lithuania,LTU,2007,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,76.6092578440943
+795,Lithuania,LTU,2006,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,74.8477568544036
+796,Lithuania,LTU,2005,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,73.0993716090037
+797,Lithuania,LTU,2004,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,71.3756544609203
+798,Lithuania,LTU,2003,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,69.6772984196574
+799,Lithuania,LTU,2002,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,69.3365138842194
+800,Lithuania,LTU,2001,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,68.9968946363626
+801,Lithuania,LTU,2000,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,68.6545270129649
+802,Lithuania,LTU,2017,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,91.3105475600506
+803,Lithuania,LTU,2016,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,90.7758058393908
+804,Lithuania,LTU,2015,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,90.2404327979624
+805,Lithuania,LTU,2014,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,89.7047801948238
+806,Lithuania,LTU,2013,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,89.1670713646505
+807,Lithuania,LTU,2012,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,88.636295558534
+808,Lithuania,LTU,2011,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,88.1033632571328
+809,Lithuania,LTU,2010,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,87.5946312900653
+810,Lithuania,LTU,2009,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,87.100712166773
+811,Lithuania,LTU,2008,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,86.5929419719818
+812,Lithuania,LTU,2007,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,86.0697719712472
+813,Lithuania,LTU,2006,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,85.5454403856952
+814,Lithuania,LTU,2005,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,85.0199369148885
+815,Lithuania,LTU,2004,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,84.5117882890317
+816,Lithuania,LTU,2003,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,84.0225538511117
+817,Lithuania,LTU,2002,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.5348081242627
+818,Lithuania,LTU,2001,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.0485548896054
+819,Lithuania,LTU,2000,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.5575880747003
+820,Lithuania,LTU,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,6
+821,Lithuania,LTU,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,6
+822,Lithuania,LTU,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,6
+823,Lithuania,LTU,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,6
+824,Lithuania,LTU,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,6
+825,Lithuania,LTU,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,6
+826,Lithuania,LTU,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,6
+827,Lithuania,LTU,2016,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.5
+828,Lithuania,LTU,2015,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.9
+829,Lithuania,LTU,2014,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.4
+830,Lithuania,LTU,2013,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24
+831,Lithuania,LTU,2012,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,23.8
+832,Lithuania,LTU,2011,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,23.8
+833,Lithuania,LTU,2010,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,23.9
+834,Lithuania,LTU,2009,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.1
+835,Lithuania,LTU,2008,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.4
+836,Lithuania,LTU,2007,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.7
+837,Lithuania,LTU,2006,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25
+838,Lithuania,LTU,2005,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.3
+839,Lithuania,LTU,2004,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.5
+840,Lithuania,LTU,2003,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.7
+841,Lithuania,LTU,2002,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.8
+842,Lithuania,LTU,2001,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26
+843,Lithuania,LTU,2000,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.2
+844,Lithuania,LTU,1999,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.5
+845,Lithuania,LTU,1998,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.8
+846,Lithuania,LTU,1997,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.3
+847,Lithuania,LTU,1996,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.8
+848,Lithuania,LTU,1995,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.5
+849,Lithuania,LTU,1994,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,29.3
+850,Lithuania,LTU,1993,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.2
+851,Lithuania,LTU,1992,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,31.2
+852,Lithuania,LTU,1991,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,32.4
+853,Lithuania,LTU,1990,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,33.7
+854,Lithuania,LTU,2018,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.43
+855,Lithuania,LTU,2017,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.56
+856,Lithuania,LTU,2016,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.69
+857,Lithuania,LTU,2015,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.97
+858,Lithuania,LTU,2014,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.26
+859,Lithuania,LTU,2013,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.31
+860,Lithuania,LTU,2012,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.45
+861,Lithuania,LTU,2011,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.43
+862,Lithuania,LTU,2010,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.16
+863,Lithuania,LTU,2009,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.18
+864,Lithuania,LTU,2008,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.18
+865,Lithuania,LTU,2007,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.19
+866,Lithuania,LTU,2006,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.16
+867,Lithuania,LTU,2005,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.28
+868,Lithuania,LTU,2004,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.57
+869,Lithuania,LTU,2003,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.85
+870,Lithuania,LTU,2002,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.1
+871,Lithuania,LTU,2001,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.33
+872,Lithuania,LTU,2000,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.83
+873,Lithuania,LTU,1999,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,9.8500003815
+874,Lithuania,LTU,1998,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,10.029999733
+875,Lithuania,LTU,1997,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,10.1899995804
+876,Lithuania,LTU,1996,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,10.8800001144
+877,Lithuania,LTU,1995,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.0900001526
+878,Lithuania,LTU,1994,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.2838001251
+879,Lithuania,LTU,1993,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.9105997086
+880,Lithuania,LTU,1992,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.0453996658
+881,Lithuania,LTU,1991,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.4653997421
+882,Lithuania,LTU,1990,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.4871997833
+883,Lithuania,LTU,1989,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.6358003616333
+884,Lithuania,LTU,1988,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.8053998947144
+885,Lithuania,LTU,1987,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.8029003143311
+886,Lithuania,LTU,1986,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.7692003250122
+887,Lithuania,LTU,1985,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.7760000228882
+888,Lithuania,LTU,1980,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.0663995742798
+889,Lithuania,LTU,2019,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,26.1
+890,Lithuania,LTU,2018,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,27.4
+891,Lithuania,LTU,2017,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,29.7
+892,Lithuania,LTU,2016,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,32.8
+893,Lithuania,LTU,2015,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,34.9
+894,Lithuania,LTU,2014,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,35.6
+895,Lithuania,LTU,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,40.5
+896,Lithuania,LTU,2012,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,35
+897,Lithuania,LTU,2011,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,38.1
+898,Lithuania,LTU,2010,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,37.2
+899,Lithuania,LTU,2009,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,39.2
+900,Lithuania,LTU,2008,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,37.8
+901,Lithuania,LTU,2007,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,34.5
+902,Lithuania,LTU,2006,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,35.2
+903,Lithuania,LTU,2005,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,42.7
+904,Lithuania,LTU,2004,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,43.3
+905,Lithuania,LTU,2003,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,45.4
+906,Lithuania,LTU,2002,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,47
+907,Lithuania,LTU,2001,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,47.1
+908,Lithuania,LTU,2000,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,50.1
+909,Lithuania,LTU,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.1
+910,Lithuania,LTU,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.5
+911,Lithuania,LTU,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.2
+912,Lithuania,LTU,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.1
+913,Lithuania,LTU,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.5
+914,Lithuania,LTU,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.2
+915,Lithuania,LTU,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.7
+916,Lithuania,LTU,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.9
+917,Lithuania,LTU,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.8
+918,Lithuania,LTU,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.1
+919,Lithuania,LTU,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.6
+920,Lithuania,LTU,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,18.3
+921,Lithuania,LTU,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,26.6
+922,Lithuania,LTU,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,26.7
+923,Lithuania,LTU,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,25.6
+924,Lithuania,LTU,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,23.6
+925,Lithuania,LTU,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,23.5
+926,Lithuania,LTU,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,22.7
+927,Lithuania,LTU,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,22
+928,Lithuania,LTU,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,22.8
+929,Lithuania,LTU,2018,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.56775236
+930,Lithuania,LTU,2017,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.47619867
+931,Lithuania,LTU,2016,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.63686323
+932,Lithuania,LTU,2015,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.49459124
+933,Lithuania,LTU,2014,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.19952059
+934,Lithuania,LTU,2013,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.13548851
+935,Lithuania,LTU,2012,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.29071617
+936,Lithuania,LTU,2011,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.5051465
+937,Lithuania,LTU,2010,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.83376026
+938,Lithuania,LTU,2009,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.35553408
+939,Lithuania,LTU,2008,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.28756523
+940,Lithuania,LTU,2007,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.75847721
+941,Lithuania,LTU,2006,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.83789873
+942,Lithuania,LTU,2005,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.64197302
+943,Lithuania,LTU,2004,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.50604343
+944,Lithuania,LTU,2003,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.17941618
+945,Lithuania,LTU,2002,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.13646746
+946,Lithuania,LTU,2001,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.00597954
+947,Lithuania,LTU,2000,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.1917491
+948,Lithuania,LTU,2018,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,65.86558533
+949,Lithuania,LTU,2017,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,65.1569519
+950,Lithuania,LTU,2016,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,65.75756836
+951,Lithuania,LTU,2015,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,66.08770752
+952,Lithuania,LTU,2014,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,66.57397461
+953,Lithuania,LTU,2013,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,65.59049225
+954,Lithuania,LTU,2012,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,66.61579895
+955,Lithuania,LTU,2011,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.33172607
+956,Lithuania,LTU,2010,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.08982086
+957,Lithuania,LTU,2009,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.87563324
+958,Lithuania,LTU,2008,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.72185516
+959,Lithuania,LTU,2007,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,65.83148956
+960,Lithuania,LTU,2006,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,62.43144989
+961,Lithuania,LTU,2005,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,60.70670319
+962,Lithuania,LTU,2004,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,62.62944794
+963,Lithuania,LTU,2003,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,74.31563568
+964,Lithuania,LTU,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,72.81419373
+965,Lithuania,LTU,2001,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.20483398
+966,Lithuania,LTU,2000,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,67.25762177
+967,Lithuania,LTU,2019,Refugee population by country or territory of asylum,SM.POP.REFG,1822
+968,Lithuania,LTU,2018,Refugee population by country or territory of asylum,SM.POP.REFG,1731
+969,Lithuania,LTU,2017,Refugee population by country or territory of asylum,SM.POP.REFG,1577
+970,Lithuania,LTU,2016,Refugee population by country or territory of asylum,SM.POP.REFG,1284
+971,Lithuania,LTU,2015,Refugee population by country or territory of asylum,SM.POP.REFG,1094
+972,Lithuania,LTU,2014,Refugee population by country or territory of asylum,SM.POP.REFG,1007
+973,Lithuania,LTU,2013,Refugee population by country or territory of asylum,SM.POP.REFG,918
+974,Lithuania,LTU,2012,Refugee population by country or territory of asylum,SM.POP.REFG,871
+975,Lithuania,LTU,2011,Refugee population by country or territory of asylum,SM.POP.REFG,824
+976,Lithuania,LTU,2010,Refugee population by country or territory of asylum,SM.POP.REFG,808
+977,Lithuania,LTU,2009,Refugee population by country or territory of asylum,SM.POP.REFG,790
+978,Lithuania,LTU,2008,Refugee population by country or territory of asylum,SM.POP.REFG,749
+979,Lithuania,LTU,2007,Refugee population by country or territory of asylum,SM.POP.REFG,688
+980,Lithuania,LTU,2006,Refugee population by country or territory of asylum,SM.POP.REFG,527
+981,Lithuania,LTU,2005,Refugee population by country or territory of asylum,SM.POP.REFG,527
+982,Lithuania,LTU,2004,Refugee population by country or territory of asylum,SM.POP.REFG,469
+983,Lithuania,LTU,2003,Refugee population by country or territory of asylum,SM.POP.REFG,399
+984,Lithuania,LTU,2002,Refugee population by country or territory of asylum,SM.POP.REFG,363
+985,Lithuania,LTU,2001,Refugee population by country or territory of asylum,SM.POP.REFG,283
+986,Lithuania,LTU,2000,Refugee population by country or territory of asylum,SM.POP.REFG,48
+987,Lithuania,LTU,1999,Refugee population by country or territory of asylum,SM.POP.REFG,38
+988,Lithuania,LTU,1998,Refugee population by country or territory of asylum,SM.POP.REFG,30
+989,Lithuania,LTU,1997,Refugee population by country or territory of asylum,SM.POP.REFG,5
+990,Lithuania,LTU,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+991,Lithuania,LTU,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+992,Lithuania,LTU,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+993,Lithuania,LTU,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+994,Lithuania,LTU,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+995,Lithuania,LTU,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+996,Lithuania,LTU,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+997,Lithuania,LTU,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+998,Lithuania,LTU,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+999,Lithuania,LTU,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1000,Lithuania,LTU,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1001,Lithuania,LTU,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1002,Lithuania,LTU,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1003,Lithuania,LTU,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1004,Lithuania,LTU,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1005,Lithuania,LTU,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1006,Lithuania,LTU,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1007,Lithuania,LTU,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1008,Lithuania,LTU,2019,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1009,Lithuania,LTU,2018,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10
+1010,Lithuania,LTU,2017,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.1
+1011,Lithuania,LTU,2016,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1012,Lithuania,LTU,2015,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.8
+1013,Lithuania,LTU,2014,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.4
+1014,Lithuania,LTU,2013,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.1
+1015,Lithuania,LTU,2012,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1016,Lithuania,LTU,2011,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10
+1017,Lithuania,LTU,2010,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1018,Lithuania,LTU,2009,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1019,Lithuania,LTU,2008,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1020,Lithuania,LTU,2007,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.3
+1021,Lithuania,LTU,2006,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+1022,Lithuania,LTU,2005,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.9
+1023,Lithuania,LTU,2004,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+1024,Lithuania,LTU,2003,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+1025,Lithuania,LTU,2002,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.6
+1026,Lithuania,LTU,2001,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+1027,Lithuania,LTU,2000,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1028,Lithuania,LTU,1999,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1029,Lithuania,LTU,1998,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.4
+1030,Lithuania,LTU,1997,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.6
+1031,Lithuania,LTU,1996,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.8
+1032,Lithuania,LTU,1995,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.4
+1033,Lithuania,LTU,1994,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.6
+1034,Lithuania,LTU,1993,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.9
+1035,Lithuania,LTU,1992,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.7
+1036,Lithuania,LTU,1991,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1037,Lithuania,LTU,1990,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.4
+1038,Lithuania,LTU,1989,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1039,Lithuania,LTU,1988,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.5
+1040,Lithuania,LTU,1987,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.4
+1041,Lithuania,LTU,1986,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7
+1042,Lithuania,LTU,1985,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.5
+1043,Lithuania,LTU,1984,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.4
+1044,Lithuania,LTU,1983,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.5
+1045,Lithuania,LTU,1982,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.4
+1046,Lithuania,LTU,1981,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.2
+1047,Lithuania,LTU,1980,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.2
+1048,Lithuania,LTU,1979,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.3
+1049,Lithuania,LTU,1978,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.3
+1050,Lithuania,LTU,1977,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.5
+1051,Lithuania,LTU,1976,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.7
+1052,Lithuania,LTU,1975,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.7
+1053,Lithuania,LTU,1974,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.9
+1054,Lithuania,LTU,1973,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16
+1055,Lithuania,LTU,1972,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17
+1056,Lithuania,LTU,1971,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.6
+1057,Lithuania,LTU,1970,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.7
+1058,Lithuania,LTU,1969,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.5
+1059,Lithuania,LTU,1968,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.6
+1060,Lithuania,LTU,1967,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.7
+1061,Lithuania,LTU,1966,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18
+1062,Lithuania,LTU,1965,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.1
+1063,Lithuania,LTU,1964,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19
+1064,Lithuania,LTU,1963,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.7
+1065,Lithuania,LTU,1962,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.9
+1066,Lithuania,LTU,1961,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,22.2
+1067,Lithuania,LTU,1960,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,22.5
+1068,Lithuania,LTU,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.1341463414634
+1069,Lithuania,LTU,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.6804878048781
+1070,Lithuania,LTU,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.4804878048781
+1071,Lithuania,LTU,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.6707317073171
+1072,Lithuania,LTU,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.3219512195122
+1073,Lithuania,LTU,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.5170731707317
+1074,Lithuania,LTU,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.9146341463415
+1075,Lithuania,LTU,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.8634146341464
+1076,Lithuania,LTU,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.5634146341464
+1077,Lithuania,LTU,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.2682926829268
+1078,Lithuania,LTU,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.9146341463415
+1079,Lithuania,LTU,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.8121951219512
+1080,Lithuania,LTU,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.9
+1081,Lithuania,LTU,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0560975609756
+1082,Lithuania,LTU,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.2536585365854
+1083,Lithuania,LTU,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.9609756097561
+1084,Lithuania,LTU,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.0609756097561
+1085,Lithuania,LTU,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.7609756097561
+1086,Lithuania,LTU,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.6585365853659
+1087,Lithuania,LTU,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.0195121951219
+1088,Lithuania,LTU,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.5707317073171
+1089,Lithuania,LTU,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.219512195122
+1090,Lithuania,LTU,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.9090243902439
+1091,Lithuania,LTU,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1080487804878
+1092,Lithuania,LTU,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0063414634147
+1093,Lithuania,LTU,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.530243902439
+1094,Lithuania,LTU,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9104878048781
+1095,Lithuania,LTU,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2343902439025
+1096,Lithuania,LTU,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3641463414634
+1097,Lithuania,LTU,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.1607317073171
+1098,Lithuania,LTU,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.4253658536585
+1099,Lithuania,LTU,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.7621951219512
+1100,Lithuania,LTU,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.9346341463415
+1101,Lithuania,LTU,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.0807317073171
+1102,Lithuania,LTU,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5012195121951
+1103,Lithuania,LTU,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.32
+1104,Lithuania,LTU,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7778048780488
+1105,Lithuania,LTU,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8368292682927
+1106,Lithuania,LTU,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4607317073171
+1107,Lithuania,LTU,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4821951219512
+1108,Lithuania,LTU,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4821951219512
+1109,Lithuania,LTU,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6046341463415
+1110,Lithuania,LTU,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.809512195122
+1111,Lithuania,LTU,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.9580487804878
+1112,Lithuania,LTU,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8673170731707
+1113,Lithuania,LTU,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.2441463414634
+1114,Lithuania,LTU,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.3321951219512
+1115,Lithuania,LTU,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0246341463415
+1116,Lithuania,LTU,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.7353658536585
+1117,Lithuania,LTU,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8043902439024
+1118,Lithuania,LTU,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.9285365853659
+1119,Lithuania,LTU,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.3136585365854
+1120,Lithuania,LTU,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.6039024390244
+1121,Lithuania,LTU,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.520243902439
+1122,Lithuania,LTU,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.3251219512195
+1123,Lithuania,LTU,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.5090243902439
+1124,Lithuania,LTU,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2043902439024
+1125,Lithuania,LTU,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0953658536585
+1126,Lithuania,LTU,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1026829268293
+1127,Lithuania,LTU,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8473170731707
+1128,Lithuania,LTU,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,20.1584127130225
+1129,Lithuania,LTU,2018,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.7050331564608
+1130,Lithuania,LTU,2017,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.3009523394487
+1131,Lithuania,LTU,2016,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.9684439517892
+1132,Lithuania,LTU,2015,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.6855532968607
+1133,Lithuania,LTU,2014,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.4012637401283
+1134,Lithuania,LTU,2013,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.1221322900403
+1135,Lithuania,LTU,2012,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.8460388742829
+1136,Lithuania,LTU,2011,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.5653004164555
+1137,Lithuania,LTU,2010,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.2713117545976
+1138,Lithuania,LTU,2009,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.0855612018571
+1139,Lithuania,LTU,2008,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.8686514995183
+1140,Lithuania,LTU,2007,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.6143394559034
+1141,Lithuania,LTU,2006,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.3197495864028
+1142,Lithuania,LTU,2005,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.9858300829957
+1143,Lithuania,LTU,2004,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.5946338665967
+1144,Lithuania,LTU,2003,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.1833210567704
+1145,Lithuania,LTU,2002,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.7608413118696
+1146,Lithuania,LTU,2001,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.3356004174314
+1147,Lithuania,LTU,2000,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.9085777501479
+1148,Lithuania,LTU,1999,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.6097581846893
+1149,Lithuania,LTU,1998,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.3049575248914
+1150,Lithuania,LTU,1997,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.9882874150467
+1151,Lithuania,LTU,1996,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6513559741558
+1152,Lithuania,LTU,1995,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2894315686376
+1153,Lithuania,LTU,1994,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.0228502966313
+1154,Lithuania,LTU,1993,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.7390348469522
+1155,Lithuania,LTU,1992,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4462274132034
+1156,Lithuania,LTU,1991,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.1565327196503
+1157,Lithuania,LTU,1990,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.8785766368554
+1158,Lithuania,LTU,1989,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.716979881919
+1159,Lithuania,LTU,1988,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.574958206824
+1160,Lithuania,LTU,1987,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.4631505818329
+1161,Lithuania,LTU,1986,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.40417555982
+1162,Lithuania,LTU,1985,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.4127922856436
+1163,Lithuania,LTU,1984,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.5333015987926
+1164,Lithuania,LTU,1983,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.7367091206717
+1165,Lithuania,LTU,1982,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.9842717828568
+1166,Lithuania,LTU,1981,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.206715464816
+1167,Lithuania,LTU,1980,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3536359290653
+1168,Lithuania,LTU,1979,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4670330105994
+1169,Lithuania,LTU,1978,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5173906637134
+1170,Lithuania,LTU,1977,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5090426040982
+1171,Lithuania,LTU,1976,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4598129032219
+1172,Lithuania,LTU,1975,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3792897526705
+1173,Lithuania,LTU,1974,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.2106561457042
+1174,Lithuania,LTU,1973,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.9888687348594
+1175,Lithuania,LTU,1972,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.7241584249896
+1176,Lithuania,LTU,1971,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.4387021391903
+1177,Lithuania,LTU,1970,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.1489963928934
+1178,Lithuania,LTU,1969,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.87580211469898
+1179,Lithuania,LTU,1968,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.62811977621989
+1180,Lithuania,LTU,1967,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.40112805371885
+1181,Lithuania,LTU,1966,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.18168518442663
+1182,Lithuania,LTU,1965,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.95806538071887
+1183,Lithuania,LTU,1964,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.73913662817609
+1184,Lithuania,LTU,1963,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.53280823531042
+1185,Lithuania,LTU,1962,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.33162942305247
+1186,Lithuania,LTU,1961,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.12947420697832
+1187,Lithuania,LTU,1960,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.92595047576137
+1188,Lithuania,LTU,2019,Population growth (annual %),SP.POP.GROW,-0.264704354944785
+1189,Lithuania,LTU,2018,Population growth (annual %),SP.POP.GROW,-0.954190459209969
+1190,Lithuania,LTU,2017,Population growth (annual %),SP.POP.GROW,-1.39832220092102
+1191,Lithuania,LTU,2016,Population growth (annual %),SP.POP.GROW,-1.27069453298857
+1192,Lithuania,LTU,2015,Population growth (annual %),SP.POP.GROW,-0.940753796646208
+1193,Lithuania,LTU,2014,Population growth (annual %),SP.POP.GROW,-0.859827343070249
+1194,Lithuania,LTU,2013,Population growth (annual %),SP.POP.GROW,-1.01200736818103
+1195,Lithuania,LTU,2012,Population growth (annual %),SP.POP.GROW,-1.34120198821595
+1196,Lithuania,LTU,2011,Population growth (annual %),SP.POP.GROW,-2.25846389882827
+1197,Lithuania,LTU,2010,Population growth (annual %),SP.POP.GROW,-2.09694341985475
+1198,Lithuania,LTU,2009,Population growth (annual %),SP.POP.GROW,-1.11034575437238
+1199,Lithuania,LTU,2008,Population growth (annual %),SP.POP.GROW,-1.02848317546539
+1200,Lithuania,LTU,2007,Population growth (annual %),SP.POP.GROW,-1.187947957259
+1201,Lithuania,LTU,2006,Population growth (annual %),SP.POP.GROW,-1.59637831830094
+1202,Lithuania,LTU,2005,Population growth (annual %),SP.POP.GROW,-1.62840112593427
+1203,Lithuania,LTU,2004,Population growth (annual %),SP.POP.GROW,-1.12299127483243
+1204,Lithuania,LTU,2003,Population growth (annual %),SP.POP.GROW,-0.812278097406687
+1205,Lithuania,LTU,2002,Population growth (annual %),SP.POP.GROW,-0.802765710748508
+1206,Lithuania,LTU,2001,Population growth (annual %),SP.POP.GROW,-0.824008723044179
+1207,Lithuania,LTU,2000,Population growth (annual %),SP.POP.GROW,-0.703385440488978
+1208,Lithuania,LTU,1999,Population growth (annual %),SP.POP.GROW,-0.709489234071613
+1209,Lithuania,LTU,1998,Population growth (annual %),SP.POP.GROW,-0.724436206600195
+1210,Lithuania,LTU,1997,Population growth (annual %),SP.POP.GROW,-0.737830358066631
+1211,Lithuania,LTU,1996,Population growth (annual %),SP.POP.GROW,-0.760343408174495
+1212,Lithuania,LTU,1995,Population growth (annual %),SP.POP.GROW,-0.769728017770742
+1213,Lithuania,LTU,1994,Population growth (annual %),SP.POP.GROW,-0.694003962919015
+1214,Lithuania,LTU,1993,Population growth (annual %),SP.POP.GROW,-0.474107542700159
+1215,Lithuania,LTU,1992,Population growth (annual %),SP.POP.GROW,-0.108586324904251
+1216,Lithuania,LTU,1991,Population growth (annual %),SP.POP.GROW,0.170116869352429
+1217,Lithuania,LTU,1990,Population growth (annual %),SP.POP.GROW,0.367999030323355
+1218,Lithuania,LTU,1989,Population growth (annual %),SP.POP.GROW,0.79588348340029
+1219,Lithuania,LTU,1988,Population growth (annual %),SP.POP.GROW,1.06395686619688
+1220,Lithuania,LTU,1987,Population growth (annual %),SP.POP.GROW,1.04105283058689
+1221,Lithuania,LTU,1986,Population growth (annual %),SP.POP.GROW,0.965016472614713
+1222,Lithuania,LTU,1985,Population growth (annual %),SP.POP.GROW,0.859591157107066
+1223,Lithuania,LTU,1984,Population growth (annual %),SP.POP.GROW,0.829019018784799
+1224,Lithuania,LTU,1983,Population growth (annual %),SP.POP.GROW,0.807019735359073
+1225,Lithuania,LTU,1982,Population growth (annual %),SP.POP.GROW,0.70338626338287
+1226,Lithuania,LTU,1981,Population growth (annual %),SP.POP.GROW,0.576822232379474
+1227,Lithuania,LTU,1980,Population growth (annual %),SP.POP.GROW,0.451032941179723
+1228,Lithuania,LTU,1979,Population growth (annual %),SP.POP.GROW,0.540861205437315
+1229,Lithuania,LTU,1978,Population growth (annual %),SP.POP.GROW,0.726941155491028
+1230,Lithuania,LTU,1977,Population growth (annual %),SP.POP.GROW,0.789147833101285
+1231,Lithuania,LTU,1976,Population growth (annual %),SP.POP.GROW,0.814807301678743
+1232,Lithuania,LTU,1975,Population growth (annual %),SP.POP.GROW,0.844284714491626
+1233,Lithuania,LTU,1974,Population growth (annual %),SP.POP.GROW,0.903795649203906
+1234,Lithuania,LTU,1973,Population growth (annual %),SP.POP.GROW,0.95434956902678
+1235,Lithuania,LTU,1972,Population growth (annual %),SP.POP.GROW,1.08190709614434
+1236,Lithuania,LTU,1971,Population growth (annual %),SP.POP.GROW,1.24558285540271
+1237,Lithuania,LTU,1970,Population growth (annual %),SP.POP.GROW,1.03628102597155
+1238,Lithuania,LTU,1969,Population growth (annual %),SP.POP.GROW,0.920478952952093
+1239,Lithuania,LTU,1968,Population growth (annual %),SP.POP.GROW,1.12523132285999
+1240,Lithuania,LTU,1967,Population growth (annual %),SP.POP.GROW,1.201180912123
+1241,Lithuania,LTU,1966,Population growth (annual %),SP.POP.GROW,1.22419791254519
+1242,Lithuania,LTU,1965,Population growth (annual %),SP.POP.GROW,1.22744551054822
+1243,Lithuania,LTU,1964,Population growth (annual %),SP.POP.GROW,1.2426991594818
+1244,Lithuania,LTU,1963,Population growth (annual %),SP.POP.GROW,1.23563344312338
+1245,Lithuania,LTU,1962,Population growth (annual %),SP.POP.GROW,1.3997309541126
+1246,Lithuania,LTU,1961,Population growth (annual %),SP.POP.GROW,1.60657495946158
+1247,Lithuania,LTU,2019,"Population, total",SP.POP.TOTL,2794137
+1248,Lithuania,LTU,2018,"Population, total",SP.POP.TOTL,2801543
+1249,Lithuania,LTU,2017,"Population, total",SP.POP.TOTL,2828403
+1250,Lithuania,LTU,2016,"Population, total",SP.POP.TOTL,2868231
+1251,Lithuania,LTU,2015,"Population, total",SP.POP.TOTL,2904910
+1252,Lithuania,LTU,2014,"Population, total",SP.POP.TOTL,2932367
+1253,Lithuania,LTU,2013,"Population, total",SP.POP.TOTL,2957689
+1254,Lithuania,LTU,2012,"Population, total",SP.POP.TOTL,2987773
+1255,Lithuania,LTU,2011,"Population, total",SP.POP.TOTL,3028115
+1256,Lithuania,LTU,2010,"Population, total",SP.POP.TOTL,3097282
+1257,Lithuania,LTU,2009,"Population, total",SP.POP.TOTL,3162916
+1258,Lithuania,LTU,2008,"Population, total",SP.POP.TOTL,3198231
+1259,Lithuania,LTU,2007,"Population, total",SP.POP.TOTL,3231294
+1260,Lithuania,LTU,2006,"Population, total",SP.POP.TOTL,3269909
+1261,Lithuania,LTU,2005,"Population, total",SP.POP.TOTL,3322528
+1262,Lithuania,LTU,2004,"Population, total",SP.POP.TOTL,3377075
+1263,Lithuania,LTU,2003,"Population, total",SP.POP.TOTL,3415213
+1264,Lithuania,LTU,2002,"Population, total",SP.POP.TOTL,3443067
+1265,Lithuania,LTU,2001,"Population, total",SP.POP.TOTL,3470818
+1266,Lithuania,LTU,2000,"Population, total",SP.POP.TOTL,3499536
+1267,Lithuania,LTU,1999,"Population, total",SP.POP.TOTL,3524238
+1268,Lithuania,LTU,1998,"Population, total",SP.POP.TOTL,3549331
+1269,Lithuania,LTU,1997,"Population, total",SP.POP.TOTL,3575137
+1270,Lithuania,LTU,1996,"Population, total",SP.POP.TOTL,3601613
+1271,Lithuania,LTU,1995,"Population, total",SP.POP.TOTL,3629102
+1272,Lithuania,LTU,1994,"Population, total",SP.POP.TOTL,3657144
+1273,Lithuania,LTU,1993,"Population, total",SP.POP.TOTL,3682613
+1274,Lithuania,LTU,1992,"Population, total",SP.POP.TOTL,3700114
+1275,Lithuania,LTU,1991,"Population, total",SP.POP.TOTL,3704134
+1276,Lithuania,LTU,1990,"Population, total",SP.POP.TOTL,3697838
+1277,Lithuania,LTU,1989,"Population, total",SP.POP.TOTL,3684255
+1278,Lithuania,LTU,1988,"Population, total",SP.POP.TOTL,3655049
+1279,Lithuania,LTU,1987,"Population, total",SP.POP.TOTL,3616367
+1280,Lithuania,LTU,1986,"Population, total",SP.POP.TOTL,3578914
+1281,Lithuania,LTU,1985,"Population, total",SP.POP.TOTL,3544543
+1282,Lithuania,LTU,1984,"Population, total",SP.POP.TOTL,3514205
+1283,Lithuania,LTU,1983,"Population, total",SP.POP.TOTL,3485192
+1284,Lithuania,LTU,1982,"Population, total",SP.POP.TOTL,3457179
+1285,Lithuania,LTU,1981,"Population, total",SP.POP.TOTL,3432947
+1286,Lithuania,LTU,1980,"Population, total",SP.POP.TOTL,3413202
+1287,Lithuania,LTU,1979,"Population, total",SP.POP.TOTL,3397842
+1288,Lithuania,LTU,1978,"Population, total",SP.POP.TOTL,3379514
+1289,Lithuania,LTU,1977,"Population, total",SP.POP.TOTL,3355036
+1290,Lithuania,LTU,1976,"Population, total",SP.POP.TOTL,3328664
+1291,Lithuania,LTU,1975,"Population, total",SP.POP.TOTL,3301652
+1292,Lithuania,LTU,1974,"Population, total",SP.POP.TOTL,3273894
+1293,Lithuania,LTU,1973,"Population, total",SP.POP.TOTL,3244438
+1294,Lithuania,LTU,1972,"Population, total",SP.POP.TOTL,3213622
+1295,Lithuania,LTU,1971,"Population, total",SP.POP.TOTL,3179041
+1296,Lithuania,LTU,1970,"Population, total",SP.POP.TOTL,3139689
+1297,Lithuania,LTU,1969,"Population, total",SP.POP.TOTL,3107321
+1298,Lithuania,LTU,1968,"Population, total",SP.POP.TOTL,3078850
+1299,Lithuania,LTU,1967,"Population, total",SP.POP.TOTL,3044400
+1300,Lithuania,LTU,1966,"Population, total",SP.POP.TOTL,3008050
+1301,Lithuania,LTU,1965,"Population, total",SP.POP.TOTL,2971450
+1302,Lithuania,LTU,1964,"Population, total",SP.POP.TOTL,2935200
+1303,Lithuania,LTU,1963,"Population, total",SP.POP.TOTL,2898950
+1304,Lithuania,LTU,1962,"Population, total",SP.POP.TOTL,2863350
+1305,Lithuania,LTU,1961,"Population, total",SP.POP.TOTL,2823550
+1306,Lithuania,LTU,1960,"Population, total",SP.POP.TOTL,2778550
+1307,Lithuania,LTU,2019,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.7446491940408
+1308,Lithuania,LTU,2018,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.7919586473278
+1309,Lithuania,LTU,2017,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.8493627827747
+1310,Lithuania,LTU,2016,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.904701588999
+1311,Lithuania,LTU,2015,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9496608310322
+1312,Lithuania,LTU,2014,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9832771215057
+1313,Lithuania,LTU,2013,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0068622218204
+1314,Lithuania,LTU,2012,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0154999358082
+1315,Lithuania,LTU,2011,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0035648935818
+1316,Lithuania,LTU,2010,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9681640296752
+1317,Lithuania,LTU,2009,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9074976241369
+1318,Lithuania,LTU,2008,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.825134996251
+1319,Lithuania,LTU,2007,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.730150255417
+1320,Lithuania,LTU,2006,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.6340461395156
+1321,Lithuania,LTU,2005,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5450753066673
+1322,Lithuania,LTU,2004,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4658490317154
+1323,Lithuania,LTU,2003,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.3942894832336
+1324,Lithuania,LTU,2002,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.3279222428622
+1325,Lithuania,LTU,2001,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.2628037066774
+1326,Lithuania,LTU,2000,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.1964891619896
+1327,Lithuania,LTU,1999,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.1296567001654
+1328,Lithuania,LTU,1998,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.0640424849654
+1329,Lithuania,LTU,1997,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.0002002843087
+1330,Lithuania,LTU,1996,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.9387672195343
+1331,Lithuania,LTU,1995,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.8808868008655
+1332,Lithuania,LTU,1994,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.8251846598461
+1333,Lithuania,LTU,1993,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.7730896927604
+1334,Lithuania,LTU,1992,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.7284623016223
+1335,Lithuania,LTU,1991,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.6964657543805
+1336,Lithuania,LTU,1990,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.6803182329172
+1337,Lithuania,LTU,1989,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.6816285532037
+1338,Lithuania,LTU,1988,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.6987046042964
+1339,Lithuania,LTU,1987,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.7260852760408
+1340,Lithuania,LTU,1986,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.7561835292861
+1341,Lithuania,LTU,1985,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.7833069793698
+1342,Lithuania,LTU,1984,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.8049188776306
+1343,Lithuania,LTU,1983,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.8226034136117
+1344,Lithuania,LTU,1982,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.8368103672143
+1345,Lithuania,LTU,1981,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.8495509876478
+1346,Lithuania,LTU,1980,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.8626018724714
+1347,Lithuania,LTU,1979,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.875257732867
+1348,Lithuania,LTU,1978,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.887631613051
+1349,Lithuania,LTU,1977,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.9005532686139
+1350,Lithuania,LTU,1976,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.9156546987719
+1351,Lithuania,LTU,1975,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.933856702405
+1352,Lithuania,LTU,1974,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.9558362285126
+1353,Lithuania,LTU,1973,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.9819364490001
+1354,Lithuania,LTU,1972,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.0132031311941
+1355,Lithuania,LTU,1971,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.0498580162911
+1356,Lithuania,LTU,1970,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.0929657573444
+1357,Lithuania,LTU,1969,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.1425879544735
+1358,Lithuania,LTU,1968,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.1987841200926
+1359,Lithuania,LTU,1967,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.2619710297229
+1360,Lithuania,LTU,1966,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.332831578078
+1361,Lithuania,LTU,1965,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4116948989689
+1362,Lithuania,LTU,1964,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4997275725605
+1363,Lithuania,LTU,1963,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5962386805733
+1364,Lithuania,LTU,1962,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.6981716860602
+1365,Lithuania,LTU,1961,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.8008154121736
+1366,Lithuania,LTU,1960,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9002606251031
+1367,Lithuania,LTU,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.69322557
+1368,Lithuania,LTU,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.15668213
+1369,Lithuania,LTU,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.072154
+1370,Lithuania,LTU,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,29.68486173
+1371,Lithuania,LTU,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.42196816
+1372,Lithuania,LTU,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.9851526
+1373,Lithuania,LTU,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,27.79057301
+1374,Lithuania,LTU,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,25.24529963
+1375,Lithuania,LTU,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,23.6005154
+1376,Lithuania,LTU,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,21.74651132
+1377,Lithuania,LTU,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,20.01029279
+1378,Lithuania,LTU,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,18.36687816
+1379,Lithuania,LTU,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,17.15371067
+1380,Lithuania,LTU,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,11.16190153
+1381,Lithuania,LTU,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,6.999468942
+1382,Lithuania,LTU,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,3.816799763
+1383,Lithuania,LTU,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,1.956147043
+1384,Lithuania,LTU,2002,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.580591466
+1385,Lithuania,LTU,2001,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.069869373
+1386,Lithuania,LTU,2019,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.3399963378906
+1387,Lithuania,LTU,2018,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.3300018310547
+1388,Lithuania,LTU,2017,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.9899978637695
+1389,Lithuania,LTU,2016,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.6699981689453
+1390,Lithuania,LTU,2015,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.7300033569336
+1391,Lithuania,LTU,2014,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.9000015258789
+1392,Lithuania,LTU,2013,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.2300033569336
+1393,Lithuania,LTU,2012,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.9499969482422
+1394,Lithuania,LTU,2011,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.4100036621094
+1395,Lithuania,LTU,2010,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.129997253418
+1396,Lithuania,LTU,2009,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.0199966430664
+1397,Lithuania,LTU,2008,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.3199996948242
+1398,Lithuania,LTU,2007,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.4300003051758
+1399,Lithuania,LTU,2006,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.0100021362305
+1400,Lithuania,LTU,2005,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.8399963378906
+1401,Lithuania,LTU,2004,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,81.1600036621094
+1402,Lithuania,LTU,2003,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.0699996948242
+1403,Lithuania,LTU,2002,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.2300033569336
+1404,Lithuania,LTU,2001,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.8300018310547
+1405,Lithuania,LTU,2000,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.3300018310547
+1406,Lithuania,LTU,1999,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.5400009155273
+1407,Lithuania,LTU,1998,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.4400024414063
+1408,Lithuania,LTU,1997,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.3000030517578
+1409,Lithuania,LTU,1996,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.0299987792969
+1410,Lithuania,LTU,1995,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.0100021362305
+1411,Lithuania,LTU,1994,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.120002746582
+1412,Lithuania,LTU,1993,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.4000015258789
+1413,Lithuania,LTU,1992,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.6900024414063
+1414,Lithuania,LTU,1991,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.8600006103516
+1415,Lithuania,LTU,2019,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.4400005340576
+1416,Lithuania,LTU,2018,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.7800006866455
+1417,Lithuania,LTU,2017,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.8299999237061
+1418,Lithuania,LTU,2016,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.6000003814697
+1419,Lithuania,LTU,2015,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21
+1420,Lithuania,LTU,2014,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.0799999237061
+1421,Lithuania,LTU,2013,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.6100006103516
+1422,Lithuania,LTU,2012,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.0599994659424
+1423,Lithuania,LTU,2011,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.6200008392334
+1424,Lithuania,LTU,2010,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.3500003814697
+1425,Lithuania,LTU,2009,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.1499996185303
+1426,Lithuania,LTU,2008,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,16.4400005340576
+1427,Lithuania,LTU,2007,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.0100002288818
+1428,Lithuania,LTU,2006,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.3899993896484
+1429,Lithuania,LTU,2005,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.3199996948242
+1430,Lithuania,LTU,2004,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.4899997711182
+1431,Lithuania,LTU,2003,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.7700004577637
+1432,Lithuania,LTU,2002,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.8299999237061
+1433,Lithuania,LTU,2001,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.9500007629395
+1434,Lithuania,LTU,2000,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.0200004577637
+1435,Lithuania,LTU,1999,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.0900001525879
+1436,Lithuania,LTU,1998,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.0699996948242
+1437,Lithuania,LTU,2019,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.64999961853027
+1438,Lithuania,LTU,2018,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.03999996185303
+1439,Lithuania,LTU,2017,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.14999961853027
+1440,Lithuania,LTU,2016,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.40999984741211
+1441,Lithuania,LTU,2015,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.19999980926514
+1442,Lithuania,LTU,2014,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.90999984741211
+1443,Lithuania,LTU,2013,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.1400003433228
+1444,Lithuania,LTU,2012,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.1700000762939
+1445,Lithuania,LTU,2011,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.8199996948242
+1446,Lithuania,LTU,2010,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.1700000762939
+1447,Lithuania,LTU,2009,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.1199998855591
+1448,Lithuania,LTU,2008,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.85000038146973
+1449,Lithuania,LTU,2007,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7.07000017166138
+1450,Lithuania,LTU,2006,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.31999969482422
+1451,Lithuania,LTU,2005,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.77000045776367
+1452,Lithuania,LTU,2004,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.88000011444092
+1453,Lithuania,LTU,2018,Gini index (World Bank estimate),SI.POV.GINI,35.7
+1454,Lithuania,LTU,2017,Gini index (World Bank estimate),SI.POV.GINI,37.3
+1455,Lithuania,LTU,2016,Gini index (World Bank estimate),SI.POV.GINI,38.4
+1456,Lithuania,LTU,2015,Gini index (World Bank estimate),SI.POV.GINI,37.4
+1457,Lithuania,LTU,2014,Gini index (World Bank estimate),SI.POV.GINI,37.7
+1458,Lithuania,LTU,2013,Gini index (World Bank estimate),SI.POV.GINI,35.3
+1459,Lithuania,LTU,2012,Gini index (World Bank estimate),SI.POV.GINI,35.1
+1460,Lithuania,LTU,2011,Gini index (World Bank estimate),SI.POV.GINI,32.5
+1461,Lithuania,LTU,2010,Gini index (World Bank estimate),SI.POV.GINI,33.6
+1462,Lithuania,LTU,2009,Gini index (World Bank estimate),SI.POV.GINI,37.2
+1463,Lithuania,LTU,2008,Gini index (World Bank estimate),SI.POV.GINI,35.7
+1464,Lithuania,LTU,2007,Gini index (World Bank estimate),SI.POV.GINI,34.8
+1465,Lithuania,LTU,2006,Gini index (World Bank estimate),SI.POV.GINI,34.4
+1466,Lithuania,LTU,2005,Gini index (World Bank estimate),SI.POV.GINI,35.3
+1467,Lithuania,LTU,2004,Gini index (World Bank estimate),SI.POV.GINI,37
+1468,Lithuania,LTU,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.4
+1469,Lithuania,LTU,2017,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.8
+1470,Lithuania,LTU,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.5
+1471,Lithuania,LTU,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.2
+1472,Lithuania,LTU,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.8
+1473,Lithuania,LTU,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.9
+1474,Lithuania,LTU,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,5.5
+1475,Lithuania,LTU,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,5.3
+1476,Lithuania,LTU,2010,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,8.2
+1477,Lithuania,LTU,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,8.9
+1478,Lithuania,LTU,2008,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.5
+1479,Lithuania,LTU,2007,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.3
+1480,Lithuania,LTU,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,7.1
+1481,Lithuania,LTU,2005,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,12.1
+1482,Lithuania,LTU,2004,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,18.7
+1483,Lithuania,LTU,2020,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1484,Lithuania,LTU,2019,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1485,Lithuania,LTU,2018,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1486,Lithuania,LTU,2017,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1487,Lithuania,LTU,2016,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1488,Lithuania,LTU,2015,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1489,Lithuania,LTU,2014,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1490,Lithuania,LTU,2013,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1491,Lithuania,LTU,2012,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1492,Lithuania,LTU,2011,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1493,Lithuania,LTU,2010,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1494,Lithuania,LTU,2009,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1495,Lithuania,LTU,2008,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1496,Lithuania,LTU,2007,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1497,Lithuania,LTU,2006,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1498,Lithuania,LTU,2005,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1499,Lithuania,LTU,2004,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1500,Lithuania,LTU,2003,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1501,Lithuania,LTU,2002,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1502,Lithuania,LTU,2001,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1503,Lithuania,LTU,2000,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1504,Lithuania,LTU,1999,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1505,Lithuania,LTU,1998,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1506,Lithuania,LTU,1997,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1507,Lithuania,LTU,1996,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1508,Lithuania,LTU,1995,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1509,Lithuania,LTU,1994,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1510,Lithuania,LTU,1993,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1511,Lithuania,LTU,1992,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1512,Lithuania,LTU,1991,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1513,Lithuania,LTU,1990,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1514,Lithuania,LTU,1989,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1515,Lithuania,LTU,1988,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1516,Lithuania,LTU,1987,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1517,Lithuania,LTU,1986,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1518,Lithuania,LTU,1985,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1519,Lithuania,LTU,1984,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1520,Lithuania,LTU,1983,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1521,Lithuania,LTU,1982,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1522,Lithuania,LTU,1981,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1523,Lithuania,LTU,1980,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1524,Lithuania,LTU,1979,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1525,Lithuania,LTU,1978,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1526,Lithuania,LTU,1977,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1527,Lithuania,LTU,1976,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1528,Lithuania,LTU,1975,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1529,Lithuania,LTU,1974,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1530,Lithuania,LTU,1973,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1531,Lithuania,LTU,1972,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1532,Lithuania,LTU,1971,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1533,Lithuania,LTU,1970,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1534,Lithuania,LTU,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1535,Lithuania,LTU,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1536,Lithuania,LTU,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1537,Lithuania,LTU,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1538,Lithuania,LTU,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1539,Lithuania,LTU,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1540,Lithuania,LTU,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1541,Lithuania,LTU,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1542,Lithuania,LTU,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1543,Lithuania,LTU,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1544,Lithuania,LTU,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1545,Lithuania,LTU,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1546,Lithuania,LTU,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1547,Lithuania,LTU,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1548,Lithuania,LTU,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1549,Lithuania,LTU,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1550,Lithuania,LTU,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1551,Lithuania,LTU,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1552,Lithuania,LTU,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1553,Lithuania,LTU,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1554,Lithuania,LTU,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1555,Lithuania,LTU,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1556,Lithuania,LTU,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1557,Lithuania,LTU,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1558,Lithuania,LTU,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1559,Lithuania,LTU,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1560,Lithuania,LTU,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1561,Lithuania,LTU,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1562,Lithuania,LTU,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1563,Lithuania,LTU,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1564,Lithuania,LTU,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1565,Lithuania,LTU,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1566,Lithuania,LTU,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1567,Lithuania,LTU,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1568,Lithuania,LTU,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1569,Lithuania,LTU,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1570,Lithuania,LTU,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1571,Lithuania,LTU,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1572,Lithuania,LTU,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1573,Lithuania,LTU,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1574,Lithuania,LTU,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1575,Lithuania,LTU,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1576,Lithuania,LTU,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1577,Lithuania,LTU,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1578,Lithuania,LTU,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1579,Lithuania,LTU,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1580,Lithuania,LTU,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1581,Lithuania,LTU,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1582,Lithuania,LTU,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1583,Lithuania,LTU,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1584,Lithuania,LTU,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1585,Lithuania,LTU,2018,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.94496
+1586,Lithuania,LTU,2017,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.89808
+1587,Lithuania,LTU,2016,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.84329
+1588,Lithuania,LTU,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.04095
+1589,Lithuania,LTU,2014,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.03048
+1590,Lithuania,LTU,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.95088
+1591,Lithuania,LTU,2012,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.89469
+1592,Lithuania,LTU,2011,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.9039
+1593,Lithuania,LTU,2010,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.78348
+1594,Lithuania,LTU,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.82967
+1595,Lithuania,LTU,2008,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.78844
+1596,Lithuania,LTU,2007,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.80093
+1597,Lithuania,LTU,2006,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.79119
+1598,Lithuania,LTU,2005,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.74741
+1599,Lithuania,LTU,2004,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.75066
+1600,Lithuania,LTU,2003,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.66339
+1601,Lithuania,LTU,2002,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.6567
+1602,Lithuania,LTU,2001,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.66679
+1603,Lithuania,LTU,2000,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.5848
+1604,Lithuania,LTU,1999,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.502
+1605,Lithuania,LTU,1998,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.54377
+1606,Lithuania,LTU,1997,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.53658
+1607,Lithuania,LTU,1996,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.49155
+1608,Lithuania,LTU,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.855
+1609,Lithuania,LTU,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.679
+1610,Lithuania,LTU,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.516
+1611,Lithuania,LTU,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.366
+1612,Lithuania,LTU,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.23
+1613,Lithuania,LTU,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.108
+1614,Lithuania,LTU,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.986
+1615,Lithuania,LTU,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.864
+1616,Lithuania,LTU,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.741
+1617,Lithuania,LTU,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.757
+1618,Lithuania,LTU,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.842
+1619,Lithuania,LTU,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.848
+1620,Lithuania,LTU,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.777
+1621,Lithuania,LTU,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.706
+1622,Lithuania,LTU,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.635
+1623,Lithuania,LTU,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.646
+1624,Lithuania,LTU,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.737
+1625,Lithuania,LTU,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.828
+1626,Lithuania,LTU,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.919
+1627,Lithuania,LTU,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.986
+1628,Lithuania,LTU,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.046
+1629,Lithuania,LTU,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.106
+1630,Lithuania,LTU,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.166
+1631,Lithuania,LTU,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.225
+1632,Lithuania,LTU,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.285
+1633,Lithuania,LTU,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.345
+1634,Lithuania,LTU,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.404
+1635,Lithuania,LTU,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.464
+1636,Lithuania,LTU,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.523
+1637,Lithuania,LTU,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.583
+1638,Lithuania,LTU,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.642
+1639,Lithuania,LTU,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.28
+1640,Lithuania,LTU,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.54
+1641,Lithuania,LTU,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.793
+1642,Lithuania,LTU,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.038
+1643,Lithuania,LTU,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.277
+1644,Lithuania,LTU,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.506
+1645,Lithuania,LTU,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.73
+1646,Lithuania,LTU,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.946
+1647,Lithuania,LTU,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.158
+1648,Lithuania,LTU,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.361
+1649,Lithuania,LTU,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.342
+1650,Lithuania,LTU,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.132
+1651,Lithuania,LTU,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.915
+1652,Lithuania,LTU,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.685
+1653,Lithuania,LTU,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.451
+1654,Lithuania,LTU,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.21
+1655,Lithuania,LTU,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.968
+1656,Lithuania,LTU,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.719
+1657,Lithuania,LTU,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.555
+1658,Lithuania,LTU,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.53
+1659,Lithuania,LTU,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.507
+1660,Lithuania,LTU,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.484
+1661,Lithuania,LTU,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.465
+1662,Lithuania,LTU,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.45
+1663,Lithuania,LTU,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.441
+1664,Lithuania,LTU,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.434
+1665,Lithuania,LTU,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.435
+1666,Lithuania,LTU,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.443
+1667,Lithuania,LTU,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.46
+1668,Lithuania,LTU,2016,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,27.8
+1669,Lithuania,LTU,2015,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,27.6
+1670,Lithuania,LTU,2014,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,27.4
+1671,Lithuania,LTU,2013,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,27.2
+1672,Lithuania,LTU,2012,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,27
+1673,Lithuania,LTU,2011,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,26.8
+1674,Lithuania,LTU,2010,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,26.6
+1675,Lithuania,LTU,2009,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,26.4
+1676,Lithuania,LTU,2008,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,26.3
+1677,Lithuania,LTU,2007,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,26.1
+1678,Lithuania,LTU,2006,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.9
+1679,Lithuania,LTU,2005,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.8
+1680,Lithuania,LTU,2004,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.6
+1681,Lithuania,LTU,2003,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.5
+1682,Lithuania,LTU,2002,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.3
+1683,Lithuania,LTU,2001,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.2
+1684,Lithuania,LTU,2000,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.1
+1685,Lithuania,LTU,1999,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.9
+1686,Lithuania,LTU,1998,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.8
+1687,Lithuania,LTU,1997,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.7
+1688,Lithuania,LTU,1996,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.6
+1689,Lithuania,LTU,1995,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.4
+1690,Lithuania,LTU,1994,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.3
+1691,Lithuania,LTU,1993,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.1
+1692,Lithuania,LTU,1992,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.9
+1693,Lithuania,LTU,1991,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.7
+1694,Lithuania,LTU,1990,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.5
+1695,Lithuania,LTU,1989,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.2
+1696,Lithuania,LTU,1988,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.9
+1697,Lithuania,LTU,1987,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.6
+1698,Lithuania,LTU,1986,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.3
+1699,Lithuania,LTU,1985,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.9
+1700,Lithuania,LTU,1984,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.5
+1701,Lithuania,LTU,1983,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.1
+1702,Lithuania,LTU,1982,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.7
+1703,Lithuania,LTU,1981,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.3
+1704,Lithuania,LTU,1980,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.8
+1705,Lithuania,LTU,1979,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.3
+1706,Lithuania,LTU,1978,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.8
+1707,Lithuania,LTU,1977,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.4
+1708,Lithuania,LTU,1976,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.9
+1709,Lithuania,LTU,1975,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.4
+1710,Lithuania,LTU,2016,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,24.2
+1711,Lithuania,LTU,2015,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,23.7
+1712,Lithuania,LTU,2014,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,23.2
+1713,Lithuania,LTU,2013,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22.7
+1714,Lithuania,LTU,2012,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22.3
+1715,Lithuania,LTU,2011,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.8
+1716,Lithuania,LTU,2010,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.4
+1717,Lithuania,LTU,2009,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.9
+1718,Lithuania,LTU,2008,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.5
+1719,Lithuania,LTU,2007,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.1
+1720,Lithuania,LTU,2006,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.6
+1721,Lithuania,LTU,2005,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.2
+1722,Lithuania,LTU,2004,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.8
+1723,Lithuania,LTU,2003,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.4
+1724,Lithuania,LTU,2002,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18
+1725,Lithuania,LTU,2001,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.6
+1726,Lithuania,LTU,2000,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.3
+1727,Lithuania,LTU,1999,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.9
+1728,Lithuania,LTU,1998,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.5
+1729,Lithuania,LTU,1997,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.2
+1730,Lithuania,LTU,1996,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.8
+1731,Lithuania,LTU,1995,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.4
+1732,Lithuania,LTU,1994,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.1
+1733,Lithuania,LTU,1993,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.7
+1734,Lithuania,LTU,1992,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.3
+1735,Lithuania,LTU,1991,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.9
+1736,Lithuania,LTU,1990,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.5
+1737,Lithuania,LTU,1989,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.1
+1738,Lithuania,LTU,1988,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.6
+1739,Lithuania,LTU,1987,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.2
+1740,Lithuania,LTU,1986,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.8
+1741,Lithuania,LTU,1985,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.3
+1742,Lithuania,LTU,1984,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.9
+1743,Lithuania,LTU,1983,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.4
+1744,Lithuania,LTU,1982,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10
+1745,Lithuania,LTU,1981,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.6
+1746,Lithuania,LTU,1980,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.1
+1747,Lithuania,LTU,1979,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.7
+1748,Lithuania,LTU,1978,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.3
+1749,Lithuania,LTU,1977,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.9
+1750,Lithuania,LTU,1976,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.5
+1751,Lithuania,LTU,1975,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.1

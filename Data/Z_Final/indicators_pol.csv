@@ -1,0 +1,2012 @@
+,Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+0,Poland,POL,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.23
+1,Poland,POL,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,103.12
+2,Poland,POL,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.32
+3,Poland,POL,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,92.32
+4,Poland,POL,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,105.36
+5,Poland,POL,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,95.75
+6,Poland,POL,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,96.61
+7,Poland,POL,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,92.34
+8,Poland,POL,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,88.43
+9,Poland,POL,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,99.26
+10,Poland,POL,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,95.14
+11,Poland,POL,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,90.45
+12,Poland,POL,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,81.3
+13,Poland,POL,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,89.49
+14,Poland,POL,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.23
+15,Poland,POL,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,87.6
+16,Poland,POL,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,95.64
+17,Poland,POL,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,104.16
+18,Poland,POL,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.12
+19,Poland,POL,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,100.75
+20,Poland,POL,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,113.82
+21,Poland,POL,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,100.86
+22,Poland,POL,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,111.46
+23,Poland,POL,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,109.71
+24,Poland,POL,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,96.21
+25,Poland,POL,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,124.32
+26,Poland,POL,1992,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,95.73
+27,Poland,POL,1991,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,117.78
+28,Poland,POL,1990,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,128.52
+29,Poland,POL,1989,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,126.05
+30,Poland,POL,1988,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,122.65
+31,Poland,POL,1987,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,122.82
+32,Poland,POL,1986,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,131.62
+33,Poland,POL,1985,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,122.02
+34,Poland,POL,1984,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,125.91
+35,Poland,POL,1983,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,116.28
+36,Poland,POL,1982,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,109.53
+37,Poland,POL,1981,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,120.67
+38,Poland,POL,1980,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,89.71
+39,Poland,POL,1979,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,127.74
+40,Poland,POL,1978,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,130.11
+41,Poland,POL,1977,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,116.72
+42,Poland,POL,1976,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,134.3
+43,Poland,POL,1975,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,124.98
+44,Poland,POL,1974,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,129.04
+45,Poland,POL,1973,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,134.87
+46,Poland,POL,1972,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,125.61
+47,Poland,POL,1971,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,111.04
+48,Poland,POL,1970,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,123.48
+49,Poland,POL,1969,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,116
+50,Poland,POL,1968,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,127.02
+51,Poland,POL,1967,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,121.2
+52,Poland,POL,1966,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,117.19
+53,Poland,POL,1965,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,109.15
+54,Poland,POL,1964,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,115.47
+55,Poland,POL,1963,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,109.07
+56,Poland,POL,1962,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,93.63
+57,Poland,POL,1961,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,110.47
+58,Poland,POL,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.34637882484795
+59,Poland,POL,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.33842629580661
+60,Poland,POL,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.87229845690723
+61,Poland,POL,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.53723261820447
+62,Poland,POL,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.37464410875059
+63,Poland,POL,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.84816192197022
+64,Poland,POL,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.09116767594327
+65,Poland,POL,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.91436343275584
+66,Poland,POL,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.08506431236907
+67,Poland,POL,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.85773725432735
+68,Poland,POL,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.55891838705563
+69,Poland,POL,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.5926222666815
+70,Poland,POL,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.0455373774324
+71,Poland,POL,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.69199228374715
+72,Poland,POL,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.91894238438008
+73,Poland,POL,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.29260490134403
+74,Poland,POL,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.60980319942584
+75,Poland,POL,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.7257594673325
+76,Poland,POL,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.25341501737577
+77,Poland,POL,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.12672432106006
+78,Poland,POL,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.25278341956622
+79,Poland,POL,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.8766074290524
+80,Poland,POL,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.50206857488394
+81,Poland,POL,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.16558346087146
+82,Poland,POL,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.57758071060106
+83,Poland,POL,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.9900002479553
+84,Poland,POL,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.2299997806549
+85,Poland,POL,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.3800003528595
+86,Poland,POL,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,16.7599999904633
+87,Poland,POL,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,17.3100004196167
+88,Poland,POL,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,17.2200000286102
+89,Poland,POL,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,17.6299998760224
+90,Poland,POL,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.2199997901916
+91,Poland,POL,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.6500000953674
+92,Poland,POL,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.75
+93,Poland,POL,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.6199998855591
+94,Poland,POL,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.8599996566773
+95,Poland,POL,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,19.4199995994568
+96,Poland,POL,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,20.3999996185302
+97,Poland,POL,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,21.7999992370605
+98,Poland,POL,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,22.5099992752075
+99,Poland,POL,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,23.1900010108948
+100,Poland,POL,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,24.4399995803833
+101,Poland,POL,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,24.2500004768372
+102,Poland,POL,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,23.489999294281
+103,Poland,POL,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,22.9800000190735
+104,Poland,POL,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,23.409999370575
+105,Poland,POL,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,25.0399990081787
+106,Poland,POL,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,25.840000629425
+107,Poland,POL,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,25.9300003051758
+108,Poland,POL,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,27.0400009155273
+109,Poland,POL,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,27.3399991989135
+110,Poland,POL,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,26.510000705719
+111,Poland,POL,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,26.3299999237061
+112,Poland,POL,2019,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,2931000000
+113,Poland,POL,2018,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-7530000000
+114,Poland,POL,2017,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1960000000
+115,Poland,POL,2016,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3719000000
+116,Poland,POL,2015,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4347000000
+117,Poland,POL,2014,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-14212000000
+118,Poland,POL,2013,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-9465000000
+119,Poland,POL,2012,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-20193000000
+120,Poland,POL,2011,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-28346000000
+121,Poland,POL,2010,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-26660000000
+122,Poland,POL,2009,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-18562000000
+123,Poland,POL,2008,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-37306000000
+124,Poland,POL,2007,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-28734000000
+125,Poland,POL,2006,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-14903000000
+126,Poland,POL,2005,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-8845000000
+127,Poland,POL,2004,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-14625000000
+128,Poland,POL,2003,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-5473000000
+129,Poland,POL,2002,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-5544000000
+130,Poland,POL,2001,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-5946000000
+131,Poland,POL,2000,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-10343000000
+132,Poland,POL,1999,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-12487000000
+133,Poland,POL,1998,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-6901000000
+134,Poland,POL,1997,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-5744000000
+135,Poland,POL,1996,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3264000000
+136,Poland,POL,1995,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,854000000
+137,Poland,POL,1994,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,634000000
+138,Poland,POL,1993,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-5788000000
+139,Poland,POL,1992,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3104000000
+140,Poland,POL,1991,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2146000000
+141,Poland,POL,1990,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,3067000000
+142,Poland,POL,1989,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1409000000
+143,Poland,POL,1988,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-107000000
+144,Poland,POL,1987,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-379000000
+145,Poland,POL,1986,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1106000000
+146,Poland,POL,1985,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-982000000
+147,Poland,POL,1984,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1083000000
+148,Poland,POL,1983,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1581000000
+149,Poland,POL,1982,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1941000000
+150,Poland,POL,1981,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3986000000
+151,Poland,POL,1980,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3417000000
+152,Poland,POL,1979,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3365000000
+153,Poland,POL,1978,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2545000000
+154,Poland,POL,1977,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2392000000
+155,Poland,POL,1976,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2793000000
+156,Poland,POL,2019,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-9627000000
+157,Poland,POL,2018,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-15285000000
+158,Poland,POL,2017,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-7836000000
+159,Poland,POL,2016,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4398000000
+160,Poland,POL,2015,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-10152000000
+161,Poland,POL,2014,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-12977000000
+162,Poland,POL,2013,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4206000000
+163,Poland,POL,2012,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-6031000000
+164,Poland,POL,2011,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-13656000000
+165,Poland,POL,2010,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-8879000000
+166,Poland,POL,2009,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-8094000000
+167,Poland,POL,2008,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-9908000000
+168,Poland,POL,2007,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-17445000000
+169,Poland,POL,2006,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-10670000000
+170,Poland,POL,2005,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-6907000000
+171,Poland,POL,2004,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-11729000000
+172,Poland,POL,2003,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4284000000
+173,Poland,POL,2002,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3901000000
+174,Poland,POL,2001,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-5804000000
+175,Poland,POL,2000,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-9327000000
+176,Poland,POL,1999,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-7239000000
+177,Poland,POL,1998,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-6049000000
+178,Poland,POL,1997,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4863000000
+179,Poland,POL,1996,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4445000000
+180,Poland,POL,1995,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3617000000
+181,Poland,POL,1994,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1846000000
+182,Poland,POL,1993,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1697000000
+183,Poland,POL,1992,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-665000000
+184,Poland,POL,1991,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-298000000
+185,Poland,POL,1990,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-89000000
+186,Poland,POL,1989,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,7000000
+187,Poland,POL,1988,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,7000000
+188,Poland,POL,1987,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4000000
+189,Poland,POL,1986,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,6000000
+190,Poland,POL,1985,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-14000000
+191,Poland,POL,1984,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-16000000
+192,Poland,POL,1983,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-15000000
+193,Poland,POL,1982,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-10000000
+194,Poland,POL,1981,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-15000000
+195,Poland,POL,1980,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,11000000
+196,Poland,POL,1979,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-17000000
+197,Poland,POL,1978,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-9000000
+198,Poland,POL,1977,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,12000000
+199,Poland,POL,1976,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,6000000
+200,Poland,POL,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.3744697261859
+201,Poland,POL,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.227478809383
+202,Poland,POL,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.81295156542681
+203,Poland,POL,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.07593553673862
+204,Poland,POL,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.664767331434023
+205,Poland,POL,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.874125874125849
+206,Poland,POL,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.0538213132400467
+207,Poland,POL,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.99198260633235
+208,Poland,POL,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.56037151702788
+209,Poland,POL,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.23940149625935
+210,Poland,POL,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.58069370250546
+211,Poland,POL,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.79539242483406
+212,Poland,POL,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.1649719352477
+213,Poland,POL,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.45874312385397
+214,Poland,POL,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.28469394366409
+215,Poland,POL,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.18379872390258
+216,Poland,POL,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.38264681884694
+217,Poland,POL,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.682701375787657
+218,Poland,POL,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.90528215048054
+219,Poland,POL,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.40833545566151
+220,Poland,POL,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.90017538843062
+221,Poland,POL,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.1540729117986
+222,Poland,POL,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.5978554257236
+223,Poland,POL,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,14.9131586149599
+224,Poland,POL,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,19.7949669196707
+225,Poland,POL,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,27.951388563304
+226,Poland,POL,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,32.9912766093522
+227,Poland,POL,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,36.9641666120718
+228,Poland,POL,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,46.0985621037432
+229,Poland,POL,1991,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,76.7694992087346
+230,Poland,POL,1990,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,567.878800666191
+231,Poland,POL,1989,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,244.550932984827
+232,Poland,POL,1988,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,58.7208297320654
+233,Poland,POL,1987,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,26.3790278536324
+234,Poland,POL,1986,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,16.5499681731381
+235,Poland,POL,1985,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.5212607368496
+236,Poland,POL,1984,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,15.4009994265581
+237,Poland,POL,1983,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,25.534759358289
+238,Poland,POL,1982,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,103.55871886121
+239,Poland,POL,1981,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,19.1271820448877
+240,Poland,POL,1980,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.68271334792131
+241,Poland,POL,1979,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.02576112412187
+242,Poland,POL,1978,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.10126582278465
+243,Poland,POL,1977,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.90278951821563
+244,Poland,POL,1976,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.41306266552888
+245,Poland,POL,1975,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.25631768955089
+246,Poland,POL,1974,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.05314009565231
+247,Poland,POL,1973,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.47524752475231
+248,Poland,POL,1972,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0989119673600669
+249,Poland,POL,1971,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.09999999900013
+250,Poland,POL,1994,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,60.4543984704576
+251,Poland,POL,2019,Trade (% of GDP),NE.TRD.GNFS.ZS,106.363796903317
+252,Poland,POL,2018,Trade (% of GDP),NE.TRD.GNFS.ZS,107.420264852903
+253,Poland,POL,2017,Trade (% of GDP),NE.TRD.GNFS.ZS,104.554498237291
+254,Poland,POL,2016,Trade (% of GDP),NE.TRD.GNFS.ZS,100.080923558898
+255,Poland,POL,2015,Trade (% of GDP),NE.TRD.GNFS.ZS,95.4263255144599
+256,Poland,POL,2014,Trade (% of GDP),NE.TRD.GNFS.ZS,93.4705395606939
+257,Poland,POL,2013,Trade (% of GDP),NE.TRD.GNFS.ZS,90.5642354152851
+258,Poland,POL,2012,Trade (% of GDP),NE.TRD.GNFS.ZS,89.2652771087603
+259,Poland,POL,2011,Trade (% of GDP),NE.TRD.GNFS.ZS,86.9512301860852
+260,Poland,POL,2010,Trade (% of GDP),NE.TRD.GNFS.ZS,81.9294270840533
+261,Poland,POL,2009,Trade (% of GDP),NE.TRD.GNFS.ZS,75.2677975984403
+262,Poland,POL,2008,Trade (% of GDP),NE.TRD.GNFS.ZS,80.905760942025
+263,Poland,POL,2007,Trade (% of GDP),NE.TRD.GNFS.ZS,80.8314554512475
+264,Poland,POL,2006,Trade (% of GDP),NE.TRD.GNFS.ZS,77.9707152682127
+265,Poland,POL,2005,Trade (% of GDP),NE.TRD.GNFS.ZS,70.5305240628754
+266,Poland,POL,2004,Trade (% of GDP),NE.TRD.GNFS.ZS,71.4456574975002
+267,Poland,POL,2003,Trade (% of GDP),NE.TRD.GNFS.ZS,69.4462150830075
+268,Poland,POL,2002,Trade (% of GDP),NE.TRD.GNFS.ZS,60.9873752483951
+269,Poland,POL,2001,Trade (% of GDP),NE.TRD.GNFS.ZS,58.1567606852042
+270,Poland,POL,2000,Trade (% of GDP),NE.TRD.GNFS.ZS,60.868583521603
+271,Poland,POL,1999,Trade (% of GDP),NE.TRD.GNFS.ZS,54.1116036351237
+272,Poland,POL,1998,Trade (% of GDP),NE.TRD.GNFS.ZS,56.7391365221387
+273,Poland,POL,1997,Trade (% of GDP),NE.TRD.GNFS.ZS,50.545751671508
+274,Poland,POL,1996,Trade (% of GDP),NE.TRD.GNFS.ZS,45.552296033545
+275,Poland,POL,1995,Trade (% of GDP),NE.TRD.GNFS.ZS,43.7219613980177
+276,Poland,POL,2019,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.6480313742221
+277,Poland,POL,2018,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.5367101017885
+278,Poland,POL,2017,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.351496480864
+279,Poland,POL,2016,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.523468637023
+280,Poland,POL,2015,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.1268327566526
+281,Poland,POL,2014,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.1986998931771
+282,Poland,POL,2013,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.3687491042822
+283,Poland,POL,2012,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.4812503310867
+284,Poland,POL,2011,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.5788982086579
+285,Poland,POL,2010,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.8583288868738
+286,Poland,POL,2009,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.5082086696671
+287,Poland,POL,2008,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.6650834531893
+288,Poland,POL,2007,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.6670068749011
+289,Poland,POL,2006,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.7629589940819
+290,Poland,POL,2005,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.6372951854058
+291,Poland,POL,2004,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.7654687484929
+292,Poland,POL,2003,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.4574102404291
+293,Poland,POL,2002,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.6399003218364
+294,Poland,POL,2001,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.3866736272116
+295,Poland,POL,2000,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.7931723232191
+296,Poland,POL,1999,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.2127407231702
+297,Poland,POL,1998,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,31.1783997114164
+298,Poland,POL,1997,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,31.411529673812
+299,Poland,POL,1996,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,32.1528049511805
+300,Poland,POL,1995,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,33.4817133252188
+301,Poland,POL,2019,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.19195130303182
+302,Poland,POL,2018,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.12552055345201
+303,Poland,POL,2017,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.23438627958105
+304,Poland,POL,2016,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.36566072422059
+305,Poland,POL,2015,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.15714804313402
+306,Poland,POL,2014,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.84275211727054
+307,Poland,POL,2013,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.94067409262644
+308,Poland,POL,2012,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.9411425232335
+309,Poland,POL,2011,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.85527232228254
+310,Poland,POL,2010,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.95131174979167
+311,Poland,POL,2009,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.92625239272009
+312,Poland,POL,2008,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.60930437134275
+313,Poland,POL,2007,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.94841833288478
+314,Poland,POL,2006,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.31455137704443
+315,Poland,POL,2005,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.33745259743548
+316,Poland,POL,2004,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.71613769792028
+317,Poland,POL,2003,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.94047844910082
+318,Poland,POL,2002,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.99447688329679
+319,Poland,POL,2001,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.07159407347395
+320,Poland,POL,2000,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.24020963681496
+321,Poland,POL,1999,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.32376023881695
+322,Poland,POL,1998,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.21704860018627
+323,Poland,POL,1997,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.66351335192259
+324,Poland,POL,1996,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.56510807537082
+325,Poland,POL,1995,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.75556136170113
+326,Poland,POL,1994,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,4.51917611487716
+327,Poland,POL,1993,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,5.35961408280187
+328,Poland,POL,1992,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,5.27128021442426
+329,Poland,POL,1991,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,5.60896772568125
+330,Poland,POL,1990,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,7.13413761735689
+331,Poland,POL,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0989059683026784
+332,Poland,POL,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.129192258107317
+333,Poland,POL,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.104036688342382
+334,Poland,POL,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0804893072745649
+335,Poland,POL,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0968449431881553
+336,Poland,POL,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.137805720768102
+337,Poland,POL,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.180321343574618
+338,Poland,POL,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.2172256924036
+339,Poland,POL,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.285063222858033
+340,Poland,POL,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.22458379943508
+341,Poland,POL,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.189593843670676
+342,Poland,POL,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.347778093972018
+343,Poland,POL,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.184617962843521
+344,Poland,POL,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.204811765066281
+345,Poland,POL,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.180992890065046
+346,Poland,POL,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.228576040837347
+347,Poland,POL,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.11518384145026
+348,Poland,POL,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.109962556221754
+349,Poland,POL,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.159480562863482
+350,Poland,POL,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.095606641186131
+351,Poland,POL,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.026802629084105
+352,Poland,POL,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0392609317301455
+353,Poland,POL,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0650419356105256
+354,Poland,POL,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0725240981519488
+355,Poland,POL,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0839260804993656
+356,Poland,POL,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0710985229455537
+357,Poland,POL,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.112178770048267
+358,Poland,POL,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.153018496727262
+359,Poland,POL,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.233360589653576
+360,Poland,POL,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.337603694268661
+361,Poland,POL,2019,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.163500758240476
+362,Poland,POL,2018,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.170659290049139
+363,Poland,POL,2017,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.170659290049139
+364,Poland,POL,2016,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.168447089312709
+365,Poland,POL,2015,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.169866406059232
+366,Poland,POL,2014,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.176376291905002
+367,Poland,POL,2013,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.189982346911237
+368,Poland,POL,2012,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.20187895117372
+369,Poland,POL,2011,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.205982013196682
+370,Poland,POL,2010,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.212832874666943
+371,Poland,POL,2009,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.221614176475192
+372,Poland,POL,2008,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.229992601045525
+373,Poland,POL,2007,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.24231807841701
+374,Poland,POL,2006,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.254817394776232
+375,Poland,POL,2005,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.272918735226754
+376,Poland,POL,2004,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.275066117913357
+377,Poland,POL,2003,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.279489999917157
+378,Poland,POL,2002,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.297391041522516
+379,Poland,POL,2001,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.326524906554817
+380,Poland,POL,2000,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.343064596204612
+381,Poland,POL,1999,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.389356487121028
+382,Poland,POL,1998,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.411837591085528
+383,Poland,POL,1997,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.437625970222185
+384,Poland,POL,1996,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.455970006462685
+385,Poland,POL,1995,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.509603226728837
+386,Poland,POL,1994,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.578025241265227
+387,Poland,POL,1993,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.646256814711668
+388,Poland,POL,1992,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.747598648930035
+389,Poland,POL,1991,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.831126612541825
+390,Poland,POL,1990,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.802360702931463
+391,Poland,POL,2019,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,9.09478433396099
+392,Poland,POL,2018,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.33562964389049
+393,Poland,POL,2017,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.43726430319844
+394,Poland,POL,2016,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.72733452804376
+395,Poland,POL,2015,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.31097744065074
+396,Poland,POL,2014,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.52934751741223
+397,Poland,POL,2013,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.96366805540351
+398,Poland,POL,2012,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.85350931615325
+399,Poland,POL,2011,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.51034837362179
+400,Poland,POL,2010,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.65266694300387
+401,Poland,POL,2009,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.75963246009005
+402,Poland,POL,2008,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.8453483885333
+403,Poland,POL,2007,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.72386187533403
+404,Poland,POL,2006,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.12087160548981
+405,Poland,POL,2005,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.35192879555047
+406,Poland,POL,2004,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.587769485173231
+407,Poland,POL,2003,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.84848732645856
+408,Poland,POL,2002,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.25726543448231
+409,Poland,POL,2001,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.93813608037553
+410,Poland,POL,2000,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,4.51008614400202
+411,Poland,POL,1999,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.91104427797988
+412,Poland,POL,1998,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.08726418905222
+413,Poland,POL,1997,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.04139759615306
+414,Poland,POL,1996,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.96198201547773
+415,Poland,POL,1995,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.59909211154871
+416,Poland,POL,2019,GDP (current US$),NY.GDP.MKTP.CD,595858207011.512
+417,Poland,POL,2018,GDP (current US$),NY.GDP.MKTP.CD,587411745161.558
+418,Poland,POL,2017,GDP (current US$),NY.GDP.MKTP.CD,526508877305.321
+419,Poland,POL,2016,GDP (current US$),NY.GDP.MKTP.CD,472630364208.177
+420,Poland,POL,2015,GDP (current US$),NY.GDP.MKTP.CD,477811911394.084
+421,Poland,POL,2014,GDP (current US$),NY.GDP.MKTP.CD,542477096211.761
+422,Poland,POL,2013,GDP (current US$),NY.GDP.MKTP.CD,521016262734.924
+423,Poland,POL,2012,GDP (current US$),NY.GDP.MKTP.CD,498523568248.119
+424,Poland,POL,2011,GDP (current US$),NY.GDP.MKTP.CD,528301269069.799
+425,Poland,POL,2010,GDP (current US$),NY.GDP.MKTP.CD,479834179020.33
+426,Poland,POL,2009,GDP (current US$),NY.GDP.MKTP.CD,439737508413.192
+427,Poland,POL,2008,GDP (current US$),NY.GDP.MKTP.CD,533609081852.897
+428,Poland,POL,2007,GDP (current US$),NY.GDP.MKTP.CD,429028505365.078
+429,Poland,POL,2006,GDP (current US$),NY.GDP.MKTP.CD,344622003093.581
+430,Poland,POL,2005,GDP (current US$),NY.GDP.MKTP.CD,306144336269.51
+431,Poland,POL,2004,GDP (current US$),NY.GDP.MKTP.CD,255110181539.808
+432,Poland,POL,2003,GDP (current US$),NY.GDP.MKTP.CD,217827260805.842
+433,Poland,POL,2002,GDP (current US$),NY.GDP.MKTP.CD,199072058823.529
+434,Poland,POL,2001,GDP (current US$),NY.GDP.MKTP.CD,190905493539.168
+435,Poland,POL,2000,GDP (current US$),NY.GDP.MKTP.CD,172219461126.067
+436,Poland,POL,1999,GDP (current US$),NY.GDP.MKTP.CD,170031005016.259
+437,Poland,POL,1998,GDP (current US$),NY.GDP.MKTP.CD,174685791563.561
+438,Poland,POL,1997,GDP (current US$),NY.GDP.MKTP.CD,159357789772.207
+439,Poland,POL,1996,GDP (current US$),NY.GDP.MKTP.CD,160193242090.427
+440,Poland,POL,1995,GDP (current US$),NY.GDP.MKTP.CD,142292783505.155
+441,Poland,POL,1994,GDP (current US$),NY.GDP.MKTP.CD,110803391516.698
+442,Poland,POL,1993,GDP (current US$),NY.GDP.MKTP.CD,96045645026.178
+443,Poland,POL,1992,GDP (current US$),NY.GDP.MKTP.CD,94337050693.2727
+444,Poland,POL,1991,GDP (current US$),NY.GDP.MKTP.CD,85500935934.9901
+445,Poland,POL,1990,GDP (current US$),NY.GDP.MKTP.CD,65977749036.9844
+446,Poland,POL,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,15694.7386279643
+447,Poland,POL,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,15468.4822194105
+448,Poland,POL,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,13864.6817579973
+449,Poland,POL,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,12447.4395912808
+450,Poland,POL,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,12578.4954734362
+451,Poland,POL,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,14271.3058536202
+452,Poland,POL,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,13696.4663046143
+453,Poland,POL,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,13097.2708482174
+454,Poland,POL,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,13879.5609852546
+455,Poland,POL,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,12613.0109954681
+456,Poland,POL,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,11526.0558884824
+457,Poland,POL,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,13996.0251506835
+458,Poland,POL,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,11254.5173881254
+459,Poland,POL,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,9035.41046744936
+460,Poland,POL,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,8021.50574346795
+461,Poland,POL,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,6681.38647195042
+462,Poland,POL,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,5701.6022116161
+463,Poland,POL,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,5207.17142069402
+464,Poland,POL,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,4991.24435799511
+465,Poland,POL,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,4501.45406742273
+466,Poland,POL,1999,GDP per capita (current US$),NY.GDP.PCAP.CD,4398.08104335996
+467,Poland,POL,1998,GDP per capita (current US$),NY.GDP.PCAP.CD,4518.10822630174
+468,Poland,POL,1997,GDP per capita (current US$),NY.GDP.PCAP.CD,4123.13561806773
+469,Poland,POL,1996,GDP per capita (current US$),NY.GDP.PCAP.CD,4147.46550145483
+470,Poland,POL,1995,GDP per capita (current US$),NY.GDP.PCAP.CD,3686.81929987805
+471,Poland,POL,1994,GDP per capita (current US$),NY.GDP.PCAP.CD,2874.8253108452
+472,Poland,POL,1993,GDP per capita (current US$),NY.GDP.PCAP.CD,2497.19524116689
+473,Poland,POL,1992,GDP per capita (current US$),NY.GDP.PCAP.CD,2459.02068468253
+474,Poland,POL,1991,GDP per capita (current US$),NY.GDP.PCAP.CD,2235.54108862522
+475,Poland,POL,1990,GDP per capita (current US$),NY.GDP.PCAP.CD,1731.20953112388
+476,Poland,POL,2019,GNI (current US$),NY.GNP.MKTP.CD,572142261811.741
+477,Poland,POL,2018,GNI (current US$),NY.GNP.MKTP.CD,563086358224.659
+478,Poland,POL,2017,GNI (current US$),NY.GNP.MKTP.CD,504799566057.206
+479,Poland,POL,2016,GNI (current US$),NY.GNP.MKTP.CD,454018971289.439
+480,Poland,POL,2015,GNI (current US$),NY.GNP.MKTP.CD,460398726621.568
+481,Poland,POL,2014,GNI (current US$),NY.GNP.MKTP.CD,522164209858.932
+482,Poland,POL,2013,GNI (current US$),NY.GNP.MKTP.CD,503415174333.987
+483,Poland,POL,2012,GNI (current US$),NY.GNP.MKTP.CD,479854137878.09
+484,Poland,POL,2011,GNI (current US$),NY.GNP.MKTP.CD,509270959902.795
+485,Poland,POL,2010,GNI (current US$),NY.GNP.MKTP.CD,462730408251.252
+486,Poland,POL,2009,GNI (current US$),NY.GNP.MKTP.CD,426436332168.841
+487,Poland,POL,2008,GNI (current US$),NY.GNP.MKTP.CD,524093890087.996
+488,Poland,POL,2007,GNI (current US$),NY.GNP.MKTP.CD,414517504245.096
+489,Poland,POL,2006,GNI (current US$),NY.GNP.MKTP.CD,337276359886.569
+490,Poland,POL,2005,GNI (current US$),NY.GNP.MKTP.CD,300724462988.719
+491,Poland,POL,2004,GNI (current US$),NY.GNP.MKTP.CD,246979440069.991
+492,Poland,POL,2003,GNI (current US$),NY.GNP.MKTP.CD,215722660769.844
+493,Poland,POL,2002,GNI (current US$),NY.GNP.MKTP.CD,198401960784.314
+494,Poland,POL,2001,GNI (current US$),NY.GNP.MKTP.CD,190292874764.894
+495,Poland,POL,2000,GNI (current US$),NY.GNP.MKTP.CD,171490531741.101
+496,Poland,POL,1999,GNI (current US$),NY.GNP.MKTP.CD,168707675783.318
+497,Poland,POL,1998,GNI (current US$),NY.GNP.MKTP.CD,173210271853.6
+498,Poland,POL,1997,GNI (current US$),NY.GNP.MKTP.CD,157988802396.853
+499,Poland,POL,1996,GNI (current US$),NY.GNP.MKTP.CD,158867880456.956
+500,Poland,POL,1995,GNI (current US$),NY.GNP.MKTP.CD,140142333319.588
+501,Poland,POL,1994,GNI (current US$),NY.GNP.MKTP.CD,108240868922.427
+502,Poland,POL,1993,GNI (current US$),NY.GNP.MKTP.CD,92438625186.0016
+503,Poland,POL,1992,GNI (current US$),NY.GNP.MKTP.CD,90171446702.3696
+504,Poland,POL,1991,GNI (current US$),NY.GNP.MKTP.CD,82606835490.8816
+505,Poland,POL,1990,GNI (current US$),NY.GNP.MKTP.CD,62591748994.5703
+506,Poland,POL,2019,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.77629793073113
+507,Poland,POL,2018,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.34654172059344
+508,Poland,POL,2017,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.94399487446707
+509,Poland,POL,2016,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.39810864961436
+510,Poland,POL,2015,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.26419672380493
+511,Poland,POL,2014,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.00472248234669
+512,Poland,POL,2013,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.2652415723753
+513,Poland,POL,2012,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.4564220691901
+514,Poland,POL,2011,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.73459328664514
+515,Poland,POL,2010,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.59435536144758
+516,Poland,POL,2009,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.75929184972681
+517,Poland,POL,2008,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.42384941645516
+518,Poland,POL,2007,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.05993491218395
+519,Poland,POL,2006,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.77051978294836
+520,Poland,POL,2005,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.11305546038017
+521,Poland,POL,2004,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.90649002368851
+522,Poland,POL,2003,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.96062940926987
+523,Poland,POL,2002,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.87085375028968
+524,Poland,POL,2001,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.38737606213692
+525,Poland,POL,2000,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.84549619600297
+526,Poland,POL,1999,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.75063306836736
+527,Poland,POL,1998,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.63745341312867
+528,Poland,POL,1997,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.34491438914051
+529,Poland,POL,1996,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.83918234929483
+530,Poland,POL,2018,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,515.647874629692
+531,Poland,POL,2015,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,504.4693
+532,Poland,POL,2012,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,517.501096817955
+533,Poland,POL,2009,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,494.802918517109
+534,Poland,POL,2006,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,495.428497326879
+535,Poland,POL,2003,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,490.23877608
+536,Poland,POL,2000,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,470
+537,Poland,POL,2018,PISA: Mean performance on the reading scale,LO.PISA.REA,511.855695357732
+538,Poland,POL,2015,PISA: Mean performance on the reading scale,LO.PISA.REA,505.6971
+539,Poland,POL,2012,PISA: Mean performance on the reading scale,LO.PISA.REA,518.186880548638
+540,Poland,POL,2009,PISA: Mean performance on the reading scale,LO.PISA.REA,500.478482555257
+541,Poland,POL,2006,PISA: Mean performance on the reading scale,LO.PISA.REA,507.639526884825
+542,Poland,POL,2003,PISA: Mean performance on the reading scale,LO.PISA.REA,496.6052659
+543,Poland,POL,2000,PISA: Mean performance on the reading scale,LO.PISA.REA,479.121687960328
+544,Poland,POL,2018,PISA: Mean performance on the science scale,LO.PISA.SCI,511.035561794169
+545,Poland,POL,2015,PISA: Mean performance on the science scale,LO.PISA.SCI,501.4353
+546,Poland,POL,2012,PISA: Mean performance on the science scale,LO.PISA.SCI,525.816445438169
+547,Poland,POL,2009,PISA: Mean performance on the science scale,LO.PISA.SCI,508.0682976879
+548,Poland,POL,2006,PISA: Mean performance on the science scale,LO.PISA.SCI,497.806502146554
+549,Poland,POL,2003,PISA: Mean performance on the science scale,LO.PISA.SCI,497.780127
+550,Poland,POL,2000,PISA: Mean performance on the science scale,LO.PISA.SCI,483.122108567397
+551,Poland,POL,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33940005302429
+552,Poland,POL,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33596003055573
+553,Poland,POL,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33736002445221
+554,Poland,POL,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34010004997253
+555,Poland,POL,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35109996795654
+556,Poland,POL,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.36375999450684
+557,Poland,POL,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.36432003974915
+558,Poland,POL,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.36266005039215
+559,Poland,POL,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34281003475189
+560,Poland,POL,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30587005615234
+561,Poland,POL,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29623997211456
+562,Poland,POL,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28951001167297
+563,Poland,POL,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28945994377136
+564,Poland,POL,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29193997383118
+565,Poland,POL,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29263997077942
+566,Poland,POL,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29964995384216
+567,Poland,POL,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3016300201416
+568,Poland,POL,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30490005016327
+569,Poland,POL,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29048001766205
+570,Poland,POL,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27526998519897
+571,Poland,POL,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27002000808716
+572,Poland,POL,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31658005714417
+573,Poland,POL,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31228005886078
+574,Poland,POL,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29210996627808
+575,Poland,POL,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2682900428772
+576,Poland,POL,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.23496997356415
+577,Poland,POL,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26206004619598
+578,Poland,POL,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2469300031662
+579,Poland,POL,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32016003131866
+580,Poland,POL,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.24677002429962
+581,Poland,POL,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.25080001354218
+582,Poland,POL,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.24327003955841
+583,Poland,POL,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.23631000518799
+584,Poland,POL,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22895002365112
+585,Poland,POL,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22359001636505
+586,Poland,POL,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22060000896454
+587,Poland,POL,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.24107003211975
+588,Poland,POL,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.24047994613647
+589,Poland,POL,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2323499917984
+590,Poland,POL,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22728002071381
+591,Poland,POL,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.21764004230499
+592,Poland,POL,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2206699848175
+593,Poland,POL,1976,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18568003177643
+594,Poland,POL,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15012001991272
+595,Poland,POL,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.09098994731903
+596,Poland,POL,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.01716995239258
+597,Poland,POL,1972,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.919139981269836
+598,Poland,POL,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.929340004920959
+599,Poland,POL,2018,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.15774011611938
+600,Poland,POL,2017,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.60403990745544
+601,Poland,POL,2014,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.60766005516052
+602,Poland,POL,2013,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.51952004432678
+603,Poland,POL,2012,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.07580995559692
+604,Poland,POL,2011,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.87079000473022
+605,Poland,POL,2010,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.83353996276855
+606,Poland,POL,2009,Children out of school (% of primary school age),SE.PRM.UNER.ZS,5.3179497718811
+607,Poland,POL,2008,Children out of school (% of primary school age),SE.PRM.UNER.ZS,5.85489988327026
+608,Poland,POL,2007,Children out of school (% of primary school age),SE.PRM.UNER.ZS,6.3390097618103
+609,Poland,POL,2006,Children out of school (% of primary school age),SE.PRM.UNER.ZS,6.43156003952026
+610,Poland,POL,2005,Children out of school (% of primary school age),SE.PRM.UNER.ZS,6.51049995422363
+611,Poland,POL,2004,Children out of school (% of primary school age),SE.PRM.UNER.ZS,5.89235019683838
+612,Poland,POL,2003,Children out of school (% of primary school age),SE.PRM.UNER.ZS,5.0958399772644
+613,Poland,POL,2002,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.18434000015259
+614,Poland,POL,2001,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.27887010574341
+615,Poland,POL,2000,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.03548002243042
+616,Poland,POL,1999,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.76839995384216
+617,Poland,POL,2016,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,85.3279266357422
+618,Poland,POL,2014,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,83.8526306152344
+619,Poland,POL,2013,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,83.1423492431641
+620,Poland,POL,2012,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,82.2974166870117
+621,Poland,POL,2011,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,81.6829223632813
+622,Poland,POL,2010,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,80.9015502929688
+623,Poland,POL,2009,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,79.9776000976563
+624,Poland,POL,2008,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,78.8859786987305
+625,Poland,POL,1988,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,55.6967010498047
+626,Poland,POL,1978,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,39.5999984741211
+627,Poland,POL,1970,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,26.1000003814697
+628,Poland,POL,2017,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.4933624267578
+629,Poland,POL,2016,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.7973480224609
+630,Poland,POL,2015,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.62841796875
+631,Poland,POL,2014,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.7250671386719
+632,Poland,POL,2012,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.2529525756836
+633,Poland,POL,2011,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.1106872558594
+634,Poland,POL,2010,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.6943969726563
+635,Poland,POL,2009,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.4136123657227
+636,Poland,POL,2008,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.1671676635742
+637,Poland,POL,2007,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.9575576782227
+638,Poland,POL,2006,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.5094833374023
+639,Poland,POL,2005,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.119743347168
+640,Poland,POL,2004,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.42529296875
+641,Poland,POL,2003,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.0529022216797
+642,Poland,POL,2002,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.1119384765625
+643,Poland,POL,2001,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.2916793823242
+644,Poland,POL,2000,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.9472732543945
+645,Poland,POL,1999,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.3771286010742
+646,Poland,POL,1998,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.6801986694336
+647,Poland,POL,2017,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.55956983566284
+648,Poland,POL,2016,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.63922023773193
+649,Poland,POL,2015,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.81226015090942
+650,Poland,POL,2014,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.90918016433716
+651,Poland,POL,2013,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.940110206604
+652,Poland,POL,2012,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.81181001663208
+653,Poland,POL,2011,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.82011985778809
+654,Poland,POL,2010,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.06842994689941
+655,Poland,POL,2009,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.9891300201416
+656,Poland,POL,2008,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.04047012329102
+657,Poland,POL,2007,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.86837005615234
+658,Poland,POL,2006,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.20578002929688
+659,Poland,POL,2005,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.42611980438232
+660,Poland,POL,2004,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.35574007034302
+661,Poland,POL,2003,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.33218002319336
+662,Poland,POL,2002,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.39797019958496
+663,Poland,POL,2001,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.32975006103516
+664,Poland,POL,2000,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.99361991882324
+665,Poland,POL,1999,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.60028982162476
+666,Poland,POL,1998,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.95043992996216
+667,Poland,POL,1996,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,6.2671799659729
+668,Poland,POL,1995,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.33500003814697
+669,Poland,POL,1993,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.1827597618103
+670,Poland,POL,1992,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.1879301071167
+671,Poland,POL,1991,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.89144992828369
+672,Poland,POL,2019,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.458023136315
+673,Poland,POL,2018,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.6360916803711
+674,Poland,POL,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.5410727600879
+675,Poland,POL,2016,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.6425592370128
+676,Poland,POL,2015,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.8057731691732
+677,Poland,POL,2014,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.8819724926054
+678,Poland,POL,2013,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.8835406599465
+679,Poland,POL,2012,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.0106390536797
+680,Poland,POL,2011,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.9663577602302
+681,Poland,POL,2010,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.0441180343502
+682,Poland,POL,2009,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.7943924913931
+683,Poland,POL,2008,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.7415161698045
+684,Poland,POL,2007,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.8497372490103
+685,Poland,POL,2006,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.9495172206166
+686,Poland,POL,2005,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.2547400573416
+687,Poland,POL,2004,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.3881025778951
+688,Poland,POL,2003,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.7326467360617
+689,Poland,POL,2002,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.7728900557145
+690,Poland,POL,2001,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.0112847691465
+691,Poland,POL,2000,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.9082512196177
+692,Poland,POL,1999,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.542207713335
+693,Poland,POL,1998,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.3672090846791
+694,Poland,POL,1997,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.2287261508128
+695,Poland,POL,1996,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4914372302194
+696,Poland,POL,1995,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.5343261122536
+697,Poland,POL,1994,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.6638032718605
+698,Poland,POL,1993,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4582899281179
+699,Poland,POL,1992,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4368170158938
+700,Poland,POL,1991,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.387263252511
+701,Poland,POL,1990,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.3660518953577
+702,Poland,POL,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.54999995231628
+703,Poland,POL,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.27999997138977
+704,Poland,POL,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.84999990463257
+705,Poland,POL,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.8899998664856
+706,Poland,POL,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.15999984741211
+707,Poland,POL,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.5
+708,Poland,POL,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.98999977111816
+709,Poland,POL,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.3299999237061
+710,Poland,POL,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.0900001525879
+711,Poland,POL,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.63000011444092
+712,Poland,POL,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.64000034332275
+713,Poland,POL,2009,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.17000007629395
+714,Poland,POL,2008,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.11999988555908
+715,Poland,POL,2007,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.60000038146973
+716,Poland,POL,2006,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.8400001525879
+717,Poland,POL,2005,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,17.75
+718,Poland,POL,2004,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.0699996948242
+719,Poland,POL,2003,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.3700008392334
+720,Poland,POL,2002,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.8999996185303
+721,Poland,POL,2001,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,18.3700008392334
+722,Poland,POL,2000,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.3099994659424
+723,Poland,POL,1999,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.289999961853
+724,Poland,POL,1998,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.9399995803833
+725,Poland,POL,1997,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.960000038147
+726,Poland,POL,1996,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.6800003051758
+727,Poland,POL,1995,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.6999998092651
+728,Poland,POL,1994,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,14.8299999237061
+729,Poland,POL,1993,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,14.3900003433228
+730,Poland,POL,1992,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.6499996185303
+731,Poland,POL,1991,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.6599998474121
+732,Poland,POL,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+733,Poland,POL,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+734,Poland,POL,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+735,Poland,POL,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+736,Poland,POL,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+737,Poland,POL,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+738,Poland,POL,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+739,Poland,POL,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+740,Poland,POL,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+741,Poland,POL,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+742,Poland,POL,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+743,Poland,POL,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+744,Poland,POL,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+745,Poland,POL,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+746,Poland,POL,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+747,Poland,POL,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+748,Poland,POL,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+749,Poland,POL,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+750,Poland,POL,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+751,Poland,POL,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+752,Poland,POL,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+753,Poland,POL,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+754,Poland,POL,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+755,Poland,POL,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+756,Poland,POL,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+757,Poland,POL,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+758,Poland,POL,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+759,Poland,POL,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+760,Poland,POL,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+761,Poland,POL,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+762,Poland,POL,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.9114882087605
+763,Poland,POL,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.5693155275748
+764,Poland,POL,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.4133798111271
+765,Poland,POL,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.9151432472711
+766,Poland,POL,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.4378791791655
+767,Poland,POL,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,9.48862385817713
+768,Poland,POL,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.84206269227445
+769,Poland,POL,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.01054019560925
+770,Poland,POL,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.27576452403753
+771,Poland,POL,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.18396505457932
+772,Poland,POL,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.21471645015734
+773,Poland,POL,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.31003100546117
+774,Poland,POL,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.29293678831795
+775,Poland,POL,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.4901072972533
+776,Poland,POL,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.29145939954414
+777,Poland,POL,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.92665318493555
+778,Poland,POL,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.41004229865283
+779,Poland,POL,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.53680579525848
+780,Poland,POL,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.98236950808594
+781,Poland,POL,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.86500109031183
+782,Poland,POL,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.33252876185735
+783,Poland,POL,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.19514078237621
+784,Poland,POL,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.13110222272913
+785,Poland,POL,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.30274868091028
+786,Poland,POL,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.06466857069044
+787,Poland,POL,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.5014848391889
+788,Poland,POL,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,299036.516
+789,Poland,POL,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,285659.3
+790,Poland,POL,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,285937.992
+791,Poland,POL,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,302344.15
+792,Poland,POL,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,299920.263
+793,Poland,POL,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,317037.819
+794,Poland,POL,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,316264.082
+795,Poland,POL,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,297617.387
+796,Poland,POL,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,314848.62
+797,Poland,POL,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,314272.901
+798,Poland,POL,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,318940.992
+799,Poland,POL,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,302538.501
+800,Poland,POL,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,304416.005
+801,Poland,POL,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,302252.475
+802,Poland,POL,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,294834.134
+803,Poland,POL,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,301284.387
+804,Poland,POL,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,299289.539
+805,Poland,POL,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,315721.366
+806,Poland,POL,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,325431.582
+807,Poland,POL,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,349523.772
+808,Poland,POL,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,355754.005
+809,Poland,POL,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,344213.956
+810,Poland,POL,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,333972.025
+811,Poland,POL,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,353253.111
+812,Poland,POL,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,354745.58
+813,Poland,POL,1991,CO2 emissions (kt),EN.ATM.CO2E.KT,361643.207
+814,Poland,POL,1990,CO2 emissions (kt),EN.ATM.CO2E.KT,368423.49
+815,Poland,POL,1989,CO2 emissions (kt),EN.ATM.CO2E.KT,423787.856
+816,Poland,POL,1988,CO2 emissions (kt),EN.ATM.CO2E.KT,445976.873
+817,Poland,POL,1987,CO2 emissions (kt),EN.ATM.CO2E.KT,465353.301
+818,Poland,POL,1986,CO2 emissions (kt),EN.ATM.CO2E.KT,453369.545
+819,Poland,POL,1985,CO2 emissions (kt),EN.ATM.CO2E.KT,445899.866
+820,Poland,POL,1984,CO2 emissions (kt),EN.ATM.CO2E.KT,433894.108
+821,Poland,POL,1983,CO2 emissions (kt),EN.ATM.CO2E.KT,422339.391
+822,Poland,POL,1982,CO2 emissions (kt),EN.ATM.CO2E.KT,422211.046
+823,Poland,POL,1981,CO2 emissions (kt),EN.ATM.CO2E.KT,410062.275
+824,Poland,POL,1980,CO2 emissions (kt),EN.ATM.CO2E.KT,464575.897
+825,Poland,POL,1979,CO2 emissions (kt),EN.ATM.CO2E.KT,442489.556
+826,Poland,POL,1978,CO2 emissions (kt),EN.ATM.CO2E.KT,432056.941
+827,Poland,POL,1977,CO2 emissions (kt),EN.ATM.CO2E.KT,419024.423
+828,Poland,POL,1976,CO2 emissions (kt),EN.ATM.CO2E.KT,399035.606
+829,Poland,POL,1975,CO2 emissions (kt),EN.ATM.CO2E.KT,375559.472
+830,Poland,POL,1974,CO2 emissions (kt),EN.ATM.CO2E.KT,346876.198
+831,Poland,POL,1973,CO2 emissions (kt),EN.ATM.CO2E.KT,336128.221
+832,Poland,POL,1972,CO2 emissions (kt),EN.ATM.CO2E.KT,329952.993
+833,Poland,POL,1971,CO2 emissions (kt),EN.ATM.CO2E.KT,313246.141
+834,Poland,POL,1970,CO2 emissions (kt),EN.ATM.CO2E.KT,304441.674
+835,Poland,POL,1969,CO2 emissions (kt),EN.ATM.CO2E.KT,293653.36
+836,Poland,POL,1968,CO2 emissions (kt),EN.ATM.CO2E.KT,276073.762
+837,Poland,POL,1967,CO2 emissions (kt),EN.ATM.CO2E.KT,259282.569
+838,Poland,POL,1966,CO2 emissions (kt),EN.ATM.CO2E.KT,252678.302
+839,Poland,POL,1965,CO2 emissions (kt),EN.ATM.CO2E.KT,247221.806
+840,Poland,POL,1964,CO2 emissions (kt),EN.ATM.CO2E.KT,243114.766
+841,Poland,POL,1963,CO2 emissions (kt),EN.ATM.CO2E.KT,231219.018
+842,Poland,POL,1962,CO2 emissions (kt),EN.ATM.CO2E.KT,216815.042
+843,Poland,POL,1961,CO2 emissions (kt),EN.ATM.CO2E.KT,207434.856
+844,Poland,POL,1960,CO2 emissions (kt),EN.ATM.CO2E.KT,199767.159
+845,Poland,POL,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,414606.89232929
+846,Poland,POL,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,422791.468168537
+847,Poland,POL,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,426485.868351622
+848,Poland,POL,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,405421.159762265
+849,Poland,POL,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,420981.528
+850,Poland,POL,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,421174.6542
+851,Poland,POL,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,423290.66622
+852,Poland,POL,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,411811.67406
+853,Poland,POL,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,411840.4427
+854,Poland,POL,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,387619.1421
+855,Poland,POL,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,375643.178
+856,Poland,POL,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,385653.8873
+857,Poland,POL,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,392642.0366
+858,Poland,POL,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,380841.8682
+859,Poland,POL,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,388905.682
+860,Poland,POL,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,433538.612
+861,Poland,POL,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,435648.565
+862,Poland,POL,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,458557.084
+863,Poland,POL,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,448871.632
+864,Poland,POL,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,449456.043
+865,Poland,POL,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,452553.142
+866,Poland,POL,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,460117.254
+867,Poland,POL,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,474016.0603
+868,Poland,POL,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,558609
+869,Poland,POL,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,583837.54
+870,Poland,POL,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,588453.1
+871,Poland,POL,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,594356.88
+872,Poland,POL,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,581329.87
+873,Poland,POL,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,583714.55
+874,Poland,POL,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,578353.53
+875,Poland,POL,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,574774.41
+876,Poland,POL,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,569138.11
+877,Poland,POL,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,606341.22
+878,Poland,POL,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,617874.13
+879,Poland,POL,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,624093.9
+880,Poland,POL,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,603009.6
+881,Poland,POL,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,585817.12
+882,Poland,POL,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,566179.45
+883,Poland,POL,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,541552.09
+884,Poland,POL,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,516053.03
+885,Poland,POL,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,490842.81
+886,Poland,POL,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,467738.84
+887,Poland,POL,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,466179.59
+888,Poland,POL,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9661157279646
+889,Poland,POL,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9660913066726
+890,Poland,POL,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9962149714443
+891,Poland,POL,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9815664183042
+892,Poland,POL,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9962164768805
+893,Poland,POL,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9999999999948
+894,Poland,POL,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+895,Poland,POL,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+896,Poland,POL,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9999999999948
+897,Poland,POL,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+898,Poland,POL,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9999999999267
+899,Poland,POL,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9999999999606
+900,Poland,POL,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,0.00999999977648258
+901,Poland,POL,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,0.00999999977648258
+902,Poland,POL,2018,Aquaculture production (metric tons),ER.FSH.AQUA.MT,43361.3359375
+903,Poland,POL,2017,Aquaculture production (metric tons),ER.FSH.AQUA.MT,38799.76953125
+904,Poland,POL,2016,Aquaculture production (metric tons),ER.FSH.AQUA.MT,38300
+905,Poland,POL,2015,Aquaculture production (metric tons),ER.FSH.AQUA.MT,36971
+906,Poland,POL,2014,Aquaculture production (metric tons),ER.FSH.AQUA.MT,40109.69140625
+907,Poland,POL,2013,Aquaculture production (metric tons),ER.FSH.AQUA.MT,35208.12890625
+908,Poland,POL,2012,Aquaculture production (metric tons),ER.FSH.AQUA.MT,32261
+909,Poland,POL,2011,Aquaculture production (metric tons),ER.FSH.AQUA.MT,29037
+910,Poland,POL,2010,Aquaculture production (metric tons),ER.FSH.AQUA.MT,30751
+911,Poland,POL,2009,Aquaculture production (metric tons),ER.FSH.AQUA.MT,36503
+912,Poland,POL,2008,Aquaculture production (metric tons),ER.FSH.AQUA.MT,36813
+913,Poland,POL,2007,Aquaculture production (metric tons),ER.FSH.AQUA.MT,35628
+914,Poland,POL,2006,Aquaculture production (metric tons),ER.FSH.AQUA.MT,35867
+915,Poland,POL,2005,Aquaculture production (metric tons),ER.FSH.AQUA.MT,37920
+916,Poland,POL,2004,Aquaculture production (metric tons),ER.FSH.AQUA.MT,35131
+917,Poland,POL,2003,Aquaculture production (metric tons),ER.FSH.AQUA.MT,35436
+918,Poland,POL,2002,Aquaculture production (metric tons),ER.FSH.AQUA.MT,32709
+919,Poland,POL,2001,Aquaculture production (metric tons),ER.FSH.AQUA.MT,35460
+920,Poland,POL,2000,Aquaculture production (metric tons),ER.FSH.AQUA.MT,35795
+921,Poland,POL,1999,Aquaculture production (metric tons),ER.FSH.AQUA.MT,33711
+922,Poland,POL,1998,Aquaculture production (metric tons),ER.FSH.AQUA.MT,29791
+923,Poland,POL,1997,Aquaculture production (metric tons),ER.FSH.AQUA.MT,28680
+924,Poland,POL,1996,Aquaculture production (metric tons),ER.FSH.AQUA.MT,27700
+925,Poland,POL,1995,Aquaculture production (metric tons),ER.FSH.AQUA.MT,25111
+926,Poland,POL,1994,Aquaculture production (metric tons),ER.FSH.AQUA.MT,24500
+927,Poland,POL,1993,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18609
+928,Poland,POL,1992,Aquaculture production (metric tons),ER.FSH.AQUA.MT,30200
+929,Poland,POL,1991,Aquaculture production (metric tons),ER.FSH.AQUA.MT,29500
+930,Poland,POL,1990,Aquaculture production (metric tons),ER.FSH.AQUA.MT,26400
+931,Poland,POL,1989,Aquaculture production (metric tons),ER.FSH.AQUA.MT,25951
+932,Poland,POL,1988,Aquaculture production (metric tons),ER.FSH.AQUA.MT,25951
+933,Poland,POL,1987,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20472
+934,Poland,POL,1986,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18684
+935,Poland,POL,1985,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20099
+936,Poland,POL,1984,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20000
+937,Poland,POL,1983,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18000
+938,Poland,POL,1982,Aquaculture production (metric tons),ER.FSH.AQUA.MT,12881
+939,Poland,POL,1981,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14190
+940,Poland,POL,1980,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9636
+941,Poland,POL,1979,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9932
+942,Poland,POL,1978,Aquaculture production (metric tons),ER.FSH.AQUA.MT,11627
+943,Poland,POL,1977,Aquaculture production (metric tons),ER.FSH.AQUA.MT,16728
+944,Poland,POL,1976,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14578
+945,Poland,POL,1975,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14599
+946,Poland,POL,1974,Aquaculture production (metric tons),ER.FSH.AQUA.MT,13512
+947,Poland,POL,1973,Aquaculture production (metric tons),ER.FSH.AQUA.MT,13805
+948,Poland,POL,1972,Aquaculture production (metric tons),ER.FSH.AQUA.MT,13204
+949,Poland,POL,1971,Aquaculture production (metric tons),ER.FSH.AQUA.MT,10365
+950,Poland,POL,1970,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9833
+951,Poland,POL,1969,Aquaculture production (metric tons),ER.FSH.AQUA.MT,12905
+952,Poland,POL,1968,Aquaculture production (metric tons),ER.FSH.AQUA.MT,12464
+953,Poland,POL,1967,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9927
+954,Poland,POL,1966,Aquaculture production (metric tons),ER.FSH.AQUA.MT,10109
+955,Poland,POL,1965,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9700
+956,Poland,POL,1964,Aquaculture production (metric tons),ER.FSH.AQUA.MT,10600
+957,Poland,POL,1963,Aquaculture production (metric tons),ER.FSH.AQUA.MT,8800
+958,Poland,POL,1962,Aquaculture production (metric tons),ER.FSH.AQUA.MT,7500
+959,Poland,POL,1961,Aquaculture production (metric tons),ER.FSH.AQUA.MT,8700
+960,Poland,POL,1960,Aquaculture production (metric tons),ER.FSH.AQUA.MT,8100
+961,Poland,POL,2018,Total fisheries production (metric tons),ER.FSH.PROD.MT,266065.34375
+962,Poland,POL,2017,Total fisheries production (metric tons),ER.FSH.PROD.MT,265195.78125
+963,Poland,POL,2016,Total fisheries production (metric tons),ER.FSH.PROD.MT,256415
+964,Poland,POL,2015,Total fisheries production (metric tons),ER.FSH.PROD.MT,242399
+965,Poland,POL,2014,Total fisheries production (metric tons),ER.FSH.PROD.MT,231707.6875
+966,Poland,POL,2013,Total fisheries production (metric tons),ER.FSH.PROD.MT,249378.125
+967,Poland,POL,2012,Total fisheries production (metric tons),ER.FSH.PROD.MT,230646
+968,Poland,POL,2011,Total fisheries production (metric tons),ER.FSH.PROD.MT,227345
+969,Poland,POL,2010,Total fisheries production (metric tons),ER.FSH.PROD.MT,220473
+970,Poland,POL,2009,Total fisheries production (metric tons),ER.FSH.PROD.MT,260396
+971,Poland,POL,2008,Total fisheries production (metric tons),ER.FSH.PROD.MT,179309
+972,Poland,POL,2007,Total fisheries production (metric tons),ER.FSH.PROD.MT,187448
+973,Poland,POL,2006,Total fisheries production (metric tons),ER.FSH.PROD.MT,181346
+974,Poland,POL,2005,Total fisheries production (metric tons),ER.FSH.PROD.MT,193167
+975,Poland,POL,2004,Total fisheries production (metric tons),ER.FSH.PROD.MT,227239
+976,Poland,POL,2003,Total fisheries production (metric tons),ER.FSH.PROD.MT,215835
+977,Poland,POL,2002,Total fisheries production (metric tons),ER.FSH.PROD.MT,256149
+978,Poland,POL,2001,Total fisheries production (metric tons),ER.FSH.PROD.MT,260524
+979,Poland,POL,2000,Total fisheries production (metric tons),ER.FSH.PROD.MT,253477
+980,Poland,POL,1999,Total fisheries production (metric tons),ER.FSH.PROD.MT,269435
+981,Poland,POL,1998,Total fisheries production (metric tons),ER.FSH.PROD.MT,271801
+982,Poland,POL,1997,Total fisheries production (metric tons),ER.FSH.PROD.MT,377593
+983,Poland,POL,1996,Total fisheries production (metric tons),ER.FSH.PROD.MT,370493
+984,Poland,POL,1995,Total fisheries production (metric tons),ER.FSH.PROD.MT,454483
+985,Poland,POL,1994,Total fisheries production (metric tons),ER.FSH.PROD.MT,462532
+986,Poland,POL,1993,Total fisheries production (metric tons),ER.FSH.PROD.MT,414015
+987,Poland,POL,1992,Total fisheries production (metric tons),ER.FSH.PROD.MT,511975
+988,Poland,POL,1991,Total fisheries production (metric tons),ER.FSH.PROD.MT,458127
+989,Poland,POL,1990,Total fisheries production (metric tons),ER.FSH.PROD.MT,474693
+990,Poland,POL,1989,Total fisheries production (metric tons),ER.FSH.PROD.MT,565395
+991,Poland,POL,1988,Total fisheries production (metric tons),ER.FSH.PROD.MT,653977
+992,Poland,POL,1987,Total fisheries production (metric tons),ER.FSH.PROD.MT,672120
+993,Poland,POL,1986,Total fisheries production (metric tons),ER.FSH.PROD.MT,645085
+994,Poland,POL,1985,Total fisheries production (metric tons),ER.FSH.PROD.MT,678297
+995,Poland,POL,1984,Total fisheries production (metric tons),ER.FSH.PROD.MT,720369
+996,Poland,POL,1983,Total fisheries production (metric tons),ER.FSH.PROD.MT,740833
+997,Poland,POL,1982,Total fisheries production (metric tons),ER.FSH.PROD.MT,609281
+998,Poland,POL,1981,Total fisheries production (metric tons),ER.FSH.PROD.MT,623088
+999,Poland,POL,1980,Total fisheries production (metric tons),ER.FSH.PROD.MT,640419
+1000,Poland,POL,1979,Total fisheries production (metric tons),ER.FSH.PROD.MT,599281
+1001,Poland,POL,1978,Total fisheries production (metric tons),ER.FSH.PROD.MT,581025
+1002,Poland,POL,1977,Total fisheries production (metric tons),ER.FSH.PROD.MT,663589
+1003,Poland,POL,1976,Total fisheries production (metric tons),ER.FSH.PROD.MT,751063
+1004,Poland,POL,1975,Total fisheries production (metric tons),ER.FSH.PROD.MT,801041
+1005,Poland,POL,1974,Total fisheries production (metric tons),ER.FSH.PROD.MT,679148
+1006,Poland,POL,1973,Total fisheries production (metric tons),ER.FSH.PROD.MT,578938
+1007,Poland,POL,1972,Total fisheries production (metric tons),ER.FSH.PROD.MT,544218
+1008,Poland,POL,1971,Total fisheries production (metric tons),ER.FSH.PROD.MT,517614
+1009,Poland,POL,1970,Total fisheries production (metric tons),ER.FSH.PROD.MT,469461
+1010,Poland,POL,1969,Total fisheries production (metric tons),ER.FSH.PROD.MT,407847
+1011,Poland,POL,1968,Total fisheries production (metric tons),ER.FSH.PROD.MT,406746
+1012,Poland,POL,1967,Total fisheries production (metric tons),ER.FSH.PROD.MT,338142
+1013,Poland,POL,1966,Total fisheries production (metric tons),ER.FSH.PROD.MT,334722
+1014,Poland,POL,1965,Total fisheries production (metric tons),ER.FSH.PROD.MT,297457
+1015,Poland,POL,1964,Total fisheries production (metric tons),ER.FSH.PROD.MT,264941
+1016,Poland,POL,1963,Total fisheries production (metric tons),ER.FSH.PROD.MT,226737
+1017,Poland,POL,1962,Total fisheries production (metric tons),ER.FSH.PROD.MT,180516
+1018,Poland,POL,1961,Total fisheries production (metric tons),ER.FSH.PROD.MT,185522
+1019,Poland,POL,1960,Total fisheries production (metric tons),ER.FSH.PROD.MT,184011
+1020,Poland,POL,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,39.6501395273886
+1021,Poland,POL,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,39.6501395273886
+1022,Poland,POL,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,39.62
+1023,Poland,POL,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,22.5718228259043
+1024,Poland,POL,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,22.5718228259043
+1025,Poland,POL,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,22.57274867
+1026,Poland,POL,2017,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,99.1560687269083
+1027,Poland,POL,2016,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,98.5968335777372
+1028,Poland,POL,2015,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,98.0425909841854
+1029,Poland,POL,2014,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.4940255468349
+1030,Poland,POL,2013,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.9506202247326
+1031,Poland,POL,2012,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.4122583838495
+1032,Poland,POL,2011,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,95.8790297526446
+1033,Poland,POL,2010,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,95.349732980848
+1034,Poland,POL,2009,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.8252111970743
+1035,Poland,POL,2008,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.6260383800325
+1036,Poland,POL,2007,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.4278383813293
+1037,Poland,POL,2006,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.2304115549185
+1038,Poland,POL,2005,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.0337585070485
+1039,Poland,POL,2017,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,93.2524539328225
+1040,Poland,POL,2016,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,92.7562465534286
+1041,Poland,POL,2015,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,91.9826069195017
+1042,Poland,POL,2014,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,91.2115718520535
+1043,Poland,POL,2013,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,90.4432556416674
+1044,Poland,POL,2012,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,89.5734034963536
+1045,Poland,POL,2011,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,88.6281965544737
+1046,Poland,POL,2010,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,87.6889728465296
+1047,Poland,POL,2009,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,86.756294028554
+1048,Poland,POL,2008,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,85.8301392247465
+1049,Poland,POL,2007,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,84.9106027659002
+1050,Poland,POL,2006,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.9974918236291
+1051,Poland,POL,2005,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.0907783067882
+1052,Poland,POL,2004,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.190657098157
+1053,Poland,POL,2003,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,81.2970279624504
+1054,Poland,POL,2002,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,80.6450261793453
+1055,Poland,POL,2001,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,79.9739888225975
+1056,Poland,POL,2000,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,79.2992303256713
+1057,Poland,POL,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+1058,Poland,POL,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+1059,Poland,POL,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+1060,Poland,POL,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+1061,Poland,POL,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+1062,Poland,POL,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+1063,Poland,POL,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+1064,Poland,POL,2016,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.3
+1065,Poland,POL,2015,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.6
+1066,Poland,POL,2014,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.1
+1067,Poland,POL,2013,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.6
+1068,Poland,POL,2012,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.4
+1069,Poland,POL,2011,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.3
+1070,Poland,POL,2010,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.4
+1071,Poland,POL,2009,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.6
+1072,Poland,POL,2008,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.8
+1073,Poland,POL,2007,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.1
+1074,Poland,POL,2006,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.4
+1075,Poland,POL,2005,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.7
+1076,Poland,POL,2004,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.9
+1077,Poland,POL,2003,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26
+1078,Poland,POL,2002,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.1
+1079,Poland,POL,2001,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.3
+1080,Poland,POL,2000,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.5
+1081,Poland,POL,1999,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.7
+1082,Poland,POL,1998,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.1
+1083,Poland,POL,1997,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.5
+1084,Poland,POL,1996,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28
+1085,Poland,POL,1995,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.7
+1086,Poland,POL,1994,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,29.4
+1087,Poland,POL,1993,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.4
+1088,Poland,POL,1992,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,31.5
+1089,Poland,POL,1991,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,32.7
+1090,Poland,POL,1990,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,34.1
+1091,Poland,POL,2018,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.54
+1092,Poland,POL,2017,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.62
+1093,Poland,POL,2016,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.64
+1094,Poland,POL,2015,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.63
+1095,Poland,POL,2014,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.63
+1096,Poland,POL,2013,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.61
+1097,Poland,POL,2012,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.63
+1098,Poland,POL,2011,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.63
+1099,Poland,POL,2010,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.61
+1100,Poland,POL,2009,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.65
+1101,Poland,POL,2008,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.62
+1102,Poland,POL,2007,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.42
+1103,Poland,POL,2006,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.47
+1104,Poland,POL,2005,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.52
+1105,Poland,POL,2004,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.67
+1106,Poland,POL,2003,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.68
+1107,Poland,POL,2002,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.5999999046
+1108,Poland,POL,2000,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.9000000954
+1109,Poland,POL,1999,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.0999999046
+1110,Poland,POL,1998,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.3000001907
+1111,Poland,POL,1997,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.4000000954
+1112,Poland,POL,1996,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.5
+1113,Poland,POL,1995,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.5
+1114,Poland,POL,1994,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.5999999046
+1115,Poland,POL,1993,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.5999999046
+1116,Poland,POL,1992,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.5999999046
+1117,Poland,POL,1991,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.6999998093
+1118,Poland,POL,1990,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.6999998093
+1119,Poland,POL,1985,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.69999980926514
+1120,Poland,POL,1980,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.59999990463257
+1121,Poland,POL,1970,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.19999980926514
+1122,Poland,POL,1960,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.59999990463257
+1123,Poland,POL,2019,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,11.3
+1124,Poland,POL,2018,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,12.7
+1125,Poland,POL,2017,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.3
+1126,Poland,POL,2016,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,13.8
+1127,Poland,POL,2015,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15.9
+1128,Poland,POL,2014,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.4
+1129,Poland,POL,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.2
+1130,Poland,POL,2012,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.5
+1131,Poland,POL,2011,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18
+1132,Poland,POL,2010,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.6
+1133,Poland,POL,2009,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19.2
+1134,Poland,POL,2008,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17
+1135,Poland,POL,2007,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15.7
+1136,Poland,POL,2006,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.1
+1137,Poland,POL,2005,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.7
+1138,Poland,POL,2004,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.6
+1139,Poland,POL,2003,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17
+1140,Poland,POL,2002,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.3
+1141,Poland,POL,2001,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.2
+1142,Poland,POL,2000,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17
+1143,Poland,POL,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.4
+1144,Poland,POL,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.2
+1145,Poland,POL,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.1
+1146,Poland,POL,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.7
+1147,Poland,POL,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.3
+1148,Poland,POL,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.4
+1149,Poland,POL,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.8
+1150,Poland,POL,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.1
+1151,Poland,POL,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.8
+1152,Poland,POL,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12
+1153,Poland,POL,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.3
+1154,Poland,POL,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.6
+1155,Poland,POL,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.4
+1156,Poland,POL,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.1
+1157,Poland,POL,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16
+1158,Poland,POL,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.9
+1159,Poland,POL,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.5
+1160,Poland,POL,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,17.2
+1161,Poland,POL,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.6
+1162,Poland,POL,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,18.6
+1163,Poland,POL,2018,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.33085012
+1164,Poland,POL,2017,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.56172848
+1165,Poland,POL,2016,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.54295063
+1166,Poland,POL,2015,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.39785814
+1167,Poland,POL,2014,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.35254002
+1168,Poland,POL,2013,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.3754797
+1169,Poland,POL,2012,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.20108318
+1170,Poland,POL,2011,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.23382092
+1171,Poland,POL,2010,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.4190917
+1172,Poland,POL,2009,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.58686304
+1173,Poland,POL,2008,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.37348223
+1174,Poland,POL,2007,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.87294197
+1175,Poland,POL,2006,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.8007226
+1176,Poland,POL,2005,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.80728388
+1177,Poland,POL,2004,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.8686347
+1178,Poland,POL,2003,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.96231365
+1179,Poland,POL,2002,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.07919645
+1180,Poland,POL,2001,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.6786437
+1181,Poland,POL,2000,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.29816675
+1182,Poland,POL,2018,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.08643341
+1183,Poland,POL,2017,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,68.82284546
+1184,Poland,POL,2016,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,68.80953979
+1185,Poland,POL,2015,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.33325958
+1186,Poland,POL,2014,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.93572235
+1187,Poland,POL,2013,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.29511261
+1188,Poland,POL,2012,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.82839203
+1189,Poland,POL,2011,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.02577209
+1190,Poland,POL,2010,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.35003662
+1191,Poland,POL,2009,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.74531555
+1192,Poland,POL,2008,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.20513153
+1193,Poland,POL,2007,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.6861496
+1194,Poland,POL,2006,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,68.97801971
+1195,Poland,POL,2005,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,68.52230835
+1196,Poland,POL,2004,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,67.46142578
+1197,Poland,POL,2003,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,68.57601929
+1198,Poland,POL,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.95567322
+1199,Poland,POL,2001,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.3422699
+1200,Poland,POL,2000,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,68.21466827
+1201,Poland,POL,2019,Refugee population by country or territory of asylum,SM.POP.REFG,12658
+1202,Poland,POL,2018,Refugee population by country or territory of asylum,SM.POP.REFG,12495
+1203,Poland,POL,2017,Refugee population by country or territory of asylum,SM.POP.REFG,12225
+1204,Poland,POL,2016,Refugee population by country or territory of asylum,SM.POP.REFG,11738
+1205,Poland,POL,2015,Refugee population by country or territory of asylum,SM.POP.REFG,14057
+1206,Poland,POL,2014,Refugee population by country or territory of asylum,SM.POP.REFG,15730
+1207,Poland,POL,2013,Refugee population by country or territory of asylum,SM.POP.REFG,16428
+1208,Poland,POL,2012,Refugee population by country or territory of asylum,SM.POP.REFG,15897
+1209,Poland,POL,2011,Refugee population by country or territory of asylum,SM.POP.REFG,15834
+1210,Poland,POL,2010,Refugee population by country or territory of asylum,SM.POP.REFG,15537
+1211,Poland,POL,2009,Refugee population by country or territory of asylum,SM.POP.REFG,15299
+1212,Poland,POL,2008,Refugee population by country or territory of asylum,SM.POP.REFG,12761
+1213,Poland,POL,2007,Refugee population by country or territory of asylum,SM.POP.REFG,10037
+1214,Poland,POL,2006,Refugee population by country or territory of asylum,SM.POP.REFG,6786
+1215,Poland,POL,2005,Refugee population by country or territory of asylum,SM.POP.REFG,4585
+1216,Poland,POL,2004,Refugee population by country or territory of asylum,SM.POP.REFG,2491
+1217,Poland,POL,2003,Refugee population by country or territory of asylum,SM.POP.REFG,1822
+1218,Poland,POL,2002,Refugee population by country or territory of asylum,SM.POP.REFG,1586
+1219,Poland,POL,2001,Refugee population by country or territory of asylum,SM.POP.REFG,1295
+1220,Poland,POL,2000,Refugee population by country or territory of asylum,SM.POP.REFG,1011
+1221,Poland,POL,1999,Refugee population by country or territory of asylum,SM.POP.REFG,937
+1222,Poland,POL,1998,Refugee population by country or territory of asylum,SM.POP.REFG,895
+1223,Poland,POL,1997,Refugee population by country or territory of asylum,SM.POP.REFG,835
+1224,Poland,POL,1996,Refugee population by country or territory of asylum,SM.POP.REFG,600
+1225,Poland,POL,1995,Refugee population by country or territory of asylum,SM.POP.REFG,600
+1226,Poland,POL,1994,Refugee population by country or territory of asylum,SM.POP.REFG,393
+1227,Poland,POL,1993,Refugee population by country or territory of asylum,SM.POP.REFG,810
+1228,Poland,POL,1992,Refugee population by country or territory of asylum,SM.POP.REFG,2719
+1229,Poland,POL,1991,Refugee population by country or territory of asylum,SM.POP.REFG,550
+1230,Poland,POL,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1231,Poland,POL,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1232,Poland,POL,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1233,Poland,POL,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1234,Poland,POL,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1235,Poland,POL,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1236,Poland,POL,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1237,Poland,POL,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1238,Poland,POL,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1239,Poland,POL,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1240,Poland,POL,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1241,Poland,POL,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1242,Poland,POL,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1243,Poland,POL,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1244,Poland,POL,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1245,Poland,POL,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1246,Poland,POL,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1247,Poland,POL,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1248,Poland,POL,2019,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1249,Poland,POL,2018,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1250,Poland,POL,2017,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.6
+1251,Poland,POL,2016,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.1
+1252,Poland,POL,2015,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.7
+1253,Poland,POL,2014,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1254,Poland,POL,2013,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.7
+1255,Poland,POL,2012,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.1
+1256,Poland,POL,2011,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1257,Poland,POL,2010,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.9
+1258,Poland,POL,2009,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.9
+1259,Poland,POL,2008,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.9
+1260,Poland,POL,2007,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1261,Poland,POL,2006,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1262,Poland,POL,2005,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+1263,Poland,POL,2004,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.3
+1264,Poland,POL,2003,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.2
+1265,Poland,POL,2002,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.3
+1266,Poland,POL,2001,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.6
+1267,Poland,POL,2000,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1268,Poland,POL,1999,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1269,Poland,POL,1998,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1270,Poland,POL,1997,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1271,Poland,POL,1996,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.1
+1272,Poland,POL,1995,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.2
+1273,Poland,POL,1994,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.5
+1274,Poland,POL,1993,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.9
+1275,Poland,POL,1992,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.4
+1276,Poland,POL,1991,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.3
+1277,Poland,POL,1990,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.4
+1278,Poland,POL,1989,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.9
+1279,Poland,POL,1988,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.6
+1280,Poland,POL,1987,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.1
+1281,Poland,POL,1986,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17
+1282,Poland,POL,1985,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.3
+1283,Poland,POL,1984,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19
+1284,Poland,POL,1983,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.8
+1285,Poland,POL,1982,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.5
+1286,Poland,POL,1981,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19
+1287,Poland,POL,1980,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.6
+1288,Poland,POL,1979,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.6
+1289,Poland,POL,1978,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.1
+1290,Poland,POL,1977,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.2
+1291,Poland,POL,1976,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.6
+1292,Poland,POL,1975,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19
+1293,Poland,POL,1974,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.5
+1294,Poland,POL,1973,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18
+1295,Poland,POL,1972,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.5
+1296,Poland,POL,1971,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.2
+1297,Poland,POL,1970,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.8
+1298,Poland,POL,1969,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.4
+1299,Poland,POL,1968,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.3
+1300,Poland,POL,1967,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.3
+1301,Poland,POL,1966,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.8
+1302,Poland,POL,1965,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.4
+1303,Poland,POL,1964,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.1
+1304,Poland,POL,1963,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.2
+1305,Poland,POL,1962,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,19.8
+1306,Poland,POL,1961,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,20.9
+1307,Poland,POL,1960,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,22.6
+1308,Poland,POL,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.8560975609756
+1309,Poland,POL,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.6024390243903
+1310,Poland,POL,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.7536585365854
+1311,Poland,POL,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.8512195121951
+1312,Poland,POL,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.4512195121951
+1313,Poland,POL,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.6024390243903
+1314,Poland,POL,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77
+1315,Poland,POL,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.7463414634146
+1316,Poland,POL,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.6951219512195
+1317,Poland,POL,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.2463414634146
+1318,Poland,POL,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.6951219512195
+1319,Poland,POL,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.5439024390244
+1320,Poland,POL,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.2439024390244
+1321,Poland,POL,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.1439024390244
+1322,Poland,POL,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.9951219512195
+1323,Poland,POL,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.8463414634146
+1324,Poland,POL,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.5975609756098
+1325,Poland,POL,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.4975609756098
+1326,Poland,POL,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.2
+1327,Poland,POL,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.7487804878049
+1328,Poland,POL,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.0439024390244
+1329,Poland,POL,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.9975609756098
+1330,Poland,POL,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.6463414634146
+1331,Poland,POL,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.2463414634146
+1332,Poland,POL,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.8926829268293
+1333,Poland,POL,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.6951219512195
+1334,Poland,POL,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.5951219512195
+1335,Poland,POL,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.090243902439
+1336,Poland,POL,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5878048780488
+1337,Poland,POL,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.890243902439
+1338,Poland,POL,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0439024390244
+1339,Poland,POL,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.3317073170732
+1340,Poland,POL,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8975609756098
+1341,Poland,POL,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8487804878049
+1342,Poland,POL,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5487804878049
+1343,Poland,POL,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8
+1344,Poland,POL,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71
+1345,Poland,POL,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.1024390243903
+1346,Poland,POL,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0512195121951
+1347,Poland,POL,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0975609756098
+1348,Poland,POL,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7512195121951
+1349,Poland,POL,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3512195121951
+1350,Poland,POL,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4024390243902
+1351,Poland,POL,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6560975609756
+1352,Poland,POL,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5609756097561
+1353,Poland,POL,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.1170731707317
+1354,Poland,POL,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6634146341463
+1355,Poland,POL,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6658536585366
+1356,Poland,POL,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.6121951219512
+1357,Poland,POL,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8682926829268
+1358,Poland,POL,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.719512195122
+1359,Poland,POL,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.219512195122
+1360,Poland,POL,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.4243902439024
+1361,Poland,POL,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8268292682927
+1362,Poland,POL,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.4292682926829
+1363,Poland,POL,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.6292682926829
+1364,Poland,POL,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.3756097560976
+1365,Poland,POL,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.4268292682927
+1366,Poland,POL,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.7780487804878
+1367,Poland,POL,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.6804878048781
+1368,Poland,POL,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.1168972529604
+1369,Poland,POL,2018,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.5178167625452
+1370,Poland,POL,2017,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.9312953486375
+1371,Poland,POL,2016,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.3376979048267
+1372,Poland,POL,2015,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.7314838621437
+1373,Poland,POL,2014,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.1989196213319
+1374,Poland,POL,2013,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.6752083001326
+1375,Poland,POL,2012,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.1871236499479
+1376,Poland,POL,2011,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.7781160315932
+1377,Poland,POL,2010,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.4726258936883
+1378,Poland,POL,2009,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.2964621637156
+1379,Poland,POL,2008,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.225156560302
+1380,Poland,POL,2007,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.2117418306589
+1381,Poland,POL,2006,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.1797118717646
+1382,Poland,POL,2005,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.0771343254672
+1383,Poland,POL,2004,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.9646518327112
+1384,Poland,POL,2003,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.7877152759453
+1385,Poland,POL,2002,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.5574640230923
+1386,Poland,POL,2001,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2978494809521
+1387,Poland,POL,2000,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.023876114064
+1388,Poland,POL,1999,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.8418411353663
+1389,Poland,POL,1998,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6388971687338
+1390,Poland,POL,1997,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4180624068471
+1391,Poland,POL,1996,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.1862486680617
+1392,Poland,POL,1995,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.9464952971033
+1393,Poland,POL,1994,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.7659192038274
+1394,Poland,POL,1993,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.5831308818096
+1395,Poland,POL,1992,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.3930046680697
+1396,Poland,POL,1991,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.1843297425399
+1397,Poland,POL,1990,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.95034192792434
+1398,Poland,POL,1989,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.78033580910161
+1399,Poland,POL,1988,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.59430682618696
+1400,Poland,POL,1987,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.41634570609342
+1401,Poland,POL,1986,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.29003295893259
+1402,Poland,POL,1985,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.24380087505019
+1403,Poland,POL,1984,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.35846589193322
+1404,Poland,POL,1983,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.57281747435884
+1405,Poland,POL,1982,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.83965563917737
+1406,Poland,POL,1981,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.0723124803538
+1407,Poland,POL,1980,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.2076774943641
+1408,Poland,POL,1979,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.2425271768072
+1409,Poland,POL,1978,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.1765638016129
+1410,Poland,POL,1977,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.025713291163
+1411,Poland,POL,1976,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.82892713206347
+1412,Poland,POL,1975,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.61347482614736
+1413,Poland,POL,1974,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.37163480005226
+1414,Poland,POL,1973,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.09881598268194
+1415,Poland,POL,1972,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.80440963231986
+1416,Poland,POL,1971,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.50422143153517
+1417,Poland,POL,1970,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.2081553447079
+1418,Poland,POL,1969,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.90904112021486
+1419,Poland,POL,1968,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.63031063925232
+1420,Poland,POL,1967,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.36542820663821
+1421,Poland,POL,1966,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.09679625554636
+1422,Poland,POL,1965,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,6.8124815395167
+1423,Poland,POL,1964,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,6.55888520902894
+1424,Poland,POL,1963,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,6.31164048833937
+1425,Poland,POL,1962,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,6.07767583818106
+1426,Poland,POL,1961,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,5.87002739008957
+1427,Poland,POL,1960,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,5.69455849914708
+1428,Poland,POL,2019,Population growth (annual %),SP.POP.GROW,-0.0244271070993493
+1429,Poland,POL,2018,Population growth (annual %),SP.POP.GROW,-0.000200132782838419
+1430,Poland,POL,2017,Population growth (annual %),SP.POP.GROW,0.0124800985844923
+1431,Poland,POL,2016,Population growth (annual %),SP.POP.GROW,-0.04298513087435
+1432,Poland,POL,2015,Population growth (annual %),SP.POP.GROW,-0.0666411009657168
+1433,Poland,POL,2014,Population growth (annual %),SP.POP.GROW,-0.0748462292920506
+1434,Poland,POL,2013,Population growth (annual %),SP.POP.GROW,-0.0603600174744649
+1435,Poland,POL,2012,Population growth (annual %),SP.POP.GROW,-0.000239076003298365
+1436,Poland,POL,2011,Population growth (annual %),SP.POP.GROW,0.0537697088781007
+1437,Poland,POL,2010,Population growth (annual %),SP.POP.GROW,-0.285609121534849
+1438,Poland,POL,2009,Population growth (annual %),SP.POP.GROW,0.067763227021235
+1439,Poland,POL,2008,Population growth (annual %),SP.POP.GROW,0.0136373796827091
+1440,Poland,POL,2007,Population growth (annual %),SP.POP.GROW,-0.0543050208038707
+1441,Poland,POL,2006,Population growth (annual %),SP.POP.GROW,-0.0633705742926632
+1442,Poland,POL,2005,Population growth (annual %),SP.POP.GROW,-0.043948953332248
+1443,Poland,POL,2004,Population growth (annual %),SP.POP.GROW,-0.0585127351273288
+1444,Poland,POL,2003,Population growth (annual %),SP.POP.GROW,-0.067492701646486
+1445,Poland,POL,2002,Population growth (annual %),SP.POP.GROW,-0.0463189372499392
+1446,Poland,POL,2001,Population growth (annual %),SP.POP.GROW,-0.0275871247282958
+1447,Poland,POL,2000,Population growth (annual %),SP.POP.GROW,-1.04433539837844
+1448,Poland,POL,1999,Population growth (annual %),SP.POP.GROW,-0.0083027528251411
+1449,Poland,POL,1998,Population growth (annual %),SP.POP.GROW,0.0357533013623718
+1450,Poland,POL,1997,Population growth (annual %),SP.POP.GROW,0.0654553694247315
+1451,Poland,POL,1996,Population growth (annual %),SP.POP.GROW,0.0760741823645528
+1452,Poland,POL,1995,Population growth (annual %),SP.POP.GROW,0.13572103385363
+1453,Poland,POL,1994,Population growth (annual %),SP.POP.GROW,0.211012328819338
+1454,Poland,POL,1993,Population growth (annual %),SP.POP.GROW,0.254450913938076
+1455,Poland,POL,1992,Population growth (annual %),SP.POP.GROW,0.306681390812185
+1456,Poland,POL,1991,Population growth (annual %),SP.POP.GROW,0.354679168347882
+1457,Poland,POL,1990,Population growth (annual %),SP.POP.GROW,0.392398205207372
+1458,Poland,POL,1989,Population growth (annual %),SP.POP.GROW,0.361655504808961
+1459,Poland,POL,1988,Population growth (annual %),SP.POP.GROW,0.414457482867701
+1460,Poland,POL,1987,Population growth (annual %),SP.POP.GROW,0.564203449048717
+1461,Poland,POL,1986,Population growth (annual %),SP.POP.GROW,0.681065576626595
+1462,Poland,POL,1985,Population growth (annual %),SP.POP.GROW,0.803585474669463
+1463,Poland,POL,1984,Population growth (annual %),SP.POP.GROW,0.90459069212033
+1464,Poland,POL,1983,Population growth (annual %),SP.POP.GROW,0.937688926120541
+1465,Poland,POL,1982,Population growth (annual %),SP.POP.GROW,0.920284572106585
+1466,Poland,POL,1981,Population growth (annual %),SP.POP.GROW,0.90786848811038
+1467,Poland,POL,1980,Population growth (annual %),SP.POP.GROW,0.923267472012982
+1468,Poland,POL,1979,Population growth (annual %),SP.POP.GROW,0.802185476116554
+1469,Poland,POL,1978,Population growth (annual %),SP.POP.GROW,0.794064583275141
+1470,Poland,POL,1977,Population growth (annual %),SP.POP.GROW,0.963866722795674
+1471,Poland,POL,1976,Population growth (annual %),SP.POP.GROW,0.99779538250044
+1472,Poland,POL,1975,Population growth (annual %),SP.POP.GROW,0.99359553240035
+1473,Poland,POL,1974,Population growth (annual %),SP.POP.GROW,0.959785770177262
+1474,Poland,POL,1973,Population growth (annual %),SP.POP.GROW,0.908113632602921
+1475,Poland,POL,1972,Population growth (annual %),SP.POP.GROW,0.826716475011768
+1476,Poland,POL,1971,Population growth (annual %),SP.POP.GROW,0.364260163980666
+1477,Poland,POL,1970,Population growth (annual %),SP.POP.GROW,0.355759845018321
+1478,Poland,POL,1969,Population growth (annual %),SP.POP.GROW,0.782340328898866
+1479,Poland,POL,1968,Population growth (annual %),SP.POP.GROW,0.956732069447229
+1480,Poland,POL,1967,Population growth (annual %),SP.POP.GROW,0.961728386006623
+1481,Poland,POL,1966,Population growth (annual %),SP.POP.GROW,0.747873418831712
+1482,Poland,POL,1965,Population growth (annual %),SP.POP.GROW,0.976289383725576
+1483,Poland,POL,1964,Population growth (annual %),SP.POP.GROW,1.38220463805364
+1484,Poland,POL,1963,Population growth (annual %),SP.POP.GROW,1.32252564710048
+1485,Poland,POL,1962,Population growth (annual %),SP.POP.GROW,1.14315401418553
+1486,Poland,POL,1961,Population growth (annual %),SP.POP.GROW,1.09578967474124
+1487,Poland,POL,2019,"Population, total",SP.POP.TOTL,37965475
+1488,Poland,POL,2018,"Population, total",SP.POP.TOTL,37974750
+1489,Poland,POL,2017,"Population, total",SP.POP.TOTL,37974826
+1490,Poland,POL,2016,"Population, total",SP.POP.TOTL,37970087
+1491,Poland,POL,2015,"Population, total",SP.POP.TOTL,37986412
+1492,Poland,POL,2014,"Population, total",SP.POP.TOTL,38011735
+1493,Poland,POL,2013,"Population, total",SP.POP.TOTL,38040196
+1494,Poland,POL,2012,"Population, total",SP.POP.TOTL,38063164
+1495,Poland,POL,2011,"Population, total",SP.POP.TOTL,38063255
+1496,Poland,POL,2010,"Population, total",SP.POP.TOTL,38042794
+1497,Poland,POL,2009,"Population, total",SP.POP.TOTL,38151603
+1498,Poland,POL,2008,"Population, total",SP.POP.TOTL,38125759
+1499,Poland,POL,2007,"Population, total",SP.POP.TOTL,38120560
+1500,Poland,POL,2006,"Population, total",SP.POP.TOTL,38141267
+1501,Poland,POL,2005,"Population, total",SP.POP.TOTL,38165445
+1502,Poland,POL,2004,"Population, total",SP.POP.TOTL,38182222
+1503,Poland,POL,2003,"Population, total",SP.POP.TOTL,38204570
+1504,Poland,POL,2002,"Population, total",SP.POP.TOTL,38230364
+1505,Poland,POL,2001,"Population, total",SP.POP.TOTL,38248076
+1506,Poland,POL,2000,"Population, total",SP.POP.TOTL,38258629
+1507,Poland,POL,1999,"Population, total",SP.POP.TOTL,38660271
+1508,Poland,POL,1998,"Population, total",SP.POP.TOTL,38663481
+1509,Poland,POL,1997,"Population, total",SP.POP.TOTL,38649660
+1510,Poland,POL,1996,"Population, total",SP.POP.TOTL,38624370
+1511,Poland,POL,1995,"Population, total",SP.POP.TOTL,38594998
+1512,Poland,POL,1994,"Population, total",SP.POP.TOTL,38542652
+1513,Poland,POL,1993,"Population, total",SP.POP.TOTL,38461408
+1514,Poland,POL,1992,"Population, total",SP.POP.TOTL,38363667
+1515,Poland,POL,1991,"Population, total",SP.POP.TOTL,38246193
+1516,Poland,POL,1990,"Population, total",SP.POP.TOTL,38110782
+1517,Poland,POL,1989,"Population, total",SP.POP.TOTL,37961529
+1518,Poland,POL,1988,"Population, total",SP.POP.TOTL,37824487
+1519,Poland,POL,1987,"Population, total",SP.POP.TOTL,37668045
+1520,Poland,POL,1986,"Population, total",SP.POP.TOTL,37456119
+1521,Poland,POL,1985,"Population, total",SP.POP.TOTL,37201885
+1522,Poland,POL,1984,"Population, total",SP.POP.TOTL,36904134
+1523,Poland,POL,1983,"Population, total",SP.POP.TOTL,36571808
+1524,Poland,POL,1982,"Population, total",SP.POP.TOTL,36230481
+1525,Poland,POL,1981,"Population, total",SP.POP.TOTL,35898587
+1526,Poland,POL,1980,"Population, total",SP.POP.TOTL,35574150
+1527,Poland,POL,1979,"Population, total",SP.POP.TOTL,35247217
+1528,Poland,POL,1978,"Population, total",SP.POP.TOTL,34965600
+1529,Poland,POL,1977,"Population, total",SP.POP.TOTL,34689050
+1530,Poland,POL,1976,"Population, total",SP.POP.TOTL,34356300
+1531,Poland,POL,1975,"Population, total",SP.POP.TOTL,34015199
+1532,Poland,POL,1974,"Population, total",SP.POP.TOTL,33678899
+1533,Poland,POL,1973,"Population, total",SP.POP.TOTL,33357200
+1534,Poland,POL,1972,"Population, total",SP.POP.TOTL,33055650
+1535,Poland,POL,1971,"Population, total",SP.POP.TOTL,32783500
+1536,Poland,POL,1970,"Population, total",SP.POP.TOTL,32664300
+1537,Poland,POL,1969,"Population, total",SP.POP.TOTL,32548300
+1538,Poland,POL,1968,"Population, total",SP.POP.TOTL,32294655
+1539,Poland,POL,1967,"Population, total",SP.POP.TOTL,31987155
+1540,Poland,POL,1966,"Population, total",SP.POP.TOTL,31681000
+1541,Poland,POL,1965,"Population, total",SP.POP.TOTL,31444950
+1542,Poland,POL,1964,"Population, total",SP.POP.TOTL,31139450
+1543,Poland,POL,1963,"Population, total",SP.POP.TOTL,30712000
+1544,Poland,POL,1962,"Population, total",SP.POP.TOTL,30308500
+1545,Poland,POL,1961,"Population, total",SP.POP.TOTL,29964000
+1546,Poland,POL,1960,"Population, total",SP.POP.TOTL,29637450
+1547,Poland,POL,2019,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5396696205749
+1548,Poland,POL,2018,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5307073794516
+1549,Poland,POL,2017,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.52337975615
+1550,Poland,POL,2016,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5224424993428
+1551,Poland,POL,2015,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5308325092478
+1552,Poland,POL,2014,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5502035318229
+1553,Poland,POL,2013,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.578360556908
+1554,Poland,POL,2012,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6094461215444
+1555,Poland,POL,2011,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.635452969408
+1556,Poland,POL,2010,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6506719683054
+1557,Poland,POL,2009,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6533381741161
+1558,Poland,POL,2008,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6451378381911
+1559,Poland,POL,2007,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6283575727266
+1560,Poland,POL,2006,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6067484951615
+1561,Poland,POL,2005,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5832499695001
+1562,Poland,POL,2004,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5583032958743
+1563,Poland,POL,2003,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5315598602886
+1564,Poland,POL,2002,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.50422306426
+1565,Poland,POL,2001,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4776398448102
+1566,Poland,POL,2000,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4528175765254
+1567,Poland,POL,1999,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4304031532155
+1568,Poland,POL,1998,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4105222640351
+1569,Poland,POL,1997,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3928765247372
+1570,Poland,POL,1996,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3768125576349
+1571,Poland,POL,1995,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3618603589799
+1572,Poland,POL,1994,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3482252124925
+1573,Poland,POL,1993,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3361605096468
+1574,Poland,POL,1992,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3253009587935
+1575,Poland,POL,1991,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3150980465269
+1576,Poland,POL,1990,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3052765564179
+1577,Poland,POL,1989,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2953548381913
+1578,Poland,POL,1988,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2856258369286
+1579,Poland,POL,1987,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2776415891485
+1580,Poland,POL,1986,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2734947149614
+1581,Poland,POL,1985,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2746102882921
+1582,Poland,POL,1984,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.281947574309
+1583,Poland,POL,1983,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2947418277087
+1584,Poland,POL,1982,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3105308628072
+1585,Poland,POL,1981,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3256540696864
+1586,Poland,POL,1980,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.337414757003
+1587,Poland,POL,1979,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3444975778949
+1588,Poland,POL,1978,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3477514982597
+1589,Poland,POL,1977,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3492897243505
+1590,Poland,POL,1976,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3525173448373
+1591,Poland,POL,1975,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3598471389929
+1592,Poland,POL,1974,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.372295465283
+1593,Poland,POL,1973,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3889460879326
+1594,Poland,POL,1972,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4079144047655
+1595,Poland,POL,1971,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4263605350706
+1596,Poland,POL,1970,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4422415555842
+1597,Poland,POL,1969,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.455252562734
+1598,Poland,POL,1968,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4664441813406
+1599,Poland,POL,1967,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4766946337352
+1600,Poland,POL,1966,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4876076912397
+1601,Poland,POL,1965,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5005546874719
+1602,Poland,POL,1964,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5150059487533
+1603,Poland,POL,1963,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5313978230569
+1604,Poland,POL,1962,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5533630626041
+1605,Poland,POL,1961,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5857785170673
+1606,Poland,POL,1960,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6320632793706
+1607,Poland,POL,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,20.54459107
+1608,Poland,POL,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,20.70435756
+1609,Poland,POL,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,20.10623879
+1610,Poland,POL,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,19.28946685
+1611,Poland,POL,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,19.10272627
+1612,Poland,POL,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,18.99093512
+1613,Poland,POL,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,18.42614247
+1614,Poland,POL,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,18.01780959
+1615,Poland,POL,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,18.21025616
+1616,Poland,POL,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,15.28445466
+1617,Poland,POL,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,14.59118757
+1618,Poland,POL,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,11.63467137
+1619,Poland,POL,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,10.88302405
+1620,Poland,POL,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,7.590128394
+1621,Poland,POL,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.463343471
+1622,Poland,POL,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.280924692
+1623,Poland,POL,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.509216212
+1624,Poland,POL,2002,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.316155567
+1625,Poland,POL,2001,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.031144901
+1626,Poland,POL,2019,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.9899978637695
+1627,Poland,POL,2018,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.7300033569336
+1628,Poland,POL,2017,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.5899963378906
+1629,Poland,POL,2016,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.2799987792969
+1630,Poland,POL,2015,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,78.7699966430664
+1631,Poland,POL,2014,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,78.6500015258789
+1632,Poland,POL,2013,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,78.1699981689453
+1633,Poland,POL,2012,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,77.6100006103516
+1634,Poland,POL,2011,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,77.1399993896484
+1635,Poland,POL,2010,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,77.0199966430664
+1636,Poland,POL,2009,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,77.2600021362305
+1637,Poland,POL,2008,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,77.0800018310547
+1638,Poland,POL,2007,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,76.5400009155273
+1639,Poland,POL,2006,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,75.5699996948242
+1640,Poland,POL,2005,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,74.25
+1641,Poland,POL,2004,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,73.5
+1642,Poland,POL,2003,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,73.0299987792969
+1643,Poland,POL,2002,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,71.7799987792969
+1644,Poland,POL,2001,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,72.0500030517578
+1645,Poland,POL,2000,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,72.620002746582
+1646,Poland,POL,1999,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,73.1900024414063
+1647,Poland,POL,1998,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,72.5500030517578
+1648,Poland,POL,1997,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,71.2699966430664
+1649,Poland,POL,1996,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,70.4599990844727
+1650,Poland,POL,1995,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,70.3600006103516
+1651,Poland,POL,1994,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,69.0699996948242
+1652,Poland,POL,1993,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,68.8399963378906
+1653,Poland,POL,1992,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,69.7699966430664
+1654,Poland,POL,1991,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,69.9800033569336
+1655,Poland,POL,2019,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.6599998474121
+1656,Poland,POL,2018,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.6800003051758
+1657,Poland,POL,2017,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.7800006866455
+1658,Poland,POL,2016,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.0799999237061
+1659,Poland,POL,2015,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.4899997711182
+1660,Poland,POL,2014,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.2199993133545
+1661,Poland,POL,2013,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.4599990844727
+1662,Poland,POL,2012,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.4899997711182
+1663,Poland,POL,2011,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.6100006103516
+1664,Poland,POL,2010,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23
+1665,Poland,POL,2009,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.0200004577637
+1666,Poland,POL,2008,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.0499992370605
+1667,Poland,POL,2007,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.9400005340576
+1668,Poland,POL,2006,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.1499996185303
+1669,Poland,POL,2005,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.4899997711182
+1670,Poland,POL,2004,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.1599998474121
+1671,Poland,POL,2003,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.0300006866455
+1672,Poland,POL,2002,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.6499996185303
+1673,Poland,POL,2001,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.4699993133545
+1674,Poland,POL,2000,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.8700008392334
+1675,Poland,POL,1999,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.9799995422363
+1676,Poland,POL,1998,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.6900005340576
+1677,Poland,POL,1997,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.3500003814697
+1678,Poland,POL,2019,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.13000011444092
+1679,Poland,POL,2018,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.65999984741211
+1680,Poland,POL,2017,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.47999954223633
+1681,Poland,POL,2016,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.5200004577637
+1682,Poland,POL,2015,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.9899997711182
+1683,Poland,POL,2014,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.9799995422363
+1684,Poland,POL,2013,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.210000038147
+1685,Poland,POL,2012,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.8199996948242
+1686,Poland,POL,2011,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.5
+1687,Poland,POL,2010,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.7700004577637
+1688,Poland,POL,2009,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.1099996566772
+1689,Poland,POL,2008,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.03999996185303
+1690,Poland,POL,2007,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.5900001525879
+1691,Poland,POL,2006,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.6099996566772
+1692,Poland,POL,2005,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.9099998474121
+1693,Poland,POL,2004,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,14.4799995422363
+1694,Poland,POL,2018,Gini index (World Bank estimate),SI.POV.GINI,30.2
+1695,Poland,POL,2017,Gini index (World Bank estimate),SI.POV.GINI,29.7
+1696,Poland,POL,2016,Gini index (World Bank estimate),SI.POV.GINI,31.2
+1697,Poland,POL,2015,Gini index (World Bank estimate),SI.POV.GINI,31.8
+1698,Poland,POL,2014,Gini index (World Bank estimate),SI.POV.GINI,32.8
+1699,Poland,POL,2013,Gini index (World Bank estimate),SI.POV.GINI,33.1
+1700,Poland,POL,2012,Gini index (World Bank estimate),SI.POV.GINI,33
+1701,Poland,POL,2011,Gini index (World Bank estimate),SI.POV.GINI,33.2
+1702,Poland,POL,2010,Gini index (World Bank estimate),SI.POV.GINI,33.2
+1703,Poland,POL,2009,Gini index (World Bank estimate),SI.POV.GINI,33.4
+1704,Poland,POL,2008,Gini index (World Bank estimate),SI.POV.GINI,33.5
+1705,Poland,POL,2007,Gini index (World Bank estimate),SI.POV.GINI,34
+1706,Poland,POL,2006,Gini index (World Bank estimate),SI.POV.GINI,34.7
+1707,Poland,POL,2005,Gini index (World Bank estimate),SI.POV.GINI,35.8
+1708,Poland,POL,2004,Gini index (World Bank estimate),SI.POV.GINI,38
+1709,Poland,POL,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.1
+1710,Poland,POL,2017,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.3
+1711,Poland,POL,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.6
+1712,Poland,POL,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.5
+1713,Poland,POL,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.7
+1714,Poland,POL,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.8
+1715,Poland,POL,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.8
+1716,Poland,POL,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.8
+1717,Poland,POL,2010,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.9
+1718,Poland,POL,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.1
+1719,Poland,POL,2008,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3
+1720,Poland,POL,2007,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.9
+1721,Poland,POL,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,6.5
+1722,Poland,POL,2005,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,9
+1723,Poland,POL,2004,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,12.7
+1724,Poland,POL,2020,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1725,Poland,POL,2019,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1726,Poland,POL,2018,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1727,Poland,POL,2017,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1728,Poland,POL,2016,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1729,Poland,POL,2015,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1730,Poland,POL,2014,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1731,Poland,POL,2013,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1732,Poland,POL,2012,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1733,Poland,POL,2011,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1734,Poland,POL,2010,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1735,Poland,POL,2009,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1736,Poland,POL,2008,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1737,Poland,POL,2007,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1738,Poland,POL,2006,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1739,Poland,POL,2005,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1740,Poland,POL,2004,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1741,Poland,POL,2003,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1742,Poland,POL,2002,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1743,Poland,POL,2001,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1744,Poland,POL,2000,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1745,Poland,POL,1999,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1746,Poland,POL,1998,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1747,Poland,POL,1997,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1748,Poland,POL,1996,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1749,Poland,POL,1995,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1750,Poland,POL,1994,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1751,Poland,POL,1993,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1752,Poland,POL,1992,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1753,Poland,POL,1991,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1754,Poland,POL,1990,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1755,Poland,POL,1989,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1756,Poland,POL,1988,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1757,Poland,POL,1987,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1758,Poland,POL,1986,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1759,Poland,POL,1985,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1760,Poland,POL,1984,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1761,Poland,POL,1983,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1762,Poland,POL,1982,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1763,Poland,POL,1981,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1764,Poland,POL,1980,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1765,Poland,POL,1979,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1766,Poland,POL,1978,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1767,Poland,POL,1977,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1768,Poland,POL,1976,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1769,Poland,POL,1975,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1770,Poland,POL,1974,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1771,Poland,POL,1973,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1772,Poland,POL,1972,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1773,Poland,POL,1971,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1774,Poland,POL,1970,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1775,Poland,POL,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1776,Poland,POL,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1777,Poland,POL,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1778,Poland,POL,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1779,Poland,POL,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1780,Poland,POL,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1781,Poland,POL,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1782,Poland,POL,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1783,Poland,POL,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1784,Poland,POL,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1785,Poland,POL,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1786,Poland,POL,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1787,Poland,POL,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1788,Poland,POL,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1789,Poland,POL,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1790,Poland,POL,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1791,Poland,POL,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1792,Poland,POL,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1793,Poland,POL,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1794,Poland,POL,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1795,Poland,POL,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1796,Poland,POL,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1797,Poland,POL,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1798,Poland,POL,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1799,Poland,POL,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1800,Poland,POL,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1801,Poland,POL,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1802,Poland,POL,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1803,Poland,POL,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1804,Poland,POL,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1805,Poland,POL,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1806,Poland,POL,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1807,Poland,POL,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1808,Poland,POL,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1809,Poland,POL,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1810,Poland,POL,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1811,Poland,POL,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1812,Poland,POL,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1813,Poland,POL,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1814,Poland,POL,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1815,Poland,POL,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1816,Poland,POL,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1817,Poland,POL,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1818,Poland,POL,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1819,Poland,POL,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1820,Poland,POL,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1821,Poland,POL,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1822,Poland,POL,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1823,Poland,POL,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1824,Poland,POL,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1825,Poland,POL,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1826,Poland,POL,2018,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.21228
+1827,Poland,POL,2017,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.03445
+1828,Poland,POL,2016,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.9641
+1829,Poland,POL,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.00325
+1830,Poland,POL,2014,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.93978
+1831,Poland,POL,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.87053
+1832,Poland,POL,2012,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.88086
+1833,Poland,POL,2011,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.74588
+1834,Poland,POL,2010,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.7207
+1835,Poland,POL,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.66097
+1836,Poland,POL,2008,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.59921
+1837,Poland,POL,2007,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.56189
+1838,Poland,POL,2006,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.55082
+1839,Poland,POL,2005,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.56281
+1840,Poland,POL,2004,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.55251
+1841,Poland,POL,2003,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.53884
+1842,Poland,POL,2002,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.55785
+1843,Poland,POL,2001,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.62284
+1844,Poland,POL,2000,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.64202
+1845,Poland,POL,1999,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.6818
+1846,Poland,POL,1998,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.66083
+1847,Poland,POL,1997,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.64412
+1848,Poland,POL,1996,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.64036
+1849,Poland,POL,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.037
+1850,Poland,POL,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.058
+1851,Poland,POL,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.105
+1852,Poland,POL,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.178
+1853,Poland,POL,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.278
+1854,Poland,POL,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.403
+1855,Poland,POL,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.529
+1856,Poland,POL,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.654
+1857,Poland,POL,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.78
+1858,Poland,POL,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.892
+1859,Poland,POL,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.004
+1860,Poland,POL,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.116
+1861,Poland,POL,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.229
+1862,Poland,POL,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.341
+1863,Poland,POL,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.452
+1864,Poland,POL,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.564
+1865,Poland,POL,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.676
+1866,Poland,POL,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.787
+1867,Poland,POL,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.761
+1868,Poland,POL,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.716
+1869,Poland,POL,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.672
+1870,Poland,POL,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.627
+1871,Poland,POL,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.583
+1872,Poland,POL,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.538
+1873,Poland,POL,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.493
+1874,Poland,POL,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.449
+1875,Poland,POL,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.404
+1876,Poland,POL,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.359
+1877,Poland,POL,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.315
+1878,Poland,POL,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.27
+1879,Poland,POL,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.225
+1880,Poland,POL,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.043
+1881,Poland,POL,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.676
+1882,Poland,POL,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.31
+1883,Poland,POL,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.942
+1884,Poland,POL,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.573
+1885,Poland,POL,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.202
+1886,Poland,POL,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.831
+1887,Poland,POL,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.459
+1888,Poland,POL,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.086
+1889,Poland,POL,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.712
+1890,Poland,POL,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.22
+1891,Poland,POL,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.575
+1892,Poland,POL,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.929
+1893,Poland,POL,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.28
+1894,Poland,POL,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.629
+1895,Poland,POL,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.977
+1896,Poland,POL,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.324
+1897,Poland,POL,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.668
+1898,Poland,POL,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.125
+1899,Poland,POL,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.726
+1900,Poland,POL,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.326
+1901,Poland,POL,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.926
+1902,Poland,POL,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.526
+1903,Poland,POL,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.126
+1904,Poland,POL,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.727
+1905,Poland,POL,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.326
+1906,Poland,POL,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.926
+1907,Poland,POL,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.527
+1908,Poland,POL,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.892
+1909,Poland,POL,2016,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.2
+1910,Poland,POL,2015,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.9
+1911,Poland,POL,2014,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.7
+1912,Poland,POL,2013,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.4
+1913,Poland,POL,2012,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.2
+1914,Poland,POL,2011,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.9
+1915,Poland,POL,2010,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.7
+1916,Poland,POL,2009,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.5
+1917,Poland,POL,2008,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.3
+1918,Poland,POL,2007,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20
+1919,Poland,POL,2006,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.8
+1920,Poland,POL,2005,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.6
+1921,Poland,POL,2004,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.4
+1922,Poland,POL,2003,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.2
+1923,Poland,POL,2002,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19
+1924,Poland,POL,2001,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.8
+1925,Poland,POL,2000,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.6
+1926,Poland,POL,1999,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.4
+1927,Poland,POL,1998,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.3
+1928,Poland,POL,1997,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.1
+1929,Poland,POL,1996,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.9
+1930,Poland,POL,1995,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.8
+1931,Poland,POL,1994,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.6
+1932,Poland,POL,1993,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.4
+1933,Poland,POL,1992,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.3
+1934,Poland,POL,1991,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.1
+1935,Poland,POL,1990,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.9
+1936,Poland,POL,1989,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.7
+1937,Poland,POL,1988,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.5
+1938,Poland,POL,1987,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.3
+1939,Poland,POL,1986,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.1
+1940,Poland,POL,1985,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.8
+1941,Poland,POL,1984,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.6
+1942,Poland,POL,1983,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.4
+1943,Poland,POL,1982,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.1
+1944,Poland,POL,1981,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.9
+1945,Poland,POL,1980,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.6
+1946,Poland,POL,1979,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.3
+1947,Poland,POL,1978,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14
+1948,Poland,POL,1977,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.8
+1949,Poland,POL,1976,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.5
+1950,Poland,POL,1975,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.3
+1951,Poland,POL,2016,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,23.7
+1952,Poland,POL,2015,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,23.2
+1953,Poland,POL,2014,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22.6
+1954,Poland,POL,2013,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22.1
+1955,Poland,POL,2012,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.6
+1956,Poland,POL,2011,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.1
+1957,Poland,POL,2010,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.6
+1958,Poland,POL,2009,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.1
+1959,Poland,POL,2008,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.6
+1960,Poland,POL,2007,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.2
+1961,Poland,POL,2006,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.7
+1962,Poland,POL,2005,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.2
+1963,Poland,POL,2004,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.8
+1964,Poland,POL,2003,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.3
+1965,Poland,POL,2002,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.9
+1966,Poland,POL,2001,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.4
+1967,Poland,POL,2000,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16
+1968,Poland,POL,1999,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.6
+1969,Poland,POL,1998,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.2
+1970,Poland,POL,1997,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.8
+1971,Poland,POL,1996,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.4
+1972,Poland,POL,1995,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.1
+1973,Poland,POL,1994,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.7
+1974,Poland,POL,1993,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.3
+1975,Poland,POL,1992,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13
+1976,Poland,POL,1991,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.6
+1977,Poland,POL,1990,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.3
+1978,Poland,POL,1989,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.9
+1979,Poland,POL,1988,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.6
+1980,Poland,POL,1987,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.2
+1981,Poland,POL,1986,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.9
+1982,Poland,POL,1985,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.6
+1983,Poland,POL,1984,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.2
+1984,Poland,POL,1983,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.9
+1985,Poland,POL,1982,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.6
+1986,Poland,POL,1981,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.2
+1987,Poland,POL,1980,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.9
+1988,Poland,POL,1979,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.6
+1989,Poland,POL,1978,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.3
+1990,Poland,POL,1977,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8
+1991,Poland,POL,1976,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.7
+1992,Poland,POL,1975,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.4
+1993,Poland,POL,2016,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.147
+1994,Poland,POL,2015,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.096
+1995,Poland,POL,2014,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.086
+1996,Poland,POL,2013,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.096
+1997,Poland,POL,2012,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.09
+1998,Poland,POL,2011,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.084
+1999,Poland,POL,2010,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.084
+2000,Poland,POL,2009,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.089
+2001,Poland,POL,2008,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.075
+2002,Poland,POL,2007,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.101
+2003,Poland,POL,2006,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.089
+2004,Poland,POL,2005,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.068
+2005,Poland,POL,2004,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.049
+2006,Poland,POL,2003,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.013
+2007,Poland,POL,2001,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.02
+2008,Poland,POL,2000,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.018
+2009,Poland,POL,1999,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.013
+2010,Poland,POL,1998,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.012

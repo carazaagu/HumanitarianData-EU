@@ -1,0 +1,1719 @@
+,Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+0,Estonia,EST,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,76.8
+1,Estonia,EST,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,103.72
+2,Estonia,EST,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,81.3
+3,Estonia,EST,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,122.83
+4,Estonia,EST,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,95.87
+5,Estonia,EST,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,83.62
+6,Estonia,EST,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,82.13
+7,Estonia,EST,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,72.45
+8,Estonia,EST,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,65.21
+9,Estonia,EST,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,73.17
+10,Estonia,EST,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,68.53
+11,Estonia,EST,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,76.51
+12,Estonia,EST,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,54.38
+13,Estonia,EST,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,66.4
+14,Estonia,EST,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,53.16
+15,Estonia,EST,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,53.1
+16,Estonia,EST,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,53.87
+17,Estonia,EST,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,61.54
+18,Estonia,EST,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,73.83
+19,Estonia,EST,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,52.25
+20,Estonia,EST,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,54.9
+21,Estonia,EST,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,67.43
+22,Estonia,EST,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,67.77
+23,Estonia,EST,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,66.62
+24,Estonia,EST,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,66.39
+25,Estonia,EST,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,83.14
+26,Estonia,EST,1992,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,81.12
+27,Estonia,EST,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.4930042404439
+28,Estonia,EST,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.90197139952811
+29,Estonia,EST,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.37427690157512
+30,Estonia,EST,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.09591797875274
+31,Estonia,EST,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.83730102878832
+32,Estonia,EST,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.14360908999459
+33,Estonia,EST,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.06821821354806
+34,Estonia,EST,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.29084070085338
+35,Estonia,EST,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.64715971288693
+36,Estonia,EST,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.14555147835893
+37,Estonia,EST,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.45726600220056
+38,Estonia,EST,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.39730306354873
+39,Estonia,EST,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.92616068194983
+40,Estonia,EST,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.14628743642759
+41,Estonia,EST,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.28928844126352
+42,Estonia,EST,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.61995000122747
+43,Estonia,EST,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.45892346902906
+44,Estonia,EST,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.55136062860707
+45,Estonia,EST,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.49139621953952
+46,Estonia,EST,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.87989916783365
+47,Estonia,EST,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.62491305900014
+48,Estonia,EST,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.05910651935867
+49,Estonia,EST,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.09406599316101
+50,Estonia,EST,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.13318231422187
+51,Estonia,EST,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.13536820149407
+52,Estonia,EST,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.4400002360344
+53,Estonia,EST,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.22000020742416
+54,Estonia,EST,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.53999991714954
+55,Estonia,EST,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.69000001251698
+56,Estonia,EST,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.78999991714954
+57,Estonia,EST,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.69000001251698
+58,Estonia,EST,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.37000012397766
+59,Estonia,EST,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.06999999284744
+60,Estonia,EST,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.7700002193451
+61,Estonia,EST,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.05000019073486
+62,Estonia,EST,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.54000018537044
+63,Estonia,EST,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,4.54000017046929
+64,Estonia,EST,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.85999986529351
+65,Estonia,EST,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.55999997258187
+66,Estonia,EST,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.43000012636184
+67,Estonia,EST,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.37999999523163
+68,Estonia,EST,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.97999995946884
+69,Estonia,EST,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.08000016212464
+70,Estonia,EST,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.20999985933304
+71,Estonia,EST,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.32999986410141
+72,Estonia,EST,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.27999997138977
+73,Estonia,EST,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.1599999666214
+74,Estonia,EST,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.5
+75,Estonia,EST,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.63999998569489
+76,Estonia,EST,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.50000011920929
+77,Estonia,EST,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.51000010967255
+78,Estonia,EST,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.42999994754792
+79,Estonia,EST,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.40000009536743
+80,Estonia,EST,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.32999992370606
+81,Estonia,EST,2019,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,616045117.440802
+82,Estonia,EST,2018,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,280088326.888105
+83,Estonia,EST,2017,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,621809623.423232
+84,Estonia,EST,2016,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,300563086.477839
+85,Estonia,EST,2015,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,403274473.824457
+86,Estonia,EST,2014,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,173055018.043069
+87,Estonia,EST,2013,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,75410518.7800786
+88,Estonia,EST,2012,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-431767873.970718
+89,Estonia,EST,2011,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,304229741.404566
+90,Estonia,EST,2010,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,340438472.303463
+91,Estonia,EST,2009,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,525703676.23777
+92,Estonia,EST,2008,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2156421558.16225
+93,Estonia,EST,2007,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3323095156.7053
+94,Estonia,EST,2006,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2549061127.14498
+95,Estonia,EST,2005,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1218079448.93351
+96,Estonia,EST,2004,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1455763985.17049
+97,Estonia,EST,2003,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1276109256.30196
+98,Estonia,EST,2002,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-779341245.579739
+99,Estonia,EST,2001,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-324621263.961475
+100,Estonia,EST,2000,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-299009347.520142
+101,Estonia,EST,1999,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-294644154.245682
+102,Estonia,EST,1998,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-478433380.639936
+103,Estonia,EST,1997,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-561729553.875175
+104,Estonia,EST,1996,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-398235485.94958
+105,Estonia,EST,1995,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-157805570.472365
+106,Estonia,EST,1994,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-166292388.950034
+107,Estonia,EST,1993,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,21631079.7370876
+108,Estonia,EST,1992,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,36229906.3839846
+109,Estonia,EST,2019,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1100489775.17647
+110,Estonia,EST,2018,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1426135108.88086
+111,Estonia,EST,2017,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1085547299.1585
+112,Estonia,EST,2016,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-560729295.01384
+113,Estonia,EST,2015,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,140346638.373755
+114,Estonia,EST,2014,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-645747876.494969
+115,Estonia,EST,2013,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-246699019.40846
+116,Estonia,EST,2012,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-505876815.3678
+117,Estonia,EST,2011,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2490397605.83938
+118,Estonia,EST,2010,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1350833077.00115
+119,Estonia,EST,2009,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-503313255.683766
+120,Estonia,EST,2008,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-687425319.128922
+121,Estonia,EST,2007,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-645706690.904776
+122,Estonia,EST,2006,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-312038696.795068
+123,Estonia,EST,2005,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2212237339.53159
+124,Estonia,EST,2004,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-698555747.117606
+125,Estonia,EST,2003,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-763375958.739438
+126,Estonia,EST,2002,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-152577825.511914
+127,Estonia,EST,2001,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-342433473.723515
+128,Estonia,EST,2000,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-323884848.009498
+129,Estonia,EST,1999,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-222271335.727428
+130,Estonia,EST,1998,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-574232846.337154
+131,Estonia,EST,1997,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-129637920.986605
+132,Estonia,EST,1996,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-110201926.901998
+133,Estonia,EST,1995,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-198991508.086515
+134,Estonia,EST,1994,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-212061383.851355
+135,Estonia,EST,1993,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-156055362.030685
+136,Estonia,EST,1992,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-80399561.2144765
+137,Estonia,EST,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.444531097679859
+138,Estonia,EST,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.27725931243518
+139,Estonia,EST,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.43632688420445
+140,Estonia,EST,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.41723549488057
+141,Estonia,EST,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.148684907627356
+142,Estonia,EST,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.492326006547338
+143,Estonia,EST,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.106175146521716
+144,Estonia,EST,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.78056658954996
+145,Estonia,EST,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.93339987296979
+146,Estonia,EST,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.9819013145361
+147,Estonia,EST,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.97204512015696
+148,Estonia,EST,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0784083112810205
+149,Estonia,EST,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.3623580313683
+150,Estonia,EST,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.60132603055634
+151,Estonia,EST,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.43762042389211
+152,Estonia,EST,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.07971423199846
+153,Estonia,EST,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.04811107523412
+154,Estonia,EST,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.33499116549964
+155,Estonia,EST,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.57191270164023
+156,Estonia,EST,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.74827981651377
+157,Estonia,EST,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.0184895250876
+158,Estonia,EST,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.29611089718906
+159,Estonia,EST,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.20833333333299
+160,Estonia,EST,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.5818789322146
+161,Estonia,EST,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,23.050343349517
+162,Estonia,EST,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,28.7766137208514
+163,Estonia,EST,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,47.6546906187628
+164,Estonia,EST,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,89.8119490277274
+165,Estonia,EST,2019,Trade (% of GDP),NE.TRD.GNFS.ZS,141.806026645834
+166,Estonia,EST,2018,Trade (% of GDP),NE.TRD.GNFS.ZS,145.65648945196
+167,Estonia,EST,2017,Trade (% of GDP),NE.TRD.GNFS.ZS,147.320392519864
+168,Estonia,EST,2016,Trade (% of GDP),NE.TRD.GNFS.ZS,149.149697457829
+169,Estonia,EST,2015,Trade (% of GDP),NE.TRD.GNFS.ZS,149.841573672489
+170,Estonia,EST,2014,Trade (% of GDP),NE.TRD.GNFS.ZS,159.195187906436
+171,Estonia,EST,2013,Trade (% of GDP),NE.TRD.GNFS.ZS,165.380590070335
+172,Estonia,EST,2012,Trade (% of GDP),NE.TRD.GNFS.ZS,169.491766458068
+173,Estonia,EST,2011,Trade (% of GDP),NE.TRD.GNFS.ZS,165.904128052716
+174,Estonia,EST,2010,Trade (% of GDP),NE.TRD.GNFS.ZS,142.521910642035
+175,Estonia,EST,2009,Trade (% of GDP),NE.TRD.GNFS.ZS,116.10783453284
+176,Estonia,EST,2008,Trade (% of GDP),NE.TRD.GNFS.ZS,136.522920690268
+177,Estonia,EST,2007,Trade (% of GDP),NE.TRD.GNFS.ZS,134.008771282043
+178,Estonia,EST,2006,Trade (% of GDP),NE.TRD.GNFS.ZS,136.727944543728
+179,Estonia,EST,2005,Trade (% of GDP),NE.TRD.GNFS.ZS,136.020429297883
+180,Estonia,EST,2004,Trade (% of GDP),NE.TRD.GNFS.ZS,129.994415030728
+181,Estonia,EST,2003,Trade (% of GDP),NE.TRD.GNFS.ZS,122.731835518972
+182,Estonia,EST,2002,Trade (% of GDP),NE.TRD.GNFS.ZS,123.243253325716
+183,Estonia,EST,2001,Trade (% of GDP),NE.TRD.GNFS.ZS,126.363884301646
+184,Estonia,EST,2000,Trade (% of GDP),NE.TRD.GNFS.ZS,126.32921527551
+185,Estonia,EST,1999,Trade (% of GDP),NE.TRD.GNFS.ZS,143.987988283199
+186,Estonia,EST,1998,Trade (% of GDP),NE.TRD.GNFS.ZS,157.064204403886
+187,Estonia,EST,1997,Trade (% of GDP),NE.TRD.GNFS.ZS,151.248234910552
+188,Estonia,EST,1996,Trade (% of GDP),NE.TRD.GNFS.ZS,133.140142778902
+189,Estonia,EST,1995,Trade (% of GDP),NE.TRD.GNFS.ZS,139.246639777187
+190,Estonia,EST,1994,Trade (% of GDP),NE.TRD.GNFS.ZS,148.368943930975
+191,Estonia,EST,1993,Trade (% of GDP),NE.TRD.GNFS.ZS,132.327789734646
+192,Estonia,EST,2019,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,22.0384487450319
+193,Estonia,EST,2018,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.6632482849039
+194,Estonia,EST,2017,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.6159422926254
+195,Estonia,EST,2016,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.8462479153261
+196,Estonia,EST,2015,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.6900638358327
+197,Estonia,EST,2014,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.6108992125368
+198,Estonia,EST,2013,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.1866981986185
+199,Estonia,EST,2012,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.0787544021056
+200,Estonia,EST,2011,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.4937653103795
+201,Estonia,EST,2010,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.2048608608706
+202,Estonia,EST,2009,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.3429434151636
+203,Estonia,EST,2008,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.1874089674862
+204,Estonia,EST,2007,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.8866644229988
+205,Estonia,EST,2006,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.9642569806679
+206,Estonia,EST,2005,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.2760857353757
+207,Estonia,EST,2004,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.4348911237858
+208,Estonia,EST,2003,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.1030552829422
+209,Estonia,EST,2002,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.4747527192514
+210,Estonia,EST,2001,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.4997663831085
+211,Estonia,EST,2000,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.8499702416302
+212,Estonia,EST,1999,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,23.8219633107133
+213,Estonia,EST,1998,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.2734242237477
+214,Estonia,EST,1997,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.1448913729632
+215,Estonia,EST,1996,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.5909993081163
+216,Estonia,EST,1995,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.4127849922701
+217,Estonia,EST,2019,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.48304900017395
+218,Estonia,EST,2018,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.343290779221
+219,Estonia,EST,2017,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.46878960931556
+220,Estonia,EST,2016,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.51205679387833
+221,Estonia,EST,2015,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.52335052822009
+222,Estonia,EST,2014,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.35068207574195
+223,Estonia,EST,2013,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.53285171031583
+224,Estonia,EST,2012,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.39473673384514
+225,Estonia,EST,2011,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.42816503312854
+226,Estonia,EST,2010,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.72252582969922
+227,Estonia,EST,2009,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.06319306597639
+228,Estonia,EST,2008,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.97368249097357
+229,Estonia,EST,2007,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.27829351902088
+230,Estonia,EST,2006,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.46175556108635
+231,Estonia,EST,2005,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.89263011816816
+232,Estonia,EST,2004,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.32181195175952
+233,Estonia,EST,2003,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,3.86391982829455
+234,Estonia,EST,2002,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,4.29879259850561
+235,Estonia,EST,2001,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,5.07851873221381
+236,Estonia,EST,2000,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,5.04136241709731
+237,Estonia,EST,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.227121936399526
+238,Estonia,EST,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.281694212582528
+239,Estonia,EST,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.212899254964935
+240,Estonia,EST,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.165111032673718
+241,Estonia,EST,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.226929897122058
+242,Estonia,EST,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.467686220738096
+243,Estonia,EST,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.655589197828567
+244,Estonia,EST,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.957873139626115
+245,Estonia,EST,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.38928042155121
+246,Estonia,EST,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.898156599589814
+247,Estonia,EST,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.481872123398202
+248,Estonia,EST,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.581080230450139
+249,Estonia,EST,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.288746832417335
+250,Estonia,EST,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.144242518667086
+251,Estonia,EST,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.12850089852857
+252,Estonia,EST,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0923755180894445
+253,Estonia,EST,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0830091956796971
+254,Estonia,EST,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.047179347675892
+255,Estonia,EST,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.056629589040712
+256,Estonia,EST,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.100991024919059
+257,Estonia,EST,2019,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0311365737510871
+258,Estonia,EST,2018,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0307815869728166
+259,Estonia,EST,2017,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0307815869728166
+260,Estonia,EST,2016,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0333777489570259
+261,Estonia,EST,2015,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.037959079144093
+262,Estonia,EST,2014,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0475964848701136
+263,Estonia,EST,2013,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0525106956940105
+264,Estonia,EST,2012,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0653854419785898
+265,Estonia,EST,2011,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0727283451166456
+266,Estonia,EST,2010,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0808195332030519
+267,Estonia,EST,2009,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0970550141240507
+268,Estonia,EST,2008,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0948963264114851
+269,Estonia,EST,2007,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0979395472868153
+270,Estonia,EST,2006,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.104744843483989
+271,Estonia,EST,2005,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.104334333689741
+272,Estonia,EST,2004,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.1227771815323
+273,Estonia,EST,2003,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.132413655731744
+274,Estonia,EST,2002,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.1364957828058
+275,Estonia,EST,2001,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.160197167583997
+276,Estonia,EST,2000,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.145317527512281
+277,Estonia,EST,2019,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,13.8397440342715
+278,Estonia,EST,2018,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,13.3523289536221
+279,Estonia,EST,2017,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,12.8544206585285
+280,Estonia,EST,2016,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,10.2988466496632
+281,Estonia,EST,2015,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,10.2459333409405
+282,Estonia,EST,2014,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,11.9990969953112
+283,Estonia,EST,2013,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,11.2062084282752
+284,Estonia,EST,2012,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,11.978902396625
+285,Estonia,EST,2011,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,11.645857622207
+286,Estonia,EST,2010,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.64047535453646
+287,Estonia,EST,2009,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.09258521120481
+288,Estonia,EST,2008,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.96696463109971
+289,Estonia,EST,2007,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,12.8145066153065
+290,Estonia,EST,2006,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,12.7956219978722
+291,Estonia,EST,2005,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,12.305836010406
+292,Estonia,EST,2004,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,9.97810280174593
+293,Estonia,EST,2003,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,10.0797734239832
+294,Estonia,EST,2002,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,10.4113259588206
+295,Estonia,EST,2001,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,11.6262225102584
+296,Estonia,EST,2000,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,11.6203259392827
+297,Estonia,EST,2019,GDP (current US$),NY.GDP.MKTP.CD,31471100656.2431
+298,Estonia,EST,2018,GDP (current US$),NY.GDP.MKTP.CD,30631142226.8533
+299,Estonia,EST,2017,GDP (current US$),NY.GDP.MKTP.CD,26951648828.5789
+300,Estonia,EST,2016,GDP (current US$),NY.GDP.MKTP.CD,24259552888.9717
+301,Estonia,EST,2015,GDP (current US$),NY.GDP.MKTP.CD,23048864242.6072
+302,Estonia,EST,2014,GDP (current US$),NY.GDP.MKTP.CD,26773473625.1921
+303,Estonia,EST,2013,GDP (current US$),NY.GDP.MKTP.CD,25271406707.566
+304,Estonia,EST,2012,GDP (current US$),NY.GDP.MKTP.CD,23192708981.8446
+305,Estonia,EST,2011,GDP (current US$),NY.GDP.MKTP.CD,23391530006.3166
+306,Estonia,EST,2010,GDP (current US$),NY.GDP.MKTP.CD,19693608289.0773
+307,Estonia,EST,2009,GDP (current US$),NY.GDP.MKTP.CD,19744110864.1289
+308,Estonia,EST,2008,GDP (current US$),NY.GDP.MKTP.CD,24371299252.9662
+309,Estonia,EST,2007,GDP (current US$),NY.GDP.MKTP.CD,22445583082.398
+310,Estonia,EST,2006,GDP (current US$),NY.GDP.MKTP.CD,17012322167.8585
+311,Estonia,EST,2005,GDP (current US$),NY.GDP.MKTP.CD,14098326078.8459
+312,Estonia,EST,2004,GDP (current US$),NY.GDP.MKTP.CD,12144397515.528
+313,Estonia,EST,2003,GDP (current US$),NY.GDP.MKTP.CD,9877636630.53297
+314,Estonia,EST,2002,GDP (current US$),NY.GDP.MKTP.CD,7372457379.67411
+315,Estonia,EST,2001,GDP (current US$),NY.GDP.MKTP.CD,6259257899.91943
+316,Estonia,EST,2000,GDP (current US$),NY.GDP.MKTP.CD,5694069842.43988
+317,Estonia,EST,1999,GDP (current US$),NY.GDP.MKTP.CD,5762048551.95911
+318,Estonia,EST,1998,GDP (current US$),NY.GDP.MKTP.CD,5665917232.17266
+319,Estonia,EST,1997,GDP (current US$),NY.GDP.MKTP.CD,5147710775.4734
+320,Estonia,EST,1996,GDP (current US$),NY.GDP.MKTP.CD,4780170373.2605
+321,Estonia,EST,1995,GDP (current US$),NY.GDP.MKTP.CD,4497823760.81825
+322,Estonia,EST,1994,GDP (current US$),NY.GDP.MKTP.CD,4116734613.10113
+323,Estonia,EST,1993,GDP (current US$),NY.GDP.MKTP.CD,4006983328.923
+324,Estonia,EST,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,23717.7994512337
+325,Estonia,EST,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,23170.7073775514
+326,Estonia,EST,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,20458.4607286705
+327,Estonia,EST,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,18437.2528207173
+328,Estonia,EST,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,17522.230186252
+329,Estonia,EST,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,20367.103161316
+330,Estonia,EST,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,19174.1003261509
+331,Estonia,EST,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,17534.421349913
+332,Estonia,EST,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,17621.5479628944
+333,Estonia,EST,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,14790.8209234701
+334,Estonia,EST,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,14794.9711049549
+335,Estonia,EST,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,18227.1195304476
+336,Estonia,EST,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,16741.9392266596
+337,Estonia,EST,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,12631.5680518102
+338,Estonia,EST,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,10406.396692326
+339,Estonia,EST,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,8912.99219516932
+340,Estonia,EST,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,7206.16656248758
+341,Estonia,EST,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,5344.8779350231
+342,Estonia,EST,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,4509.17820203617
+343,Estonia,EST,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,4075.97063851071
+344,Estonia,EST,1999,GDP per capita (current US$),NY.GDP.PCAP.CD,4144.63112371578
+345,Estonia,EST,1998,GDP per capita (current US$),NY.GDP.PCAP.CD,4087.50330566881
+346,Estonia,EST,1997,GDP per capita (current US$),NY.GDP.PCAP.CD,3678.15794208319
+347,Estonia,EST,1996,GDP per capita (current US$),NY.GDP.PCAP.CD,3376.79474006
+348,Estonia,EST,1995,GDP per capita (current US$),NY.GDP.PCAP.CD,3130.80698411582
+349,Estonia,EST,1994,GDP per capita (current US$),NY.GDP.PCAP.CD,2814.83432849267
+350,Estonia,EST,1993,GDP per capita (current US$),NY.GDP.PCAP.CD,2681.82065319905
+351,Estonia,EST,2019,GNI (current US$),NY.GNP.MKTP.CD,30759017473.7254
+352,Estonia,EST,2018,GNI (current US$),NY.GNP.MKTP.CD,30034153188.7843
+353,Estonia,EST,2017,GNI (current US$),NY.GNP.MKTP.CD,26302479799.8824
+354,Estonia,EST,2016,GNI (current US$),NY.GNP.MKTP.CD,23719542899.4187
+355,Estonia,EST,2015,GNI (current US$),NY.GNP.MKTP.CD,22543889502.3005
+356,Estonia,EST,2014,GNI (current US$),NY.GNP.MKTP.CD,26016585293.3131
+357,Estonia,EST,2013,GNI (current US$),NY.GNP.MKTP.CD,24663444923.3427
+358,Estonia,EST,2012,GNI (current US$),NY.GNP.MKTP.CD,22237623396.3398
+359,Estonia,EST,2011,GNI (current US$),NY.GNP.MKTP.CD,22210861628.9901
+360,Estonia,EST,2010,GNI (current US$),NY.GNP.MKTP.CD,18646422899.6642
+361,Estonia,EST,2009,GNI (current US$),NY.GNP.MKTP.CD,19146012781.3281
+362,Estonia,EST,2008,GNI (current US$),NY.GNP.MKTP.CD,23098872125.3845
+363,Estonia,EST,2007,GNI (current US$),NY.GNP.MKTP.CD,20706693128.9351
+364,Estonia,EST,2006,GNI (current US$),NY.GNP.MKTP.CD,16082181658.5121
+365,Estonia,EST,2005,GNI (current US$),NY.GNP.MKTP.CD,13457655764.2084
+366,Estonia,EST,2004,GNI (current US$),NY.GNP.MKTP.CD,11465094409.9379
+367,Estonia,EST,2003,GNI (current US$),NY.GNP.MKTP.CD,9301313233.96567
+368,Estonia,EST,2002,GNI (current US$),NY.GNP.MKTP.CD,6978783083.73363
+369,Estonia,EST,2001,GNI (current US$),NY.GNP.MKTP.CD,5947902604.95927
+370,Estonia,EST,2000,GNI (current US$),NY.GNP.MKTP.CD,5472116465.49341
+371,Estonia,EST,2019,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.28201175205704
+372,Estonia,EST,2018,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.48132461192965
+373,Estonia,EST,2017,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.19436088163199
+374,Estonia,EST,2016,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.10232421845207
+375,Estonia,EST,2015,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.43576625088835
+376,Estonia,EST,2014,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.78352604290559
+377,Estonia,EST,2013,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.44471775558112
+378,Estonia,EST,2012,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.49105420926877
+379,Estonia,EST,2011,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,8.03588526401964
+380,Estonia,EST,2010,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,0.577722691946263
+381,Estonia,EST,2009,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-12.4267338601064
+382,Estonia,EST,2008,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-3.40777606751676
+383,Estonia,EST,2007,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,6.17169080666709
+384,Estonia,EST,2006,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,8.96792415630654
+385,Estonia,EST,2005,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,11.1100446908084
+386,Estonia,EST,2004,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,7.75918407110667
+387,Estonia,EST,2003,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,7.38579694943407
+388,Estonia,EST,2002,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,7.51082597485768
+389,Estonia,EST,2001,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.8433479531337
+390,Estonia,EST,2018,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,523.41458013492
+391,Estonia,EST,2015,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,519.5291
+392,Estonia,EST,2012,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,520.545521676786
+393,Estonia,EST,2009,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,512.10419773905
+394,Estonia,EST,2006,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,514.575462032399
+395,Estonia,EST,2018,PISA: Mean performance on the reading scale,LO.PISA.REA,523.017018425265
+396,Estonia,EST,2015,PISA: Mean performance on the reading scale,LO.PISA.REA,519.1429
+397,Estonia,EST,2012,PISA: Mean performance on the reading scale,LO.PISA.REA,516.294184313067
+398,Estonia,EST,2009,PISA: Mean performance on the reading scale,LO.PISA.REA,500.961865512048
+399,Estonia,EST,2006,PISA: Mean performance on the reading scale,LO.PISA.REA,500.749761732584
+400,Estonia,EST,2018,PISA: Mean performance on the science scale,LO.PISA.SCI,530.108004621743
+401,Estonia,EST,2015,PISA: Mean performance on the science scale,LO.PISA.SCI,534.1937
+402,Estonia,EST,2012,PISA: Mean performance on the science scale,LO.PISA.SCI,541.404756164087
+403,Estonia,EST,2009,PISA: Mean performance on the science scale,LO.PISA.SCI,527.831756247383
+404,Estonia,EST,2006,PISA: Mean performance on the science scale,LO.PISA.SCI,531.391804075501
+405,Estonia,EST,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3402099609375
+406,Estonia,EST,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.34669995307922
+407,Estonia,EST,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33815002441406
+408,Estonia,EST,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33995997905731
+409,Estonia,EST,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.33756995201111
+410,Estonia,EST,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3313399553299
+411,Estonia,EST,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.35157001018524
+412,Estonia,EST,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.36777997016907
+413,Estonia,EST,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39875996112823
+414,Estonia,EST,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.42255997657776
+415,Estonia,EST,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.41558003425598
+416,Estonia,EST,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.39677000045776
+417,Estonia,EST,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.40804994106293
+418,Estonia,EST,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.40622997283936
+419,Estonia,EST,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.41412997245789
+420,Estonia,EST,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.41032004356384
+421,Estonia,EST,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.4097900390625
+422,Estonia,EST,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.37542998790741
+423,Estonia,EST,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32880997657776
+424,Estonia,EST,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30476999282837
+425,Estonia,EST,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30031001567841
+426,Estonia,EST,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15925002098083
+427,Estonia,EST,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1235100030899
+428,Estonia,EST,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.08789002895355
+429,Estonia,EST,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.07518994808197
+430,Estonia,EST,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.04545998573303
+431,Estonia,EST,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.03797996044159
+432,Estonia,EST,2018,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.15716004371643
+433,Estonia,EST,2017,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.43253993988037
+434,Estonia,EST,2016,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.63126993179321
+435,Estonia,EST,2015,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.45568990707397
+436,Estonia,EST,2014,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.02830004692078
+437,Estonia,EST,2013,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.24651002883911
+438,Estonia,EST,2012,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.045729998499155
+439,Estonia,EST,2011,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.0248199999332428
+440,Estonia,EST,2010,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.570519983768463
+441,Estonia,EST,2009,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.849259972572327
+442,Estonia,EST,2008,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.438199996948242
+443,Estonia,EST,2007,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.088469997048378
+444,Estonia,EST,2006,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.44484996795654
+445,Estonia,EST,2005,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.41067004203796
+446,Estonia,EST,2004,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.2739200592041
+447,Estonia,EST,2003,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.55715000629425
+448,Estonia,EST,2002,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.14743995666504
+449,Estonia,EST,2001,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.0898300409317
+450,Estonia,EST,2000,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.01882994174957
+451,Estonia,EST,1999,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.82956999540329
+452,Estonia,EST,1998,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.778419971466064
+453,Estonia,EST,1996,Children out of school (% of primary school age),SE.PRM.UNER.ZS,9.39048004150391
+454,Estonia,EST,1995,Children out of school (% of primary school age),SE.PRM.UNER.ZS,12.965479850769
+455,Estonia,EST,2000,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,89.3576507568359
+456,Estonia,EST,1989,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,58.7999992370605
+457,Estonia,EST,2017,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.9467163085938
+458,Estonia,EST,2016,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.9401702880859
+459,Estonia,EST,2015,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.6303787231445
+460,Estonia,EST,2014,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.7264633178711
+461,Estonia,EST,2013,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,86.6139221191406
+462,Estonia,EST,2004,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.4997634887695
+463,Estonia,EST,2003,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.7880172729492
+464,Estonia,EST,2002,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,85.0418014526367
+465,Estonia,EST,2001,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,85.5696182250977
+466,Estonia,EST,2017,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.97338008880615
+467,Estonia,EST,2016,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.17053985595703
+468,Estonia,EST,2015,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.10685014724731
+469,Estonia,EST,2014,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.3670802116394
+470,Estonia,EST,2013,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.81267023086548
+471,Estonia,EST,2012,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.68269014358521
+472,Estonia,EST,2011,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.96992015838623
+473,Estonia,EST,2010,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.47338008880615
+474,Estonia,EST,2009,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.92651987075806
+475,Estonia,EST,2008,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.47737979888916
+476,Estonia,EST,2007,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.62063980102539
+477,Estonia,EST,2005,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.81315994262695
+478,Estonia,EST,2004,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.87734985351563
+479,Estonia,EST,2003,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.27117013931274
+480,Estonia,EST,2002,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.43131017684937
+481,Estonia,EST,2001,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.22460985183716
+482,Estonia,EST,2000,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.33242988586426
+483,Estonia,EST,1999,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,6.64656019210815
+484,Estonia,EST,1998,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,6.24434995651245
+485,Estonia,EST,1997,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,6.34613990783691
+486,Estonia,EST,1996,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,6.06232976913452
+487,Estonia,EST,1995,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.90540981292725
+488,Estonia,EST,1994,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.50266981124878
+489,Estonia,EST,1993,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.70691013336182
+490,Estonia,EST,2019,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.4596456133571
+491,Estonia,EST,2018,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.2766926326945
+492,Estonia,EST,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.265184608345
+493,Estonia,EST,2016,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.3903957378318
+494,Estonia,EST,2015,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.711902839672
+495,Estonia,EST,2014,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.3683954372174
+496,Estonia,EST,2013,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.9701730626298
+497,Estonia,EST,2012,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.0239844340015
+498,Estonia,EST,2011,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.2773599939513
+499,Estonia,EST,2010,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.3544373568117
+500,Estonia,EST,2009,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.8410485737208
+501,Estonia,EST,2008,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.6229908017878
+502,Estonia,EST,2007,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.528612716763
+503,Estonia,EST,2006,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.139888990954
+504,Estonia,EST,2005,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.6493761492671
+505,Estonia,EST,2004,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,49.141679309628
+506,Estonia,EST,2003,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.3560469587053
+507,Estonia,EST,2002,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.7508190661805
+508,Estonia,EST,2001,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.6830443548688
+509,Estonia,EST,2000,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.5524047584348
+510,Estonia,EST,1999,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.9393906111551
+511,Estonia,EST,1998,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.7919616887505
+512,Estonia,EST,1997,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.333553819784
+513,Estonia,EST,1996,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,48.0406892208726
+514,Estonia,EST,1995,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.775302657938
+515,Estonia,EST,1994,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.6462391471697
+516,Estonia,EST,1993,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.5147216948926
+517,Estonia,EST,1992,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.4074940860308
+518,Estonia,EST,1991,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.5025004412543
+519,Estonia,EST,1990,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,47.5114962102327
+520,Estonia,EST,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.46000003814697
+521,Estonia,EST,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.44999980926514
+522,Estonia,EST,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.36999988555908
+523,Estonia,EST,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.76000022888184
+524,Estonia,EST,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.76000022888184
+525,Estonia,EST,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.19000005722046
+526,Estonia,EST,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.34999990463257
+527,Estonia,EST,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.63000011444092
+528,Estonia,EST,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.0200004577637
+529,Estonia,EST,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.3299999237061
+530,Estonia,EST,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,16.7099990844727
+531,Estonia,EST,2009,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.5500001907349
+532,Estonia,EST,2008,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.46000003814697
+533,Estonia,EST,2007,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.59000015258789
+534,Estonia,EST,2006,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.92000007629395
+535,Estonia,EST,2005,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.02999973297119
+536,Estonia,EST,2004,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.25
+537,Estonia,EST,2003,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.289999961853
+538,Estonia,EST,2002,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.0299997329712
+539,Estonia,EST,2001,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.1300001144409
+540,Estonia,EST,2000,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,13.3599996566772
+541,Estonia,EST,1999,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.5699996948242
+542,Estonia,EST,1998,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.51000022888184
+543,Estonia,EST,1997,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.3699998855591
+544,Estonia,EST,1996,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.92000007629395
+545,Estonia,EST,1995,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.65999984741211
+546,Estonia,EST,1994,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.55999994277954
+547,Estonia,EST,1993,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.53999996185303
+548,Estonia,EST,1992,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.6800000667572
+549,Estonia,EST,1991,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1.47000002861023
+550,Estonia,EST,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+551,Estonia,EST,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+552,Estonia,EST,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+553,Estonia,EST,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+554,Estonia,EST,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+555,Estonia,EST,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+556,Estonia,EST,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+557,Estonia,EST,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+558,Estonia,EST,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+559,Estonia,EST,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+560,Estonia,EST,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+561,Estonia,EST,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+562,Estonia,EST,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+563,Estonia,EST,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+564,Estonia,EST,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+565,Estonia,EST,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+566,Estonia,EST,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+567,Estonia,EST,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+568,Estonia,EST,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+569,Estonia,EST,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+570,Estonia,EST,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+571,Estonia,EST,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+572,Estonia,EST,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+573,Estonia,EST,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+574,Estonia,EST,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+575,Estonia,EST,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+576,Estonia,EST,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+577,Estonia,EST,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+578,Estonia,EST,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+579,Estonia,EST,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+580,Estonia,EST,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.4768334658828
+581,Estonia,EST,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,25.3260591405017
+582,Estonia,EST,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.4752448868179
+583,Estonia,EST,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.9085588565359
+584,Estonia,EST,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.9835417865552
+585,Estonia,EST,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,25.1298919417513
+586,Estonia,EST,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.088768704071
+587,Estonia,EST,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.1889954781843
+588,Estonia,EST,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.5652519784108
+589,Estonia,EST,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.1630792135775
+590,Estonia,EST,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.8612379096015
+591,Estonia,EST,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.9871455146011
+592,Estonia,EST,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.8299964941448
+593,Estonia,EST,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.4157820425116
+594,Estonia,EST,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.941265486778
+595,Estonia,EST,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.8371190229034
+596,Estonia,EST,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.0693576980239
+597,Estonia,EST,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.7464860861161
+598,Estonia,EST,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.7399019668
+599,Estonia,EST,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.5448295450023
+600,Estonia,EST,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.3233857076765
+601,Estonia,EST,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,9.28519611552712
+602,Estonia,EST,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.70518547099375
+603,Estonia,EST,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.90659168736065
+604,Estonia,EST,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.52622282323504
+605,Estonia,EST,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.35607862421139
+606,Estonia,EST,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,16589.508
+607,Estonia,EST,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,16362.154
+608,Estonia,EST,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,18173.652
+609,Estonia,EST,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,19332.424
+610,Estonia,EST,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,17146.892
+611,Estonia,EST,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,18096.645
+612,Estonia,EST,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,17781.283
+613,Estonia,EST,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,14312.301
+614,Estonia,EST,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,17018.547
+615,Estonia,EST,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,18357.002
+616,Estonia,EST,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,16175.137
+617,Estonia,EST,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,16754.523
+618,Estonia,EST,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,17282.571
+619,Estonia,EST,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,17124.89
+620,Estonia,EST,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,14888.02
+621,Estonia,EST,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,15570.082
+622,Estonia,EST,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,14858.684
+623,Estonia,EST,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,15159.378
+624,Estonia,EST,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,16310.816
+625,Estonia,EST,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,18107.646
+626,Estonia,EST,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,18349.668
+627,Estonia,EST,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,17520.926
+628,Estonia,EST,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,19042.731
+629,Estonia,EST,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,19508.44
+630,Estonia,EST,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,23879.504
+631,Estonia,EST,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,23292.7792109021
+632,Estonia,EST,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24378.846055451
+633,Estonia,EST,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,22767.1259
+634,Estonia,EST,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18815.60914
+635,Estonia,EST,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21871.9123
+636,Estonia,EST,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,23503.7062
+637,Estonia,EST,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,19628.3862
+638,Estonia,EST,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,20053.5829
+639,Estonia,EST,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,20024.42742
+640,Estonia,EST,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,19449.73738
+641,Estonia,EST,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,22955.3596
+642,Estonia,EST,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,17940.1633
+643,Estonia,EST,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,17768.8082
+644,Estonia,EST,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18098.9796
+645,Estonia,EST,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,19347.233
+646,Estonia,EST,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,32114.2147
+647,Estonia,EST,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,32604.2831
+648,Estonia,EST,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,31933.334
+649,Estonia,EST,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,34255.4135
+650,Estonia,EST,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,34874.9733
+651,Estonia,EST,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,41259.5838
+652,Estonia,EST,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,51527.4219
+653,Estonia,EST,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,55787.31741
+654,Estonia,EST,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,68716.2918
+655,Estonia,EST,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,69888.796
+656,Estonia,EST,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,69382.1037
+657,Estonia,EST,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,69465.6839
+658,Estonia,EST,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,68662.1093
+659,Estonia,EST,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,68788.0311
+660,Estonia,EST,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,69709.1091
+661,Estonia,EST,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,70756.1858
+662,Estonia,EST,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,70863.4169
+663,Estonia,EST,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,70666.1103
+664,Estonia,EST,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,70792.3712
+665,Estonia,EST,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,70286.3214
+666,Estonia,EST,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,71036.2928
+667,Estonia,EST,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,69841.0407
+668,Estonia,EST,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,70829.7248
+669,Estonia,EST,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,69064.0488
+670,Estonia,EST,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,68227.4648
+671,Estonia,EST,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,66959.8239
+672,Estonia,EST,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,65084.3648
+673,Estonia,EST,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,64921.3432
+674,Estonia,EST,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,0
+675,Estonia,EST,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,0
+676,Estonia,EST,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,0
+677,Estonia,EST,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,0.258944001487604
+678,Estonia,EST,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,0.263896000442954
+679,Estonia,EST,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,1.17870826630763
+680,Estonia,EST,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,6.16984936199787
+681,Estonia,EST,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,6.47601161388065
+682,Estonia,EST,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,5.82142832079895
+683,Estonia,EST,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,5.02580753807447
+684,Estonia,EST,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,6.88729939449764
+685,Estonia,EST,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,26.1562110470774
+686,Estonia,EST,2018,Aquaculture production (metric tons),ER.FSH.AQUA.MT,943.661010742188
+687,Estonia,EST,2017,Aquaculture production (metric tons),ER.FSH.AQUA.MT,870.460998535156
+688,Estonia,EST,2016,Aquaculture production (metric tons),ER.FSH.AQUA.MT,867.733032226563
+689,Estonia,EST,2015,Aquaculture production (metric tons),ER.FSH.AQUA.MT,798.700012207031
+690,Estonia,EST,2014,Aquaculture production (metric tons),ER.FSH.AQUA.MT,870.474975585938
+691,Estonia,EST,2013,Aquaculture production (metric tons),ER.FSH.AQUA.MT,733.213989257813
+692,Estonia,EST,2012,Aquaculture production (metric tons),ER.FSH.AQUA.MT,581.398010253906
+693,Estonia,EST,2011,Aquaculture production (metric tons),ER.FSH.AQUA.MT,388.339996337891
+694,Estonia,EST,2010,Aquaculture production (metric tons),ER.FSH.AQUA.MT,573.039978027344
+695,Estonia,EST,2009,Aquaculture production (metric tons),ER.FSH.AQUA.MT,653.599975585938
+696,Estonia,EST,2008,Aquaculture production (metric tons),ER.FSH.AQUA.MT,813
+697,Estonia,EST,2007,Aquaculture production (metric tons),ER.FSH.AQUA.MT,772
+698,Estonia,EST,2006,Aquaculture production (metric tons),ER.FSH.AQUA.MT,703
+699,Estonia,EST,2005,Aquaculture production (metric tons),ER.FSH.AQUA.MT,555
+700,Estonia,EST,2004,Aquaculture production (metric tons),ER.FSH.AQUA.MT,252
+701,Estonia,EST,2003,Aquaculture production (metric tons),ER.FSH.AQUA.MT,372
+702,Estonia,EST,2002,Aquaculture production (metric tons),ER.FSH.AQUA.MT,257
+703,Estonia,EST,2001,Aquaculture production (metric tons),ER.FSH.AQUA.MT,467
+704,Estonia,EST,2000,Aquaculture production (metric tons),ER.FSH.AQUA.MT,225
+705,Estonia,EST,1999,Aquaculture production (metric tons),ER.FSH.AQUA.MT,200
+706,Estonia,EST,1998,Aquaculture production (metric tons),ER.FSH.AQUA.MT,260
+707,Estonia,EST,1997,Aquaculture production (metric tons),ER.FSH.AQUA.MT,260
+708,Estonia,EST,1996,Aquaculture production (metric tons),ER.FSH.AQUA.MT,272
+709,Estonia,EST,1995,Aquaculture production (metric tons),ER.FSH.AQUA.MT,315
+710,Estonia,EST,1994,Aquaculture production (metric tons),ER.FSH.AQUA.MT,417
+711,Estonia,EST,1993,Aquaculture production (metric tons),ER.FSH.AQUA.MT,330
+712,Estonia,EST,1992,Aquaculture production (metric tons),ER.FSH.AQUA.MT,693
+713,Estonia,EST,1991,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1337
+714,Estonia,EST,1990,Aquaculture production (metric tons),ER.FSH.AQUA.MT,936
+715,Estonia,EST,1989,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1232
+716,Estonia,EST,1988,Aquaculture production (metric tons),ER.FSH.AQUA.MT,401
+717,Estonia,EST,2018,Total fisheries production (metric tons),ER.FSH.PROD.MT,88405.6640625
+718,Estonia,EST,2017,Total fisheries production (metric tons),ER.FSH.PROD.MT,83691.4609375
+719,Estonia,EST,2016,Total fisheries production (metric tons),ER.FSH.PROD.MT,76921.734375
+720,Estonia,EST,2015,Total fisheries production (metric tons),ER.FSH.PROD.MT,74414.703125
+721,Estonia,EST,2014,Total fisheries production (metric tons),ER.FSH.PROD.MT,70030.4765625
+722,Estonia,EST,2013,Total fisheries production (metric tons),ER.FSH.PROD.MT,70514.2109375
+723,Estonia,EST,2012,Total fisheries production (metric tons),ER.FSH.PROD.MT,68325.3984375
+724,Estonia,EST,2011,Total fisheries production (metric tons),ER.FSH.PROD.MT,81968.34375
+725,Estonia,EST,2010,Total fisheries production (metric tons),ER.FSH.PROD.MT,96304.0390625
+726,Estonia,EST,2009,Total fisheries production (metric tons),ER.FSH.PROD.MT,99157.6015625
+727,Estonia,EST,2008,Total fisheries production (metric tons),ER.FSH.PROD.MT,103393
+728,Estonia,EST,2007,Total fisheries production (metric tons),ER.FSH.PROD.MT,100216
+729,Estonia,EST,2006,Total fisheries production (metric tons),ER.FSH.PROD.MT,87587
+730,Estonia,EST,2005,Total fisheries production (metric tons),ER.FSH.PROD.MT,100136
+731,Estonia,EST,2004,Total fisheries production (metric tons),ER.FSH.PROD.MT,88877
+732,Estonia,EST,2003,Total fisheries production (metric tons),ER.FSH.PROD.MT,80580
+733,Estonia,EST,2002,Total fisheries production (metric tons),ER.FSH.PROD.MT,102622
+734,Estonia,EST,2001,Total fisheries production (metric tons),ER.FSH.PROD.MT,105959
+735,Estonia,EST,2000,Total fisheries production (metric tons),ER.FSH.PROD.MT,113572
+736,Estonia,EST,1999,Total fisheries production (metric tons),ER.FSH.PROD.MT,113312
+737,Estonia,EST,1998,Total fisheries production (metric tons),ER.FSH.PROD.MT,121854
+738,Estonia,EST,1997,Total fisheries production (metric tons),ER.FSH.PROD.MT,126317
+739,Estonia,EST,1996,Total fisheries production (metric tons),ER.FSH.PROD.MT,108992
+740,Estonia,EST,1995,Total fisheries production (metric tons),ER.FSH.PROD.MT,132891
+741,Estonia,EST,1994,Total fisheries production (metric tons),ER.FSH.PROD.MT,124508
+742,Estonia,EST,1993,Total fisheries production (metric tons),ER.FSH.PROD.MT,147515
+743,Estonia,EST,1992,Total fisheries production (metric tons),ER.FSH.PROD.MT,129689
+744,Estonia,EST,1991,Total fisheries production (metric tons),ER.FSH.PROD.MT,329213
+745,Estonia,EST,1990,Total fisheries production (metric tons),ER.FSH.PROD.MT,346083
+746,Estonia,EST,1989,Total fisheries production (metric tons),ER.FSH.PROD.MT,375454
+747,Estonia,EST,1988,Total fisheries production (metric tons),ER.FSH.PROD.MT,397782
+748,Estonia,EST,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,20.2184748207416
+749,Estonia,EST,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,20.2184748207416
+750,Estonia,EST,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,20.18
+751,Estonia,EST,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,18.6204423838105
+752,Estonia,EST,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,18.6204423838105
+753,Estonia,EST,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,18.62632888
+754,Estonia,EST,2017,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.3329932232526
+755,Estonia,EST,2016,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.6488719039139
+756,Estonia,EST,2015,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.964795510394
+757,Estonia,EST,2014,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.2807054557785
+758,Estonia,EST,2013,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.55417182277
+759,Estonia,EST,2012,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.8269557959477
+760,Estonia,EST,2011,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,95.1006134943613
+761,Estonia,EST,2010,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,95.3756766293297
+762,Estonia,EST,2009,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,95.3190802493991
+763,Estonia,EST,2008,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,95.0777174565946
+764,Estonia,EST,2007,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.8385804967216
+765,Estonia,EST,2006,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.6016636227666
+766,Estonia,EST,2005,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.3669592691451
+767,Estonia,EST,2004,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,94.134330578806
+768,Estonia,EST,2003,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.9038872617764
+769,Estonia,EST,2002,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.6756273685723
+770,Estonia,EST,2001,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.4493936485812
+771,Estonia,EST,2000,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.225313836727
+772,Estonia,EST,2017,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,97.3606356433258
+773,Estonia,EST,2016,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,97.3470909687921
+774,Estonia,EST,2015,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,97.1145921417905
+775,Estonia,EST,2014,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.7829288801118
+776,Estonia,EST,2013,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.5110663672116
+777,Estonia,EST,2012,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.357783012484
+778,Estonia,EST,2011,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.3156247272751
+779,Estonia,EST,2010,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.2789924165155
+780,Estonia,EST,2009,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.2430806230049
+781,Estonia,EST,2008,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.2078539175753
+782,Estonia,EST,2007,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.1733481881741
+783,Estonia,EST,2006,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.1395639787718
+784,Estonia,EST,2005,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.1065012650744
+785,Estonia,EST,2004,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.0741232126455
+786,Estonia,EST,2003,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.0424648752254
+787,Estonia,EST,2002,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.0873439429466
+788,Estonia,EST,2001,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.092642759315
+789,Estonia,EST,2000,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.0965319412273
+790,Estonia,EST,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+791,Estonia,EST,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+792,Estonia,EST,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+793,Estonia,EST,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+794,Estonia,EST,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+795,Estonia,EST,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+796,Estonia,EST,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,7
+797,Estonia,EST,2016,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26
+798,Estonia,EST,2015,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.3
+799,Estonia,EST,2014,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.7
+800,Estonia,EST,2013,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.4
+801,Estonia,EST,2012,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.1
+802,Estonia,EST,2011,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.1
+803,Estonia,EST,2010,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.1
+804,Estonia,EST,2009,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.3
+805,Estonia,EST,2008,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.5
+806,Estonia,EST,2007,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.8
+807,Estonia,EST,2006,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.1
+808,Estonia,EST,2005,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.4
+809,Estonia,EST,2004,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.6
+810,Estonia,EST,2003,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.8
+811,Estonia,EST,2002,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26
+812,Estonia,EST,2001,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.2
+813,Estonia,EST,2000,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.4
+814,Estonia,EST,1999,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.7
+815,Estonia,EST,1998,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.1
+816,Estonia,EST,1997,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.5
+817,Estonia,EST,1996,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.1
+818,Estonia,EST,1995,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.7
+819,Estonia,EST,1994,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,29.5
+820,Estonia,EST,1993,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.4
+821,Estonia,EST,1992,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,31.5
+822,Estonia,EST,1991,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,32.7
+823,Estonia,EST,1990,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,34
+824,Estonia,EST,2018,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.57
+825,Estonia,EST,2017,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.69
+826,Estonia,EST,2016,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.76
+827,Estonia,EST,2015,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.96
+828,Estonia,EST,2014,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.01
+829,Estonia,EST,2013,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.01
+830,Estonia,EST,2012,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.53
+831,Estonia,EST,2011,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.36
+832,Estonia,EST,2010,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.27
+833,Estonia,EST,2009,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.37
+834,Estonia,EST,2008,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.63
+835,Estonia,EST,2007,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.48
+836,Estonia,EST,2006,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.55
+837,Estonia,EST,2005,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.38
+838,Estonia,EST,2004,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.64
+839,Estonia,EST,2003,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.73
+840,Estonia,EST,2002,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.98
+841,Estonia,EST,2001,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.6
+842,Estonia,EST,2000,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.04
+843,Estonia,EST,1999,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.5300002098
+844,Estonia,EST,1998,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.5799999237
+845,Estonia,EST,1997,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.7100000381
+846,Estonia,EST,1996,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.9000000954
+847,Estonia,EST,1995,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.3500003815
+848,Estonia,EST,1994,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.5613002777
+849,Estonia,EST,1993,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,9.622300148
+850,Estonia,EST,1992,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,9.6816997528
+851,Estonia,EST,1991,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.2891998291
+852,Estonia,EST,1990,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.6106004715
+853,Estonia,EST,1989,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,11.9308004379272
+854,Estonia,EST,1988,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.0267000198364
+855,Estonia,EST,1987,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.1365003585815
+856,Estonia,EST,1986,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.2651996612549
+857,Estonia,EST,1985,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.2743997573853
+858,Estonia,EST,1980,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,12.1850996017456
+859,Estonia,EST,2019,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,14.9
+860,Estonia,EST,2018,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15.3
+861,Estonia,EST,2017,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.7
+862,Estonia,EST,2016,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15.7
+863,Estonia,EST,2015,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,15.9
+864,Estonia,EST,2014,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19.5
+865,Estonia,EST,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.9
+866,Estonia,EST,2012,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,21.1
+867,Estonia,EST,2011,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.2
+868,Estonia,EST,2010,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.8
+869,Estonia,EST,2009,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,23.3
+870,Estonia,EST,2008,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19.4
+871,Estonia,EST,2007,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,21.4
+872,Estonia,EST,2006,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.9
+873,Estonia,EST,2005,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,22.6
+874,Estonia,EST,2004,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,26.5
+875,Estonia,EST,2003,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,26.3
+876,Estonia,EST,2002,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,29.3
+877,Estonia,EST,2001,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,30.3
+878,Estonia,EST,2000,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,29.1
+879,Estonia,EST,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,4.5
+880,Estonia,EST,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.7
+881,Estonia,EST,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,4.1
+882,Estonia,EST,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.1
+883,Estonia,EST,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.4
+884,Estonia,EST,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.1
+885,Estonia,EST,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.1
+886,Estonia,EST,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.8
+887,Estonia,EST,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.1
+888,Estonia,EST,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.8
+889,Estonia,EST,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.8
+890,Estonia,EST,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.4
+891,Estonia,EST,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,17
+892,Estonia,EST,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,19.3
+893,Estonia,EST,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.7
+894,Estonia,EST,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.9
+895,Estonia,EST,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.6
+896,Estonia,EST,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.7
+897,Estonia,EST,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16
+898,Estonia,EST,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,17.7
+899,Estonia,EST,2018,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.6878767
+900,Estonia,EST,2017,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.59183788
+901,Estonia,EST,2016,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.42956781
+902,Estonia,EST,2015,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.34629202
+903,Estonia,EST,2014,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.08077621
+904,Estonia,EST,2013,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.97791481
+905,Estonia,EST,2012,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.79034519
+906,Estonia,EST,2011,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.76757813
+907,Estonia,EST,2010,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.27224827
+908,Estonia,EST,2009,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.51218891
+909,Estonia,EST,2008,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.71032381
+910,Estonia,EST,2007,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.98330879
+911,Estonia,EST,2006,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.76530361
+912,Estonia,EST,2005,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.05801439
+913,Estonia,EST,2004,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.119555
+914,Estonia,EST,2003,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.85959911
+915,Estonia,EST,2002,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.70043564
+916,Estonia,EST,2001,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.77708292
+917,Estonia,EST,2000,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.15698433
+918,Estonia,EST,2018,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,73.57420349
+919,Estonia,EST,2017,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,73.5071106
+920,Estonia,EST,2016,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,75.4183197
+921,Estonia,EST,2015,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,75.34111786
+922,Estonia,EST,2014,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,75.37684631
+923,Estonia,EST,2013,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,75.46357727
+924,Estonia,EST,2012,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,76.13853455
+925,Estonia,EST,2011,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,74.99227142
+926,Estonia,EST,2010,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,74.20081329
+927,Estonia,EST,2009,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,77.17990112
+928,Estonia,EST,2008,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,76.23106384
+929,Estonia,EST,2007,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,75.04586792
+930,Estonia,EST,2006,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,74.75247192
+931,Estonia,EST,2005,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,74.01464844
+932,Estonia,EST,2004,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,73.93648529
+933,Estonia,EST,2003,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,76.02256775
+934,Estonia,EST,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,76.21243286
+935,Estonia,EST,2001,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,78.25784302
+936,Estonia,EST,2000,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,76.06137085
+937,Estonia,EST,2019,Refugee population by country or territory of asylum,SM.POP.REFG,331
+938,Estonia,EST,2018,Refugee population by country or territory of asylum,SM.POP.REFG,319
+939,Estonia,EST,2017,Refugee population by country or territory of asylum,SM.POP.REFG,405
+940,Estonia,EST,2016,Refugee population by country or territory of asylum,SM.POP.REFG,312
+941,Estonia,EST,2015,Refugee population by country or territory of asylum,SM.POP.REFG,158
+942,Estonia,EST,2014,Refugee population by country or territory of asylum,SM.POP.REFG,82
+943,Estonia,EST,2013,Refugee population by country or territory of asylum,SM.POP.REFG,52
+944,Estonia,EST,2012,Refugee population by country or territory of asylum,SM.POP.REFG,48
+945,Estonia,EST,2011,Refugee population by country or territory of asylum,SM.POP.REFG,34
+946,Estonia,EST,2010,Refugee population by country or territory of asylum,SM.POP.REFG,31
+947,Estonia,EST,2009,Refugee population by country or territory of asylum,SM.POP.REFG,16
+948,Estonia,EST,2008,Refugee population by country or territory of asylum,SM.POP.REFG,16
+949,Estonia,EST,2007,Refugee population by country or territory of asylum,SM.POP.REFG,6
+950,Estonia,EST,2004,Refugee population by country or territory of asylum,SM.POP.REFG,6
+951,Estonia,EST,2003,Refugee population by country or territory of asylum,SM.POP.REFG,6
+952,Estonia,EST,2002,Refugee population by country or territory of asylum,SM.POP.REFG,6
+953,Estonia,EST,2001,Refugee population by country or territory of asylum,SM.POP.REFG,6
+954,Estonia,EST,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+955,Estonia,EST,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+956,Estonia,EST,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+957,Estonia,EST,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+958,Estonia,EST,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+959,Estonia,EST,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+960,Estonia,EST,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+961,Estonia,EST,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+962,Estonia,EST,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+963,Estonia,EST,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+964,Estonia,EST,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+965,Estonia,EST,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+966,Estonia,EST,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+967,Estonia,EST,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+968,Estonia,EST,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.9
+969,Estonia,EST,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.4
+970,Estonia,EST,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.5
+971,Estonia,EST,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.6
+972,Estonia,EST,2019,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.6
+973,Estonia,EST,2018,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.9
+974,Estonia,EST,2017,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.5
+975,Estonia,EST,2016,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+976,Estonia,EST,2015,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.6
+977,Estonia,EST,2014,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+978,Estonia,EST,2013,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+979,Estonia,EST,2012,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.6
+980,Estonia,EST,2011,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.1
+981,Estonia,EST,2010,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.9
+982,Estonia,EST,2009,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.8
+983,Estonia,EST,2008,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12
+984,Estonia,EST,2007,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.8
+985,Estonia,EST,2006,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11
+986,Estonia,EST,2005,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.6
+987,Estonia,EST,2004,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+988,Estonia,EST,2003,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+989,Estonia,EST,2002,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+990,Estonia,EST,2001,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+991,Estonia,EST,2000,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+992,Estonia,EST,1999,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+993,Estonia,EST,1998,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+994,Estonia,EST,1997,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+995,Estonia,EST,1996,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+996,Estonia,EST,1995,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+997,Estonia,EST,1994,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.7
+998,Estonia,EST,1993,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+999,Estonia,EST,1992,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.8
+1000,Estonia,EST,1991,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.4
+1001,Estonia,EST,1990,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.2
+1002,Estonia,EST,1989,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.5
+1003,Estonia,EST,1988,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16
+1004,Estonia,EST,1987,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.2
+1005,Estonia,EST,1986,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.7
+1006,Estonia,EST,1985,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.5
+1007,Estonia,EST,1984,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16
+1008,Estonia,EST,1983,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16
+1009,Estonia,EST,1982,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.4
+1010,Estonia,EST,1981,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.4
+1011,Estonia,EST,1980,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15
+1012,Estonia,EST,1979,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.9
+1013,Estonia,EST,1978,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15
+1014,Estonia,EST,1977,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.2
+1015,Estonia,EST,1976,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1016,Estonia,EST,1975,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.9
+1017,Estonia,EST,1974,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1018,Estonia,EST,1973,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1019,Estonia,EST,1972,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.6
+1020,Estonia,EST,1971,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.1
+1021,Estonia,EST,1970,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.8
+1022,Estonia,EST,1969,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.4
+1023,Estonia,EST,1968,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.9
+1024,Estonia,EST,1967,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.2
+1025,Estonia,EST,1966,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.2
+1026,Estonia,EST,1965,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.6
+1027,Estonia,EST,1964,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.4
+1028,Estonia,EST,1963,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.3
+1029,Estonia,EST,1962,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.1
+1030,Estonia,EST,1961,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.5
+1031,Estonia,EST,1960,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7
+1032,Estonia,EST,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.4975609756098
+1033,Estonia,EST,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.2439024390244
+1034,Estonia,EST,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.0926829268293
+1035,Estonia,EST,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.6414634146342
+1036,Estonia,EST,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.590243902439
+1037,Estonia,EST,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.0341463414634
+1038,Estonia,EST,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.1414634146341
+1039,Estonia,EST,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.3268292682927
+1040,Estonia,EST,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.2292682926829
+1041,Estonia,EST,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.4292682926829
+1042,Estonia,EST,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.8243902439024
+1043,Estonia,EST,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.7707317073171
+1044,Estonia,EST,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.8146341463415
+1045,Estonia,EST,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.6914634146341
+1046,Estonia,EST,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.5682926829268
+1047,Estonia,EST,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.909756097561
+1048,Estonia,EST,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.3170731707317
+1049,Estonia,EST,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.9048780487805
+1050,Estonia,EST,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.2585365853659
+1051,Estonia,EST,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.4170731707317
+1052,Estonia,EST,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0634146341463
+1053,Estonia,EST,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3585365853659
+1054,Estonia,EST,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.809756097561
+1055,Estonia,EST,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.6121951219512
+1056,Estonia,EST,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.5439024390244
+1057,Estonia,EST,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.5
+1058,Estonia,EST,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.909756097561
+1059,Estonia,EST,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.8634146341464
+1060,Estonia,EST,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3731707317073
+1061,Estonia,EST,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.4756097560976
+1062,Estonia,EST,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0390243902439
+1063,Estonia,EST,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6975609756098
+1064,Estonia,EST,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6439024390244
+1065,Estonia,EST,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0853658536585
+1066,Estonia,EST,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3804878048781
+1067,Estonia,EST,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.2780487804878
+1068,Estonia,EST,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3756097560976
+1069,Estonia,EST,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1268292682927
+1070,Estonia,EST,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9780487804878
+1071,Estonia,EST,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9056341463415
+1072,Estonia,EST,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9385853658537
+1073,Estonia,EST,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0262682926829
+1074,Estonia,EST,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1469512195122
+1075,Estonia,EST,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.2900243902439
+1076,Estonia,EST,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.4413170731707
+1077,Estonia,EST,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.5902195121951
+1078,Estonia,EST,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.7245853658537
+1079,Estonia,EST,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8328292682927
+1080,Estonia,EST,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.9053414634146
+1081,Estonia,EST,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.9370975609756
+1082,Estonia,EST,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.9280975609756
+1083,Estonia,EST,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8829268292683
+1084,Estonia,EST,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8021219512195
+1085,Estonia,EST,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.6811951219512
+1086,Estonia,EST,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.5176341463415
+1087,Estonia,EST,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3099268292683
+1088,Estonia,EST,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0535609756098
+1089,Estonia,EST,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.7410243902439
+1090,Estonia,EST,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.3608048780488
+1091,Estonia,EST,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.9029024390244
+1092,Estonia,EST,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.9918077800442
+1093,Estonia,EST,2018,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.6263568469749
+1094,Estonia,EST,2017,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.3131674485937
+1095,Estonia,EST,2016,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.0581157758012
+1096,Estonia,EST,2015,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.8220401801836
+1097,Estonia,EST,2014,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.5443489478278
+1098,Estonia,EST,2013,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.2605518163665
+1099,Estonia,EST,2012,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.9847622243434
+1100,Estonia,EST,2011,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.7361153686538
+1101,Estonia,EST,2010,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.5240466000701
+1102,Estonia,EST,2009,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.3820010702511
+1103,Estonia,EST,2008,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.2712979069051
+1104,Estonia,EST,2007,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.1579771121836
+1105,Estonia,EST,2006,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.9948338586429
+1106,Estonia,EST,2005,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.7550868662072
+1107,Estonia,EST,2004,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.5285849959481
+1108,Estonia,EST,2003,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.2079205540935
+1109,Estonia,EST,2002,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.8203469652832
+1110,Estonia,EST,2001,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.4143404252262
+1111,Estonia,EST,2000,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.0177398235452
+1112,Estonia,EST,1999,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.7440961569011
+1113,Estonia,EST,1998,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.4983215403858
+1114,Estonia,EST,1997,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.2538730613412
+1115,Estonia,EST,1996,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.9637421917762
+1116,Estonia,EST,1995,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.6011678799518
+1117,Estonia,EST,1994,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.255502565725
+1118,Estonia,EST,1993,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.8563949999362
+1119,Estonia,EST,1992,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.4326922507895
+1120,Estonia,EST,1991,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.0260764142541
+1121,Estonia,EST,1990,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6618729579887
+1122,Estonia,EST,1989,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.540771720278
+1123,Estonia,EST,1988,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4600874316101
+1124,Estonia,EST,1987,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4191428503279
+1125,Estonia,EST,1986,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.4219979219237
+1126,Estonia,EST,1985,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.470901208618
+1127,Estonia,EST,1984,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6465645536232
+1128,Estonia,EST,1983,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.8943907842032
+1129,Estonia,EST,1982,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.1707013470075
+1130,Estonia,EST,1981,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.3964452579291
+1131,Estonia,EST,1980,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.5136407813412
+1132,Estonia,EST,1979,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6308795501834
+1133,Estonia,EST,1978,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6406802574207
+1134,Estonia,EST,1977,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.5667467743388
+1135,Estonia,EST,1976,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.4652259068825
+1136,Estonia,EST,1975,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.3714261805023
+1137,Estonia,EST,1974,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.275437851435
+1138,Estonia,EST,1973,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.182876870525
+1139,Estonia,EST,1972,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.083109979532
+1140,Estonia,EST,1971,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.9555205063398
+1141,Estonia,EST,1970,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.7858965065483
+1142,Estonia,EST,1969,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6566603653946
+1143,Estonia,EST,1968,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5123584582981
+1144,Estonia,EST,1967,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3568745759885
+1145,Estonia,EST,1966,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.2000349428768
+1146,Estonia,EST,1965,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.0457564964554
+1147,Estonia,EST,1964,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.9315473833674
+1148,Estonia,EST,1963,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.8308674803386
+1149,Estonia,EST,1962,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.7381396798268
+1150,Estonia,EST,1961,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.6464125529562
+1151,Estonia,EST,1960,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.5461864089893
+1152,Estonia,EST,2019,Population growth (annual %),SP.POP.GROW,0.371554389037477
+1153,Estonia,EST,2018,Population growth (annual %),SP.POP.GROW,0.348039137980543
+1154,Estonia,EST,2017,Population growth (annual %),SP.POP.GROW,0.121070631466687
+1155,Estonia,EST,2016,Population growth (annual %),SP.POP.GROW,0.0291122255540077
+1156,Estonia,EST,2015,Population growth (annual %),SP.POP.GROW,0.0655525295417938
+1157,Estonia,EST,2014,Population growth (annual %),SP.POP.GROW,-0.262256175097854
+1158,Estonia,EST,2013,Population growth (annual %),SP.POP.GROW,-0.355891802625531
+1159,Estonia,EST,2012,Population growth (annual %),SP.POP.GROW,-0.357944411443807
+1160,Estonia,EST,2011,Population growth (annual %),SP.POP.GROW,-0.303582823643979
+1161,Estonia,EST,2010,Population growth (annual %),SP.POP.GROW,-0.22805796852935
+1162,Estonia,EST,2009,Population growth (annual %),SP.POP.GROW,-0.192768077420229
+1163,Estonia,EST,2008,Population growth (annual %),SP.POP.GROW,-0.268133719541207
+1164,Estonia,EST,2007,Population growth (annual %),SP.POP.GROW,-0.456188535090031
+1165,Estonia,EST,2006,Population growth (annual %),SP.POP.GROW,-0.589655559840225
+1166,Estonia,EST,2005,Population growth (annual %),SP.POP.GROW,-0.572255524659659
+1167,Estonia,EST,2004,Population growth (annual %),SP.POP.GROW,-0.597820510395586
+1168,Estonia,EST,2003,Population growth (annual %),SP.POP.GROW,-0.627622448059203
+1169,Estonia,EST,2002,Population growth (annual %),SP.POP.GROW,-0.633433796423808
+1170,Estonia,EST,2001,Population growth (annual %),SP.POP.GROW,-0.63696312445507
+1171,Estonia,EST,2000,Population growth (annual %),SP.POP.GROW,0.483707161729931
+1172,Estonia,EST,1999,Population growth (annual %),SP.POP.GROW,0.294482275915173
+1173,Estonia,EST,1998,Population growth (annual %),SP.POP.GROW,-0.960559004588775
+1174,Estonia,EST,1997,Population growth (annual %),SP.POP.GROW,-1.14091924023266
+1175,Estonia,EST,1996,Population growth (annual %),SP.POP.GROW,-1.47536463752721
+1176,Estonia,EST,1995,Population growth (annual %),SP.POP.GROW,-1.78539953576165
+1177,Estonia,EST,1994,Population growth (annual %),SP.POP.GROW,-2.13858863504971
+1178,Estonia,EST,1993,Population growth (annual %),SP.POP.GROW,-2.57431997803655
+1179,Estonia,EST,1992,Population growth (annual %),SP.POP.GROW,-1.82418155532121
+1180,Estonia,EST,1991,Population growth (annual %),SP.POP.GROW,-0.502159185195728
+1181,Estonia,EST,1990,Population growth (annual %),SP.POP.GROW,0.0664901906843683
+1182,Estonia,EST,1989,Population growth (annual %),SP.POP.GROW,0.398143547527793
+1183,Estonia,EST,1988,Population growth (annual %),SP.POP.GROW,0.621622035077344
+1184,Estonia,EST,1987,Population growth (annual %),SP.POP.GROW,0.778102309212138
+1185,Estonia,EST,1986,Population growth (annual %),SP.POP.GROW,0.743509962008971
+1186,Estonia,EST,1985,Population growth (annual %),SP.POP.GROW,0.667063356294738
+1187,Estonia,EST,1984,Population growth (annual %),SP.POP.GROW,0.652187283315182
+1188,Estonia,EST,1983,Population growth (annual %),SP.POP.GROW,0.687096401884296
+1189,Estonia,EST,1982,Population growth (annual %),SP.POP.GROW,0.719876655375138
+1190,Estonia,EST,1981,Population growth (annual %),SP.POP.GROW,0.704718276463133
+1191,Estonia,EST,1980,Population growth (annual %),SP.POP.GROW,0.60335223799787
+1192,Estonia,EST,1979,Population growth (annual %),SP.POP.GROW,0.556254915149304
+1193,Estonia,EST,1978,Population growth (annual %),SP.POP.GROW,0.685613146650277
+1194,Estonia,EST,1977,Population growth (annual %),SP.POP.GROW,0.73604373010673
+1195,Estonia,EST,1976,Population growth (annual %),SP.POP.GROW,0.712743106958176
+1196,Estonia,EST,1975,Population growth (annual %),SP.POP.GROW,0.785459176187127
+1197,Estonia,EST,1974,Population growth (annual %),SP.POP.GROW,0.865266081367352
+1198,Estonia,EST,1973,Population growth (annual %),SP.POP.GROW,0.960032301392228
+1199,Estonia,EST,1972,Population growth (annual %),SP.POP.GROW,1.12390796531781
+1200,Estonia,EST,1971,Population growth (annual %),SP.POP.GROW,1.233395893442
+1201,Estonia,EST,1970,Population growth (annual %),SP.POP.GROW,1.09614545086791
+1202,Estonia,EST,1969,Population growth (annual %),SP.POP.GROW,1.04878181744335
+1203,Estonia,EST,1968,Population growth (annual %),SP.POP.GROW,0.925837506546126
+1204,Estonia,EST,1967,Population growth (annual %),SP.POP.GROW,0.787736186645794
+1205,Estonia,EST,1966,Population growth (annual %),SP.POP.GROW,1.0780067078473
+1206,Estonia,EST,1965,Population growth (annual %),SP.POP.GROW,1.35945837225877
+1207,Estonia,EST,1964,Population growth (annual %),SP.POP.GROW,1.43767537202878
+1208,Estonia,EST,1963,Population growth (annual %),SP.POP.GROW,1.37847716433837
+1209,Estonia,EST,1962,Population growth (annual %),SP.POP.GROW,1.34156955956572
+1210,Estonia,EST,1961,Population growth (annual %),SP.POP.GROW,1.11138977039487
+1211,Estonia,EST,2019,"Population, total",SP.POP.TOTL,1326898
+1212,Estonia,EST,2018,"Population, total",SP.POP.TOTL,1321977
+1213,Estonia,EST,2017,"Population, total",SP.POP.TOTL,1317384
+1214,Estonia,EST,2016,"Population, total",SP.POP.TOTL,1315790
+1215,Estonia,EST,2015,"Population, total",SP.POP.TOTL,1315407
+1216,Estonia,EST,2014,"Population, total",SP.POP.TOTL,1314545
+1217,Estonia,EST,2013,"Population, total",SP.POP.TOTL,1317997
+1218,Estonia,EST,2012,"Population, total",SP.POP.TOTL,1322696
+1219,Estonia,EST,2011,"Population, total",SP.POP.TOTL,1327439
+1220,Estonia,EST,2010,"Population, total",SP.POP.TOTL,1331475
+1221,Estonia,EST,2009,"Population, total",SP.POP.TOTL,1334515
+1222,Estonia,EST,2008,"Population, total",SP.POP.TOTL,1337090
+1223,Estonia,EST,2007,"Population, total",SP.POP.TOTL,1340680
+1224,Estonia,EST,2006,"Population, total",SP.POP.TOTL,1346810
+1225,Estonia,EST,2005,"Population, total",SP.POP.TOTL,1354775
+1226,Estonia,EST,2004,"Population, total",SP.POP.TOTL,1362550
+1227,Estonia,EST,2003,"Population, total",SP.POP.TOTL,1370720
+1228,Estonia,EST,2002,"Population, total",SP.POP.TOTL,1379350
+1229,Estonia,EST,2001,"Population, total",SP.POP.TOTL,1388115
+1230,Estonia,EST,2000,"Population, total",SP.POP.TOTL,1396985
+1231,Estonia,EST,1999,"Population, total",SP.POP.TOTL,1390244
+1232,Estonia,EST,1998,"Population, total",SP.POP.TOTL,1386156
+1233,Estonia,EST,1997,"Population, total",SP.POP.TOTL,1399535
+1234,Estonia,EST,1996,"Population, total",SP.POP.TOTL,1415594
+1235,Estonia,EST,1995,"Population, total",SP.POP.TOTL,1436634
+1236,Estonia,EST,1994,"Population, total",SP.POP.TOTL,1462514
+1237,Estonia,EST,1993,"Population, total",SP.POP.TOTL,1494128
+1238,Estonia,EST,1992,"Population, total",SP.POP.TOTL,1533091
+1239,Estonia,EST,1991,"Population, total",SP.POP.TOTL,1561314
+1240,Estonia,EST,1990,"Population, total",SP.POP.TOTL,1569174
+1241,Estonia,EST,1989,"Population, total",SP.POP.TOTL,1568131
+1242,Estonia,EST,1988,"Population, total",SP.POP.TOTL,1561900
+1243,Estonia,EST,1987,"Population, total",SP.POP.TOTL,1552221
+1244,Estonia,EST,1986,"Population, total",SP.POP.TOTL,1540190
+1245,Estonia,EST,1985,"Population, total",SP.POP.TOTL,1528781
+1246,Estonia,EST,1984,"Population, total",SP.POP.TOTL,1518617
+1247,Estonia,EST,1983,"Population, total",SP.POP.TOTL,1508745
+1248,Estonia,EST,1982,"Population, total",SP.POP.TOTL,1498414
+1249,Estonia,EST,1981,"Population, total",SP.POP.TOTL,1487666
+1250,Estonia,EST,1980,"Population, total",SP.POP.TOTL,1477219
+1251,Estonia,EST,1979,"Population, total",SP.POP.TOTL,1468333
+1252,Estonia,EST,1978,"Population, total",SP.POP.TOTL,1460188
+1253,Estonia,EST,1977,"Population, total",SP.POP.TOTL,1450211
+1254,Estonia,EST,1976,"Population, total",SP.POP.TOTL,1439576
+1255,Estonia,EST,1975,"Population, total",SP.POP.TOTL,1429352
+1256,Estonia,EST,1974,"Population, total",SP.POP.TOTL,1418169
+1257,Estonia,EST,1973,"Population, total",SP.POP.TOTL,1405951
+1258,Estonia,EST,1972,"Population, total",SP.POP.TOTL,1392518
+1259,Estonia,EST,1971,"Population, total",SP.POP.TOTL,1376955
+1260,Estonia,EST,1970,"Population, total",SP.POP.TOTL,1360076
+1261,Estonia,EST,1969,"Population, total",SP.POP.TOTL,1345249
+1262,Estonia,EST,1968,"Population, total",SP.POP.TOTL,1331214
+1263,Estonia,EST,1967,"Population, total",SP.POP.TOTL,1318946
+1264,Estonia,EST,1966,"Population, total",SP.POP.TOTL,1308597
+1265,Estonia,EST,1965,"Population, total",SP.POP.TOTL,1294566
+1266,Estonia,EST,1964,"Population, total",SP.POP.TOTL,1277086
+1267,Estonia,EST,1963,"Population, total",SP.POP.TOTL,1258857
+1268,Estonia,EST,1962,"Population, total",SP.POP.TOTL,1241623
+1269,Estonia,EST,1961,"Population, total",SP.POP.TOTL,1225077
+1270,Estonia,EST,1960,"Population, total",SP.POP.TOTL,1211537
+1271,Estonia,EST,2019,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.7306247732243
+1272,Estonia,EST,2018,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.8584268202066
+1273,Estonia,EST,2017,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.9955153483923
+1274,Estonia,EST,2016,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.1224672561559
+1275,Estonia,EST,2015,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.2265667170976
+1276,Estonia,EST,2014,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.3016327160095
+1277,Estonia,EST,2013,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.3503958855798
+1278,Estonia,EST,2012,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.3812538591239
+1279,Estonia,EST,2011,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4048705243123
+1280,Estonia,EST,2010,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4303278350097
+1281,Estonia,EST,2009,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4611642492553
+1282,Estonia,EST,2008,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4942655852282
+1283,Estonia,EST,2007,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5229246556745
+1284,Estonia,EST,2006,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5366425739955
+1285,Estonia,EST,2005,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.528860694132
+1286,Estonia,EST,2004,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4953101050918
+1287,Estonia,EST,2003,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.440153135252
+1288,Estonia,EST,2002,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.3839768517079
+1289,Estonia,EST,2001,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.3513108420472
+1290,Estonia,EST,2000,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.3590258385503
+1291,Estonia,EST,1999,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4169074444501
+1292,Estonia,EST,1998,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5166210402816
+1293,Estonia,EST,1997,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.6261472478112
+1294,Estonia,EST,1996,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.7033209874018
+1295,Estonia,EST,1995,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.7179367296895
+1296,Estonia,EST,1994,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.6588680177614
+1297,Estonia,EST,1993,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5445479348951
+1298,Estonia,EST,1992,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4097925383233
+1299,Estonia,EST,1991,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.298239268321
+1300,Estonia,EST,1990,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.2367436172972
+1301,Estonia,EST,1989,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.2319469135339
+1302,Estonia,EST,1988,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.272982994502
+1303,Estonia,EST,1987,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.3453583624128
+1304,Estonia,EST,1986,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4257054205831
+1305,Estonia,EST,1985,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.4950949320319
+1306,Estonia,EST,1984,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5496127893658
+1307,Estonia,EST,1983,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.5943259123684
+1308,Estonia,EST,1982,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.6320881123379
+1309,Estonia,EST,1981,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.6687964449932
+1310,Estonia,EST,1980,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.7087351248408
+1311,Estonia,EST,1979,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.7524335523274
+1312,Estonia,EST,1978,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.7986860725617
+1313,Estonia,EST,1977,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.8461005713035
+1314,Estonia,EST,1976,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.894191420017
+1315,Estonia,EST,1975,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9423312227682
+1316,Estonia,EST,1974,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,53.9903450417486
+1317,Estonia,EST,1973,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0394145029926
+1318,Estonia,EST,1972,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.0953801889365
+1319,Estonia,EST,1971,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.1652285228698
+1320,Estonia,EST,1970,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.2531057795657
+1321,Estonia,EST,1969,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.3619785865966
+1322,Estonia,EST,1968,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.4898115324781
+1323,Estonia,EST,1967,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.6345686068362
+1324,Estonia,EST,1966,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.7917062584675
+1325,Estonia,EST,1965,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,54.9582844469105
+1326,Estonia,EST,1964,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.133914570658
+1327,Estonia,EST,1963,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.3183385374718
+1328,Estonia,EST,1962,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.5055365786859
+1329,Estonia,EST,1961,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.6862066275282
+1330,Estonia,EST,1960,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,55.8535362666623
+1331,Estonia,EST,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,32.53133562
+1332,Estonia,EST,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,33.34842621
+1333,Estonia,EST,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,32.47356733
+1334,Estonia,EST,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,31.48308786
+1335,Estonia,EST,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,29.671374
+1336,Estonia,EST,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.18624043
+1337,Estonia,EST,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,27.36399047
+1338,Estonia,EST,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.41458812
+1339,Estonia,EST,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.28181326
+1340,Estonia,EST,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.11536212
+1341,Estonia,EST,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,23.4725533
+1342,Estonia,EST,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,21.98835437
+1343,Estonia,EST,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,19.70912656
+1344,Estonia,EST,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,18.2901117
+1345,Estonia,EST,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,13.21877065
+1346,Estonia,EST,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,10.17017891
+1347,Estonia,EST,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,6.577274969
+1348,Estonia,EST,2002,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,3.362907635
+1349,Estonia,EST,2001,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,1.255559627
+1350,Estonia,EST,2019,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.0100021362305
+1351,Estonia,EST,2018,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.2900009155273
+1352,Estonia,EST,2017,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.8000030517578
+1353,Estonia,EST,2016,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,90.4300003051758
+1354,Estonia,EST,2015,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,90.5800018310547
+1355,Estonia,EST,2014,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,90.8899993896484
+1356,Estonia,EST,2013,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,90.8600006103516
+1357,Estonia,EST,2012,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.1399993896484
+1358,Estonia,EST,2011,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.2799987792969
+1359,Estonia,EST,2010,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.4700012207031
+1360,Estonia,EST,2009,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.6100006103516
+1361,Estonia,EST,2008,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.0699996948242
+1362,Estonia,EST,2007,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,90.8499984741211
+1363,Estonia,EST,2006,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.7699966430664
+1364,Estonia,EST,2005,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92
+1365,Estonia,EST,2004,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,90.3099975585938
+1366,Estonia,EST,2003,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.4400024414063
+1367,Estonia,EST,2002,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,93.0999984741211
+1368,Estonia,EST,2001,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.5899963378906
+1369,Estonia,EST,2000,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.7099990844727
+1370,Estonia,EST,1999,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.129997253418
+1371,Estonia,EST,1998,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,91.1800003051758
+1372,Estonia,EST,1997,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.1600036621094
+1373,Estonia,EST,1996,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.0100021362305
+1374,Estonia,EST,1995,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.1900024414063
+1375,Estonia,EST,1994,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.2099990844727
+1376,Estonia,EST,1993,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.3199996948242
+1377,Estonia,EST,1992,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.4000015258789
+1378,Estonia,EST,1991,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,92.4899978637695
+1379,Estonia,EST,2019,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,29.5599994659424
+1380,Estonia,EST,2018,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,29
+1381,Estonia,EST,2017,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,26.0900001525879
+1382,Estonia,EST,2016,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.7700004577637
+1383,Estonia,EST,2015,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.25
+1384,Estonia,EST,2014,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,27.1000003814697
+1385,Estonia,EST,2013,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,26.7999992370605
+1386,Estonia,EST,2012,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.9400005340576
+1387,Estonia,EST,2011,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.7700004577637
+1388,Estonia,EST,2010,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.2999992370605
+1389,Estonia,EST,2009,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,27.9200000762939
+1390,Estonia,EST,2008,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.2200002670288
+1391,Estonia,EST,2007,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.5699996948242
+1392,Estonia,EST,2006,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.6599998474121
+1393,Estonia,EST,2005,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.6099996566772
+1394,Estonia,EST,2004,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,16.1800003051758
+1395,Estonia,EST,2003,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.8799991607666
+1396,Estonia,EST,2002,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.9699993133545
+1397,Estonia,EST,2001,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.1900005340576
+1398,Estonia,EST,2000,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,25.3199996948242
+1399,Estonia,EST,1999,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.0699996948242
+1400,Estonia,EST,1998,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.8999996185303
+1401,Estonia,EST,1997,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.1599998474121
+1402,Estonia,EST,2019,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,6.94000005722046
+1403,Estonia,EST,2018,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.85000038146973
+1404,Estonia,EST,2017,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.43000030517578
+1405,Estonia,EST,2016,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.14000034332275
+1406,Estonia,EST,2015,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.8400001525879
+1407,Estonia,EST,2014,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.6599998474121
+1408,Estonia,EST,2013,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.3199996948242
+1409,Estonia,EST,2012,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.1999998092651
+1410,Estonia,EST,2011,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.5699996948242
+1411,Estonia,EST,2010,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,14.0299997329712
+1412,Estonia,EST,2009,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,14.4700002670288
+1413,Estonia,EST,2008,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.09000015258789
+1414,Estonia,EST,2007,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.39000034332275
+1415,Estonia,EST,2006,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.90999984741211
+1416,Estonia,EST,2005,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.9399995803833
+1417,Estonia,EST,2004,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,15.1400003433228
+1418,Estonia,EST,2003,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.1199998855591
+1419,Estonia,EST,2018,Gini index (World Bank estimate),SI.POV.GINI,30.3
+1420,Estonia,EST,2017,Gini index (World Bank estimate),SI.POV.GINI,30.4
+1421,Estonia,EST,2016,Gini index (World Bank estimate),SI.POV.GINI,31.2
+1422,Estonia,EST,2015,Gini index (World Bank estimate),SI.POV.GINI,32.7
+1423,Estonia,EST,2014,Gini index (World Bank estimate),SI.POV.GINI,34.6
+1424,Estonia,EST,2013,Gini index (World Bank estimate),SI.POV.GINI,35.1
+1425,Estonia,EST,2012,Gini index (World Bank estimate),SI.POV.GINI,32.9
+1426,Estonia,EST,2011,Gini index (World Bank estimate),SI.POV.GINI,32.5
+1427,Estonia,EST,2010,Gini index (World Bank estimate),SI.POV.GINI,32
+1428,Estonia,EST,2009,Gini index (World Bank estimate),SI.POV.GINI,31.4
+1429,Estonia,EST,2008,Gini index (World Bank estimate),SI.POV.GINI,31.9
+1430,Estonia,EST,2007,Gini index (World Bank estimate),SI.POV.GINI,31.2
+1431,Estonia,EST,2006,Gini index (World Bank estimate),SI.POV.GINI,33.7
+1432,Estonia,EST,2005,Gini index (World Bank estimate),SI.POV.GINI,33.4
+1433,Estonia,EST,2004,Gini index (World Bank estimate),SI.POV.GINI,33.6
+1434,Estonia,EST,2003,Gini index (World Bank estimate),SI.POV.GINI,37.2
+1435,Estonia,EST,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.8
+1436,Estonia,EST,2017,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1
+1437,Estonia,EST,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.4
+1438,Estonia,EST,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.8
+1439,Estonia,EST,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3
+1440,Estonia,EST,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.5
+1441,Estonia,EST,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.5
+1442,Estonia,EST,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.4
+1443,Estonia,EST,2010,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.9
+1444,Estonia,EST,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.9
+1445,Estonia,EST,2008,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.2
+1446,Estonia,EST,2007,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.3
+1447,Estonia,EST,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.1
+1448,Estonia,EST,2005,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,5.5
+1449,Estonia,EST,2004,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,8.2
+1450,Estonia,EST,2003,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,12.1
+1451,Estonia,EST,2020,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1452,Estonia,EST,2019,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1453,Estonia,EST,2018,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1454,Estonia,EST,2017,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1455,Estonia,EST,2016,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1456,Estonia,EST,2015,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1457,Estonia,EST,2014,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1458,Estonia,EST,2013,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1459,Estonia,EST,2012,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1460,Estonia,EST,2011,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1461,Estonia,EST,2010,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1462,Estonia,EST,2009,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1463,Estonia,EST,2008,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1464,Estonia,EST,2007,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1465,Estonia,EST,2006,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1466,Estonia,EST,2005,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1467,Estonia,EST,2004,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1468,Estonia,EST,2003,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1469,Estonia,EST,2002,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1470,Estonia,EST,2001,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1471,Estonia,EST,2000,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1472,Estonia,EST,1999,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1473,Estonia,EST,1998,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1474,Estonia,EST,1997,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1475,Estonia,EST,1996,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1476,Estonia,EST,1995,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1477,Estonia,EST,1994,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1478,Estonia,EST,1993,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1479,Estonia,EST,1992,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1480,Estonia,EST,1991,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1481,Estonia,EST,1990,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1482,Estonia,EST,1989,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1483,Estonia,EST,1988,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1484,Estonia,EST,1987,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1485,Estonia,EST,1986,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1486,Estonia,EST,1985,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1487,Estonia,EST,1984,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1488,Estonia,EST,1983,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1489,Estonia,EST,1982,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1490,Estonia,EST,1981,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1491,Estonia,EST,1980,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1492,Estonia,EST,1979,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1493,Estonia,EST,1978,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1494,Estonia,EST,1977,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1495,Estonia,EST,1976,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1496,Estonia,EST,1975,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1497,Estonia,EST,1974,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1498,Estonia,EST,1973,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1499,Estonia,EST,1972,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1500,Estonia,EST,1971,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1501,Estonia,EST,1970,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1502,Estonia,EST,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1503,Estonia,EST,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1504,Estonia,EST,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1505,Estonia,EST,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1506,Estonia,EST,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1507,Estonia,EST,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1508,Estonia,EST,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1509,Estonia,EST,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1510,Estonia,EST,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1511,Estonia,EST,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1512,Estonia,EST,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1513,Estonia,EST,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1514,Estonia,EST,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1515,Estonia,EST,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1516,Estonia,EST,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1517,Estonia,EST,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1518,Estonia,EST,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1519,Estonia,EST,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1520,Estonia,EST,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1521,Estonia,EST,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1522,Estonia,EST,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1523,Estonia,EST,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1524,Estonia,EST,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1525,Estonia,EST,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1526,Estonia,EST,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1527,Estonia,EST,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1528,Estonia,EST,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1529,Estonia,EST,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1530,Estonia,EST,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1531,Estonia,EST,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1532,Estonia,EST,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1533,Estonia,EST,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1534,Estonia,EST,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1535,Estonia,EST,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1536,Estonia,EST,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1537,Estonia,EST,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1538,Estonia,EST,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1539,Estonia,EST,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1540,Estonia,EST,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1541,Estonia,EST,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1542,Estonia,EST,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1543,Estonia,EST,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1544,Estonia,EST,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1545,Estonia,EST,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1546,Estonia,EST,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1547,Estonia,EST,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1548,Estonia,EST,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1549,Estonia,EST,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1550,Estonia,EST,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1551,Estonia,EST,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1552,Estonia,EST,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1553,Estonia,EST,2018,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.42515
+1554,Estonia,EST,2017,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.28867
+1555,Estonia,EST,2016,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.2468
+1556,Estonia,EST,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.46604
+1557,Estonia,EST,2014,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.42931
+1558,Estonia,EST,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.72216
+1559,Estonia,EST,2012,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.12265
+1560,Estonia,EST,2011,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.30655
+1561,Estonia,EST,2010,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.58162
+1562,Estonia,EST,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.39541
+1563,Estonia,EST,2008,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.25952
+1564,Estonia,EST,2007,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.06884
+1565,Estonia,EST,2006,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.11666
+1566,Estonia,EST,2005,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.92364
+1567,Estonia,EST,2004,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.85193
+1568,Estonia,EST,2003,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.76777
+1569,Estonia,EST,2002,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.71649
+1570,Estonia,EST,2001,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.69946
+1571,Estonia,EST,2000,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.60009
+1572,Estonia,EST,1999,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.68063
+1573,Estonia,EST,1998,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.57074
+1574,Estonia,EST,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.051
+1575,Estonia,EST,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.88
+1576,Estonia,EST,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.717
+1577,Estonia,EST,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.563
+1578,Estonia,EST,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.416
+1579,Estonia,EST,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.269
+1580,Estonia,EST,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.122
+1581,Estonia,EST,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.974
+1582,Estonia,EST,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.965
+1583,Estonia,EST,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.094
+1584,Estonia,EST,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.223
+1585,Estonia,EST,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.351
+1586,Estonia,EST,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.479
+1587,Estonia,EST,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.607
+1588,Estonia,EST,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.735
+1589,Estonia,EST,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.862
+1590,Estonia,EST,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.989
+1591,Estonia,EST,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.116
+1592,Estonia,EST,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.242
+1593,Estonia,EST,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.368
+1594,Estonia,EST,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.543
+1595,Estonia,EST,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.733
+1596,Estonia,EST,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.923
+1597,Estonia,EST,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.111
+1598,Estonia,EST,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.3
+1599,Estonia,EST,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.487
+1600,Estonia,EST,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.674
+1601,Estonia,EST,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.86
+1602,Estonia,EST,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.046
+1603,Estonia,EST,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.231
+1604,Estonia,EST,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.415
+1605,Estonia,EST,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.39
+1606,Estonia,EST,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.183
+1607,Estonia,EST,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.975
+1608,Estonia,EST,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.767
+1609,Estonia,EST,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.558
+1610,Estonia,EST,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.347
+1611,Estonia,EST,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.136
+1612,Estonia,EST,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.924
+1613,Estonia,EST,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.711
+1614,Estonia,EST,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.497
+1615,Estonia,EST,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.124
+1616,Estonia,EST,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.617
+1617,Estonia,EST,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.106
+1618,Estonia,EST,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.589
+1619,Estonia,EST,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.069
+1620,Estonia,EST,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.545
+1621,Estonia,EST,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.017
+1622,Estonia,EST,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.483
+1623,Estonia,EST,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.947
+1624,Estonia,EST,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.307
+1625,Estonia,EST,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.577
+1626,Estonia,EST,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.839
+1627,Estonia,EST,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.097
+1628,Estonia,EST,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.348
+1629,Estonia,EST,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.596
+1630,Estonia,EST,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.836
+1631,Estonia,EST,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.072
+1632,Estonia,EST,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.304
+1633,Estonia,EST,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.533
+1634,Estonia,EST,2016,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.8
+1635,Estonia,EST,2015,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.6
+1636,Estonia,EST,2014,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.4
+1637,Estonia,EST,2013,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.3
+1638,Estonia,EST,2012,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.1
+1639,Estonia,EST,2011,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21
+1640,Estonia,EST,2010,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.8
+1641,Estonia,EST,2009,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.7
+1642,Estonia,EST,2008,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.5
+1643,Estonia,EST,2007,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.4
+1644,Estonia,EST,2006,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.3
+1645,Estonia,EST,2005,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.2
+1646,Estonia,EST,2004,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20
+1647,Estonia,EST,2003,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.9
+1648,Estonia,EST,2002,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.8
+1649,Estonia,EST,2001,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.7
+1650,Estonia,EST,2000,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.6
+1651,Estonia,EST,1999,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.6
+1652,Estonia,EST,1998,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.5
+1653,Estonia,EST,1997,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.4
+1654,Estonia,EST,1996,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.4
+1655,Estonia,EST,1995,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.3
+1656,Estonia,EST,1994,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.3
+1657,Estonia,EST,1993,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.2
+1658,Estonia,EST,1992,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.1
+1659,Estonia,EST,1991,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.1
+1660,Estonia,EST,1990,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19
+1661,Estonia,EST,1989,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.9
+1662,Estonia,EST,1988,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.8
+1663,Estonia,EST,1987,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.7
+1664,Estonia,EST,1986,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.5
+1665,Estonia,EST,1985,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.4
+1666,Estonia,EST,1984,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.3
+1667,Estonia,EST,1983,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.1
+1668,Estonia,EST,1982,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18
+1669,Estonia,EST,1981,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.8
+1670,Estonia,EST,1980,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.6
+1671,Estonia,EST,1979,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.4
+1672,Estonia,EST,1978,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.2
+1673,Estonia,EST,1977,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17
+1674,Estonia,EST,1976,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.8
+1675,Estonia,EST,1975,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.6
+1676,Estonia,EST,2016,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.3
+1677,Estonia,EST,2015,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.9
+1678,Estonia,EST,2014,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.5
+1679,Estonia,EST,2013,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.1
+1680,Estonia,EST,2012,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.7
+1681,Estonia,EST,2011,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.3
+1682,Estonia,EST,2010,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.9
+1683,Estonia,EST,2009,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.5
+1684,Estonia,EST,2008,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.1
+1685,Estonia,EST,2007,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.8
+1686,Estonia,EST,2006,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.4
+1687,Estonia,EST,2005,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16
+1688,Estonia,EST,2004,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.7
+1689,Estonia,EST,2003,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.3
+1690,Estonia,EST,2002,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15
+1691,Estonia,EST,2001,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.6
+1692,Estonia,EST,2000,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.3
+1693,Estonia,EST,1999,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14
+1694,Estonia,EST,1998,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.7
+1695,Estonia,EST,1997,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.4
+1696,Estonia,EST,1996,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.1
+1697,Estonia,EST,1995,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.8
+1698,Estonia,EST,1994,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.5
+1699,Estonia,EST,1993,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.2
+1700,Estonia,EST,1992,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12
+1701,Estonia,EST,1991,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.7
+1702,Estonia,EST,1990,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.4
+1703,Estonia,EST,1989,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.1
+1704,Estonia,EST,1988,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.8
+1705,Estonia,EST,1987,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.5
+1706,Estonia,EST,1986,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.2
+1707,Estonia,EST,1985,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.9
+1708,Estonia,EST,1984,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.7
+1709,Estonia,EST,1983,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.4
+1710,Estonia,EST,1982,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.1
+1711,Estonia,EST,1981,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.8
+1712,Estonia,EST,1980,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.5
+1713,Estonia,EST,1979,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.3
+1714,Estonia,EST,1978,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8
+1715,Estonia,EST,1977,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.7
+1716,Estonia,EST,1976,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.4
+1717,Estonia,EST,1975,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.2

@@ -1,0 +1,1812 @@
+,Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+0,Slovenia,SVN,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.62
+1,Slovenia,SVN,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,87.39
+2,Slovenia,SVN,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,95.74
+3,Slovenia,SVN,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,106
+4,Slovenia,SVN,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.26
+5,Slovenia,SVN,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,83.49
+6,Slovenia,SVN,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,83.63
+7,Slovenia,SVN,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.19
+8,Slovenia,SVN,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,99.8
+9,Slovenia,SVN,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,99.15
+10,Slovenia,SVN,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.38
+11,Slovenia,SVN,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,103.86
+12,Slovenia,SVN,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,100.64
+13,Slovenia,SVN,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,112.75
+14,Slovenia,SVN,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,122.37
+15,Slovenia,SVN,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,89.01
+16,Slovenia,SVN,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,117.45
+17,Slovenia,SVN,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,94.8
+18,Slovenia,SVN,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,113.76
+19,Slovenia,SVN,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.65
+20,Slovenia,SVN,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,114.89
+21,Slovenia,SVN,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,109.48
+22,Slovenia,SVN,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,109.42
+23,Slovenia,SVN,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,104.76
+24,Slovenia,SVN,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,112.05
+25,Slovenia,SVN,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,97.82
+26,Slovenia,SVN,1992,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,91.69
+27,Slovenia,SVN,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.00582523537558
+28,Slovenia,SVN,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.24352120692347
+29,Slovenia,SVN,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.81973227125804
+30,Slovenia,SVN,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.98017135976102
+31,Slovenia,SVN,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.09659621336938
+32,Slovenia,SVN,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.01709653525567
+33,Slovenia,SVN,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.97122520387357
+34,Slovenia,SVN,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.96350552854926
+35,Slovenia,SVN,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.14260566834084
+36,Slovenia,SVN,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.89386405075428
+37,Slovenia,SVN,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.81591318608916
+38,Slovenia,SVN,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.8279136220512
+39,Slovenia,SVN,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.04807019872806
+40,Slovenia,SVN,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.11914767621997
+41,Slovenia,SVN,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.42520298872385
+42,Slovenia,SVN,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.42963083827174
+43,Slovenia,SVN,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.25206975614957
+44,Slovenia,SVN,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.97920281086595
+45,Slovenia,SVN,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.78807125237532
+46,Slovenia,SVN,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.08556322926251
+47,Slovenia,SVN,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.99225876748061
+48,Slovenia,SVN,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.57935971934959
+49,Slovenia,SVN,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.75289153039877
+50,Slovenia,SVN,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.75326667646309
+51,Slovenia,SVN,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.02976665615611
+52,Slovenia,SVN,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.0799995660782
+53,Slovenia,SVN,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,11.4099996089935
+54,Slovenia,SVN,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.7599999904632
+55,Slovenia,SVN,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.5299997329712
+56,Slovenia,SVN,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.9399995803833
+57,Slovenia,SVN,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.0899996757507
+58,Slovenia,SVN,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.6099996566772
+59,Slovenia,SVN,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.8299999237061
+60,Slovenia,SVN,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.2200002670288
+61,Slovenia,SVN,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.5000004768372
+62,Slovenia,SVN,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.8399996757507
+63,Slovenia,SVN,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.9499998092651
+64,Slovenia,SVN,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.5800004005432
+65,Slovenia,SVN,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.6199998855591
+66,Slovenia,SVN,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,11.8699998855591
+67,Slovenia,SVN,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.1599998474121
+68,Slovenia,SVN,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.8200001716614
+69,Slovenia,SVN,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.6900000572205
+70,Slovenia,SVN,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.3399996757507
+71,Slovenia,SVN,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.3800001144409
+72,Slovenia,SVN,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.7900004386902
+73,Slovenia,SVN,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.6699995994568
+74,Slovenia,SVN,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.5900001525879
+75,Slovenia,SVN,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.4200005531311
+76,Slovenia,SVN,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.2699999809265
+77,Slovenia,SVN,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.2200002670288
+78,Slovenia,SVN,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.309999704361
+79,Slovenia,SVN,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.2400002479553
+80,Slovenia,SVN,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.1799995899201
+81,Slovenia,SVN,2019,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,3049489669.0529
+82,Slovenia,SVN,2018,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,3170219711.933
+83,Slovenia,SVN,2017,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,3034815376.10646
+84,Slovenia,SVN,2016,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,2143172202.9066
+85,Slovenia,SVN,2015,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1646291412.68333
+86,Slovenia,SVN,2014,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,2548591735.96351
+87,Slovenia,SVN,2013,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1593081106.16231
+88,Slovenia,SVN,2012,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,600053680.128766
+89,Slovenia,SVN,2011,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-431490928.986465
+90,Slovenia,SVN,2010,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-366494001.008658
+91,Slovenia,SVN,2009,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-545289950.658427
+92,Slovenia,SVN,2008,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2946457396.89484
+93,Slovenia,SVN,2007,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2014619534.78415
+94,Slovenia,SVN,2006,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-695267588.989618
+95,Slovenia,SVN,2005,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-680500000
+96,Slovenia,SVN,2004,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-892500000
+97,Slovenia,SVN,2003,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-215700000
+98,Slovenia,SVN,2002,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,243800000
+99,Slovenia,SVN,2001,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,31300000
+100,Slovenia,SVN,2000,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-547500000
+101,Slovenia,SVN,1999,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-697100000
+102,Slovenia,SVN,1998,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-118200000
+103,Slovenia,SVN,1997,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,50500000
+104,Slovenia,SVN,1996,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,55300000
+105,Slovenia,SVN,1995,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-74900000
+106,Slovenia,SVN,1994,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,574000000
+107,Slovenia,SVN,1993,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,191000000
+108,Slovenia,SVN,1992,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,978300000
+109,Slovenia,SVN,2019,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-840936504.244238
+110,Slovenia,SVN,2018,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1089237502.72119
+111,Slovenia,SVN,2017,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-565155753.700197
+112,Slovenia,SVN,2016,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-968692741.564623
+113,Slovenia,SVN,2015,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1404352737.77458
+114,Slovenia,SVN,2014,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-806715006.309476
+115,Slovenia,SVN,2013,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-71937722.429953
+116,Slovenia,SVN,2012,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-599751609.264868
+117,Slovenia,SVN,2011,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-889966723.083529
+118,Slovenia,SVN,2010,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-119592949.259308
+119,Slovenia,SVN,2009,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,686974773.56347
+120,Slovenia,SVN,2008,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,251496854.230924
+121,Slovenia,SVN,2007,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,331326960.556188
+122,Slovenia,SVN,2006,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,214495880.713874
+123,Slovenia,SVN,2005,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,88500000
+124,Slovenia,SVN,2004,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-281500000
+125,Slovenia,SVN,2003,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,174300000
+126,Slovenia,SVN,2002,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1508300000
+127,Slovenia,SVN,2001,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-370700000
+128,Slovenia,SVN,2000,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-70500000
+129,Slovenia,SVN,1999,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-58900000
+130,Slovenia,SVN,1998,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-221200000
+131,Slovenia,SVN,1997,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-303600000
+132,Slovenia,SVN,1996,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-166100000
+133,Slovenia,SVN,1995,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-160400000
+134,Slovenia,SVN,1994,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-129800000
+135,Slovenia,SVN,1993,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-111300000
+136,Slovenia,SVN,1992,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-112800000
+137,Slovenia,SVN,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0548568157606067
+138,Slovenia,SVN,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.63052260754338
+139,Slovenia,SVN,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.73860861988181
+140,Slovenia,SVN,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.42910743319297
+141,Slovenia,SVN,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0549995416704911
+142,Slovenia,SVN,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.525552285820838
+143,Slovenia,SVN,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.199343826570849
+144,Slovenia,SVN,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.76920085881896
+145,Slovenia,SVN,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.5974138603901
+146,Slovenia,SVN,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.80285171941907
+147,Slovenia,SVN,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.80117022137136
+148,Slovenia,SVN,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.83926224679384
+149,Slovenia,SVN,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.64742380573934
+150,Slovenia,SVN,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.65749563284104
+151,Slovenia,SVN,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.45792444195864
+152,Slovenia,SVN,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.45150132316474
+153,Slovenia,SVN,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.59297594249513
+154,Slovenia,SVN,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.54416421752898
+155,Slovenia,SVN,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.48077770703756
+156,Slovenia,SVN,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.37966587492205
+157,Slovenia,SVN,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.91174418658764
+158,Slovenia,SVN,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.15558754451559
+159,Slovenia,SVN,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.8911668285669
+160,Slovenia,SVN,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.35967990704295
+161,Slovenia,SVN,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.86445061546852
+162,Slovenia,SVN,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,13.4637296178669
+163,Slovenia,SVN,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,20.9918180471499
+164,Slovenia,SVN,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,31.7621306305932
+165,Slovenia,SVN,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,209.933731186822
+166,Slovenia,SVN,1991,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,114.832935589747
+167,Slovenia,SVN,1990,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,552.083528914325
+168,Slovenia,SVN,1989,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1281.44349404876
+169,Slovenia,SVN,1988,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,198.753712862023
+170,Slovenia,SVN,1987,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,132.072721014831
+171,Slovenia,SVN,1986,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,95.8865052101643
+172,Slovenia,SVN,1985,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,79.4063811481874
+173,Slovenia,SVN,1984,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,53.6719669102483
+174,Slovenia,SVN,1983,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,40.2134918436936
+175,Slovenia,SVN,1982,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,30.1125435950715
+176,Slovenia,SVN,1981,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,42.6229527318245
+177,Slovenia,SVN,1994,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,17.6941943386084
+178,Slovenia,SVN,1993,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,20.1890852359822
+179,Slovenia,SVN,2019,Trade (% of GDP),NE.TRD.GNFS.ZS,159.027557774336
+180,Slovenia,SVN,2018,Trade (% of GDP),NE.TRD.GNFS.ZS,161.102271299837
+181,Slovenia,SVN,2017,Trade (% of GDP),NE.TRD.GNFS.ZS,157.280150918657
+182,Slovenia,SVN,2016,Trade (% of GDP),NE.TRD.GNFS.ZS,146.657774528668
+183,Slovenia,SVN,2015,Trade (% of GDP),NE.TRD.GNFS.ZS,146.295856696074
+184,Slovenia,SVN,2014,Trade (% of GDP),NE.TRD.GNFS.ZS,145.549750211855
+185,Slovenia,SVN,2013,Trade (% of GDP),NE.TRD.GNFS.ZS,143.75635401147
+186,Slovenia,SVN,2012,Trade (% of GDP),NE.TRD.GNFS.ZS,142.384430845304
+187,Slovenia,SVN,2011,Trade (% of GDP),NE.TRD.GNFS.ZS,139.277906278572
+188,Slovenia,SVN,2010,Trade (% of GDP),NE.TRD.GNFS.ZS,127.491480632624
+189,Slovenia,SVN,2009,Trade (% of GDP),NE.TRD.GNFS.ZS,113.121871683813
+190,Slovenia,SVN,2008,Trade (% of GDP),NE.TRD.GNFS.ZS,134.73152161893
+191,Slovenia,SVN,2007,Trade (% of GDP),NE.TRD.GNFS.ZS,137.127148234266
+192,Slovenia,SVN,2006,Trade (% of GDP),NE.TRD.GNFS.ZS,129.788393459099
+193,Slovenia,SVN,2005,Trade (% of GDP),NE.TRD.GNFS.ZS,120.262617804629
+194,Slovenia,SVN,2004,Trade (% of GDP),NE.TRD.GNFS.ZS,111.556541038575
+195,Slovenia,SVN,2003,Trade (% of GDP),NE.TRD.GNFS.ZS,102.324625859168
+196,Slovenia,SVN,2002,Trade (% of GDP),NE.TRD.GNFS.ZS,103.651280553018
+197,Slovenia,SVN,2001,Trade (% of GDP),NE.TRD.GNFS.ZS,104.534076563023
+198,Slovenia,SVN,2000,Trade (% of GDP),NE.TRD.GNFS.ZS,103.947770560229
+199,Slovenia,SVN,1999,Trade (% of GDP),NE.TRD.GNFS.ZS,92.5418647979271
+200,Slovenia,SVN,1998,Trade (% of GDP),NE.TRD.GNFS.ZS,96.6841408755005
+201,Slovenia,SVN,1997,Trade (% of GDP),NE.TRD.GNFS.ZS,96.2613100060991
+202,Slovenia,SVN,1996,Trade (% of GDP),NE.TRD.GNFS.ZS,93.5093315090574
+203,Slovenia,SVN,1995,Trade (% of GDP),NE.TRD.GNFS.ZS,93.1167590364754
+204,Slovenia,SVN,1994,Trade (% of GDP),NE.TRD.GNFS.ZS,105.844616215926
+205,Slovenia,SVN,1993,Trade (% of GDP),NE.TRD.GNFS.ZS,104.643183225749
+206,Slovenia,SVN,1992,Trade (% of GDP),NE.TRD.GNFS.ZS,107.22553589455
+207,Slovenia,SVN,1991,Trade (% of GDP),NE.TRD.GNFS.ZS,141.779648127218
+208,Slovenia,SVN,1990,Trade (% of GDP),NE.TRD.GNFS.ZS,152.104475787439
+209,Slovenia,SVN,2019,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.8877765505687
+210,Slovenia,SVN,2018,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.2811615121718
+211,Slovenia,SVN,2017,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.3612997603369
+212,Slovenia,SVN,2016,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.9656586171174
+213,Slovenia,SVN,2015,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.0267665716727
+214,Slovenia,SVN,2014,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.1368465759898
+215,Slovenia,SVN,2013,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.4889544680464
+216,Slovenia,SVN,2012,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.3945893766499
+217,Slovenia,SVN,2011,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.8088279393627
+218,Slovenia,SVN,2010,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.5060887705994
+219,Slovenia,SVN,2009,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.3738187364162
+220,Slovenia,SVN,2008,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.7882586102964
+221,Slovenia,SVN,2007,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.6536886470498
+222,Slovenia,SVN,2006,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.121920191459
+223,Slovenia,SVN,2005,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.7904828756274
+224,Slovenia,SVN,2004,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.2548712114283
+225,Slovenia,SVN,2003,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.2466575643583
+226,Slovenia,SVN,2002,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.9670575106009
+227,Slovenia,SVN,2001,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.5505912651881
+228,Slovenia,SVN,2000,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.4678715811631
+229,Slovenia,SVN,1999,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,31.0160893758107
+230,Slovenia,SVN,1998,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,31.1816723650331
+231,Slovenia,SVN,1997,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.8279799322533
+232,Slovenia,SVN,1996,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,30.0670890655813
+233,Slovenia,SVN,1995,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,29.608136118347
+234,Slovenia,SVN,2019,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.984890001456958
+235,Slovenia,SVN,2018,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.948200720902213
+236,Slovenia,SVN,2017,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.00277640195059
+237,Slovenia,SVN,2016,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.04061884877319
+238,Slovenia,SVN,2015,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.04315591087758
+239,Slovenia,SVN,2014,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.849061172581084
+240,Slovenia,SVN,2013,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.939911122078399
+241,Slovenia,SVN,2012,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.993962173188111
+242,Slovenia,SVN,2011,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.88903269444422
+243,Slovenia,SVN,2010,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.921283151283131
+244,Slovenia,SVN,2009,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.851433322741881
+245,Slovenia,SVN,2008,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.859425891811375
+246,Slovenia,SVN,2007,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.890088283255372
+247,Slovenia,SVN,2006,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.01988443556696
+248,Slovenia,SVN,2005,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.02788176923947
+249,Slovenia,SVN,2004,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.02254471018486
+250,Slovenia,SVN,2003,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.11030847386686
+251,Slovenia,SVN,2002,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.33442808060992
+252,Slovenia,SVN,2001,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.41025465405704
+253,Slovenia,SVN,2000,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.32058230454113
+254,Slovenia,SVN,1999,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.1956858146111
+255,Slovenia,SVN,1998,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.17640625554736
+256,Slovenia,SVN,1997,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.26546702192599
+257,Slovenia,SVN,1996,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.10405908953469
+258,Slovenia,SVN,1995,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.02635569189847
+259,Slovenia,SVN,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00623833919559908
+260,Slovenia,SVN,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00984595764905405
+261,Slovenia,SVN,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00826663138050311
+262,Slovenia,SVN,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00644426695427024
+263,Slovenia,SVN,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00551360793455482
+264,Slovenia,SVN,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00714754685833782
+265,Slovenia,SVN,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.011878475661563
+266,Slovenia,SVN,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0233698358628624
+267,Slovenia,SVN,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0529022739751236
+268,Slovenia,SVN,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0460086329957712
+269,Slovenia,SVN,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0226659655600461
+270,Slovenia,SVN,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0700089621772312
+271,Slovenia,SVN,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0276167038466355
+272,Slovenia,SVN,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0200608985019605
+273,Slovenia,SVN,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0199659315351603
+274,Slovenia,SVN,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0326278226914778
+275,Slovenia,SVN,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00449958892864241
+276,Slovenia,SVN,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00539836675593041
+277,Slovenia,SVN,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0138094703135348
+278,Slovenia,SVN,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00530250178272004
+279,Slovenia,SVN,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000657764750695581
+280,Slovenia,SVN,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00258096256424131
+281,Slovenia,SVN,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00228220935730033
+282,Slovenia,SVN,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00377297099183847
+283,Slovenia,SVN,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00632041839736985
+284,Slovenia,SVN,2019,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0577339072521594
+285,Slovenia,SVN,2018,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0596772944781264
+286,Slovenia,SVN,2017,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0596772944781264
+287,Slovenia,SVN,2016,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0577191679808483
+288,Slovenia,SVN,2015,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0677595824660197
+289,Slovenia,SVN,2014,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0745274807700652
+290,Slovenia,SVN,2013,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0792329428397631
+291,Slovenia,SVN,2012,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0807965711079272
+292,Slovenia,SVN,2011,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0848513921430478
+293,Slovenia,SVN,2010,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0993860776843707
+294,Slovenia,SVN,2009,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.103914135355945
+295,Slovenia,SVN,2008,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.0930005707126729
+296,Slovenia,SVN,2007,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.11192166152387
+297,Slovenia,SVN,2006,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.120821627805954
+298,Slovenia,SVN,2005,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.126033162304433
+299,Slovenia,SVN,2004,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.137814726419534
+300,Slovenia,SVN,2003,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.133354783721503
+301,Slovenia,SVN,2002,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.143294144252929
+302,Slovenia,SVN,2001,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.154244413802635
+303,Slovenia,SVN,2000,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.151382148634112
+304,Slovenia,SVN,1999,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.174566622971064
+305,Slovenia,SVN,1998,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.203576198257494
+306,Slovenia,SVN,1997,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.188306281009146
+307,Slovenia,SVN,1996,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.180670831431073
+308,Slovenia,SVN,1995,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.189907693699725
+309,Slovenia,SVN,2019,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.17001806805174
+310,Slovenia,SVN,2018,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.58951842304594
+311,Slovenia,SVN,2017,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.3476714647759
+312,Slovenia,SVN,2016,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.53342298319587
+313,Slovenia,SVN,2015,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.60157549829131
+314,Slovenia,SVN,2014,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.77201131915993
+315,Slovenia,SVN,2013,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.789122979643287
+316,Slovenia,SVN,2012,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.718424808888518
+317,Slovenia,SVN,2011,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.57050453512738
+318,Slovenia,SVN,2010,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.02837736337555
+319,Slovenia,SVN,2009,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.01826822686096
+320,Slovenia,SVN,2008,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,9.76550930106725
+321,Slovenia,SVN,2007,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,11.0508260718609
+322,Slovenia,SVN,2006,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,9.96512878095072
+323,Slovenia,SVN,2005,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.68803462847731
+324,Slovenia,SVN,2004,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.00970532625362
+325,Slovenia,SVN,2003,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.78203536710655
+326,Slovenia,SVN,2002,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.13464076458514
+327,Slovenia,SVN,2001,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.86369622773157
+328,Slovenia,SVN,2000,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.88846920398894
+329,Slovenia,SVN,1999,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.02136997610631
+330,Slovenia,SVN,1998,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.21143426043556
+331,Slovenia,SVN,1997,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.15399101255863
+332,Slovenia,SVN,1996,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,5.95864309883805
+333,Slovenia,SVN,1995,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.44530794592033
+334,Slovenia,SVN,2019,GDP (current US$),NY.GDP.MKTP.CD,54174227308.8862
+335,Slovenia,SVN,2018,GDP (current US$),NY.GDP.MKTP.CD,54161636034.6517
+336,Slovenia,SVN,2017,GDP (current US$),NY.GDP.MKTP.CD,48586603447.6954
+337,Slovenia,SVN,2016,GDP (current US$),NY.GDP.MKTP.CD,44736333522.4522
+338,Slovenia,SVN,2015,GDP (current US$),NY.GDP.MKTP.CD,43090173394.6913
+339,Slovenia,SVN,2014,GDP (current US$),NY.GDP.MKTP.CD,49930685013.4603
+340,Slovenia,SVN,2013,GDP (current US$),NY.GDP.MKTP.CD,48401896808.3064
+341,Slovenia,SVN,2012,GDP (current US$),NY.GDP.MKTP.CD,46580457470.2769
+342,Slovenia,SVN,2011,GDP (current US$),NY.GDP.MKTP.CD,51516366654.8197
+343,Slovenia,SVN,2010,GDP (current US$),NY.GDP.MKTP.CD,48161250405.2468
+344,Slovenia,SVN,2009,GDP (current US$),NY.GDP.MKTP.CD,50368056404.5568
+345,Slovenia,SVN,2008,GDP (current US$),NY.GDP.MKTP.CD,55552509154.8264
+346,Slovenia,SVN,2007,GDP (current US$),NY.GDP.MKTP.CD,48006372844.2376
+347,Slovenia,SVN,2006,GDP (current US$),NY.GDP.MKTP.CD,39481045038.2637
+348,Slovenia,SVN,2005,GDP (current US$),NY.GDP.MKTP.CD,36206395970.6504
+349,Slovenia,SVN,2004,GDP (current US$),NY.GDP.MKTP.CD,34414784504.2352
+350,Slovenia,SVN,2003,GDP (current US$),NY.GDP.MKTP.CD,29634713641.0968
+351,Slovenia,SVN,2002,GDP (current US$),NY.GDP.MKTP.CD,23489890274.3142
+352,Slovenia,SVN,2001,GDP (current US$),NY.GDP.MKTP.CD,20876309970.385
+353,Slovenia,SVN,2000,GDP (current US$),NY.GDP.MKTP.CD,20289627636.6767
+354,Slovenia,SVN,1999,GDP (current US$),NY.GDP.MKTP.CD,22711384311.1404
+355,Slovenia,SVN,1998,GDP (current US$),NY.GDP.MKTP.CD,22146231967.6861
+356,Slovenia,SVN,1997,GDP (current US$),NY.GDP.MKTP.CD,20763101740.6963
+357,Slovenia,SVN,1996,GDP (current US$),NY.GDP.MKTP.CD,21507232648.7252
+358,Slovenia,SVN,1995,GDP (current US$),NY.GDP.MKTP.CD,21352224019.4096
+359,Slovenia,SVN,1994,GDP (current US$),NY.GDP.MKTP.CD,15049620465.1163
+360,Slovenia,SVN,1993,GDP (current US$),NY.GDP.MKTP.CD,13258920634.9206
+361,Slovenia,SVN,1992,GDP (current US$),NY.GDP.MKTP.CD,13101055424.5283
+362,Slovenia,SVN,1991,GDP (current US$),NY.GDP.MKTP.CD,13263686956.5217
+363,Slovenia,SVN,1990,GDP (current US$),NY.GDP.MKTP.CD,18198199152.5424
+364,Slovenia,SVN,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,25940.728030936
+365,Slovenia,SVN,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,26115.9133661854
+366,Slovenia,SVN,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,23512.8172674713
+367,Slovenia,SVN,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,21663.643413767
+368,Slovenia,SVN,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,20881.7669299329
+369,Slovenia,SVN,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,24214.9220717273
+370,Slovenia,SVN,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,23496.602499332
+371,Slovenia,SVN,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,22643.1002515007
+372,Slovenia,SVN,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,25095.1322896197
+373,Slovenia,SVN,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,23509.5431355463
+374,Slovenia,SVN,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,24694.2304876707
+375,Slovenia,SVN,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,27483.3371698569
+376,Slovenia,SVN,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,23787.6465566688
+377,Slovenia,SVN,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,19672.9655554146
+378,Slovenia,SVN,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,18098.9085440003
+379,Slovenia,SVN,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,17233.1385611279
+380,Slovenia,SVN,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,14849.0372415032
+381,Slovenia,SVN,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,11777.1556578814
+382,Slovenia,SVN,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,10479.7596309273
+383,Slovenia,SVN,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,10201.3035366727
+384,Slovenia,SVN,1999,GDP per capita (current US$),NY.GDP.PCAP.CD,11452.7831245082
+385,Slovenia,SVN,1998,GDP per capita (current US$),NY.GDP.PCAP.CD,11175.7710286265
+386,Slovenia,SVN,1997,GDP per capita (current US$),NY.GDP.PCAP.CD,10454.9656390657
+387,Slovenia,SVN,1996,GDP per capita (current US$),NY.GDP.PCAP.CD,10815.1110457688
+388,Slovenia,SVN,1995,GDP per capita (current US$),NY.GDP.PCAP.CD,10730.4510136379
+389,Slovenia,SVN,1994,GDP per capita (current US$),NY.GDP.PCAP.CD,7564.74071642981
+390,Slovenia,SVN,1993,GDP per capita (current US$),NY.GDP.PCAP.CD,6656.93348194028
+391,Slovenia,SVN,1992,GDP per capita (current US$),NY.GDP.PCAP.CD,6562.01780544148
+392,Slovenia,SVN,1991,GDP per capita (current US$),NY.GDP.PCAP.CD,6633.73741029151
+393,Slovenia,SVN,1990,GDP per capita (current US$),NY.GDP.PCAP.CD,9107.47389852088
+394,Slovenia,SVN,2019,GNI (current US$),NY.GNP.MKTP.CD,53306118486.0391
+395,Slovenia,SVN,2018,GNI (current US$),NY.GNP.MKTP.CD,53293902546.6196
+396,Slovenia,SVN,2017,GNI (current US$),NY.GNP.MKTP.CD,47715609093.506
+397,Slovenia,SVN,2016,GNI (current US$),NY.GNP.MKTP.CD,43602431787.545
+398,Slovenia,SVN,2015,GNI (current US$),NY.GNP.MKTP.CD,41761166474.1382
+399,Slovenia,SVN,2014,GNI (current US$),NY.GNP.MKTP.CD,49472455060.5408
+400,Slovenia,SVN,2013,GNI (current US$),NY.GNP.MKTP.CD,47754167866.327
+401,Slovenia,SVN,2012,GNI (current US$),NY.GNP.MKTP.CD,45854173714.4117
+402,Slovenia,SVN,2011,GNI (current US$),NY.GNP.MKTP.CD,50817019569.3902
+403,Slovenia,SVN,2010,GNI (current US$),NY.GNP.MKTP.CD,47523263224.8405
+404,Slovenia,SVN,2009,GNI (current US$),NY.GNP.MKTP.CD,49532759099.7499
+405,Slovenia,SVN,2008,GNI (current US$),NY.GNP.MKTP.CD,54098418045.9939
+406,Slovenia,SVN,2007,GNI (current US$),NY.GNP.MKTP.CD,46902956474.1309
+407,Slovenia,SVN,2006,GNI (current US$),NY.GNP.MKTP.CD,38985723246.7695
+408,Slovenia,SVN,2005,GNI (current US$),NY.GNP.MKTP.CD,35866160925.258
+409,Slovenia,SVN,2004,GNI (current US$),NY.GNP.MKTP.CD,33933993522.6707
+410,Slovenia,SVN,2003,GNI (current US$),NY.GNP.MKTP.CD,29319206294.1108
+411,Slovenia,SVN,2002,GNI (current US$),NY.GNP.MKTP.CD,23284718204.4888
+412,Slovenia,SVN,2001,GNI (current US$),NY.GNP.MKTP.CD,20859259624.8766
+413,Slovenia,SVN,2000,GNI (current US$),NY.GNP.MKTP.CD,20240378820.4907
+414,Slovenia,SVN,1999,GNI (current US$),NY.GNP.MKTP.CD,22692089650.6262
+415,Slovenia,SVN,1998,GNI (current US$),NY.GNP.MKTP.CD,22112579342.1812
+416,Slovenia,SVN,1997,GNI (current US$),NY.GNP.MKTP.CD,20753631452.581
+417,Slovenia,SVN,1996,GNI (current US$),NY.GNP.MKTP.CD,21563792492.9178
+418,Slovenia,SVN,1995,GNI (current US$),NY.GNP.MKTP.CD,21458491710.4731
+419,Slovenia,SVN,2019,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.46493010688584
+420,Slovenia,SVN,2018,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.20815435500717
+421,Slovenia,SVN,2017,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.53299333791664
+422,Slovenia,SVN,2016,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.68956391078501
+423,Slovenia,SVN,2015,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.107845890277318
+424,Slovenia,SVN,2014,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.0909594429654
+425,Slovenia,SVN,2013,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.953199397917388
+426,Slovenia,SVN,2012,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-3.02725397751243
+427,Slovenia,SVN,2011,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,0.631097252289536
+428,Slovenia,SVN,2010,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.28702984710678
+429,Slovenia,SVN,2009,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-7.50440700966598
+430,Slovenia,SVN,2008,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.02766111512342
+431,Slovenia,SVN,2007,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.2377534655419
+432,Slovenia,SVN,2006,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.07651371915263
+433,Slovenia,SVN,2005,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.12231040393188
+434,Slovenia,SVN,2018,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,508.897544084895
+435,Slovenia,SVN,2015,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,509.9196
+436,Slovenia,SVN,2012,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,501.127422390952
+437,Slovenia,SVN,2009,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,501.472389492358
+438,Slovenia,SVN,2006,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,504.455963888639
+439,Slovenia,SVN,2018,PISA: Mean performance on the reading scale,LO.PISA.REA,495.345615126036
+440,Slovenia,SVN,2015,PISA: Mean performance on the reading scale,LO.PISA.REA,505.2159
+441,Slovenia,SVN,2012,PISA: Mean performance on the reading scale,LO.PISA.REA,481.316283491682
+442,Slovenia,SVN,2009,PISA: Mean performance on the reading scale,LO.PISA.REA,483.082042319101
+443,Slovenia,SVN,2006,PISA: Mean performance on the reading scale,LO.PISA.REA,494.409036543786
+444,Slovenia,SVN,2018,PISA: Mean performance on the science scale,LO.PISA.SCI,507.006545970774
+445,Slovenia,SVN,2015,PISA: Mean performance on the science scale,LO.PISA.SCI,512.8636
+446,Slovenia,SVN,2012,PISA: Mean performance on the science scale,LO.PISA.SCI,514.142554966146
+447,Slovenia,SVN,2009,PISA: Mean performance on the science scale,LO.PISA.SCI,511.759473108356
+448,Slovenia,SVN,2006,PISA: Mean performance on the science scale,LO.PISA.SCI,518.815609521898
+449,Slovenia,SVN,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30725002288818
+450,Slovenia,SVN,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30178999900818
+451,Slovenia,SVN,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30229997634888
+452,Slovenia,SVN,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31860995292664
+453,Slovenia,SVN,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31053996086121
+454,Slovenia,SVN,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31066000461578
+455,Slovenia,SVN,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.322350025177
+456,Slovenia,SVN,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.40275001525879
+457,Slovenia,SVN,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3272500038147
+458,Slovenia,SVN,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3249100446701
+459,Slovenia,SVN,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32167994976044
+460,Slovenia,SVN,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3172299861908
+461,Slovenia,SVN,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31271994113922
+462,Slovenia,SVN,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.29828000068665
+463,Slovenia,SVN,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27557003498077
+464,Slovenia,SVN,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26403999328613
+465,Slovenia,SVN,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31070005893707
+466,Slovenia,SVN,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27576005458832
+467,Slovenia,SVN,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27858996391296
+468,Slovenia,SVN,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2777099609375
+469,Slovenia,SVN,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.25209999084473
+470,Slovenia,SVN,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2748099565506
+471,Slovenia,SVN,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27889001369476
+472,Slovenia,SVN,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26978003978729
+473,Slovenia,SVN,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22255003452301
+474,Slovenia,SVN,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18661999702454
+475,Slovenia,SVN,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1185200214386
+476,Slovenia,SVN,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.20305001735687
+477,Slovenia,SVN,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17437994480133
+478,Slovenia,SVN,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1594500541687
+479,Slovenia,SVN,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.14644002914429
+480,Slovenia,SVN,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.13708996772766
+481,Slovenia,SVN,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11006999015808
+482,Slovenia,SVN,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05708003044128
+483,Slovenia,SVN,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.03490996360779
+484,Slovenia,SVN,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.10888004302979
+485,Slovenia,SVN,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1486200094223
+486,Slovenia,SVN,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1374499797821
+487,Slovenia,SVN,2018,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.232710003852844
+488,Slovenia,SVN,2017,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.182070001959801
+489,Slovenia,SVN,2016,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.466360002756119
+490,Slovenia,SVN,2015,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.450910001993179
+491,Slovenia,SVN,2014,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.798449993133545
+492,Slovenia,SVN,2013,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.657029986381531
+493,Slovenia,SVN,2012,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.400029987096787
+494,Slovenia,SVN,2011,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.329589992761612
+495,Slovenia,SVN,2010,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.635800004005432
+496,Slovenia,SVN,2009,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.707159996032715
+497,Slovenia,SVN,2008,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.670009970664978
+498,Slovenia,SVN,2007,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.770910024642944
+499,Slovenia,SVN,2006,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.0542900003492832
+500,Slovenia,SVN,2005,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.145219996571541
+501,Slovenia,SVN,2004,Children out of school (% of primary school age),SE.PRM.UNER.ZS,0.405000001192093
+502,Slovenia,SVN,2003,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.02740001678467
+503,Slovenia,SVN,2002,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.96899008750916
+504,Slovenia,SVN,2001,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.67445993423462
+505,Slovenia,SVN,2000,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.31522989273071
+506,Slovenia,SVN,1999,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.40259003639221
+507,Slovenia,SVN,1998,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.27869009971619
+508,Slovenia,SVN,1997,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.66663980484009
+509,Slovenia,SVN,1996,Children out of school (% of primary school age),SE.PRM.UNER.ZS,5.35634994506836
+510,Slovenia,SVN,1995,Children out of school (% of primary school age),SE.PRM.UNER.ZS,7.1181001663208
+511,Slovenia,SVN,2017,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,97.7727813720703
+512,Slovenia,SVN,2016,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,97.6204681396484
+513,Slovenia,SVN,2015,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,98.1699295043945
+514,Slovenia,SVN,2014,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,97.5927124023438
+515,Slovenia,SVN,2013,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,97.1484069824219
+516,Slovenia,SVN,2012,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,96.8689804077148
+517,Slovenia,SVN,2011,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,96.0180206298828
+518,Slovenia,SVN,2010,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,95.4296875
+519,Slovenia,SVN,2009,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,95.5970611572266
+520,Slovenia,SVN,2008,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,95.1745910644531
+521,Slovenia,SVN,2007,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,94.9556884765625
+522,Slovenia,SVN,2006,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,94.9931411743164
+523,Slovenia,SVN,2005,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,94.2979888916016
+524,Slovenia,SVN,2004,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,100
+525,Slovenia,SVN,1991,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,53.5497016906738
+526,Slovenia,SVN,2017,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.1282272338867
+527,Slovenia,SVN,2016,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.2459335327148
+528,Slovenia,SVN,2015,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.8238372802734
+529,Slovenia,SVN,2014,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.4013595581055
+530,Slovenia,SVN,2013,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,87.9921722412109
+531,Slovenia,SVN,2012,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.4563217163086
+532,Slovenia,SVN,2011,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.4231033325195
+533,Slovenia,SVN,2010,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.3360137939453
+534,Slovenia,SVN,2009,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.0590515136719
+535,Slovenia,SVN,2008,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,88.8718338012695
+536,Slovenia,SVN,2007,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.7393264770508
+537,Slovenia,SVN,2006,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.6972122192383
+538,Slovenia,SVN,2005,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.0281982421875
+539,Slovenia,SVN,2004,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.4882202148438
+540,Slovenia,SVN,2003,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.3785400390625
+541,Slovenia,SVN,2017,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.78323984146118
+542,Slovenia,SVN,2016,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.80178022384644
+543,Slovenia,SVN,2015,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.90953016281128
+544,Slovenia,SVN,2014,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.29169988632202
+545,Slovenia,SVN,2013,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.4057297706604
+546,Slovenia,SVN,2012,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.62023019790649
+547,Slovenia,SVN,2011,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.541259765625
+548,Slovenia,SVN,2010,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.54546022415161
+549,Slovenia,SVN,2009,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.55496978759766
+550,Slovenia,SVN,2008,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.10951995849609
+551,Slovenia,SVN,2007,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.11661005020142
+552,Slovenia,SVN,2006,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.59066009521484
+553,Slovenia,SVN,2005,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.60408020019531
+554,Slovenia,SVN,2004,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.64425992965698
+555,Slovenia,SVN,2003,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.70333003997803
+556,Slovenia,SVN,2002,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.67286014556885
+557,Slovenia,SVN,2001,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.7568302154541
+558,Slovenia,SVN,1995,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.90559005737305
+559,Slovenia,SVN,1994,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.12166023254395
+560,Slovenia,SVN,1993,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.40206003189087
+561,Slovenia,SVN,1992,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.14512014389038
+562,Slovenia,SVN,1991,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.43858003616333
+563,Slovenia,SVN,2019,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.4365437007656
+564,Slovenia,SVN,2018,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.2026987951807
+565,Slovenia,SVN,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.4407810729549
+566,Slovenia,SVN,2016,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.4308072314379
+567,Slovenia,SVN,2015,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.8673712658846
+568,Slovenia,SVN,2014,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.8905274290842
+569,Slovenia,SVN,2013,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.6247717018945
+570,Slovenia,SVN,2012,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.8780351194395
+571,Slovenia,SVN,2011,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.6786237289063
+572,Slovenia,SVN,2010,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.5390186770391
+573,Slovenia,SVN,2009,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.7975180872982
+574,Slovenia,SVN,2008,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.9886541165254
+575,Slovenia,SVN,2007,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.8072032513448
+576,Slovenia,SVN,2006,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.1194243748641
+577,Slovenia,SVN,2005,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.9314991599805
+578,Slovenia,SVN,2004,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.1176081778935
+579,Slovenia,SVN,2003,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.8632385813258
+580,Slovenia,SVN,2002,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.8923472432164
+581,Slovenia,SVN,2001,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.5985309189593
+582,Slovenia,SVN,2000,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.0139778659515
+583,Slovenia,SVN,1999,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.9985040362015
+584,Slovenia,SVN,1998,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.2827774731362
+585,Slovenia,SVN,1997,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.6893551790105
+586,Slovenia,SVN,1996,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.3033040256785
+587,Slovenia,SVN,1995,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.4022555550707
+588,Slovenia,SVN,1994,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.424575040574
+589,Slovenia,SVN,1993,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.4025469753599
+590,Slovenia,SVN,1992,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.3709845489902
+591,Slovenia,SVN,1991,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.3617147982983
+592,Slovenia,SVN,1990,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.3646178753219
+593,Slovenia,SVN,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.17000007629395
+594,Slovenia,SVN,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.44999980926514
+595,Slovenia,SVN,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.1100001335144
+596,Slovenia,SVN,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.55999994277954
+597,Slovenia,SVN,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8
+598,Slovenia,SVN,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.96000003814697
+599,Slovenia,SVN,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.67000007629395
+600,Slovenia,SVN,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.1000003814697
+601,Slovenia,SVN,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.84000015258789
+602,Slovenia,SVN,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.17000007629395
+603,Slovenia,SVN,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.23999977111816
+604,Slovenia,SVN,2009,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.8600001335144
+605,Slovenia,SVN,2008,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.36999988555908
+606,Slovenia,SVN,2007,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.82000017166138
+607,Slovenia,SVN,2006,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.94999980926514
+608,Slovenia,SVN,2005,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.51000022888184
+609,Slovenia,SVN,2004,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.01000022888184
+610,Slovenia,SVN,2003,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.48000001907349
+611,Slovenia,SVN,2002,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.92000007629395
+612,Slovenia,SVN,2001,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.67999982833862
+613,Slovenia,SVN,2000,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.92000007629395
+614,Slovenia,SVN,1999,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.32000017166138
+615,Slovenia,SVN,1998,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.3899998664856
+616,Slovenia,SVN,1997,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.65000009536743
+617,Slovenia,SVN,1996,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.90999984741211
+618,Slovenia,SVN,1995,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.15000009536743
+619,Slovenia,SVN,1994,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.23999977111816
+620,Slovenia,SVN,1993,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.51000022888184
+621,Slovenia,SVN,1992,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.80000019073486
+622,Slovenia,SVN,1991,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.07999992370605
+623,Slovenia,SVN,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+624,Slovenia,SVN,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+625,Slovenia,SVN,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+626,Slovenia,SVN,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+627,Slovenia,SVN,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+628,Slovenia,SVN,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+629,Slovenia,SVN,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+630,Slovenia,SVN,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+631,Slovenia,SVN,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+632,Slovenia,SVN,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+633,Slovenia,SVN,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+634,Slovenia,SVN,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+635,Slovenia,SVN,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+636,Slovenia,SVN,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+637,Slovenia,SVN,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+638,Slovenia,SVN,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+639,Slovenia,SVN,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+640,Slovenia,SVN,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+641,Slovenia,SVN,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+642,Slovenia,SVN,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+643,Slovenia,SVN,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+644,Slovenia,SVN,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+645,Slovenia,SVN,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+646,Slovenia,SVN,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+647,Slovenia,SVN,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+648,Slovenia,SVN,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+649,Slovenia,SVN,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+650,Slovenia,SVN,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+651,Slovenia,SVN,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+652,Slovenia,SVN,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+653,Slovenia,SVN,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.8773961432658
+654,Slovenia,SVN,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,22.3004865571111
+655,Slovenia,SVN,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,22.0056325886711
+656,Slovenia,SVN,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.7046257549979
+657,Slovenia,SVN,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.5864329328115
+658,Slovenia,SVN,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.5047538484834
+659,Slovenia,SVN,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.0283649811127
+660,Slovenia,SVN,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.8524951998047
+661,Slovenia,SVN,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.0899770794388
+662,Slovenia,SVN,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.4143715723375
+663,Slovenia,SVN,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.5662547123469
+664,Slovenia,SVN,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,15.4105521202857
+665,Slovenia,SVN,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.1837304266118
+666,Slovenia,SVN,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.0960864715884
+667,Slovenia,SVN,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.9918228178183
+668,Slovenia,SVN,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,15.8647646209616
+669,Slovenia,SVN,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.9503328020105
+670,Slovenia,SVN,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.0884504569947
+671,Slovenia,SVN,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.2327026065449
+672,Slovenia,SVN,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.0941837619979
+673,Slovenia,SVN,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.4948224778553
+674,Slovenia,SVN,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.3360932493257
+675,Slovenia,SVN,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.3567377774885
+676,Slovenia,SVN,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.9008440270148
+677,Slovenia,SVN,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.130778170562
+678,Slovenia,SVN,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,12.3519505905187
+679,Slovenia,SVN,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,12632.815
+680,Slovenia,SVN,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,12530.139
+681,Slovenia,SVN,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,12482.468
+682,Slovenia,SVN,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,13890.596
+683,Slovenia,SVN,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,14675.334
+684,Slovenia,SVN,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,15159.378
+685,Slovenia,SVN,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,15335.394
+686,Slovenia,SVN,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,15280.389
+687,Slovenia,SVN,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,17355.911
+688,Slovenia,SVN,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,16244.81
+689,Slovenia,SVN,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,16244.81
+690,Slovenia,SVN,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,15867.109
+691,Slovenia,SVN,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,15746.098
+692,Slovenia,SVN,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,15511.41
+693,Slovenia,SVN,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,15419.735
+694,Slovenia,SVN,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,15163.045
+695,Slovenia,SVN,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,14396.642
+696,Slovenia,SVN,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,15276.722
+697,Slovenia,SVN,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,15192.381
+698,Slovenia,SVN,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,15859.775
+699,Slovenia,SVN,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,14954.026
+700,Slovenia,SVN,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,14403.976
+701,Slovenia,SVN,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,13340.546
+702,Slovenia,SVN,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,13164.53
+703,Slovenia,SVN,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,12478.801
+704,Slovenia,SVN,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21074.7483377861
+705,Slovenia,SVN,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21513.476468893
+706,Slovenia,SVN,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21893.6609
+707,Slovenia,SVN,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21453.1576
+708,Slovenia,SVN,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,23252.2604
+709,Slovenia,SVN,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,22932.5376
+710,Slovenia,SVN,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,22781.6492
+711,Slovenia,SVN,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,22366.8829
+712,Slovenia,SVN,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,22064.4812
+713,Slovenia,SVN,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21936.4936
+714,Slovenia,SVN,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,22342.2576
+715,Slovenia,SVN,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21694.4131
+716,Slovenia,SVN,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,20927.0855
+717,Slovenia,SVN,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21132.2618
+718,Slovenia,SVN,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21456.2578
+719,Slovenia,SVN,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21798.4558
+720,Slovenia,SVN,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,20088.2004
+721,Slovenia,SVN,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18869.6953
+722,Slovenia,SVN,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18331.6882
+723,Slovenia,SVN,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18307.0892
+724,Slovenia,SVN,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,17825.1774
+725,Slovenia,SVN,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18530.1805
+726,Slovenia,SVN,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,19978.0218
+727,Slovenia,SVN,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,20632.639
+728,Slovenia,SVN,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,21367.5794
+729,Slovenia,SVN,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18618.6219
+730,Slovenia,SVN,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18215.4227
+731,Slovenia,SVN,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18288.555
+732,Slovenia,SVN,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,18883.5755
+733,Slovenia,SVN,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,17723.8848
+734,Slovenia,SVN,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,16007.7027
+735,Slovenia,SVN,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,16592.292
+736,Slovenia,SVN,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,16418.3323
+737,Slovenia,SVN,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,16830.6113
+738,Slovenia,SVN,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,15849.9674
+739,Slovenia,SVN,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,15375.6753
+740,Slovenia,SVN,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14315.4782
+741,Slovenia,SVN,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14299.5477
+742,Slovenia,SVN,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13487.2982
+743,Slovenia,SVN,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,12763.8602
+744,Slovenia,SVN,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11319.156
+745,Slovenia,SVN,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11266.8859
+746,Slovenia,SVN,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11111.9233
+747,Slovenia,SVN,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.4910252834569
+748,Slovenia,SVN,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.4741254084
+749,Slovenia,SVN,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.7937147060447
+750,Slovenia,SVN,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.7933924534698
+751,Slovenia,SVN,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.8361029904907
+752,Slovenia,SVN,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.8362522126221
+753,Slovenia,SVN,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+754,Slovenia,SVN,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+755,Slovenia,SVN,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+756,Slovenia,SVN,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+757,Slovenia,SVN,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+758,Slovenia,SVN,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+759,Slovenia,SVN,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,3.70000004768372
+760,Slovenia,SVN,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,3.70000004768372
+761,Slovenia,SVN,2018,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1918.5
+762,Slovenia,SVN,2017,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1730.09997558594
+763,Slovenia,SVN,2016,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1843.70007324219
+764,Slovenia,SVN,2015,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1607.19995117188
+765,Slovenia,SVN,2014,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1396.30004882813
+766,Slovenia,SVN,2013,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1225.69995117188
+767,Slovenia,SVN,2012,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1154.30004882813
+768,Slovenia,SVN,2011,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1396.59997558594
+769,Slovenia,SVN,2010,Aquaculture production (metric tons),ER.FSH.AQUA.MT,778.400024414063
+770,Slovenia,SVN,2009,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1306.59997558594
+771,Slovenia,SVN,2008,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1315
+772,Slovenia,SVN,2007,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1352
+773,Slovenia,SVN,2006,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1369
+774,Slovenia,SVN,2005,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1346
+775,Slovenia,SVN,2004,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1571
+776,Slovenia,SVN,2003,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1353
+777,Slovenia,SVN,2002,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1289
+778,Slovenia,SVN,2001,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1262
+779,Slovenia,SVN,2000,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1181
+780,Slovenia,SVN,1999,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1206
+781,Slovenia,SVN,1998,Aquaculture production (metric tons),ER.FSH.AQUA.MT,909
+782,Slovenia,SVN,1997,Aquaculture production (metric tons),ER.FSH.AQUA.MT,917
+783,Slovenia,SVN,1996,Aquaculture production (metric tons),ER.FSH.AQUA.MT,869
+784,Slovenia,SVN,1995,Aquaculture production (metric tons),ER.FSH.AQUA.MT,789
+785,Slovenia,SVN,1994,Aquaculture production (metric tons),ER.FSH.AQUA.MT,787
+786,Slovenia,SVN,1993,Aquaculture production (metric tons),ER.FSH.AQUA.MT,718
+787,Slovenia,SVN,1992,Aquaculture production (metric tons),ER.FSH.AQUA.MT,868
+788,Slovenia,SVN,2018,Total fisheries production (metric tons),ER.FSH.PROD.MT,2182.2451171875
+789,Slovenia,SVN,2017,Total fisheries production (metric tons),ER.FSH.PROD.MT,2010.17004394531
+790,Slovenia,SVN,2016,Total fisheries production (metric tons),ER.FSH.PROD.MT,2154.21899414063
+791,Slovenia,SVN,2015,Total fisheries production (metric tons),ER.FSH.PROD.MT,1950.59204101563
+792,Slovenia,SVN,2014,Total fisheries production (metric tons),ER.FSH.PROD.MT,1806.80004882813
+793,Slovenia,SVN,2013,Total fisheries production (metric tons),ER.FSH.PROD.MT,1625.916015625
+794,Slovenia,SVN,2012,Total fisheries production (metric tons),ER.FSH.PROD.MT,1639.48803710938
+795,Slovenia,SVN,2011,Total fisheries production (metric tons),ER.FSH.PROD.MT,2287.208984375
+796,Slovenia,SVN,2010,Total fisheries production (metric tons),ER.FSH.PROD.MT,1719.40002441406
+797,Slovenia,SVN,2009,Total fisheries production (metric tons),ER.FSH.PROD.MT,2341.85888671875
+798,Slovenia,SVN,2008,Total fisheries production (metric tons),ER.FSH.PROD.MT,2196.71411132813
+799,Slovenia,SVN,2007,Total fisheries production (metric tons),ER.FSH.PROD.MT,2464.4541015625
+800,Slovenia,SVN,2006,Total fisheries production (metric tons),ER.FSH.PROD.MT,2502.1689453125
+801,Slovenia,SVN,2005,Total fisheries production (metric tons),ER.FSH.PROD.MT,2573
+802,Slovenia,SVN,2004,Total fisheries production (metric tons),ER.FSH.PROD.MT,2594
+803,Slovenia,SVN,2003,Total fisheries production (metric tons),ER.FSH.PROD.MT,2635
+804,Slovenia,SVN,2002,Total fisheries production (metric tons),ER.FSH.PROD.MT,2975
+805,Slovenia,SVN,2001,Total fisheries production (metric tons),ER.FSH.PROD.MT,3089
+806,Slovenia,SVN,2000,Total fisheries production (metric tons),ER.FSH.PROD.MT,3037
+807,Slovenia,SVN,1999,Total fisheries production (metric tons),ER.FSH.PROD.MT,3233
+808,Slovenia,SVN,1998,Total fisheries production (metric tons),ER.FSH.PROD.MT,3137
+809,Slovenia,SVN,1997,Total fisheries production (metric tons),ER.FSH.PROD.MT,3284
+810,Slovenia,SVN,1996,Total fisheries production (metric tons),ER.FSH.PROD.MT,3236
+811,Slovenia,SVN,1995,Total fisheries production (metric tons),ER.FSH.PROD.MT,2956
+812,Slovenia,SVN,1994,Total fisheries production (metric tons),ER.FSH.PROD.MT,3133
+813,Slovenia,SVN,1993,Total fisheries production (metric tons),ER.FSH.PROD.MT,3002
+814,Slovenia,SVN,1992,Total fisheries production (metric tons),ER.FSH.PROD.MT,4773
+815,Slovenia,SVN,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,53.6229604410885
+816,Slovenia,SVN,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,53.6229604410885
+817,Slovenia,SVN,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,53.64
+818,Slovenia,SVN,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,213.425085245979
+819,Slovenia,SVN,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,100
+820,Slovenia,SVN,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,100
+821,Slovenia,SVN,2017,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,98.0529725389672
+822,Slovenia,SVN,2016,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,97.8457365327488
+823,Slovenia,SVN,2015,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,96.5509346235079
+824,Slovenia,SVN,2014,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,95.2561764341703
+825,Slovenia,SVN,2013,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,93.9677841352706
+826,Slovenia,SVN,2012,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,92.6791806873644
+827,Slovenia,SVN,2011,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,91.3903632070193
+828,Slovenia,SVN,2010,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,90.1013418171192
+829,Slovenia,SVN,2009,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,88.8121132200957
+830,Slovenia,SVN,2008,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,87.5226878021006
+831,Slovenia,SVN,2007,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,86.2330589954583
+832,Slovenia,SVN,2006,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,84.9432348668691
+833,Slovenia,SVN,2005,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,83.653209580785
+834,Slovenia,SVN,2004,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,82.3629930024088
+835,Slovenia,SVN,2003,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,81.0725815680009
+836,Slovenia,SVN,2002,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,79.7819836248324
+837,Slovenia,SVN,2001,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,79.7868745179155
+838,Slovenia,SVN,2000,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,79.7919237518739
+839,Slovenia,SVN,2017,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,83.0413229736637
+840,Slovenia,SVN,2016,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.7869741198301
+841,Slovenia,SVN,2015,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.5326375407334
+842,Slovenia,SVN,2014,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,82.2178273748306
+843,Slovenia,SVN,2013,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,81.5234183433974
+844,Slovenia,SVN,2012,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,80.8285281443076
+845,Slovenia,SVN,2011,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,80.1331113785039
+846,Slovenia,SVN,2010,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,79.4371296990289
+847,Slovenia,SVN,2009,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,78.7405326763969
+848,Slovenia,SVN,2008,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,78.0432819572664
+849,Slovenia,SVN,2007,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,77.3492145756069
+850,Slovenia,SVN,2006,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,76.6556103479286
+851,Slovenia,SVN,2005,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,75.9624629953511
+852,Slovenia,SVN,2004,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,75.2697813303244
+853,Slovenia,SVN,2003,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,75.0177939278687
+854,Slovenia,SVN,2002,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,74.765807469161
+855,Slovenia,SVN,2001,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,74.5138769425471
+856,Slovenia,SVN,2000,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,74.2619656233402
+857,Slovenia,SVN,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,3
+858,Slovenia,SVN,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,3
+859,Slovenia,SVN,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,3
+860,Slovenia,SVN,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,3
+861,Slovenia,SVN,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,3
+862,Slovenia,SVN,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,3
+863,Slovenia,SVN,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,3
+864,Slovenia,SVN,2016,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.9
+865,Slovenia,SVN,2015,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.2
+866,Slovenia,SVN,2014,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.7
+867,Slovenia,SVN,2013,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.3
+868,Slovenia,SVN,2012,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25
+869,Slovenia,SVN,2011,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25
+870,Slovenia,SVN,2010,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25
+871,Slovenia,SVN,2009,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.2
+872,Slovenia,SVN,2008,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.5
+873,Slovenia,SVN,2007,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.8
+874,Slovenia,SVN,2006,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.1
+875,Slovenia,SVN,2005,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.4
+876,Slovenia,SVN,2004,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.6
+877,Slovenia,SVN,2003,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.8
+878,Slovenia,SVN,2002,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27
+879,Slovenia,SVN,2001,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.2
+880,Slovenia,SVN,2000,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.5
+881,Slovenia,SVN,1999,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.8
+882,Slovenia,SVN,1998,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.2
+883,Slovenia,SVN,1997,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.7
+884,Slovenia,SVN,1996,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,29.3
+885,Slovenia,SVN,1995,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30
+886,Slovenia,SVN,1994,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.9
+887,Slovenia,SVN,1993,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,31.9
+888,Slovenia,SVN,1992,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,33
+889,Slovenia,SVN,1991,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,34.3
+890,Slovenia,SVN,1990,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,35.7
+891,Slovenia,SVN,2018,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.43
+892,Slovenia,SVN,2017,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.5
+893,Slovenia,SVN,2016,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.49
+894,Slovenia,SVN,2015,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.51
+895,Slovenia,SVN,2014,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.54
+896,Slovenia,SVN,2013,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.55
+897,Slovenia,SVN,2012,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.54
+898,Slovenia,SVN,2011,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.62
+899,Slovenia,SVN,2010,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.57
+900,Slovenia,SVN,2009,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.6
+901,Slovenia,SVN,2008,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.74
+902,Slovenia,SVN,2007,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.66
+903,Slovenia,SVN,2006,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.77
+904,Slovenia,SVN,2005,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.83
+905,Slovenia,SVN,2004,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.8
+906,Slovenia,SVN,2003,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,4.96
+907,Slovenia,SVN,2002,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.09
+908,Slovenia,SVN,2001,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.16
+909,Slovenia,SVN,2000,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.4
+910,Slovenia,SVN,1999,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.5500001907
+911,Slovenia,SVN,1998,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.6199998856
+912,Slovenia,SVN,1997,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.6700000763
+913,Slovenia,SVN,1996,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.6599998474
+914,Slovenia,SVN,1995,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.75
+915,Slovenia,SVN,1994,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.7768998146
+916,Slovenia,SVN,1993,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.8007001877
+917,Slovenia,SVN,1992,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,5.9369997978
+918,Slovenia,SVN,1991,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.011300087
+919,Slovenia,SVN,1990,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.0408000946
+920,Slovenia,SVN,1989,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.06339979171753
+921,Slovenia,SVN,1988,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.13800001144409
+922,Slovenia,SVN,1987,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.2153000831604
+923,Slovenia,SVN,1986,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.26789999008179
+924,Slovenia,SVN,1985,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.32609987258911
+925,Slovenia,SVN,1984,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.50099992752075
+926,Slovenia,SVN,1982,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.67950010299683
+927,Slovenia,SVN,1980,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.95260000228882
+928,Slovenia,SVN,2019,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19.8
+929,Slovenia,SVN,2018,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.8
+930,Slovenia,SVN,2017,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.9
+931,Slovenia,SVN,2016,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19
+932,Slovenia,SVN,2015,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,21
+933,Slovenia,SVN,2014,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19.6
+934,Slovenia,SVN,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,22.2
+935,Slovenia,SVN,2012,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,22
+936,Slovenia,SVN,2011,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,21.6
+937,Slovenia,SVN,2010,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.7
+938,Slovenia,SVN,2009,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,22.5
+939,Slovenia,SVN,2008,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.6
+940,Slovenia,SVN,2007,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,22.9
+941,Slovenia,SVN,2006,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,27.9
+942,Slovenia,SVN,2005,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,26.8
+943,Slovenia,SVN,2004,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,28.7
+944,Slovenia,SVN,2003,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,29.7
+945,Slovenia,SVN,2002,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,29.1
+946,Slovenia,SVN,2001,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,30.9
+947,Slovenia,SVN,2000,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,32
+948,Slovenia,SVN,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.1
+949,Slovenia,SVN,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,4.5
+950,Slovenia,SVN,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.2
+951,Slovenia,SVN,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.5
+952,Slovenia,SVN,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6
+953,Slovenia,SVN,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.5
+954,Slovenia,SVN,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.3
+955,Slovenia,SVN,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,6.6
+956,Slovenia,SVN,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.1
+957,Slovenia,SVN,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.2
+958,Slovenia,SVN,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.9
+959,Slovenia,SVN,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.1
+960,Slovenia,SVN,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.6
+961,Slovenia,SVN,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.7
+962,Slovenia,SVN,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.5
+963,Slovenia,SVN,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.4
+964,Slovenia,SVN,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13
+965,Slovenia,SVN,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.1
+966,Slovenia,SVN,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15
+967,Slovenia,SVN,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.4
+968,Slovenia,SVN,2018,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.29891014
+969,Slovenia,SVN,2017,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.18941784
+970,Slovenia,SVN,2016,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.47909927
+971,Slovenia,SVN,2015,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.49823952
+972,Slovenia,SVN,2014,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.50197506
+973,Slovenia,SVN,2013,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.74028301
+974,Slovenia,SVN,2012,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.71509933
+975,Slovenia,SVN,2011,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.53639603
+976,Slovenia,SVN,2010,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.56503296
+977,Slovenia,SVN,2009,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.540802
+978,Slovenia,SVN,2008,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.85466576
+979,Slovenia,SVN,2007,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.51139164
+980,Slovenia,SVN,2006,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.82322741
+981,Slovenia,SVN,2005,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.99595737
+982,Slovenia,SVN,2004,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.93957281
+983,Slovenia,SVN,2003,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.09883595
+984,Slovenia,SVN,2002,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.02119923
+985,Slovenia,SVN,2001,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.87602425
+986,Slovenia,SVN,2000,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.80406952
+987,Slovenia,SVN,2018,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,72.40888214
+988,Slovenia,SVN,2017,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.79818726
+989,Slovenia,SVN,2016,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,72.28774261
+990,Slovenia,SVN,2015,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.35444641
+991,Slovenia,SVN,2014,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.52433014
+992,Slovenia,SVN,2013,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.30366516
+993,Slovenia,SVN,2012,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.85122681
+994,Slovenia,SVN,2011,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,72.26573944
+995,Slovenia,SVN,2010,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,72.3649292
+996,Slovenia,SVN,2009,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,72.01541901
+997,Slovenia,SVN,2008,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,72.16070557
+998,Slovenia,SVN,2007,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.23893738
+999,Slovenia,SVN,2006,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.74246216
+1000,Slovenia,SVN,2005,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,72.22161865
+1001,Slovenia,SVN,2004,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.98925018
+1002,Slovenia,SVN,2003,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.96820068
+1003,Slovenia,SVN,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,72.42923737
+1004,Slovenia,SVN,2001,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.56112671
+1005,Slovenia,SVN,2000,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,71.39096069
+1006,Slovenia,SVN,2019,Refugee population by country or territory of asylum,SM.POP.REFG,741
+1007,Slovenia,SVN,2018,Refugee population by country or territory of asylum,SM.POP.REFG,746
+1008,Slovenia,SVN,2017,Refugee population by country or territory of asylum,SM.POP.REFG,611
+1009,Slovenia,SVN,2016,Refugee population by country or territory of asylum,SM.POP.REFG,454
+1010,Slovenia,SVN,2015,Refugee population by country or territory of asylum,SM.POP.REFG,284
+1011,Slovenia,SVN,2014,Refugee population by country or territory of asylum,SM.POP.REFG,251
+1012,Slovenia,SVN,2013,Refugee population by country or territory of asylum,SM.POP.REFG,202
+1013,Slovenia,SVN,2012,Refugee population by country or territory of asylum,SM.POP.REFG,169
+1014,Slovenia,SVN,2011,Refugee population by country or territory of asylum,SM.POP.REFG,134
+1015,Slovenia,SVN,2010,Refugee population by country or territory of asylum,SM.POP.REFG,315
+1016,Slovenia,SVN,2009,Refugee population by country or territory of asylum,SM.POP.REFG,281
+1017,Slovenia,SVN,2008,Refugee population by country or territory of asylum,SM.POP.REFG,257
+1018,Slovenia,SVN,2007,Refugee population by country or territory of asylum,SM.POP.REFG,255
+1019,Slovenia,SVN,2006,Refugee population by country or territory of asylum,SM.POP.REFG,249
+1020,Slovenia,SVN,2005,Refugee population by country or territory of asylum,SM.POP.REFG,243
+1021,Slovenia,SVN,2004,Refugee population by country or territory of asylum,SM.POP.REFG,299
+1022,Slovenia,SVN,2003,Refugee population by country or territory of asylum,SM.POP.REFG,2065
+1023,Slovenia,SVN,2002,Refugee population by country or territory of asylum,SM.POP.REFG,384
+1024,Slovenia,SVN,2001,Refugee population by country or territory of asylum,SM.POP.REFG,2411
+1025,Slovenia,SVN,2000,Refugee population by country or territory of asylum,SM.POP.REFG,2814
+1026,Slovenia,SVN,1999,Refugee population by country or territory of asylum,SM.POP.REFG,4380
+1027,Slovenia,SVN,1998,Refugee population by country or territory of asylum,SM.POP.REFG,3462
+1028,Slovenia,SVN,1997,Refugee population by country or territory of asylum,SM.POP.REFG,5133
+1029,Slovenia,SVN,1996,Refugee population by country or territory of asylum,SM.POP.REFG,10014
+1030,Slovenia,SVN,1995,Refugee population by country or territory of asylum,SM.POP.REFG,22314
+1031,Slovenia,SVN,1994,Refugee population by country or territory of asylum,SM.POP.REFG,29156
+1032,Slovenia,SVN,1993,Refugee population by country or territory of asylum,SM.POP.REFG,45000
+1033,Slovenia,SVN,1992,Refugee population by country or territory of asylum,SM.POP.REFG,74100
+1034,Slovenia,SVN,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1035,Slovenia,SVN,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1036,Slovenia,SVN,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1037,Slovenia,SVN,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1038,Slovenia,SVN,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1039,Slovenia,SVN,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1040,Slovenia,SVN,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1041,Slovenia,SVN,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1042,Slovenia,SVN,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1043,Slovenia,SVN,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1044,Slovenia,SVN,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1045,Slovenia,SVN,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1046,Slovenia,SVN,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1047,Slovenia,SVN,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1048,Slovenia,SVN,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1049,Slovenia,SVN,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1050,Slovenia,SVN,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1051,Slovenia,SVN,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1052,Slovenia,SVN,2019,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.3
+1053,Slovenia,SVN,2018,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+1054,Slovenia,SVN,2017,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1055,Slovenia,SVN,2016,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1056,Slovenia,SVN,2015,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10
+1057,Slovenia,SVN,2014,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.3
+1058,Slovenia,SVN,2013,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1059,Slovenia,SVN,2012,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1060,Slovenia,SVN,2011,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1061,Slovenia,SVN,2010,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.9
+1062,Slovenia,SVN,2009,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.7
+1063,Slovenia,SVN,2008,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.8
+1064,Slovenia,SVN,2007,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1065,Slovenia,SVN,2006,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+1066,Slovenia,SVN,2005,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+1067,Slovenia,SVN,2004,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+1068,Slovenia,SVN,2003,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.7
+1069,Slovenia,SVN,2002,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+1070,Slovenia,SVN,2001,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+1071,Slovenia,SVN,2000,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+1072,Slovenia,SVN,1999,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+1073,Slovenia,SVN,1998,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+1074,Slovenia,SVN,1997,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+1075,Slovenia,SVN,1996,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+1076,Slovenia,SVN,1995,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+1077,Slovenia,SVN,1994,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1078,Slovenia,SVN,1993,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1079,Slovenia,SVN,1992,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10
+1080,Slovenia,SVN,1991,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.8
+1081,Slovenia,SVN,1990,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.2
+1082,Slovenia,SVN,1989,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.7
+1083,Slovenia,SVN,1988,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.6
+1084,Slovenia,SVN,1987,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.9
+1085,Slovenia,SVN,1986,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13
+1086,Slovenia,SVN,1985,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.4
+1087,Slovenia,SVN,1984,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.6
+1088,Slovenia,SVN,1983,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.1
+1089,Slovenia,SVN,1982,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1090,Slovenia,SVN,1981,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.3
+1091,Slovenia,SVN,1980,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.7
+1092,Slovenia,SVN,1979,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.3
+1093,Slovenia,SVN,1978,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.3
+1094,Slovenia,SVN,1977,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.2
+1095,Slovenia,SVN,1976,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7
+1096,Slovenia,SVN,1975,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.6
+1097,Slovenia,SVN,1974,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.1
+1098,Slovenia,SVN,1973,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7
+1099,Slovenia,SVN,1972,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.4
+1100,Slovenia,SVN,1971,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.3
+1101,Slovenia,SVN,1970,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.9
+1102,Slovenia,SVN,1969,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.3
+1103,Slovenia,SVN,1968,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.8
+1104,Slovenia,SVN,1967,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.7
+1105,Slovenia,SVN,1966,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.5
+1106,Slovenia,SVN,1965,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.5
+1107,Slovenia,SVN,1964,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.9
+1108,Slovenia,SVN,1963,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18
+1109,Slovenia,SVN,1962,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.1
+1110,Slovenia,SVN,1961,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.2
+1111,Slovenia,SVN,1960,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.6
+1112,Slovenia,SVN,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.280487804878
+1113,Slovenia,SVN,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.3780487804878
+1114,Slovenia,SVN,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.0292682926829
+1115,Slovenia,SVN,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.1756097560976
+1116,Slovenia,SVN,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.7756097560976
+1117,Slovenia,SVN,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.0780487804878
+1118,Slovenia,SVN,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.3219512195122
+1119,Slovenia,SVN,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.1243902439024
+1120,Slovenia,SVN,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.9707317073171
+1121,Slovenia,SVN,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.4219512195122
+1122,Slovenia,SVN,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.9707317073171
+1123,Slovenia,SVN,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.7658536585366
+1124,Slovenia,SVN,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.5609756097561
+1125,Slovenia,SVN,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.0865853658537
+1126,Slovenia,SVN,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.6121951219512
+1127,Slovenia,SVN,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.2073170731707
+1128,Slovenia,SVN,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.8585365853659
+1129,Slovenia,SVN,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.0073170731707
+1130,Slovenia,SVN,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.7585365853659
+1131,Slovenia,SVN,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.4121951219512
+1132,Slovenia,SVN,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.009756097561
+1133,Slovenia,SVN,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.8073170731708
+1134,Slovenia,SVN,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.7073170731707
+1135,Slovenia,SVN,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.4585365853658
+1136,Slovenia,SVN,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.9585365853659
+1137,Slovenia,SVN,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.4048780487805
+1138,Slovenia,SVN,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.2536585365854
+1139,Slovenia,SVN,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.3048780487805
+1140,Slovenia,SVN,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.3536585365854
+1141,Slovenia,SVN,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.2048780487805
+1142,Slovenia,SVN,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.7048780487805
+1143,Slovenia,SVN,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.4463414634146
+1144,Slovenia,SVN,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.0024390243902
+1145,Slovenia,SVN,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.8024390243903
+1146,Slovenia,SVN,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.3512195121951
+1147,Slovenia,SVN,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.9024390243903
+1148,Slovenia,SVN,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5414634146342
+1149,Slovenia,SVN,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.0536585365854
+1150,Slovenia,SVN,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.2048780487805
+1151,Slovenia,SVN,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.1048780487805
+1152,Slovenia,SVN,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.8536585365854
+1153,Slovenia,SVN,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7024390243902
+1154,Slovenia,SVN,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5560975609756
+1155,Slovenia,SVN,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3073170731707
+1156,Slovenia,SVN,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3585365853659
+1157,Slovenia,SVN,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.1609756097561
+1158,Slovenia,SVN,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.4048780487805
+1159,Slovenia,SVN,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0585365853659
+1160,Slovenia,SVN,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.8341463414634
+1161,Slovenia,SVN,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.609756097561
+1162,Slovenia,SVN,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.3609756097561
+1163,Slovenia,SVN,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9170731707317
+1164,Slovenia,SVN,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3658536585366
+1165,Slovenia,SVN,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0121951219512
+1166,Slovenia,SVN,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.3658536585366
+1167,Slovenia,SVN,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.6634146341463
+1168,Slovenia,SVN,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.6219512195122
+1169,Slovenia,SVN,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9780487804878
+1170,Slovenia,SVN,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9780487804878
+1171,Slovenia,SVN,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9780487804878
+1172,Slovenia,SVN,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,20.1862840087865
+1173,Slovenia,SVN,2018,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.6068796541788
+1174,Slovenia,SVN,2017,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.0233163840774
+1175,Slovenia,SVN,2016,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.4807709923296
+1176,Slovenia,SVN,2015,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.0132860241821
+1177,Slovenia,SVN,2014,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.6320733179588
+1178,Slovenia,SVN,2013,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.3364968421461
+1179,Slovenia,SVN,2012,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.105747190113
+1180,Slovenia,SVN,2011,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.9008042268098
+1181,Slovenia,SVN,2010,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.6889749463745
+1182,Slovenia,SVN,2009,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.4787265636217
+1183,Slovenia,SVN,2008,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.2592459313947
+1184,Slovenia,SVN,2007,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.0241099180068
+1185,Slovenia,SVN,2006,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.7716374604855
+1186,Slovenia,SVN,2005,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.5025925123911
+1187,Slovenia,SVN,2004,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.2539766920474
+1188,Slovenia,SVN,2003,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.9950046834237
+1189,Slovenia,SVN,2002,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.7214239455493
+1190,Slovenia,SVN,2001,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.4284089096591
+1191,Slovenia,SVN,2000,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.1100569145407
+1192,Slovenia,SVN,1999,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.7968195319858
+1193,Slovenia,SVN,1998,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.4514449892698
+1194,Slovenia,SVN,1997,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.0788370051146
+1195,Slovenia,SVN,1996,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6894519414754
+1196,Slovenia,SVN,1995,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2926618087911
+1197,Slovenia,SVN,1994,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.9521784562492
+1198,Slovenia,SVN,1993,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.6232687312927
+1199,Slovenia,SVN,1992,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3000497667743
+1200,Slovenia,SVN,1991,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.973219044014
+1201,Slovenia,SVN,1990,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.640274520847
+1202,Slovenia,SVN,1989,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.4341958941936
+1203,Slovenia,SVN,1988,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.21588340659
+1204,Slovenia,SVN,1987,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.0144806305771
+1205,Slovenia,SVN,1986,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.88209629456414
+1206,Slovenia,SVN,1985,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.85188650630035
+1207,Slovenia,SVN,1984,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.1088708357983
+1208,Slovenia,SVN,1983,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.4682579082711
+1209,Slovenia,SVN,1982,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.8551487689171
+1210,Slovenia,SVN,1981,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.173602633579
+1211,Slovenia,SVN,1980,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3791520025536
+1212,Slovenia,SVN,1979,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.431412680879
+1213,Slovenia,SVN,1978,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3950140478769
+1214,Slovenia,SVN,1977,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.2856190377058
+1215,Slovenia,SVN,1976,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.1400675899528
+1216,Slovenia,SVN,1975,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.9790815339864
+1217,Slovenia,SVN,1974,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.8129780302359
+1218,Slovenia,SVN,1973,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.6150027836648
+1219,Slovenia,SVN,1972,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.3880649496688
+1220,Slovenia,SVN,1971,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.1351411628337
+1221,Slovenia,SVN,1970,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.85780264629269
+1222,Slovenia,SVN,1969,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.70375173088673
+1223,Slovenia,SVN,1968,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.53895389296666
+1224,Slovenia,SVN,1967,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.35901281195645
+1225,Slovenia,SVN,1966,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.16490648372577
+1226,Slovenia,SVN,1965,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.96115397196448
+1227,Slovenia,SVN,1964,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.71440391940701
+1228,Slovenia,SVN,1963,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.46804872306415
+1229,Slovenia,SVN,1962,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.22703648689467
+1230,Slovenia,SVN,1961,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.99627448081996
+1231,Slovenia,SVN,1960,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,7.77846476541263
+1232,Slovenia,SVN,2019,Population growth (annual %),SP.POP.GROW,0.696304046333357
+1233,Slovenia,SVN,2018,Population growth (annual %),SP.POP.GROW,0.362584395134764
+1234,Slovenia,SVN,2017,Population growth (annual %),SP.POP.GROW,0.0651590392490152
+1235,Slovenia,SVN,2016,Population growth (annual %),SP.POP.GROW,0.0731972072415279
+1236,Slovenia,SVN,2015,Population growth (annual %),SP.POP.GROW,0.075190689011533
+1237,Slovenia,SVN,2014,Population growth (annual %),SP.POP.GROW,0.0983519219451147
+1238,Slovenia,SVN,2013,Population growth (annual %),SP.POP.GROW,0.135726228915631
+1239,Slovenia,SVN,2012,Population growth (annual %),SP.POP.GROW,0.210024305900448
+1240,Slovenia,SVN,2011,Population growth (annual %),SP.POP.GROW,0.207732702329724
+1241,Slovenia,SVN,2010,Population growth (annual %),SP.POP.GROW,0.43607948463593
+1242,Slovenia,SVN,2009,Population growth (annual %),SP.POP.GROW,0.903875535210913
+1243,Slovenia,SVN,2008,Population growth (annual %),SP.POP.GROW,0.158140843634363
+1244,Slovenia,SVN,2007,Population growth (annual %),SP.POP.GROW,0.559207815536831
+1245,Slovenia,SVN,2006,Population growth (annual %),SP.POP.GROW,0.31911453657107
+1246,Slovenia,SVN,2005,Population growth (annual %),SP.POP.GROW,0.173208905073743
+1247,Slovenia,SVN,2004,Population growth (annual %),SP.POP.GROW,0.0640662022616923
+1248,Slovenia,SVN,2003,Population growth (annual %),SP.POP.GROW,0.0602967792572922
+1249,Slovenia,SVN,2002,Population growth (annual %),SP.POP.GROW,0.123915442323272
+1250,Slovenia,SVN,2001,Population growth (annual %),SP.POP.GROW,0.157498742047657
+1251,Slovenia,SVN,2000,Population growth (annual %),SP.POP.GROW,0.29607496005045
+1252,Slovenia,SVN,1999,Population growth (annual %),SP.POP.GROW,0.0714308445137258
+1253,Slovenia,SVN,1998,Population growth (annual %),SP.POP.GROW,-0.218117656735081
+1254,Slovenia,SVN,1997,Population growth (annual %),SP.POP.GROW,-0.134454343022371
+1255,Slovenia,SVN,1996,Population growth (annual %),SP.POP.GROW,-0.0625361337459717
+1256,Slovenia,SVN,1995,Population growth (annual %),SP.POP.GROW,0.0215614999899353
+1257,Slovenia,SVN,1994,Population growth (annual %),SP.POP.GROW,-0.115694093241137
+1258,Slovenia,SVN,1993,Population growth (annual %),SP.POP.GROW,-0.23830047754197
+1259,Slovenia,SVN,1992,Population growth (annual %),SP.POP.GROW,-0.14669940294923
+1260,Slovenia,SVN,1991,Population growth (annual %),SP.POP.GROW,0.0634382236559831
+1261,Slovenia,SVN,1990,Population growth (annual %),SP.POP.GROW,0.0906243427921073
+1262,Slovenia,SVN,1989,Population growth (annual %),SP.POP.GROW,0.0578723002503228
+1263,Slovenia,SVN,1988,Population growth (annual %),SP.POP.GROW,0.272022154341591
+1264,Slovenia,SVN,1987,Population growth (annual %),SP.POP.GROW,1.2039359321304
+1265,Slovenia,SVN,1986,Population growth (annual %),SP.POP.GROW,1.24492184531935
+1266,Slovenia,SVN,1985,Population growth (annual %),SP.POP.GROW,0.489804905359526
+1267,Slovenia,SVN,1984,Population growth (annual %),SP.POP.GROW,0.510213262809939
+1268,Slovenia,SVN,1983,Population growth (annual %),SP.POP.GROW,0.625521424980407
+1269,Slovenia,SVN,1982,Population growth (annual %),SP.POP.GROW,0.199273553477761
+1270,Slovenia,SVN,1981,Population growth (annual %),SP.POP.GROW,0.273960830473185
+1271,Slovenia,SVN,1980,Population growth (annual %),SP.POP.GROW,0.989248309059707
+1272,Slovenia,SVN,1979,Population growth (annual %),SP.POP.GROW,1.07078261989884
+1273,Slovenia,SVN,1978,Population growth (annual %),SP.POP.GROW,1.08888570220455
+1274,Slovenia,SVN,1977,Population growth (annual %),SP.POP.GROW,1.20832808120785
+1275,Slovenia,SVN,1976,Population growth (annual %),SP.POP.GROW,1.47591248581357
+1276,Slovenia,SVN,1975,Population growth (annual %),SP.POP.GROW,0.977621392692378
+1277,Slovenia,SVN,1974,Population growth (annual %),SP.POP.GROW,0.532626457849935
+1278,Slovenia,SVN,1973,Population growth (annual %),SP.POP.GROW,0.822072701460941
+1279,Slovenia,SVN,1972,Population growth (annual %),SP.POP.GROW,0.79632159823407
+1280,Slovenia,SVN,1971,Population growth (annual %),SP.POP.GROW,0.776389847588266
+1281,Slovenia,SVN,1970,Population growth (annual %),SP.POP.GROW,0.640755485966657
+1282,Slovenia,SVN,1969,Population growth (annual %),SP.POP.GROW,0.545750560338995
+1283,Slovenia,SVN,1968,Population growth (annual %),SP.POP.GROW,0.884959963254321
+1284,Slovenia,SVN,1967,Population growth (annual %),SP.POP.GROW,1.16824614024188
+1285,Slovenia,SVN,1966,Population growth (annual %),SP.POP.GROW,1.25006712104123
+1286,Slovenia,SVN,1965,Population growth (annual %),SP.POP.GROW,1.03899603291351
+1287,Slovenia,SVN,1964,Population growth (annual %),SP.POP.GROW,0.932146105584889
+1288,Slovenia,SVN,1963,Population growth (annual %),SP.POP.GROW,0.827298841981668
+1289,Slovenia,SVN,1962,Population growth (annual %),SP.POP.GROW,0.595289738970183
+1290,Slovenia,SVN,1961,Population growth (annual %),SP.POP.GROW,0.592102460583273
+1291,Slovenia,SVN,2019,"Population, total",SP.POP.TOTL,2088385
+1292,Slovenia,SVN,2018,"Population, total",SP.POP.TOTL,2073894
+1293,Slovenia,SVN,2017,"Population, total",SP.POP.TOTL,2066388
+1294,Slovenia,SVN,2016,"Population, total",SP.POP.TOTL,2065042
+1295,Slovenia,SVN,2015,"Population, total",SP.POP.TOTL,2063531
+1296,Slovenia,SVN,2014,"Population, total",SP.POP.TOTL,2061980
+1297,Slovenia,SVN,2013,"Population, total",SP.POP.TOTL,2059953
+1298,Slovenia,SVN,2012,"Population, total",SP.POP.TOTL,2057159
+1299,Slovenia,SVN,2011,"Population, total",SP.POP.TOTL,2052843
+1300,Slovenia,SVN,2010,"Population, total",SP.POP.TOTL,2048583
+1301,Slovenia,SVN,2009,"Population, total",SP.POP.TOTL,2039669
+1302,Slovenia,SVN,2008,"Population, total",SP.POP.TOTL,2021316
+1303,Slovenia,SVN,2007,"Population, total",SP.POP.TOTL,2018122
+1304,Slovenia,SVN,2006,"Population, total",SP.POP.TOTL,2006868
+1305,Slovenia,SVN,2005,"Population, total",SP.POP.TOTL,2000474
+1306,Slovenia,SVN,2004,"Population, total",SP.POP.TOTL,1997012
+1307,Slovenia,SVN,2003,"Population, total",SP.POP.TOTL,1995733
+1308,Slovenia,SVN,2002,"Population, total",SP.POP.TOTL,1994530
+1309,Slovenia,SVN,2001,"Population, total",SP.POP.TOTL,1992060
+1310,Slovenia,SVN,2000,"Population, total",SP.POP.TOTL,1988925
+1311,Slovenia,SVN,1999,"Population, total",SP.POP.TOTL,1983045
+1312,Slovenia,SVN,1998,"Population, total",SP.POP.TOTL,1981629
+1313,Slovenia,SVN,1997,"Population, total",SP.POP.TOTL,1985956
+1314,Slovenia,SVN,1996,"Population, total",SP.POP.TOTL,1988628
+1315,Slovenia,SVN,1995,"Population, total",SP.POP.TOTL,1989872
+1316,Slovenia,SVN,1994,"Population, total",SP.POP.TOTL,1989443
+1317,Slovenia,SVN,1993,"Population, total",SP.POP.TOTL,1991746
+1318,Slovenia,SVN,1992,"Population, total",SP.POP.TOTL,1996498
+1319,Slovenia,SVN,1991,"Population, total",SP.POP.TOTL,1999429
+1320,Slovenia,SVN,1990,"Population, total",SP.POP.TOTL,1998161
+1321,Slovenia,SVN,1989,"Population, total",SP.POP.TOTL,1996351
+1322,Slovenia,SVN,1988,"Population, total",SP.POP.TOTL,1995196
+1323,Slovenia,SVN,1987,"Population, total",SP.POP.TOTL,1989776
+1324,Slovenia,SVN,1986,"Population, total",SP.POP.TOTL,1965964
+1325,Slovenia,SVN,1985,"Population, total",SP.POP.TOTL,1941641
+1326,Slovenia,SVN,1984,"Population, total",SP.POP.TOTL,1932154
+1327,Slovenia,SVN,1983,"Population, total",SP.POP.TOTL,1922321
+1328,Slovenia,SVN,1982,"Population, total",SP.POP.TOTL,1910334
+1329,Slovenia,SVN,1981,"Population, total",SP.POP.TOTL,1906531
+1330,Slovenia,SVN,1980,"Population, total",SP.POP.TOTL,1901315
+1331,Slovenia,SVN,1979,"Population, total",SP.POP.TOTL,1882599
+1332,Slovenia,SVN,1978,"Population, total",SP.POP.TOTL,1862548
+1333,Slovenia,SVN,1977,"Population, total",SP.POP.TOTL,1842377
+1334,Slovenia,SVN,1976,"Population, total",SP.POP.TOTL,1820249
+1335,Slovenia,SVN,1975,"Population, total",SP.POP.TOTL,1793581
+1336,Slovenia,SVN,1974,"Population, total",SP.POP.TOTL,1776132
+1337,Slovenia,SVN,1973,"Population, total",SP.POP.TOTL,1766697
+1338,Slovenia,SVN,1972,"Population, total",SP.POP.TOTL,1752233
+1339,Slovenia,SVN,1971,"Population, total",SP.POP.TOTL,1738335
+1340,Slovenia,SVN,1970,"Population, total",SP.POP.TOTL,1724891
+1341,Slovenia,SVN,1969,"Population, total",SP.POP.TOTL,1713874
+1342,Slovenia,SVN,1968,"Population, total",SP.POP.TOTL,1704546
+1343,Slovenia,SVN,1967,"Population, total",SP.POP.TOTL,1689528
+1344,Slovenia,SVN,1966,"Population, total",SP.POP.TOTL,1669905
+1345,Slovenia,SVN,1965,"Population, total",SP.POP.TOTL,1649160
+1346,Slovenia,SVN,1964,"Population, total",SP.POP.TOTL,1632114
+1347,Slovenia,SVN,1963,"Population, total",SP.POP.TOTL,1616971
+1348,Slovenia,SVN,1962,"Population, total",SP.POP.TOTL,1603649
+1349,Slovenia,SVN,1961,"Population, total",SP.POP.TOTL,1594131
+1350,Slovenia,SVN,1960,"Population, total",SP.POP.TOTL,1584720
+1351,Slovenia,SVN,2019,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.2233656972252
+1352,Slovenia,SVN,2018,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.2452070327013
+1353,Slovenia,SVN,2017,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.2675550653898
+1354,Slovenia,SVN,2016,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.288423757536
+1355,Slovenia,SVN,2015,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.3065132804718
+1356,Slovenia,SVN,2014,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.318115510223
+1357,Slovenia,SVN,2013,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.3257687386095
+1358,Slovenia,SVN,2012,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.3408451443416
+1359,Slovenia,SVN,2011,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.3784469974328
+1360,Slovenia,SVN,2010,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.4496078961072
+1361,Slovenia,SVN,2009,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.5618773069421
+1362,Slovenia,SVN,2008,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.7086086397314
+1363,Slovenia,SVN,2007,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.8676883379189
+1364,Slovenia,SVN,2006,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.0065036078718
+1365,Slovenia,SVN,2005,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.1025429340359
+1366,Slovenia,SVN,2004,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.1433374903152
+1367,Slovenia,SVN,2003,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.1379854164413
+1368,Slovenia,SVN,2002,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.1084832672039
+1369,Slovenia,SVN,2001,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.0883002751758
+1370,Slovenia,SVN,2000,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.0993052306423
+1371,Slovenia,SVN,1999,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.1505943022451
+1372,Slovenia,SVN,1998,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.2322228618123
+1373,Slovenia,SVN,1997,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.327500418877
+1374,Slovenia,SVN,1996,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4113085719458
+1375,Slovenia,SVN,1995,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4657535484947
+1376,Slovenia,SVN,1994,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4862233038611
+1377,Slovenia,SVN,1993,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4806854080857
+1378,Slovenia,SVN,1992,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.45665199925
+1379,Slovenia,SVN,1991,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4249569175906
+1380,Slovenia,SVN,1990,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.395132784823
+1381,Slovenia,SVN,1989,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3663316060519
+1382,Slovenia,SVN,1988,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3371333648357
+1383,Slovenia,SVN,1987,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3160993844826
+1384,Slovenia,SVN,1986,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3140961958764
+1385,Slovenia,SVN,1985,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3379318286859
+1386,Slovenia,SVN,1984,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.3946830435794
+1387,Slovenia,SVN,1983,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.4810238565037
+1388,Slovenia,SVN,1982,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5787413988463
+1389,Slovenia,SVN,1981,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6619470560341
+1390,Slovenia,SVN,1980,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7110404925914
+1391,Slovenia,SVN,1979,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7177509192301
+1392,Slovenia,SVN,1978,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6885594742385
+1393,Slovenia,SVN,1977,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6365416372449
+1394,Slovenia,SVN,1976,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5820405621118
+1395,Slovenia,SVN,1975,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5413276897271
+1396,Slovenia,SVN,1974,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5164507399024
+1397,Slovenia,SVN,1973,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5048146818263
+1398,Slovenia,SVN,1972,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.511021670475
+1399,Slovenia,SVN,1971,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5408294834403
+1400,Slovenia,SVN,1970,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5972242187275
+1401,Slovenia,SVN,1969,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6847818882332
+1402,Slovenia,SVN,1968,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8007498077028
+1403,Slovenia,SVN,1967,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.9261176799832
+1404,Slovenia,SVN,1966,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.0371048127865
+1405,Slovenia,SVN,1965,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.1149303533302
+1406,Slovenia,SVN,1964,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.1517541923415
+1407,Slovenia,SVN,1963,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.1535991831571
+1408,Slovenia,SVN,1962,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.1325452778954
+1409,Slovenia,SVN,1961,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.108478635862
+1410,Slovenia,SVN,1960,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.0957023322417
+1411,Slovenia,SVN,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,30.20892366
+1412,Slovenia,SVN,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,29.48956054
+1413,Slovenia,SVN,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.9839019
+1414,Slovenia,SVN,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.41197372
+1415,Slovenia,SVN,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,27.47326549
+1416,Slovenia,SVN,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.88359013
+1417,Slovenia,SVN,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,25.42864898
+1418,Slovenia,SVN,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,24.75120552
+1419,Slovenia,SVN,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,24.10057686
+1420,Slovenia,SVN,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,23.02738119
+1421,Slovenia,SVN,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,22.07833203
+1422,Slovenia,SVN,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,21.02239587
+1423,Slovenia,SVN,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,17.13005897
+1424,Slovenia,SVN,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,13.97372193
+1425,Slovenia,SVN,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,9.857261441
+1426,Slovenia,SVN,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,5.781716814
+1427,Slovenia,SVN,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.917305125
+1428,Slovenia,SVN,2002,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.854925886
+1429,Slovenia,SVN,2001,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.27673499
+1430,Slovenia,SVN,2019,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.3300018310547
+1431,Slovenia,SVN,2018,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.8000030517578
+1432,Slovenia,SVN,2017,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.4199981689453
+1433,Slovenia,SVN,2016,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.8099975585938
+1434,Slovenia,SVN,2015,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.5
+1435,Slovenia,SVN,2014,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,81.4300003051758
+1436,Slovenia,SVN,2013,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.120002746582
+1437,Slovenia,SVN,2012,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.7600021362305
+1438,Slovenia,SVN,2011,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.1900024414063
+1439,Slovenia,SVN,2010,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.7399978637695
+1440,Slovenia,SVN,2009,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.8099975585938
+1441,Slovenia,SVN,2008,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.879997253418
+1442,Slovenia,SVN,2007,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.1100006103516
+1443,Slovenia,SVN,2006,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.8000030517578
+1444,Slovenia,SVN,2005,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.8600006103516
+1445,Slovenia,SVN,2004,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.379997253418
+1446,Slovenia,SVN,2003,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.9899978637695
+1447,Slovenia,SVN,2002,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.75
+1448,Slovenia,SVN,2001,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.9199981689453
+1449,Slovenia,SVN,2000,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.9400024414063
+1450,Slovenia,SVN,1999,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,81.5400009155273
+1451,Slovenia,SVN,1998,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,80.7900009155273
+1452,Slovenia,SVN,1997,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,81.2900009155273
+1453,Slovenia,SVN,1996,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.129997253418
+1454,Slovenia,SVN,1995,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.1100006103516
+1455,Slovenia,SVN,1994,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.370002746582
+1456,Slovenia,SVN,1993,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.620002746582
+1457,Slovenia,SVN,1992,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.6900024414063
+1458,Slovenia,SVN,1991,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.8199996948242
+1459,Slovenia,SVN,2019,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.8799991607666
+1460,Slovenia,SVN,2018,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,30.0400009155273
+1461,Slovenia,SVN,2017,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,32.2200012207031
+1462,Slovenia,SVN,2016,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.7099990844727
+1463,Slovenia,SVN,2015,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.0400009155273
+1464,Slovenia,SVN,2014,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,29.5499992370605
+1465,Slovenia,SVN,2013,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.6499996185303
+1466,Slovenia,SVN,2012,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,29.8400001525879
+1467,Slovenia,SVN,2011,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.7600002288818
+1468,Slovenia,SVN,2010,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,30.1800003051758
+1469,Slovenia,SVN,2009,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,29.4699993133545
+1470,Slovenia,SVN,2008,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.3600006103516
+1471,Slovenia,SVN,2007,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,26.9200000762939
+1472,Slovenia,SVN,2006,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,28.3600006103516
+1473,Slovenia,SVN,2005,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.6700000762939
+1474,Slovenia,SVN,2004,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,27.1100006103516
+1475,Slovenia,SVN,2003,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.75
+1476,Slovenia,SVN,2002,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.2099990844727
+1477,Slovenia,SVN,2001,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.6499996185303
+1478,Slovenia,SVN,2000,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.4300003051758
+1479,Slovenia,SVN,1999,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.5900001525879
+1480,Slovenia,SVN,1998,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.8400001525879
+1481,Slovenia,SVN,1997,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.4699993133545
+1482,Slovenia,SVN,1996,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,13.2700004577637
+1483,Slovenia,SVN,2019,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7.03000020980835
+1484,Slovenia,SVN,2018,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,6.61999988555908
+1485,Slovenia,SVN,2017,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,6.51999998092651
+1486,Slovenia,SVN,2016,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.02999973297119
+1487,Slovenia,SVN,2015,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.51000022888184
+1488,Slovenia,SVN,2014,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.42000007629395
+1489,Slovenia,SVN,2013,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.23999977111816
+1490,Slovenia,SVN,2012,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,9.27999973297119
+1491,Slovenia,SVN,2011,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7.07999992370605
+1492,Slovenia,SVN,2010,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7.1100001335144
+1493,Slovenia,SVN,2009,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7.46000003814697
+1494,Slovenia,SVN,2008,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,6.5
+1495,Slovenia,SVN,2007,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,6.69999980926514
+1496,Slovenia,SVN,2006,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.52000045776367
+1497,Slovenia,SVN,2005,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,8.93000030517578
+1498,Slovenia,SVN,2004,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,6.55999994277954
+1499,Slovenia,SVN,2003,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,7.26000022888184
+1500,Slovenia,SVN,2018,Gini index (World Bank estimate),SI.POV.GINI,24.6
+1501,Slovenia,SVN,2017,Gini index (World Bank estimate),SI.POV.GINI,24.2
+1502,Slovenia,SVN,2016,Gini index (World Bank estimate),SI.POV.GINI,24.8
+1503,Slovenia,SVN,2015,Gini index (World Bank estimate),SI.POV.GINI,25.4
+1504,Slovenia,SVN,2014,Gini index (World Bank estimate),SI.POV.GINI,25.7
+1505,Slovenia,SVN,2013,Gini index (World Bank estimate),SI.POV.GINI,26.2
+1506,Slovenia,SVN,2012,Gini index (World Bank estimate),SI.POV.GINI,25.6
+1507,Slovenia,SVN,2011,Gini index (World Bank estimate),SI.POV.GINI,24.9
+1508,Slovenia,SVN,2010,Gini index (World Bank estimate),SI.POV.GINI,24.9
+1509,Slovenia,SVN,2009,Gini index (World Bank estimate),SI.POV.GINI,24.8
+1510,Slovenia,SVN,2008,Gini index (World Bank estimate),SI.POV.GINI,23.7
+1511,Slovenia,SVN,2007,Gini index (World Bank estimate),SI.POV.GINI,24.4
+1512,Slovenia,SVN,2006,Gini index (World Bank estimate),SI.POV.GINI,24.4
+1513,Slovenia,SVN,2005,Gini index (World Bank estimate),SI.POV.GINI,24.6
+1514,Slovenia,SVN,2004,Gini index (World Bank estimate),SI.POV.GINI,24.8
+1515,Slovenia,SVN,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.1
+1516,Slovenia,SVN,2017,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.1
+1517,Slovenia,SVN,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.1
+1518,Slovenia,SVN,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.1
+1519,Slovenia,SVN,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.2
+1520,Slovenia,SVN,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.2
+1521,Slovenia,SVN,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.2
+1522,Slovenia,SVN,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.2
+1523,Slovenia,SVN,2010,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.1
+1524,Slovenia,SVN,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.2
+1525,Slovenia,SVN,2008,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.1
+1526,Slovenia,SVN,2007,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.2
+1527,Slovenia,SVN,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.3
+1528,Slovenia,SVN,2005,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.4
+1529,Slovenia,SVN,2004,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,0.3
+1530,Slovenia,SVN,2020,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1531,Slovenia,SVN,2019,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1532,Slovenia,SVN,2018,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1533,Slovenia,SVN,2017,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1534,Slovenia,SVN,2016,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1535,Slovenia,SVN,2015,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1536,Slovenia,SVN,2014,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1537,Slovenia,SVN,2013,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1538,Slovenia,SVN,2012,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1539,Slovenia,SVN,2011,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1540,Slovenia,SVN,2010,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1541,Slovenia,SVN,2009,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1542,Slovenia,SVN,2008,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1543,Slovenia,SVN,2007,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1544,Slovenia,SVN,2006,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1545,Slovenia,SVN,2005,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1546,Slovenia,SVN,2004,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1547,Slovenia,SVN,2003,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1548,Slovenia,SVN,2002,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1549,Slovenia,SVN,2001,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1550,Slovenia,SVN,2000,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1551,Slovenia,SVN,1999,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1552,Slovenia,SVN,1998,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1553,Slovenia,SVN,1997,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1554,Slovenia,SVN,1996,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1555,Slovenia,SVN,1995,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1556,Slovenia,SVN,1994,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1557,Slovenia,SVN,1993,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1558,Slovenia,SVN,1992,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1559,Slovenia,SVN,1991,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1560,Slovenia,SVN,1990,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1561,Slovenia,SVN,1989,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1562,Slovenia,SVN,1988,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1563,Slovenia,SVN,1987,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1564,Slovenia,SVN,1986,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1565,Slovenia,SVN,1985,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1566,Slovenia,SVN,1984,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1567,Slovenia,SVN,1983,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1568,Slovenia,SVN,1982,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1569,Slovenia,SVN,1981,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1570,Slovenia,SVN,1980,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1571,Slovenia,SVN,1979,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1572,Slovenia,SVN,1978,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1573,Slovenia,SVN,1977,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1574,Slovenia,SVN,1976,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1575,Slovenia,SVN,1975,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1576,Slovenia,SVN,1974,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1577,Slovenia,SVN,1973,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1578,Slovenia,SVN,1972,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1579,Slovenia,SVN,1971,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1580,Slovenia,SVN,1970,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1581,Slovenia,SVN,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1582,Slovenia,SVN,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1583,Slovenia,SVN,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1584,Slovenia,SVN,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1585,Slovenia,SVN,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1586,Slovenia,SVN,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1587,Slovenia,SVN,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1588,Slovenia,SVN,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1589,Slovenia,SVN,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1590,Slovenia,SVN,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1591,Slovenia,SVN,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1592,Slovenia,SVN,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1593,Slovenia,SVN,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1594,Slovenia,SVN,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1595,Slovenia,SVN,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1596,Slovenia,SVN,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1597,Slovenia,SVN,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1598,Slovenia,SVN,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1599,Slovenia,SVN,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1600,Slovenia,SVN,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1601,Slovenia,SVN,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1602,Slovenia,SVN,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1603,Slovenia,SVN,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1604,Slovenia,SVN,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1605,Slovenia,SVN,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1606,Slovenia,SVN,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1607,Slovenia,SVN,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1608,Slovenia,SVN,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1609,Slovenia,SVN,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1610,Slovenia,SVN,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1611,Slovenia,SVN,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1612,Slovenia,SVN,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1613,Slovenia,SVN,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1614,Slovenia,SVN,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1615,Slovenia,SVN,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1616,Slovenia,SVN,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1617,Slovenia,SVN,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1618,Slovenia,SVN,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1619,Slovenia,SVN,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1620,Slovenia,SVN,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1621,Slovenia,SVN,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1622,Slovenia,SVN,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1623,Slovenia,SVN,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1624,Slovenia,SVN,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1625,Slovenia,SVN,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1626,Slovenia,SVN,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1627,Slovenia,SVN,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1628,Slovenia,SVN,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1629,Slovenia,SVN,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1630,Slovenia,SVN,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1631,Slovenia,SVN,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1632,Slovenia,SVN,2018,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.94221
+1633,Slovenia,SVN,2017,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.86581
+1634,Slovenia,SVN,2016,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.01191
+1635,Slovenia,SVN,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.19504
+1636,Slovenia,SVN,2014,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.36743
+1637,Slovenia,SVN,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.5801
+1638,Slovenia,SVN,2012,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.57319
+1639,Slovenia,SVN,2011,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.42358
+1640,Slovenia,SVN,2010,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.05763
+1641,Slovenia,SVN,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.81629
+1642,Slovenia,SVN,2008,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.62564
+1643,Slovenia,SVN,2007,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.42382
+1644,Slovenia,SVN,2006,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.53291
+1645,Slovenia,SVN,2005,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.41229
+1646,Slovenia,SVN,2004,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.36806
+1647,Slovenia,SVN,2003,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.24528
+1648,Slovenia,SVN,2002,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.43874
+1649,Slovenia,SVN,2001,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.46773
+1650,Slovenia,SVN,2000,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.3563
+1651,Slovenia,SVN,1999,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.33814
+1652,Slovenia,SVN,1998,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.30637
+1653,Slovenia,SVN,1997,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.24727
+1654,Slovenia,SVN,1996,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.26633
+1655,Slovenia,SVN,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.822
+1656,Slovenia,SVN,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.541
+1657,Slovenia,SVN,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.273
+1658,Slovenia,SVN,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.02
+1659,Slovenia,SVN,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.781
+1660,Slovenia,SVN,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.557
+1661,Slovenia,SVN,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.332
+1662,Slovenia,SVN,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.108
+1663,Slovenia,SVN,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.883
+1664,Slovenia,SVN,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.658
+1665,Slovenia,SVN,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.433
+1666,Slovenia,SVN,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.209
+1667,Slovenia,SVN,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.983
+1668,Slovenia,SVN,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.758
+1669,Slovenia,SVN,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.533
+1670,Slovenia,SVN,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.308
+1671,Slovenia,SVN,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.082
+1672,Slovenia,SVN,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.857
+1673,Slovenia,SVN,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.78
+1674,Slovenia,SVN,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.754
+1675,Slovenia,SVN,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.728
+1676,Slovenia,SVN,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.701
+1677,Slovenia,SVN,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.675
+1678,Slovenia,SVN,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.649
+1679,Slovenia,SVN,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.622
+1680,Slovenia,SVN,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.596
+1681,Slovenia,SVN,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.569
+1682,Slovenia,SVN,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.543
+1683,Slovenia,SVN,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.517
+1684,Slovenia,SVN,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.39
+1685,Slovenia,SVN,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.229
+1686,Slovenia,SVN,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.068
+1687,Slovenia,SVN,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.907
+1688,Slovenia,SVN,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.746
+1689,Slovenia,SVN,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.584
+1690,Slovenia,SVN,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.424
+1691,Slovenia,SVN,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.263
+1692,Slovenia,SVN,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.102
+1693,Slovenia,SVN,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.941
+1694,Slovenia,SVN,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.045
+1695,Slovenia,SVN,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.901
+1696,Slovenia,SVN,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.762
+1697,Slovenia,SVN,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.627
+1698,Slovenia,SVN,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.499
+1699,Slovenia,SVN,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.374
+1700,Slovenia,SVN,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.259
+1701,Slovenia,SVN,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.153
+1702,Slovenia,SVN,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.058
+1703,Slovenia,SVN,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.972
+1704,Slovenia,SVN,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.004
+1705,Slovenia,SVN,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.081
+1706,Slovenia,SVN,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.169
+1707,Slovenia,SVN,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.266
+1708,Slovenia,SVN,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.376
+1709,Slovenia,SVN,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.497
+1710,Slovenia,SVN,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.631
+1711,Slovenia,SVN,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.776
+1712,Slovenia,SVN,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.934
+1713,Slovenia,SVN,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.107
+1714,Slovenia,SVN,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.204
+1715,Slovenia,SVN,2016,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21
+1716,Slovenia,SVN,2015,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.7
+1717,Slovenia,SVN,2014,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.4
+1718,Slovenia,SVN,2013,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.1
+1719,Slovenia,SVN,2012,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.9
+1720,Slovenia,SVN,2011,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.6
+1721,Slovenia,SVN,2010,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.3
+1722,Slovenia,SVN,2009,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.1
+1723,Slovenia,SVN,2008,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.8
+1724,Slovenia,SVN,2007,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.6
+1725,Slovenia,SVN,2006,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.3
+1726,Slovenia,SVN,2005,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.1
+1727,Slovenia,SVN,2004,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.9
+1728,Slovenia,SVN,2003,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.6
+1729,Slovenia,SVN,2002,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.4
+1730,Slovenia,SVN,2001,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.2
+1731,Slovenia,SVN,2000,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.9
+1732,Slovenia,SVN,1999,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.7
+1733,Slovenia,SVN,1998,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.5
+1734,Slovenia,SVN,1997,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.3
+1735,Slovenia,SVN,1996,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.1
+1736,Slovenia,SVN,1995,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.9
+1737,Slovenia,SVN,1994,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.7
+1738,Slovenia,SVN,1993,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.5
+1739,Slovenia,SVN,1992,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.3
+1740,Slovenia,SVN,1991,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.1
+1741,Slovenia,SVN,1990,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.9
+1742,Slovenia,SVN,1989,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.6
+1743,Slovenia,SVN,1988,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.4
+1744,Slovenia,SVN,1987,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,14.2
+1745,Slovenia,SVN,1986,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.9
+1746,Slovenia,SVN,1985,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.7
+1747,Slovenia,SVN,1984,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.4
+1748,Slovenia,SVN,1983,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,13.1
+1749,Slovenia,SVN,1982,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,12.7
+1750,Slovenia,SVN,1981,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,12.4
+1751,Slovenia,SVN,1980,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,12
+1752,Slovenia,SVN,1979,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,11.6
+1753,Slovenia,SVN,1978,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,11.2
+1754,Slovenia,SVN,1977,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,10.9
+1755,Slovenia,SVN,1976,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,10.5
+1756,Slovenia,SVN,1975,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,10.1
+1757,Slovenia,SVN,2016,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.4
+1758,Slovenia,SVN,2015,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.9
+1759,Slovenia,SVN,2014,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.5
+1760,Slovenia,SVN,2013,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.1
+1761,Slovenia,SVN,2012,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.6
+1762,Slovenia,SVN,2011,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.2
+1763,Slovenia,SVN,2010,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.8
+1764,Slovenia,SVN,2009,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.4
+1765,Slovenia,SVN,2008,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16
+1766,Slovenia,SVN,2007,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.6
+1767,Slovenia,SVN,2006,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.2
+1768,Slovenia,SVN,2005,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.8
+1769,Slovenia,SVN,2004,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.5
+1770,Slovenia,SVN,2003,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.1
+1771,Slovenia,SVN,2002,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.7
+1772,Slovenia,SVN,2001,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.4
+1773,Slovenia,SVN,2000,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13
+1774,Slovenia,SVN,1999,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.6
+1775,Slovenia,SVN,1998,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.3
+1776,Slovenia,SVN,1997,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12
+1777,Slovenia,SVN,1996,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.6
+1778,Slovenia,SVN,1995,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.3
+1779,Slovenia,SVN,1994,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11
+1780,Slovenia,SVN,1993,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.7
+1781,Slovenia,SVN,1992,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.3
+1782,Slovenia,SVN,1991,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10
+1783,Slovenia,SVN,1990,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.7
+1784,Slovenia,SVN,1989,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.4
+1785,Slovenia,SVN,1988,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.1
+1786,Slovenia,SVN,1987,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.8
+1787,Slovenia,SVN,1986,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.5
+1788,Slovenia,SVN,1985,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,8.2
+1789,Slovenia,SVN,1984,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.9
+1790,Slovenia,SVN,1983,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.6
+1791,Slovenia,SVN,1982,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,7.2
+1792,Slovenia,SVN,1981,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,6.9
+1793,Slovenia,SVN,1980,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,6.5
+1794,Slovenia,SVN,1979,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,6.2
+1795,Slovenia,SVN,1978,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,5.9
+1796,Slovenia,SVN,1977,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,5.6
+1797,Slovenia,SVN,1976,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,5.3
+1798,Slovenia,SVN,1975,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,5
+1799,Slovenia,SVN,2016,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.187
+1800,Slovenia,SVN,2015,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.149
+1801,Slovenia,SVN,2014,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.125
+1802,Slovenia,SVN,2013,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.13
+1803,Slovenia,SVN,2012,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.13
+1804,Slovenia,SVN,2011,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.129
+1805,Slovenia,SVN,2010,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.127
+1806,Slovenia,SVN,2009,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.149
+1807,Slovenia,SVN,2008,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.129
+1808,Slovenia,SVN,2007,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.12
+1809,Slovenia,SVN,2006,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.119
+1810,Slovenia,SVN,2005,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.106

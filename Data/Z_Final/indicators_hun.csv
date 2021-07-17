@@ -1,0 +1,2016 @@
+,Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+0,Hungary,HUN,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,100.32
+1,Hungary,HUN,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.17
+2,Hungary,HUN,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,105.24
+3,Hungary,HUN,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,92.61
+4,Hungary,HUN,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.15
+5,Hungary,HUN,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,88.28
+6,Hungary,HUN,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,73.5
+7,Hungary,HUN,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,85.22
+8,Hungary,HUN,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,74.54
+9,Hungary,HUN,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,89.61
+10,Hungary,HUN,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,104.07
+11,Hungary,HUN,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,75.13
+12,Hungary,HUN,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,92.61
+13,Hungary,HUN,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,94.9
+14,Hungary,HUN,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,108.69
+15,Hungary,HUN,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,70.5
+16,Hungary,HUN,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,78.66
+17,Hungary,HUN,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,96.6
+18,Hungary,HUN,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,75.55
+19,Hungary,HUN,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,84.67
+20,Hungary,HUN,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,90.32
+21,Hungary,HUN,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,91.36
+22,Hungary,HUN,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,86.37
+23,Hungary,HUN,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,79.86
+24,Hungary,HUN,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,81.65
+25,Hungary,HUN,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,71.21
+26,Hungary,HUN,1992,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,79.38
+27,Hungary,HUN,1991,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,110.08
+28,Hungary,HUN,1990,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,100.83
+29,Hungary,HUN,1989,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,109.13
+30,Hungary,HUN,1988,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,111.69
+31,Hungary,HUN,1987,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,103.98
+32,Hungary,HUN,1986,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,107.47
+33,Hungary,HUN,1985,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,103.25
+34,Hungary,HUN,1984,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,110.53
+35,Hungary,HUN,1983,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,104.09
+36,Hungary,HUN,1982,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,112.82
+37,Hungary,HUN,1981,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.77
+38,Hungary,HUN,1980,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,104.6
+39,Hungary,HUN,1979,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,94.09
+40,Hungary,HUN,1978,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.94
+41,Hungary,HUN,1977,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,99.13
+42,Hungary,HUN,1976,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,87.53
+43,Hungary,HUN,1975,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,90.69
+44,Hungary,HUN,1974,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,92.47
+45,Hungary,HUN,1973,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,91.74
+46,Hungary,HUN,1972,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,85.18
+47,Hungary,HUN,1971,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,79.86
+48,Hungary,HUN,1970,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,71.25
+49,Hungary,HUN,1969,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,86.52
+50,Hungary,HUN,1968,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,73.7
+51,Hungary,HUN,1967,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,76.11
+52,Hungary,HUN,1966,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,73.19
+53,Hungary,HUN,1965,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,62.22
+54,Hungary,HUN,1964,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,69.38
+55,Hungary,HUN,1963,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,68.74
+56,Hungary,HUN,1962,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,61.56
+57,Hungary,HUN,1961,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,59.92
+58,Hungary,HUN,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.35705045713769
+59,Hungary,HUN,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.45288851435096
+60,Hungary,HUN,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.75989557884692
+61,Hungary,HUN,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.89380197715333
+62,Hungary,HUN,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.79258988806609
+63,Hungary,HUN,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.94355867224227
+64,Hungary,HUN,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.92497157564049
+65,Hungary,HUN,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.901350501394
+66,Hungary,HUN,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.00038229565524
+67,Hungary,HUN,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.04012172969024
+68,Hungary,HUN,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.06366661093109
+69,Hungary,HUN,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.45710174368459
+70,Hungary,HUN,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.49205522865338
+71,Hungary,HUN,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.53984378955038
+72,Hungary,HUN,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.72896915253967
+73,Hungary,HUN,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.35914066863
+74,Hungary,HUN,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.9010994725515
+75,Hungary,HUN,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.26079504256631
+76,Hungary,HUN,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.91438887698312
+77,Hungary,HUN,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.93445987752074
+78,Hungary,HUN,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.31042369241763
+79,Hungary,HUN,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.03650279072181
+80,Hungary,HUN,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.3222843016517
+81,Hungary,HUN,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.26248033466694
+82,Hungary,HUN,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.17803855506818
+83,Hungary,HUN,2019,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.33999986946583
+84,Hungary,HUN,2018,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.09999988973141
+85,Hungary,HUN,2017,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.70000007748604
+86,Hungary,HUN,2016,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.80000001192093
+87,Hungary,HUN,2015,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.75000002980233
+88,Hungary,HUN,2014,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,5.83000022172928
+89,Hungary,HUN,2013,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.05999979376793
+90,Hungary,HUN,2012,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.48000013828277
+91,Hungary,HUN,2011,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.86000004410744
+92,Hungary,HUN,2010,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.88999995589256
+93,Hungary,HUN,2009,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.2799998819828
+94,Hungary,HUN,2008,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.07000002264977
+95,Hungary,HUN,2007,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.21999996900558
+96,Hungary,HUN,2006,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.25
+97,Hungary,HUN,2005,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.80999988317489
+98,Hungary,HUN,2004,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.58000031113624
+99,Hungary,HUN,2003,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.18999981880188
+100,Hungary,HUN,2002,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,8.53000009059906
+101,Hungary,HUN,2001,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.14000004529953
+102,Hungary,HUN,2000,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,10.1600002646446
+103,Hungary,HUN,1999,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.7199997901916
+104,Hungary,HUN,1998,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,13.3299999833107
+105,Hungary,HUN,1997,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,14.8799996376038
+106,Hungary,HUN,1996,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.7299996614456
+107,Hungary,HUN,1995,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.8500000238419
+108,Hungary,HUN,1994,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.8499995470047
+109,Hungary,HUN,1993,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,15.9900003671646
+110,Hungary,HUN,1992,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.1600000858306
+111,Hungary,HUN,1991,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,18.099999666214
+112,Hungary,HUN,2019,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-620263568.285688
+113,Hungary,HUN,2018,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,636384808.791446
+114,Hungary,HUN,2017,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,2768954240.52673
+115,Hungary,HUN,2016,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,5854912155.02455
+116,Hungary,HUN,2015,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,2925516290.04182
+117,Hungary,HUN,2014,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1604607987.09942
+118,Hungary,HUN,2013,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,4665997538.15975
+119,Hungary,HUN,2012,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,1989672606.8815
+120,Hungary,HUN,2011,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,886554259.949579
+121,Hungary,HUN,2010,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,341646259.646128
+122,Hungary,HUN,2009,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-892033654.183193
+123,Hungary,HUN,2008,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-11125011068.8044
+124,Hungary,HUN,2007,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-10209896208.3164
+125,Hungary,HUN,2006,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-8422271299.47517
+126,Hungary,HUN,2005,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-11181808084.8179
+127,Hungary,HUN,2004,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-9445878133.34234
+128,Hungary,HUN,2003,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-7039900025.20667
+129,Hungary,HUN,2002,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4361443385.9147
+130,Hungary,HUN,2001,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3289609794.38738
+131,Hungary,HUN,2000,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4173563161.65006
+132,Hungary,HUN,1999,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4108992898.71996
+133,Hungary,HUN,1998,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-3721634281.07288
+134,Hungary,HUN,1997,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-2139729352.16102
+135,Hungary,HUN,1996,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1854085269.5794
+136,Hungary,HUN,1995,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1711883518.41086
+137,Hungary,HUN,1994,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4053569972.81271
+138,Hungary,HUN,1993,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-4262485321.1674
+139,Hungary,HUN,1992,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,351916420.313155
+140,Hungary,HUN,1991,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,403164330.909476
+141,Hungary,HUN,1990,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,378583738.252915
+142,Hungary,HUN,1989,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-588084499.900606
+143,Hungary,HUN,1988,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-572012790.960041
+144,Hungary,HUN,1987,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-675976875.577157
+145,Hungary,HUN,1986,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1365024333.35552
+146,Hungary,HUN,1985,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-454953570.872756
+147,Hungary,HUN,1984,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,38965735.8593439
+148,Hungary,HUN,1983,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-180988794.541066
+149,Hungary,HUN,1982,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-530950258.746619
+150,Hungary,HUN,2019,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-223140249.237137
+151,Hungary,HUN,2018,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3829180223.14578
+152,Hungary,HUN,2017,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2376170201.386
+153,Hungary,HUN,2016,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2983727246.89273
+154,Hungary,HUN,2015,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2890619218.82159
+155,Hungary,HUN,2014,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3819551081.1514
+156,Hungary,HUN,2013,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-278231951.296789
+157,Hungary,HUN,2012,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2877531842.00942
+158,Hungary,HUN,2011,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1961626797.91999
+159,Hungary,HUN,2010,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3936697507.46568
+160,Hungary,HUN,2009,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-972285892.537609
+161,Hungary,HUN,2008,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1457150599.42917
+162,Hungary,HUN,2007,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2352495092.56016
+163,Hungary,HUN,2006,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-359697187.650419
+164,Hungary,HUN,2005,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-7425862216.05051
+165,Hungary,HUN,2004,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2888600992.16497
+166,Hungary,HUN,2003,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-8315913.99075049
+167,Hungary,HUN,2002,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2470516243.31789
+168,Hungary,HUN,2001,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3538531078.71222
+169,Hungary,HUN,2000,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2141668124.96353
+170,Hungary,HUN,1999,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2890255600.11193
+171,Hungary,HUN,1998,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3028062660.39959
+172,Hungary,HUN,1997,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3688727510.66685
+173,Hungary,HUN,1996,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-3271764349.0062
+174,Hungary,HUN,1995,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-4648784921.47398
+175,Hungary,HUN,1994,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1095085543.47915
+176,Hungary,HUN,1993,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-2339010545.29364
+177,Hungary,HUN,1992,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1479009900.8762
+178,Hungary,HUN,1991,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1462141210.2598
+179,Hungary,HUN,1990,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,0
+180,Hungary,HUN,1989,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,0
+181,Hungary,HUN,1988,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,0
+182,Hungary,HUN,1987,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,0
+183,Hungary,HUN,1986,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,0
+184,Hungary,HUN,1985,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,0
+185,Hungary,HUN,1984,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,0
+186,Hungary,HUN,1983,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,0
+187,Hungary,HUN,1982,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,0
+188,Hungary,HUN,2020,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.3267438576673
+189,Hungary,HUN,2019,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.3385863538201
+190,Hungary,HUN,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.85024792594642
+191,Hungary,HUN,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.34824281150159
+192,Hungary,HUN,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.394769306686402
+193,Hungary,HUN,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.0616446800641176
+194,Hungary,HUN,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.227566270988384
+195,Hungary,HUN,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.73319984983107
+196,Hungary,HUN,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.65214517088651
+197,Hungary,HUN,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.92992098935075
+198,Hungary,HUN,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.85555795691951
+199,Hungary,HUN,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.21171171171172
+200,Hungary,HUN,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.0425125388106
+201,Hungary,HUN,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.95874516544909
+202,Hungary,HUN,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.93032603841
+203,Hungary,HUN,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.56151711378355
+204,Hungary,HUN,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.74434679569463
+205,Hungary,HUN,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.66101694915256
+206,Hungary,HUN,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.26544821583986
+207,Hungary,HUN,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.11680911680913
+208,Hungary,HUN,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.80361016908127
+209,Hungary,HUN,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.99774409303364
+210,Hungary,HUN,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,14.1537896545341
+211,Hungary,HUN,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,18.3050744143798
+212,Hungary,HUN,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,23.4690301919185
+213,Hungary,HUN,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,28.3054683706654
+214,Hungary,HUN,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,18.8680749869282
+215,Hungary,HUN,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,22.4642346133809
+216,Hungary,HUN,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,23.6557207806553
+217,Hungary,HUN,1991,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,34.8175429072704
+218,Hungary,HUN,1990,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,28.3695996532776
+219,Hungary,HUN,1989,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,17.149151997396
+220,Hungary,HUN,1988,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,15.7235490703556
+221,Hungary,HUN,1987,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.67431417733246
+222,Hungary,HUN,1986,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.29166170071089
+223,Hungary,HUN,1985,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.94234501879142
+224,Hungary,HUN,1984,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.46785487646024
+225,Hungary,HUN,1983,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.27989573279489
+226,Hungary,HUN,1982,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.83580508259544
+227,Hungary,HUN,1981,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.66141394394749
+228,Hungary,HUN,1980,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.28585743921339
+229,Hungary,HUN,1979,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.976412347003
+230,Hungary,HUN,1978,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.68714274853112
+231,Hungary,HUN,1977,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.90889569564824
+232,Hungary,HUN,1976,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.22839833308662
+233,Hungary,HUN,1975,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.84215991793813
+234,Hungary,HUN,1974,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.79704016823477
+235,Hungary,HUN,1973,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.38797814176706
+236,Hungary,HUN,2016,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,95.4654008951087
+237,Hungary,HUN,2015,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,95.3124700803407
+238,Hungary,HUN,2014,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,97.7188750241355
+239,Hungary,HUN,2013,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,93.9626297253434
+240,Hungary,HUN,2012,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,93.4059384440794
+241,Hungary,HUN,2011,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,89.5576131236036
+242,Hungary,HUN,2010,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,80.3669352530889
+243,Hungary,HUN,2009,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,80.2299576419677
+244,Hungary,HUN,2008,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,71.9873543967243
+245,Hungary,HUN,2007,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,68.6480786295858
+246,Hungary,HUN,2006,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,67.9689618884848
+247,Hungary,HUN,2005,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,64.9063240885857
+248,Hungary,HUN,2004,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,62.7110186964205
+249,Hungary,HUN,2003,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,59.3667252174697
+250,Hungary,HUN,2002,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,58.713655995497
+251,Hungary,HUN,2001,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,59.0170403995142
+252,Hungary,HUN,2000,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,60.8047611942673
+253,Hungary,HUN,1999,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,66.3856366282032
+254,Hungary,HUN,1998,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,63.8329711386333
+255,Hungary,HUN,1997,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,67.0621287308027
+256,Hungary,HUN,1996,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,74.8238105500958
+257,Hungary,HUN,1995,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,85.992334767359
+258,Hungary,HUN,1994,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,83.3187399925561
+259,Hungary,HUN,1993,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,86.1135084926753
+260,Hungary,HUN,1992,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,75.4756911822891
+261,Hungary,HUN,1991,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,71.2275932588452
+262,Hungary,HUN,2019,Trade (% of GDP),NE.TRD.GNFS.ZS,161.257730157012
+263,Hungary,HUN,2018,Trade (% of GDP),NE.TRD.GNFS.ZS,163.382021854733
+264,Hungary,HUN,2017,Trade (% of GDP),NE.TRD.GNFS.ZS,165.195179213237
+265,Hungary,HUN,2016,Trade (% of GDP),NE.TRD.GNFS.ZS,164.314407210262
+266,Hungary,HUN,2015,Trade (% of GDP),NE.TRD.GNFS.ZS,167.239953456066
+267,Hungary,HUN,2014,Trade (% of GDP),NE.TRD.GNFS.ZS,168.242836502813
+268,Hungary,HUN,2013,Trade (% of GDP),NE.TRD.GNFS.ZS,164.174052818468
+269,Hungary,HUN,2012,Trade (% of GDP),NE.TRD.GNFS.ZS,165.454667419539
+270,Hungary,HUN,2011,Trade (% of GDP),NE.TRD.GNFS.ZS,166.287842173646
+271,Hungary,HUN,2010,Trade (% of GDP),NE.TRD.GNFS.ZS,157.267724024444
+272,Hungary,HUN,2009,Trade (% of GDP),NE.TRD.GNFS.ZS,144.768073219014
+273,Hungary,HUN,2008,Trade (% of GDP),NE.TRD.GNFS.ZS,158.195277169557
+274,Hungary,HUN,2007,Trade (% of GDP),NE.TRD.GNFS.ZS,155.346864986064
+275,Hungary,HUN,2006,Trade (% of GDP),NE.TRD.GNFS.ZS,148.867502410626
+276,Hungary,HUN,2005,Trade (% of GDP),NE.TRD.GNFS.ZS,127.593088302729
+277,Hungary,HUN,2004,Trade (% of GDP),NE.TRD.GNFS.ZS,123.267702550645
+278,Hungary,HUN,2003,Trade (% of GDP),NE.TRD.GNFS.ZS,116.60617427443
+279,Hungary,HUN,2002,Trade (% of GDP),NE.TRD.GNFS.ZS,118.320109162292
+280,Hungary,HUN,2001,Trade (% of GDP),NE.TRD.GNFS.ZS,131.045068739569
+281,Hungary,HUN,2000,Trade (% of GDP),NE.TRD.GNFS.ZS,137.40660123512
+282,Hungary,HUN,1999,Trade (% of GDP),NE.TRD.GNFS.ZS,114.025774849784
+283,Hungary,HUN,1998,Trade (% of GDP),NE.TRD.GNFS.ZS,107.42990062644
+284,Hungary,HUN,1997,Trade (% of GDP),NE.TRD.GNFS.ZS,94.8487191212692
+285,Hungary,HUN,1996,Trade (% of GDP),NE.TRD.GNFS.ZS,83.2922066662408
+286,Hungary,HUN,1995,Trade (% of GDP),NE.TRD.GNFS.ZS,78.3847053096873
+287,Hungary,HUN,1994,Trade (% of GDP),NE.TRD.GNFS.ZS,56.4601800555875
+288,Hungary,HUN,1993,Trade (% of GDP),NE.TRD.GNFS.ZS,53.5610134142056
+289,Hungary,HUN,1992,Trade (% of GDP),NE.TRD.GNFS.ZS,55.4413551689444
+290,Hungary,HUN,1991,Trade (% of GDP),NE.TRD.GNFS.ZS,58.3612839104181
+291,Hungary,HUN,2019,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.9618764289499
+292,Hungary,HUN,2018,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.2111626258411
+293,Hungary,HUN,2017,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.2196022626622
+294,Hungary,HUN,2016,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.5181972587343
+295,Hungary,HUN,2015,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.4038880150858
+296,Hungary,HUN,2014,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.7390085656489
+297,Hungary,HUN,2013,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.099693241407
+298,Hungary,HUN,2012,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.0834688491191
+299,Hungary,HUN,2011,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.1366480663597
+300,Hungary,HUN,2010,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.2517874673684
+301,Hungary,HUN,2009,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.148626531204
+302,Hungary,HUN,2008,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.7919052781193
+303,Hungary,HUN,2007,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.7440773291104
+304,Hungary,HUN,2006,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.2244061483205
+305,Hungary,HUN,2005,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.2371615263102
+306,Hungary,HUN,2004,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.8921435825963
+307,Hungary,HUN,2003,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.3838029966952
+308,Hungary,HUN,2002,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,26.8070253407464
+309,Hungary,HUN,2001,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.1378298168027
+310,Hungary,HUN,2000,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.0485509963486
+311,Hungary,HUN,1999,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.5177515947091
+312,Hungary,HUN,1998,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.0954336272068
+313,Hungary,HUN,1997,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.7903144016227
+314,Hungary,HUN,1996,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.4121102648651
+315,Hungary,HUN,1995,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,25.8055407683017
+316,Hungary,HUN,2019,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.20302846534041
+317,Hungary,HUN,2018,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.1750858402476
+318,Hungary,HUN,2017,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.24992214686241
+319,Hungary,HUN,2016,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.30844302263532
+320,Hungary,HUN,2015,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.29772186249838
+321,Hungary,HUN,2014,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.03052173108583
+322,Hungary,HUN,2013,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.0356358160587
+323,Hungary,HUN,2012,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.14145595677127
+324,Hungary,HUN,2011,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.07260189532414
+325,Hungary,HUN,2010,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.13799029060075
+326,Hungary,HUN,2009,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.07111639335239
+327,Hungary,HUN,2008,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,0.991686600025426
+328,Hungary,HUN,2007,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.11523174876576
+329,Hungary,HUN,2006,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.30051590654733
+330,Hungary,HUN,2005,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.27173515219056
+331,Hungary,HUN,2004,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.29731877041019
+332,Hungary,HUN,2003,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.53954851004146
+333,Hungary,HUN,2002,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.77075534146812
+334,Hungary,HUN,2001,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.18456774790064
+335,Hungary,HUN,2000,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.32917746221652
+336,Hungary,HUN,1999,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.2752471586713
+337,Hungary,HUN,1998,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.21670371262626
+338,Hungary,HUN,1997,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.27085066334314
+339,Hungary,HUN,1996,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.2154607421619
+340,Hungary,HUN,1995,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.07898624900211
+341,Hungary,HUN,1994,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.05029987171425
+342,Hungary,HUN,1993,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,2.21667767567835
+343,Hungary,HUN,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.217399386260943
+344,Hungary,HUN,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.254495073323648
+345,Hungary,HUN,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.169077308217198
+346,Hungary,HUN,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.119456691155922
+347,Hungary,HUN,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.163397609409881
+348,Hungary,HUN,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.263782725237661
+349,Hungary,HUN,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.356083644384414
+350,Hungary,HUN,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.457907192406783
+351,Hungary,HUN,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.468625209482687
+352,Hungary,HUN,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.358292119955421
+353,Hungary,HUN,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.383851601430448
+354,Hungary,HUN,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.430999958817562
+355,Hungary,HUN,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.335598665170333
+356,Hungary,HUN,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.345786139748534
+357,Hungary,HUN,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.246779834790125
+358,Hungary,HUN,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.252823811488792
+359,Hungary,HUN,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.270961068366856
+360,Hungary,HUN,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.295622783990025
+361,Hungary,HUN,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.405067408920561
+362,Hungary,HUN,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.420644793294375
+363,Hungary,HUN,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.129742636721312
+364,Hungary,HUN,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0702145451473846
+365,Hungary,HUN,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.300480736864029
+366,Hungary,HUN,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.332922565949303
+367,Hungary,HUN,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.269298463975453
+368,Hungary,HUN,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.279240513602598
+369,Hungary,HUN,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.311060966018533
+370,Hungary,HUN,2019,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.165813247662231
+371,Hungary,HUN,2018,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.165872647503578
+372,Hungary,HUN,2017,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.165872647503578
+373,Hungary,HUN,2016,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.171212366283555
+374,Hungary,HUN,2015,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.181769045651252
+375,Hungary,HUN,2014,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.18020638622
+376,Hungary,HUN,2013,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.185517047377178
+377,Hungary,HUN,2012,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.204490834128727
+378,Hungary,HUN,2011,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.211636606136715
+379,Hungary,HUN,2010,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.221416027848949
+380,Hungary,HUN,2009,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.239101920961352
+381,Hungary,HUN,2008,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.230007113301836
+382,Hungary,HUN,2007,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.250182345359408
+383,Hungary,HUN,2006,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.24190498092749
+384,Hungary,HUN,2005,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.252352370444699
+385,Hungary,HUN,2004,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.244877803555269
+386,Hungary,HUN,2003,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.250957330947679
+387,Hungary,HUN,2002,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.246119104209913
+388,Hungary,HUN,2001,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.253267072976844
+389,Hungary,HUN,2000,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.279038999170214
+390,Hungary,HUN,1999,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.306292519700328
+391,Hungary,HUN,1998,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.320757591320776
+392,Hungary,HUN,1997,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.342257660855501
+393,Hungary,HUN,1996,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.371616139062369
+394,Hungary,HUN,1995,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.444254438636527
+395,Hungary,HUN,1994,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.481772764453298
+396,Hungary,HUN,1993,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.547249533744307
+397,Hungary,HUN,2019,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,12.304390557014
+398,Hungary,HUN,2018,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,11.5368386770818
+399,Hungary,HUN,2017,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,8.92285056437562
+400,Hungary,HUN,2016,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,9.47333253015936
+401,Hungary,HUN,2015,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,9.41024527397412
+402,Hungary,HUN,2014,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,7.88284768728518
+403,Hungary,HUN,2013,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,6.71790675882
+404,Hungary,HUN,2012,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.71357113810976
+405,Hungary,HUN,2011,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,3.11934274766815
+406,Hungary,HUN,2010,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.92178835798532
+407,Hungary,HUN,2009,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.7419471201856
+408,Hungary,HUN,2008,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.45575310823784
+409,Hungary,HUN,2007,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.591949333644187
+410,Hungary,HUN,2006,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.16779947002231
+411,Hungary,HUN,2005,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.735975167049811
+412,Hungary,HUN,2004,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.766319820245901
+413,Hungary,HUN,2003,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.666011493305363
+414,Hungary,HUN,2002,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.74706492497583
+415,Hungary,HUN,2001,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,1.72190296237356
+416,Hungary,HUN,2000,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.210943785823333
+417,Hungary,HUN,1999,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-0.685117682742308
+418,Hungary,HUN,1998,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.75173198390929
+419,Hungary,HUN,1997,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,2.50549522199579
+420,Hungary,HUN,1996,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.999888294301431
+421,Hungary,HUN,1995,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,0.262178071201187
+422,Hungary,HUN,1994,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-3.44172491434781
+423,Hungary,HUN,1993,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,-7.97746624483054
+424,Hungary,HUN,2019,GDP (current US$),NY.GDP.MKTP.CD,163469042867.956
+425,Hungary,HUN,2018,GDP (current US$),NY.GDP.MKTP.CD,160418835850.907
+426,Hungary,HUN,2017,GDP (current US$),NY.GDP.MKTP.CD,142961605733.026
+427,Hungary,HUN,2016,GDP (current US$),NY.GDP.MKTP.CD,128470534117.954
+428,Hungary,HUN,2015,GDP (current US$),NY.GDP.MKTP.CD,125074286021.14
+429,Hungary,HUN,2014,GDP (current US$),NY.GDP.MKTP.CD,140765018880.633
+430,Hungary,HUN,2013,GDP (current US$),NY.GDP.MKTP.CD,135411698965.109
+431,Hungary,HUN,2012,GDP (current US$),NY.GDP.MKTP.CD,128475498380.379
+432,Hungary,HUN,2011,GDP (current US$),NY.GDP.MKTP.CD,141759722464.002
+433,Hungary,HUN,2010,GDP (current US$),NY.GDP.MKTP.CD,131916516051.985
+434,Hungary,HUN,2009,GDP (current US$),NY.GDP.MKTP.CD,130760312876.683
+435,Hungary,HUN,2008,GDP (current US$),NY.GDP.MKTP.CD,158136326477.965
+436,Hungary,HUN,2007,GDP (current US$),NY.GDP.MKTP.CD,139966001509.592
+437,Hungary,HUN,2006,GDP (current US$),NY.GDP.MKTP.CD,115577256523.599
+438,Hungary,HUN,2005,GDP (current US$),NY.GDP.MKTP.CD,112980947728.383
+439,Hungary,HUN,2004,GDP (current US$),NY.GDP.MKTP.CD,103960017914.058
+440,Hungary,HUN,2003,GDP (current US$),NY.GDP.MKTP.CD,85302003908.042
+441,Hungary,HUN,2002,GDP (current US$),NY.GDP.MKTP.CD,67608919144.3684
+442,Hungary,HUN,2001,GDP (current US$),NY.GDP.MKTP.CD,53749989092.0197
+443,Hungary,HUN,2000,GDP (current US$),NY.GDP.MKTP.CD,47218405892.4258
+444,Hungary,HUN,1999,GDP (current US$),NY.GDP.MKTP.CD,49073380173.7159
+445,Hungary,HUN,1998,GDP (current US$),NY.GDP.MKTP.CD,48706787306.2574
+446,Hungary,HUN,1997,GDP (current US$),NY.GDP.MKTP.CD,47296952928.7561
+447,Hungary,HUN,1996,GDP (current US$),NY.GDP.MKTP.CD,46658755151.6017
+448,Hungary,HUN,1995,GDP (current US$),NY.GDP.MKTP.CD,46425677734.1435
+449,Hungary,HUN,1994,GDP (current US$),NY.GDP.MKTP.CD,43166678735.2183
+450,Hungary,HUN,1993,GDP (current US$),NY.GDP.MKTP.CD,40124916940.5945
+451,Hungary,HUN,1992,GDP (current US$),NY.GDP.MKTP.CD,38730585922.2189
+452,Hungary,HUN,1991,GDP (current US$),NY.GDP.MKTP.CD,34753569692.915
+453,Hungary,HUN,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,16729.7803673036
+454,Hungary,HUN,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,16410.1872639683
+455,Hungary,HUN,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,14605.8543453283
+456,Hungary,HUN,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,13090.5067287853
+457,Hungary,HUN,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,12706.8912148924
+458,Hungary,HUN,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,14267.0121547683
+459,Hungary,HUN,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,13687.5140593304
+460,Hungary,HUN,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,12950.6865153085
+461,Hungary,HUN,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,14216.1656114334
+462,Hungary,HUN,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,13191.6212644696
+463,Hungary,HUN,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,13046.4810081848
+464,Hungary,HUN,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,15753.4732840195
+465,Hungary,HUN,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,13918.9601910137
+466,Hungary,HUN,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,11475.8227057093
+467,Hungary,HUN,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,11200.5769496264
+468,Hungary,HUN,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,10285.7936270098
+469,Hungary,HUN,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,8421.10331316153
+470,Hungary,HUN,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,6655.33300865319
+471,Hungary,HUN,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,5276.03318905496
+472,Hungary,HUN,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,4624.28165670295
+473,Hungary,HUN,1999,GDP per capita (current US$),NY.GDP.PCAP.CD,4793.47852203763
+474,Hungary,HUN,1998,GDP per capita (current US$),NY.GDP.PCAP.CD,4744.21226429639
+475,Hungary,HUN,1997,GDP per capita (current US$),NY.GDP.PCAP.CD,4596.18262235195
+476,Hungary,HUN,1996,GDP per capita (current US$),NY.GDP.PCAP.CD,4525.03910312241
+477,Hungary,HUN,1995,GDP per capita (current US$),NY.GDP.PCAP.CD,4494.70762405948
+478,Hungary,HUN,1994,GDP per capita (current US$),NY.GDP.PCAP.CD,4173.37302405441
+479,Hungary,HUN,1993,GDP per capita (current US$),NY.GDP.PCAP.CD,3873.98772279767
+480,Hungary,HUN,1992,GDP per capita (current US$),NY.GDP.PCAP.CD,3735.10582034276
+481,Hungary,HUN,1991,GDP per capita (current US$),NY.GDP.PCAP.CD,3350.25832349229
+482,Hungary,HUN,2019,GNI (current US$),NY.GNP.MKTP.CD,159058484139.544
+483,Hungary,HUN,2018,GNI (current US$),NY.GNP.MKTP.CD,154627035595.551
+484,Hungary,HUN,2017,GNI (current US$),NY.GNP.MKTP.CD,137359425482.813
+485,Hungary,HUN,2016,GNI (current US$),NY.GNP.MKTP.CD,125215073942.953
+486,Hungary,HUN,2015,GNI (current US$),NY.GNP.MKTP.CD,119426872991.865
+487,Hungary,HUN,2014,GNI (current US$),NY.GNP.MKTP.CD,134686016867.176
+488,Hungary,HUN,2013,GNI (current US$),NY.GNP.MKTP.CD,131578779141.241
+489,Hungary,HUN,2012,GNI (current US$),NY.GNP.MKTP.CD,123089103192.966
+490,Hungary,HUN,2011,GNI (current US$),NY.GNP.MKTP.CD,134970863694.014
+491,Hungary,HUN,2010,GNI (current US$),NY.GNP.MKTP.CD,125967890419.303
+492,Hungary,HUN,2009,GNI (current US$),NY.GNP.MKTP.CD,125055161639.939
+493,Hungary,HUN,2008,GNI (current US$),NY.GNP.MKTP.CD,147719786907.81
+494,Hungary,HUN,2007,GNI (current US$),NY.GNP.MKTP.CD,129338622350.454
+495,Hungary,HUN,2006,GNI (current US$),NY.GNP.MKTP.CD,108419330766.671
+496,Hungary,HUN,2005,GNI (current US$),NY.GNP.MKTP.CD,105880580712.237
+497,Hungary,HUN,2004,GNI (current US$),NY.GNP.MKTP.CD,97598436071.1788
+498,Hungary,HUN,2003,GNI (current US$),NY.GNP.MKTP.CD,80528566467.2522
+499,Hungary,HUN,2002,GNI (current US$),NY.GNP.MKTP.CD,63764742792.0142
+500,Hungary,HUN,2001,GNI (current US$),NY.GNP.MKTP.CD,50630432392.3382
+501,Hungary,HUN,2000,GNI (current US$),NY.GNP.MKTP.CD,44475804736.8481
+502,Hungary,HUN,1999,GNI (current US$),NY.GNP.MKTP.CD,45891063641.0175
+503,Hungary,HUN,1998,GNI (current US$),NY.GNP.MKTP.CD,45684768637.5621
+504,Hungary,HUN,1997,GNI (current US$),NY.GNP.MKTP.CD,44414561307.6131
+505,Hungary,HUN,1996,GNI (current US$),NY.GNP.MKTP.CD,44550212281.0385
+506,Hungary,HUN,1995,GNI (current US$),NY.GNP.MKTP.CD,44428126740.5206
+507,Hungary,HUN,1994,GNI (current US$),NY.GNP.MKTP.CD,41973316213.4935
+508,Hungary,HUN,1993,GNI (current US$),NY.GNP.MKTP.CD,39175128483.1978
+509,Hungary,HUN,2019,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.6058843185057
+510,Hungary,HUN,2018,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,5.91350393992181
+511,Hungary,HUN,2017,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.12667630229942
+512,Hungary,HUN,2016,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.55915860097176
+513,Hungary,HUN,2015,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.83670028705423
+514,Hungary,HUN,2014,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.89993669260433
+515,Hungary,HUN,2013,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.56406538380058
+516,Hungary,HUN,2012,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.211974679479155
+517,Hungary,HUN,2011,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.98434074190376
+518,Hungary,HUN,2010,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.19024524485303
+519,Hungary,HUN,2009,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-4.28252689276172
+520,Hungary,HUN,2008,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.40735156400351
+521,Hungary,HUN,2007,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-1.14550657805756
+522,Hungary,HUN,2006,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.36576189333988
+523,Hungary,HUN,2005,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.34704083972875
+524,Hungary,HUN,1998,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,3.90291375094371
+525,Hungary,HUN,1997,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.64062958395566
+526,Hungary,HUN,1996,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,-0.282126046572472
+527,Hungary,HUN,1995,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,1.05606495922832
+528,Hungary,HUN,1994,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,2.89181605492996
+529,Hungary,HUN,2018,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,481.082636356244
+530,Hungary,HUN,2015,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,476.8309
+531,Hungary,HUN,2012,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,477.044455015488
+532,Hungary,HUN,2009,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,490.170027552574
+533,Hungary,HUN,2006,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,490.937383376753
+534,Hungary,HUN,2003,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,490.01239238
+535,Hungary,HUN,2000,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,488
+536,Hungary,HUN,2018,PISA: Mean performance on the reading scale,LO.PISA.REA,475.986672245033
+537,Hungary,HUN,2015,PISA: Mean performance on the reading scale,LO.PISA.REA,469.5233
+538,Hungary,HUN,2012,PISA: Mean performance on the reading scale,LO.PISA.REA,488.461333958455
+539,Hungary,HUN,2009,PISA: Mean performance on the reading scale,LO.PISA.REA,494.178753343222
+540,Hungary,HUN,2006,PISA: Mean performance on the reading scale,LO.PISA.REA,482.374517349591
+541,Hungary,HUN,2003,PISA: Mean performance on the reading scale,LO.PISA.REA,481.86969443
+542,Hungary,HUN,2000,PISA: Mean performance on the reading scale,LO.PISA.REA,479.966777817182
+543,Hungary,HUN,2018,PISA: Mean performance on the science scale,LO.PISA.SCI,480.911693882286
+544,Hungary,HUN,2015,PISA: Mean performance on the science scale,LO.PISA.SCI,476.7475
+545,Hungary,HUN,2012,PISA: Mean performance on the science scale,LO.PISA.SCI,494.302351221682
+546,Hungary,HUN,2009,PISA: Mean performance on the science scale,LO.PISA.SCI,502.642748728251
+547,Hungary,HUN,2006,PISA: Mean performance on the science scale,LO.PISA.SCI,503.931728715803
+548,Hungary,HUN,2003,PISA: Mean performance on the science scale,LO.PISA.SCI,503.27886546
+549,Hungary,HUN,2000,PISA: Mean performance on the science scale,LO.PISA.SCI,496.076322265475
+550,Hungary,HUN,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18465995788574
+551,Hungary,HUN,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.19609999656677
+552,Hungary,HUN,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.19858002662659
+553,Hungary,HUN,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.20489001274109
+554,Hungary,HUN,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22773003578186
+555,Hungary,HUN,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22709000110626
+556,Hungary,HUN,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.23844003677368
+557,Hungary,HUN,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.24990999698639
+558,Hungary,HUN,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26622998714447
+559,Hungary,HUN,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27172005176544
+560,Hungary,HUN,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30262005329132
+561,Hungary,HUN,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31231999397278
+562,Hungary,HUN,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3171900510788
+563,Hungary,HUN,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31605005264282
+564,Hungary,HUN,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28422999382019
+565,Hungary,HUN,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2688399553299
+566,Hungary,HUN,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22678005695343
+567,Hungary,HUN,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.21257996559143
+568,Hungary,HUN,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18289995193481
+569,Hungary,HUN,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1939400434494
+570,Hungary,HUN,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18701004981995
+571,Hungary,HUN,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1605099439621
+572,Hungary,HUN,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15980994701385
+573,Hungary,HUN,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11642003059387
+574,Hungary,HUN,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11066997051239
+575,Hungary,HUN,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.06946003437042
+576,Hungary,HUN,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05540001392365
+577,Hungary,HUN,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05803000926971
+578,Hungary,HUN,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.07673001289368
+579,Hungary,HUN,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15978002548218
+580,Hungary,HUN,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.16343998908997
+581,Hungary,HUN,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17195999622345
+582,Hungary,HUN,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17039000988007
+583,Hungary,HUN,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15178000926971
+584,Hungary,HUN,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1452100276947
+585,Hungary,HUN,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.10238003730774
+586,Hungary,HUN,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.08139002323151
+587,Hungary,HUN,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.0325700044632
+588,Hungary,HUN,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.04578995704651
+589,Hungary,HUN,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05079996585846
+590,Hungary,HUN,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.06166994571686
+591,Hungary,HUN,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.03685998916626
+592,Hungary,HUN,1976,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.973580002784729
+593,Hungary,HUN,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.933030009269714
+594,Hungary,HUN,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.898079991340637
+595,Hungary,HUN,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.879890024662018
+596,Hungary,HUN,1972,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.825860023498535
+597,Hungary,HUN,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.775740027427673
+598,Hungary,HUN,2018,Children out of school (% of primary school age),SE.PRM.UNER.ZS,4.44464015960693
+599,Hungary,HUN,2017,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.57472991943359
+600,Hungary,HUN,2016,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.23319005966187
+601,Hungary,HUN,2015,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.863450050354
+602,Hungary,HUN,2014,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.03637003898621
+603,Hungary,HUN,2013,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.21251010894775
+604,Hungary,HUN,2012,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.0233199596405
+605,Hungary,HUN,2011,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.46512007713318
+606,Hungary,HUN,2010,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.69910001754761
+607,Hungary,HUN,2009,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.49907004833221
+608,Hungary,HUN,2008,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.9582200050354
+609,Hungary,HUN,2007,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.90438008308411
+610,Hungary,HUN,2006,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.04908990859985
+611,Hungary,HUN,2005,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.56286001205444
+612,Hungary,HUN,2004,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.31680989265442
+613,Hungary,HUN,2003,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.04858994483948
+614,Hungary,HUN,2002,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.95911002159119
+615,Hungary,HUN,2001,Children out of school (% of primary school age),SE.PRM.UNER.ZS,2.42406988143921
+616,Hungary,HUN,2000,Children out of school (% of primary school age),SE.PRM.UNER.ZS,3.16190004348755
+617,Hungary,HUN,1999,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.39100003242493
+618,Hungary,HUN,1998,Children out of school (% of primary school age),SE.PRM.UNER.ZS,1.61555004119873
+619,Hungary,HUN,1997,Children out of school (% of primary school age),SE.PRM.UNER.ZS,12.9999704360962
+620,Hungary,HUN,1996,Children out of school (% of primary school age),SE.PRM.UNER.ZS,21.5777893066406
+621,Hungary,HUN,1995,Children out of school (% of primary school age),SE.PRM.UNER.ZS,9.49392032623291
+622,Hungary,HUN,1994,Children out of school (% of primary school age),SE.PRM.UNER.ZS,8.45401954650879
+623,Hungary,HUN,2016,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,97.1764984130859
+624,Hungary,HUN,2015,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,96.7666091918945
+625,Hungary,HUN,2014,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,96.6406173706055
+626,Hungary,HUN,2013,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,98.3937377929688
+627,Hungary,HUN,2012,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,98.2855682373047
+628,Hungary,HUN,2011,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,98.2056579589844
+629,Hungary,HUN,2010,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,97.9304733276367
+630,Hungary,HUN,2009,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,97.6494979858398
+631,Hungary,HUN,2005,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,90.8201599121094
+632,Hungary,HUN,2001,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,87.3180084228516
+633,Hungary,HUN,1980,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,87.5269088745117
+634,Hungary,HUN,1970,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,80.4925308227539
+635,Hungary,HUN,2017,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.8996124267578
+636,Hungary,HUN,2016,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.5697326660156
+637,Hungary,HUN,2015,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.66943359375
+638,Hungary,HUN,2014,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.3280715942383
+639,Hungary,HUN,2013,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.3065719604492
+640,Hungary,HUN,2012,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,95.6465301513672
+641,Hungary,HUN,2011,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.9107284545898
+642,Hungary,HUN,2010,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.6304397583008
+643,Hungary,HUN,2009,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.5774536132813
+644,Hungary,HUN,2008,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.2199935913086
+645,Hungary,HUN,2007,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,94.0281524658203
+646,Hungary,HUN,2006,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.3745498657227
+647,Hungary,HUN,2005,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.6358337402344
+648,Hungary,HUN,2004,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,93.5807113647461
+649,Hungary,HUN,2003,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,92.326789855957
+650,Hungary,HUN,2002,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.5415725708008
+651,Hungary,HUN,2001,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,89.818359375
+652,Hungary,HUN,2000,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,90.2819213867188
+653,Hungary,HUN,1999,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.7957229614258
+654,Hungary,HUN,1998,"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,91.7857131958008
+655,Hungary,HUN,2017,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.66709995269775
+656,Hungary,HUN,2016,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.6553897857666
+657,Hungary,HUN,2015,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.51866006851196
+658,Hungary,HUN,2014,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.61743021011353
+659,Hungary,HUN,2013,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.19773006439209
+660,Hungary,HUN,2012,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.16385984420776
+661,Hungary,HUN,2011,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.59010982513428
+662,Hungary,HUN,2010,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.7612099647522
+663,Hungary,HUN,2009,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.95804023742676
+664,Hungary,HUN,2008,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.97358989715576
+665,Hungary,HUN,2007,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.14305019378662
+666,Hungary,HUN,2006,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.29608011245728
+667,Hungary,HUN,2005,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.33092021942139
+668,Hungary,HUN,2004,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.33585977554321
+669,Hungary,HUN,2003,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.79115009307861
+670,Hungary,HUN,2002,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.17923021316528
+671,Hungary,HUN,2001,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.9310097694397
+672,Hungary,HUN,2000,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.86840009689331
+673,Hungary,HUN,1999,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.56704998016357
+674,Hungary,HUN,1998,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.40864992141724
+675,Hungary,HUN,1996,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.33475017547607
+676,Hungary,HUN,1995,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.84748983383179
+677,Hungary,HUN,1994,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.83488988876343
+678,Hungary,HUN,1993,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.91958999633789
+679,Hungary,HUN,1992,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,6.07956981658936
+680,Hungary,HUN,1991,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.87939977645874
+681,Hungary,HUN,2019,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.2305964927643
+682,Hungary,HUN,2018,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.453732842062
+683,Hungary,HUN,2017,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.5299714727094
+684,Hungary,HUN,2016,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.6699433232733
+685,Hungary,HUN,2015,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.7955015539889
+686,Hungary,HUN,2014,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.8610296594492
+687,Hungary,HUN,2013,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.8637455219193
+688,Hungary,HUN,2012,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.2063136830489
+689,Hungary,HUN,2011,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.0300232819432
+690,Hungary,HUN,2010,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,46.1503145070978
+691,Hungary,HUN,2009,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.584903817184
+692,Hungary,HUN,2008,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4476361226956
+693,Hungary,HUN,2007,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.3472357466638
+694,Hungary,HUN,2006,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.5029399958372
+695,Hungary,HUN,2005,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.567738277721
+696,Hungary,HUN,2004,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.2866712089384
+697,Hungary,HUN,2003,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.1766833749976
+698,Hungary,HUN,2002,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.8671823498344
+699,Hungary,HUN,2001,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.5717037096332
+700,Hungary,HUN,2000,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.6048008868116
+701,Hungary,HUN,1999,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.5351097823871
+702,Hungary,HUN,1998,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.3236579543007
+703,Hungary,HUN,1997,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.4303677869214
+704,Hungary,HUN,1996,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.7028874569615
+705,Hungary,HUN,1995,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,43.5096216484999
+706,Hungary,HUN,1994,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,44.855691323858
+707,Hungary,HUN,1993,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.2582666442279
+708,Hungary,HUN,1992,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4550692541323
+709,Hungary,HUN,1991,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4269452070216
+710,Hungary,HUN,1990,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,45.4535466584277
+711,Hungary,HUN,2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.34999990463257
+712,Hungary,HUN,2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.42000007629395
+713,Hungary,HUN,2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.71000003814697
+714,Hungary,HUN,2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.15999984741211
+715,Hungary,HUN,2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.11999988555908
+716,Hungary,HUN,2015,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.80999994277954
+717,Hungary,HUN,2014,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.73000001907349
+718,Hungary,HUN,2013,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.1800003051758
+719,Hungary,HUN,2012,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11
+720,Hungary,HUN,2011,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.0299997329712
+721,Hungary,HUN,2010,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.1700000762939
+722,Hungary,HUN,2009,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.0299997329712
+723,Hungary,HUN,2008,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.82000017166138
+724,Hungary,HUN,2007,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.40999984741211
+725,Hungary,HUN,2006,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.48999977111816
+726,Hungary,HUN,2005,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.19000005722046
+727,Hungary,HUN,2004,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.82999992370605
+728,Hungary,HUN,2003,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.78999996185303
+729,Hungary,HUN,2002,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.6100001335144
+730,Hungary,HUN,2001,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.67000007629395
+731,Hungary,HUN,2000,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.55999994277954
+732,Hungary,HUN,1999,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.92999982833862
+733,Hungary,HUN,1998,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.93000030517578
+734,Hungary,HUN,1997,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.98999977111816
+735,Hungary,HUN,1996,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.0200004577637
+736,Hungary,HUN,1995,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.1700000762939
+737,Hungary,HUN,1994,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,10.8500003814697
+738,Hungary,HUN,1993,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,12.1000003814697
+739,Hungary,HUN,1992,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.9399995803833
+740,Hungary,HUN,1991,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.94999980926514
+741,Hungary,HUN,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+742,Hungary,HUN,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+743,Hungary,HUN,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+744,Hungary,HUN,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+745,Hungary,HUN,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+746,Hungary,HUN,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+747,Hungary,HUN,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+748,Hungary,HUN,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+749,Hungary,HUN,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+750,Hungary,HUN,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+751,Hungary,HUN,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+752,Hungary,HUN,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+753,Hungary,HUN,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+754,Hungary,HUN,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+755,Hungary,HUN,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+756,Hungary,HUN,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+757,Hungary,HUN,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+758,Hungary,HUN,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+759,Hungary,HUN,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+760,Hungary,HUN,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+761,Hungary,HUN,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+762,Hungary,HUN,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+763,Hungary,HUN,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+764,Hungary,HUN,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+765,Hungary,HUN,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+766,Hungary,HUN,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+767,Hungary,HUN,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+768,Hungary,HUN,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+769,Hungary,HUN,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+770,Hungary,HUN,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+771,Hungary,HUN,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,15.559362050795
+772,Hungary,HUN,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,15.6745498209192
+773,Hungary,HUN,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.1963887090332
+774,Hungary,HUN,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,16.4652046189581
+775,Hungary,HUN,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.7429917419872
+776,Hungary,HUN,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.4560288300338
+777,Hungary,HUN,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.39915478882437
+778,Hungary,HUN,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.75518941278625
+779,Hungary,HUN,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.14033259500628
+780,Hungary,HUN,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.36412863587077
+781,Hungary,HUN,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.66476895110957
+782,Hungary,HUN,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.62867422214622
+783,Hungary,HUN,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.00912839391825
+784,Hungary,HUN,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.16603321797137
+785,Hungary,HUN,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.12112440510922
+786,Hungary,HUN,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.16611184783921
+787,Hungary,HUN,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.15847217091299
+788,Hungary,HUN,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.18874780556344
+789,Hungary,HUN,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.23053173000209
+790,Hungary,HUN,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.14334397296244
+791,Hungary,HUN,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.4175975751867
+792,Hungary,HUN,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.10691846710907
+793,Hungary,HUN,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.04623946091144
+794,Hungary,HUN,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.88610314575562
+795,Hungary,HUN,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.27666391039476
+796,Hungary,HUN,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.85666956107032
+797,Hungary,HUN,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,45536.806
+798,Hungary,HUN,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,44418.371
+799,Hungary,HUN,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,41341.758
+800,Hungary,HUN,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,42306.179
+801,Hungary,HUN,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,45206.776
+802,Hungary,HUN,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,48587.75
+803,Hungary,HUN,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,50223.232
+804,Hungary,HUN,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,48510.743
+805,Hungary,HUN,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,54788.647
+806,Hungary,HUN,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,55980.422
+807,Hungary,HUN,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,57384.883
+808,Hungary,HUN,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,58019.274
+809,Hungary,HUN,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,57458.223
+810,Hungary,HUN,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,59053.368
+811,Hungary,HUN,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,56064.763
+812,Hungary,HUN,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,56977.846
+813,Hungary,HUN,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,55826.408
+814,Hungary,HUN,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,58800.345
+815,Hungary,HUN,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,59163.378
+816,Hungary,HUN,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,60886.868
+817,Hungary,HUN,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,62063.975
+818,Hungary,HUN,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,60369.821
+819,Hungary,HUN,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,58793.011
+820,Hungary,HUN,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,61917.295
+821,Hungary,HUN,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,60395.49
+822,Hungary,HUN,1991,CO2 emissions (kt),EN.ATM.CO2E.KT,66585.386
+823,Hungary,HUN,1990,CO2 emissions (kt),EN.ATM.CO2E.KT,69647.331
+824,Hungary,HUN,1989,CO2 emissions (kt),EN.ATM.CO2E.KT,76090.25
+825,Hungary,HUN,1988,CO2 emissions (kt),EN.ATM.CO2E.KT,78264.781
+826,Hungary,HUN,1987,CO2 emissions (kt),EN.ATM.CO2E.KT,84436.342
+827,Hungary,HUN,1986,CO2 emissions (kt),EN.ATM.CO2E.KT,83537.927
+828,Hungary,HUN,1985,CO2 emissions (kt),EN.ATM.CO2E.KT,86104.827
+829,Hungary,HUN,1984,CO2 emissions (kt),EN.ATM.CO2E.KT,90853.592
+830,Hungary,HUN,1983,CO2 emissions (kt),EN.ATM.CO2E.KT,89137.436
+831,Hungary,HUN,1982,CO2 emissions (kt),EN.ATM.CO2E.KT,86871.23
+832,Hungary,HUN,1981,CO2 emissions (kt),EN.ATM.CO2E.KT,86618.207
+833,Hungary,HUN,1980,CO2 emissions (kt),EN.ATM.CO2E.KT,86860.229
+834,Hungary,HUN,1979,CO2 emissions (kt),EN.ATM.CO2E.KT,86229.505
+835,Hungary,HUN,1978,CO2 emissions (kt),EN.ATM.CO2E.KT,88187.683
+836,Hungary,HUN,1977,CO2 emissions (kt),EN.ATM.CO2E.KT,83204.23
+837,Hungary,HUN,1976,CO2 emissions (kt),EN.ATM.CO2E.KT,80013.94
+838,Hungary,HUN,1975,CO2 emissions (kt),EN.ATM.CO2E.KT,75389.853
+839,Hungary,HUN,1974,CO2 emissions (kt),EN.ATM.CO2E.KT,74102.736
+840,Hungary,HUN,1973,CO2 emissions (kt),EN.ATM.CO2E.KT,73068.642
+841,Hungary,HUN,1972,CO2 emissions (kt),EN.ATM.CO2E.KT,69430.978
+842,Hungary,HUN,1971,CO2 emissions (kt),EN.ATM.CO2E.KT,69280.631
+843,Hungary,HUN,1970,CO2 emissions (kt),EN.ATM.CO2E.KT,70003.03
+844,Hungary,HUN,1969,CO2 emissions (kt),EN.ATM.CO2E.KT,62419.674
+845,Hungary,HUN,1968,CO2 emissions (kt),EN.ATM.CO2E.KT,61154.559
+846,Hungary,HUN,1967,CO2 emissions (kt),EN.ATM.CO2E.KT,58829.681
+847,Hungary,HUN,1966,CO2 emissions (kt),EN.ATM.CO2E.KT,61733.945
+848,Hungary,HUN,1965,CO2 emissions (kt),EN.ATM.CO2E.KT,61293.905
+849,Hungary,HUN,1964,CO2 emissions (kt),EN.ATM.CO2E.KT,62401.339
+850,Hungary,HUN,1963,CO2 emissions (kt),EN.ATM.CO2E.KT,56281.116
+851,Hungary,HUN,1962,CO2 emissions (kt),EN.ATM.CO2E.KT,50560.596
+852,Hungary,HUN,1961,CO2 emissions (kt),EN.ATM.CO2E.KT,48976.452
+853,Hungary,HUN,1960,CO2 emissions (kt),EN.ATM.CO2E.KT,45371.791
+854,Hungary,HUN,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,62988.3997990485
+855,Hungary,HUN,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,64385.0040495242
+856,Hungary,HUN,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,66250.7743
+857,Hungary,HUN,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,65812.1371
+858,Hungary,HUN,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,71578.8505
+859,Hungary,HUN,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,72331.2477
+860,Hungary,HUN,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,75140.63523
+861,Hungary,HUN,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,75543.75689
+862,Hungary,HUN,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,75935.9504
+863,Hungary,HUN,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,76989.2295
+864,Hungary,HUN,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,74621.9861
+865,Hungary,HUN,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,75969.172
+866,Hungary,HUN,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,75482.05879
+867,Hungary,HUN,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,78178.002
+868,Hungary,HUN,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,77888.806
+869,Hungary,HUN,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,78760.592
+870,Hungary,HUN,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,80713.521
+871,Hungary,HUN,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,77421.416
+872,Hungary,HUN,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,78548.093
+873,Hungary,HUN,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,79257.691
+874,Hungary,HUN,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,79814.797
+875,Hungary,HUN,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,90225.968
+876,Hungary,HUN,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,97552.24
+877,Hungary,HUN,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,105948.083
+878,Hungary,HUN,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,108640.726
+879,Hungary,HUN,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,112920.676
+880,Hungary,HUN,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,112806.429
+881,Hungary,HUN,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,115241.434
+882,Hungary,HUN,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,117357.257
+883,Hungary,HUN,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,115400.428
+884,Hungary,HUN,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,119291.03
+885,Hungary,HUN,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,120093.209
+886,Hungary,HUN,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,120487.627
+887,Hungary,HUN,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,121252.383
+888,Hungary,HUN,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,122214.556
+889,Hungary,HUN,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,113323.186
+890,Hungary,HUN,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,108311.853
+891,Hungary,HUN,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,103693.369
+892,Hungary,HUN,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,102087.795
+893,Hungary,HUN,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,98360.83
+894,Hungary,HUN,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,92174.362
+895,Hungary,HUN,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,90705.017
+896,Hungary,HUN,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,87733.157
+897,Hungary,HUN,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+898,Hungary,HUN,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+899,Hungary,HUN,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+900,Hungary,HUN,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+901,Hungary,HUN,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+902,Hungary,HUN,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+903,Hungary,HUN,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+904,Hungary,HUN,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+905,Hungary,HUN,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+906,Hungary,HUN,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+907,Hungary,HUN,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+908,Hungary,HUN,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+909,Hungary,HUN,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,13.6000003814697
+910,Hungary,HUN,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,13.6000003814697
+911,Hungary,HUN,2018,Aquaculture production (metric tons),ER.FSH.AQUA.MT,17852.298828125
+912,Hungary,HUN,2017,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18257.5
+913,Hungary,HUN,2016,Aquaculture production (metric tons),ER.FSH.AQUA.MT,16247.96875
+914,Hungary,HUN,2015,Aquaculture production (metric tons),ER.FSH.AQUA.MT,17337
+915,Hungary,HUN,2014,Aquaculture production (metric tons),ER.FSH.AQUA.MT,15326
+916,Hungary,HUN,2013,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14918
+917,Hungary,HUN,2012,Aquaculture production (metric tons),ER.FSH.AQUA.MT,15133
+918,Hungary,HUN,2011,Aquaculture production (metric tons),ER.FSH.AQUA.MT,15584
+919,Hungary,HUN,2010,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14245
+920,Hungary,HUN,2009,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14825
+921,Hungary,HUN,2008,Aquaculture production (metric tons),ER.FSH.AQUA.MT,15687
+922,Hungary,HUN,2007,Aquaculture production (metric tons),ER.FSH.AQUA.MT,15864
+923,Hungary,HUN,2006,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14686
+924,Hungary,HUN,2005,Aquaculture production (metric tons),ER.FSH.AQUA.MT,13661
+925,Hungary,HUN,2004,Aquaculture production (metric tons),ER.FSH.AQUA.MT,12744
+926,Hungary,HUN,2003,Aquaculture production (metric tons),ER.FSH.AQUA.MT,11870
+927,Hungary,HUN,2002,Aquaculture production (metric tons),ER.FSH.AQUA.MT,11574
+928,Hungary,HUN,2001,Aquaculture production (metric tons),ER.FSH.AQUA.MT,13056
+929,Hungary,HUN,2000,Aquaculture production (metric tons),ER.FSH.AQUA.MT,12886
+930,Hungary,HUN,1999,Aquaculture production (metric tons),ER.FSH.AQUA.MT,11947
+931,Hungary,HUN,1998,Aquaculture production (metric tons),ER.FSH.AQUA.MT,10222
+932,Hungary,HUN,1997,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9334
+933,Hungary,HUN,1996,Aquaculture production (metric tons),ER.FSH.AQUA.MT,8080
+934,Hungary,HUN,1995,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9360
+935,Hungary,HUN,1994,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9899
+936,Hungary,HUN,1993,Aquaculture production (metric tons),ER.FSH.AQUA.MT,9492
+937,Hungary,HUN,1992,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14230
+938,Hungary,HUN,1991,Aquaculture production (metric tons),ER.FSH.AQUA.MT,14434
+939,Hungary,HUN,1990,Aquaculture production (metric tons),ER.FSH.AQUA.MT,17600
+940,Hungary,HUN,1989,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20548
+941,Hungary,HUN,1988,Aquaculture production (metric tons),ER.FSH.AQUA.MT,17970
+942,Hungary,HUN,1987,Aquaculture production (metric tons),ER.FSH.AQUA.MT,17948
+943,Hungary,HUN,1986,Aquaculture production (metric tons),ER.FSH.AQUA.MT,16997
+944,Hungary,HUN,1985,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18315
+945,Hungary,HUN,1984,Aquaculture production (metric tons),ER.FSH.AQUA.MT,16473
+946,Hungary,HUN,1983,Aquaculture production (metric tons),ER.FSH.AQUA.MT,27790
+947,Hungary,HUN,1982,Aquaculture production (metric tons),ER.FSH.AQUA.MT,26180
+948,Hungary,HUN,1981,Aquaculture production (metric tons),ER.FSH.AQUA.MT,26330
+949,Hungary,HUN,1980,Aquaculture production (metric tons),ER.FSH.AQUA.MT,22570
+950,Hungary,HUN,1979,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21619
+951,Hungary,HUN,1978,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21787
+952,Hungary,HUN,1977,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21889
+953,Hungary,HUN,1976,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21923
+954,Hungary,HUN,1975,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21950
+955,Hungary,HUN,1974,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21791
+956,Hungary,HUN,1973,Aquaculture production (metric tons),ER.FSH.AQUA.MT,21626
+957,Hungary,HUN,1972,Aquaculture production (metric tons),ER.FSH.AQUA.MT,22600
+958,Hungary,HUN,1971,Aquaculture production (metric tons),ER.FSH.AQUA.MT,19000
+959,Hungary,HUN,1970,Aquaculture production (metric tons),ER.FSH.AQUA.MT,19500
+960,Hungary,HUN,1969,Aquaculture production (metric tons),ER.FSH.AQUA.MT,20300
+961,Hungary,HUN,1968,Aquaculture production (metric tons),ER.FSH.AQUA.MT,19800
+962,Hungary,HUN,1967,Aquaculture production (metric tons),ER.FSH.AQUA.MT,19230
+963,Hungary,HUN,1966,Aquaculture production (metric tons),ER.FSH.AQUA.MT,18590
+964,Hungary,HUN,1965,Aquaculture production (metric tons),ER.FSH.AQUA.MT,17280
+965,Hungary,HUN,1964,Aquaculture production (metric tons),ER.FSH.AQUA.MT,16100
+966,Hungary,HUN,1963,Aquaculture production (metric tons),ER.FSH.AQUA.MT,15150
+967,Hungary,HUN,1962,Aquaculture production (metric tons),ER.FSH.AQUA.MT,13750
+968,Hungary,HUN,1961,Aquaculture production (metric tons),ER.FSH.AQUA.MT,12500
+969,Hungary,HUN,1960,Aquaculture production (metric tons),ER.FSH.AQUA.MT,10000
+970,Hungary,HUN,2018,Total fisheries production (metric tons),ER.FSH.PROD.MT,23086.30078125
+971,Hungary,HUN,2017,Total fisheries production (metric tons),ER.FSH.PROD.MT,23864.5
+972,Hungary,HUN,2016,Total fisheries production (metric tons),ER.FSH.PROD.MT,21295.96875
+973,Hungary,HUN,2015,Total fisheries production (metric tons),ER.FSH.PROD.MT,23263
+974,Hungary,HUN,2014,Total fisheries production (metric tons),ER.FSH.PROD.MT,22789
+975,Hungary,HUN,2013,Total fisheries production (metric tons),ER.FSH.PROD.MT,21390
+976,Hungary,HUN,2012,Total fisheries production (metric tons),ER.FSH.PROD.MT,21850
+977,Hungary,HUN,2011,Total fisheries production (metric tons),ER.FSH.PROD.MT,22632
+978,Hungary,HUN,2010,Total fisheries production (metric tons),ER.FSH.PROD.MT,20461
+979,Hungary,HUN,2009,Total fisheries production (metric tons),ER.FSH.PROD.MT,21191
+980,Hungary,HUN,2008,Total fisheries production (metric tons),ER.FSH.PROD.MT,23081
+981,Hungary,HUN,2007,Total fisheries production (metric tons),ER.FSH.PROD.MT,22888
+982,Hungary,HUN,2006,Total fisheries production (metric tons),ER.FSH.PROD.MT,22229
+983,Hungary,HUN,2005,Total fisheries production (metric tons),ER.FSH.PROD.MT,21270
+984,Hungary,HUN,2004,Total fisheries production (metric tons),ER.FSH.PROD.MT,19986
+985,Hungary,HUN,2003,Total fisheries production (metric tons),ER.FSH.PROD.MT,18406
+986,Hungary,HUN,2002,Total fisheries production (metric tons),ER.FSH.PROD.MT,18324
+987,Hungary,HUN,2001,Total fisheries production (metric tons),ER.FSH.PROD.MT,19694
+988,Hungary,HUN,2000,Total fisheries production (metric tons),ER.FSH.PROD.MT,19987
+989,Hungary,HUN,1999,Total fisheries production (metric tons),ER.FSH.PROD.MT,19461
+990,Hungary,HUN,1998,Total fisheries production (metric tons),ER.FSH.PROD.MT,17487
+991,Hungary,HUN,1997,Total fisheries production (metric tons),ER.FSH.PROD.MT,16740
+992,Hungary,HUN,1996,Total fisheries production (metric tons),ER.FSH.PROD.MT,15686
+993,Hungary,HUN,1995,Total fisheries production (metric tons),ER.FSH.PROD.MT,16674
+994,Hungary,HUN,1994,Total fisheries production (metric tons),ER.FSH.PROD.MT,18206
+995,Hungary,HUN,1993,Total fisheries production (metric tons),ER.FSH.PROD.MT,17378
+996,Hungary,HUN,1992,Total fisheries production (metric tons),ER.FSH.PROD.MT,22908
+997,Hungary,HUN,1991,Total fisheries production (metric tons),ER.FSH.PROD.MT,22879
+998,Hungary,HUN,1990,Total fisheries production (metric tons),ER.FSH.PROD.MT,33834
+999,Hungary,HUN,1989,Total fisheries production (metric tons),ER.FSH.PROD.MT,35517
+1000,Hungary,HUN,1988,Total fisheries production (metric tons),ER.FSH.PROD.MT,38294
+1001,Hungary,HUN,1987,Total fisheries production (metric tons),ER.FSH.PROD.MT,36759
+1002,Hungary,HUN,1986,Total fisheries production (metric tons),ER.FSH.PROD.MT,36062
+1003,Hungary,HUN,1985,Total fisheries production (metric tons),ER.FSH.PROD.MT,36927
+1004,Hungary,HUN,1984,Total fisheries production (metric tons),ER.FSH.PROD.MT,39177
+1005,Hungary,HUN,1983,Total fisheries production (metric tons),ER.FSH.PROD.MT,44037
+1006,Hungary,HUN,1982,Total fisheries production (metric tons),ER.FSH.PROD.MT,42152
+1007,Hungary,HUN,1981,Total fisheries production (metric tons),ER.FSH.PROD.MT,39319
+1008,Hungary,HUN,1980,Total fisheries production (metric tons),ER.FSH.PROD.MT,33733
+1009,Hungary,HUN,1979,Total fisheries production (metric tons),ER.FSH.PROD.MT,32838
+1010,Hungary,HUN,1978,Total fisheries production (metric tons),ER.FSH.PROD.MT,32589
+1011,Hungary,HUN,1977,Total fisheries production (metric tons),ER.FSH.PROD.MT,34661
+1012,Hungary,HUN,1976,Total fisheries production (metric tons),ER.FSH.PROD.MT,31855
+1013,Hungary,HUN,1975,Total fisheries production (metric tons),ER.FSH.PROD.MT,30788
+1014,Hungary,HUN,1974,Total fisheries production (metric tons),ER.FSH.PROD.MT,30159
+1015,Hungary,HUN,1973,Total fisheries production (metric tons),ER.FSH.PROD.MT,29100
+1016,Hungary,HUN,1972,Total fisheries production (metric tons),ER.FSH.PROD.MT,28900
+1017,Hungary,HUN,1971,Total fisheries production (metric tons),ER.FSH.PROD.MT,25800
+1018,Hungary,HUN,1970,Total fisheries production (metric tons),ER.FSH.PROD.MT,26000
+1019,Hungary,HUN,1969,Total fisheries production (metric tons),ER.FSH.PROD.MT,27800
+1020,Hungary,HUN,1968,Total fisheries production (metric tons),ER.FSH.PROD.MT,29900
+1021,Hungary,HUN,1967,Total fisheries production (metric tons),ER.FSH.PROD.MT,28200
+1022,Hungary,HUN,1966,Total fisheries production (metric tons),ER.FSH.PROD.MT,26600
+1023,Hungary,HUN,1965,Total fisheries production (metric tons),ER.FSH.PROD.MT,24800
+1024,Hungary,HUN,1964,Total fisheries production (metric tons),ER.FSH.PROD.MT,22700
+1025,Hungary,HUN,1963,Total fisheries production (metric tons),ER.FSH.PROD.MT,22000
+1026,Hungary,HUN,1962,Total fisheries production (metric tons),ER.FSH.PROD.MT,21000
+1027,Hungary,HUN,1961,Total fisheries production (metric tons),ER.FSH.PROD.MT,19300
+1028,Hungary,HUN,1960,Total fisheries production (metric tons),ER.FSH.PROD.MT,14900
+1029,Hungary,HUN,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,22.5975581595624
+1030,Hungary,HUN,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,22.5975581595624
+1031,Hungary,HUN,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,22.6
+1032,Hungary,HUN,2017,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,89.5727619781719
+1033,Hungary,HUN,2016,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,86.7582429060427
+1034,Hungary,HUN,2015,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,83.9696343908839
+1035,Hungary,HUN,2014,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,81.1810443493946
+1036,Hungary,HUN,2013,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,78.3924748112649
+1037,Hungary,HUN,2012,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,75.6039120871329
+1038,Hungary,HUN,2011,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,72.8153395050272
+1039,Hungary,HUN,2010,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,70.026690471799
+1040,Hungary,HUN,2009,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,67.238067185098
+1041,Hungary,HUN,2008,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,64.4494232946731
+1042,Hungary,HUN,2007,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,61.660808371872
+1043,Hungary,HUN,2006,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,58.8722158476574
+1044,Hungary,HUN,2005,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,56.0836562135851
+1045,Hungary,HUN,2004,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,53.2951545955072
+1046,Hungary,HUN,2003,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,50.5067106862397
+1047,Hungary,HUN,2002,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,50.5065046174722
+1048,Hungary,HUN,2001,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,50.5059221477218
+1049,Hungary,HUN,2000,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,50.5058731425204
+1050,Hungary,HUN,2017,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,95.6787478313046
+1051,Hungary,HUN,2016,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,95.7220134191013
+1052,Hungary,HUN,2015,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,95.7649238498557
+1053,Hungary,HUN,2014,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,95.8074158115245
+1054,Hungary,HUN,2013,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,95.849740346092
+1055,Hungary,HUN,2012,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,95.8918801948641
+1056,Hungary,HUN,2011,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,95.9352965693503
+1057,Hungary,HUN,2010,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,95.9825810234699
+1058,Hungary,HUN,2009,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.0296581715195
+1059,Hungary,HUN,2008,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.0784773251926
+1060,Hungary,HUN,2007,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.1270640087476
+1061,Hungary,HUN,2006,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.1753697964766
+1062,Hungary,HUN,2005,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.2234064347334
+1063,Hungary,HUN,2004,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.2691933975956
+1064,Hungary,HUN,2003,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.312777999671
+1065,Hungary,HUN,2002,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.3560864478405
+1066,Hungary,HUN,2001,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.3991691143229
+1067,Hungary,HUN,2000,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,96.4328934786755
+1068,Hungary,HUN,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+1069,Hungary,HUN,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+1070,Hungary,HUN,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+1071,Hungary,HUN,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+1072,Hungary,HUN,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+1073,Hungary,HUN,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,9
+1074,Hungary,HUN,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,6
+1075,Hungary,HUN,2016,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.6
+1076,Hungary,HUN,2015,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.9
+1077,Hungary,HUN,2014,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.4
+1078,Hungary,HUN,2013,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.1
+1079,Hungary,HUN,2012,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.9
+1080,Hungary,HUN,2011,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.9
+1081,Hungary,HUN,2010,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,24.9
+1082,Hungary,HUN,2009,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.1
+1083,Hungary,HUN,2008,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.4
+1084,Hungary,HUN,2007,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.6
+1085,Hungary,HUN,2006,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,25.9
+1086,Hungary,HUN,2005,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.1
+1087,Hungary,HUN,2004,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.2
+1088,Hungary,HUN,2003,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.4
+1089,Hungary,HUN,2002,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.5
+1090,Hungary,HUN,2001,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.7
+1091,Hungary,HUN,2000,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,26.9
+1092,Hungary,HUN,1999,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.1
+1093,Hungary,HUN,1998,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.4
+1094,Hungary,HUN,1997,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,27.8
+1095,Hungary,HUN,1996,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.3
+1096,Hungary,HUN,1995,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,28.9
+1097,Hungary,HUN,1994,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,29.6
+1098,Hungary,HUN,1993,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,30.4
+1099,Hungary,HUN,1992,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,31.4
+1100,Hungary,HUN,1991,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,32.4
+1101,Hungary,HUN,1990,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,33.6
+1102,Hungary,HUN,2018,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.01
+1103,Hungary,HUN,2017,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.02
+1104,Hungary,HUN,2016,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7
+1105,Hungary,HUN,2015,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.99
+1106,Hungary,HUN,2014,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,6.98
+1107,Hungary,HUN,2013,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.04
+1108,Hungary,HUN,2012,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7
+1109,Hungary,HUN,2011,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.19
+1110,Hungary,HUN,2010,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.18
+1111,Hungary,HUN,2009,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.14
+1112,Hungary,HUN,2008,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.11
+1113,Hungary,HUN,2007,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.19
+1114,Hungary,HUN,2006,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.98
+1115,Hungary,HUN,2005,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.91
+1116,Hungary,HUN,2004,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.89
+1117,Hungary,HUN,2003,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.9
+1118,Hungary,HUN,2002,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.91
+1119,Hungary,HUN,2001,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,7.92
+1120,Hungary,HUN,2000,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.16
+1121,Hungary,HUN,1999,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.1000003815
+1122,Hungary,HUN,1998,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.1000003815
+1123,Hungary,HUN,1997,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8
+1124,Hungary,HUN,1996,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.8000001907
+1125,Hungary,HUN,1995,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,8.8000001907
+1126,Hungary,HUN,1994,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,9.3000001907
+1127,Hungary,HUN,2019,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,16.6
+1128,Hungary,HUN,2018,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.7
+1129,Hungary,HUN,2017,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,17.5
+1130,Hungary,HUN,2016,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,18.7
+1131,Hungary,HUN,2015,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,19.9
+1132,Hungary,HUN,2014,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,20.4
+1133,Hungary,HUN,2013,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,22.1
+1134,Hungary,HUN,2012,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,24.8
+1135,Hungary,HUN,2011,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,25.1
+1136,Hungary,HUN,2010,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,25.5
+1137,Hungary,HUN,2009,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,25.4
+1138,Hungary,HUN,2008,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,25.4
+1139,Hungary,HUN,2007,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,25
+1140,Hungary,HUN,2006,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,24.9
+1141,Hungary,HUN,2005,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,26.4
+1142,Hungary,HUN,2004,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,27.5
+1143,Hungary,HUN,2003,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,28
+1144,Hungary,HUN,2002,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,28.6
+1145,Hungary,HUN,2001,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,29.8
+1146,Hungary,HUN,2000,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,33.4
+1147,Hungary,HUN,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.7
+1148,Hungary,HUN,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.1
+1149,Hungary,HUN,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8
+1150,Hungary,HUN,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.8
+1151,Hungary,HUN,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.8
+1152,Hungary,HUN,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8
+1153,Hungary,HUN,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.8
+1154,Hungary,HUN,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.2
+1155,Hungary,HUN,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.5
+1156,Hungary,HUN,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,9.2
+1157,Hungary,HUN,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,10.4
+1158,Hungary,HUN,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.3
+1159,Hungary,HUN,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.7
+1160,Hungary,HUN,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.3
+1161,Hungary,HUN,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.8
+1162,Hungary,HUN,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.2
+1163,Hungary,HUN,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.1
+1164,Hungary,HUN,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.1
+1165,Hungary,HUN,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.5
+1166,Hungary,HUN,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.7
+1167,Hungary,HUN,2018,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.70007229
+1168,Hungary,HUN,2017,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.79227543
+1169,Hungary,HUN,2016,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.04818678
+1170,Hungary,HUN,2015,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.88948917
+1171,Hungary,HUN,2014,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.07047558
+1172,Hungary,HUN,2013,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.24911928
+1173,Hungary,HUN,2012,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.44883251
+1174,Hungary,HUN,2011,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.52545595
+1175,Hungary,HUN,2010,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.5076437
+1176,Hungary,HUN,2009,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.2392807
+1177,Hungary,HUN,2008,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.09688091
+1178,Hungary,HUN,2007,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.21529293
+1179,Hungary,HUN,2006,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.78737354
+1180,Hungary,HUN,2005,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.00078201
+1181,Hungary,HUN,2004,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.77005482
+1182,Hungary,HUN,2003,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.11923409
+1183,Hungary,HUN,2002,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.12101698
+1184,Hungary,HUN,2001,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.82614756
+1185,Hungary,HUN,2000,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.77804375
+1186,Hungary,HUN,2018,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.10057831
+1187,Hungary,HUN,2017,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,68.67481995
+1188,Hungary,HUN,2016,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,67.71108246
+1189,Hungary,HUN,2015,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,67.78528595
+1190,Hungary,HUN,2014,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,66.72171021
+1191,Hungary,HUN,2013,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,66.20976257
+1192,Hungary,HUN,2012,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,64.84033203
+1193,Hungary,HUN,2011,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,66.21702576
+1194,Hungary,HUN,2010,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,66.6255722
+1195,Hungary,HUN,2009,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,67.98168182
+1196,Hungary,HUN,2008,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,67.74672699
+1197,Hungary,HUN,2007,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,67.78857422
+1198,Hungary,HUN,2006,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.35379028
+1199,Hungary,HUN,2005,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,70.15788269
+1200,Hungary,HUN,2004,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.62472534
+1201,Hungary,HUN,2003,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.98188782
+1202,Hungary,HUN,2002,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,69.24011993
+1203,Hungary,HUN,2001,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,66.90215302
+1204,Hungary,HUN,2000,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,68.84632111
+1205,Hungary,HUN,2019,Refugee population by country or territory of asylum,SM.POP.REFG,5750
+1206,Hungary,HUN,2018,Refugee population by country or territory of asylum,SM.POP.REFG,6019
+1207,Hungary,HUN,2017,Refugee population by country or territory of asylum,SM.POP.REFG,5671
+1208,Hungary,HUN,2016,Refugee population by country or territory of asylum,SM.POP.REFG,4736
+1209,Hungary,HUN,2015,Refugee population by country or territory of asylum,SM.POP.REFG,4383
+1210,Hungary,HUN,2014,Refugee population by country or territory of asylum,SM.POP.REFG,2854
+1211,Hungary,HUN,2013,Refugee population by country or territory of asylum,SM.POP.REFG,2422
+1212,Hungary,HUN,2012,Refugee population by country or territory of asylum,SM.POP.REFG,4034
+1213,Hungary,HUN,2011,Refugee population by country or territory of asylum,SM.POP.REFG,5085
+1214,Hungary,HUN,2010,Refugee population by country or territory of asylum,SM.POP.REFG,5400
+1215,Hungary,HUN,2009,Refugee population by country or territory of asylum,SM.POP.REFG,6041
+1216,Hungary,HUN,2008,Refugee population by country or territory of asylum,SM.POP.REFG,7740
+1217,Hungary,HUN,2007,Refugee population by country or territory of asylum,SM.POP.REFG,8124
+1218,Hungary,HUN,2006,Refugee population by country or territory of asylum,SM.POP.REFG,8068
+1219,Hungary,HUN,2005,Refugee population by country or territory of asylum,SM.POP.REFG,8040
+1220,Hungary,HUN,2004,Refugee population by country or territory of asylum,SM.POP.REFG,7702
+1221,Hungary,HUN,2003,Refugee population by country or territory of asylum,SM.POP.REFG,7013
+1222,Hungary,HUN,2002,Refugee population by country or territory of asylum,SM.POP.REFG,6075
+1223,Hungary,HUN,2001,Refugee population by country or territory of asylum,SM.POP.REFG,4700
+1224,Hungary,HUN,2000,Refugee population by country or territory of asylum,SM.POP.REFG,5053
+1225,Hungary,HUN,1999,Refugee population by country or territory of asylum,SM.POP.REFG,4980
+1226,Hungary,HUN,1998,Refugee population by country or territory of asylum,SM.POP.REFG,3504
+1227,Hungary,HUN,1997,Refugee population by country or territory of asylum,SM.POP.REFG,5890
+1228,Hungary,HUN,1996,Refugee population by country or territory of asylum,SM.POP.REFG,7537
+1229,Hungary,HUN,1995,Refugee population by country or territory of asylum,SM.POP.REFG,11394
+1230,Hungary,HUN,1994,Refugee population by country or territory of asylum,SM.POP.REFG,2904
+1231,Hungary,HUN,1993,Refugee population by country or territory of asylum,SM.POP.REFG,3019
+1232,Hungary,HUN,1992,Refugee population by country or territory of asylum,SM.POP.REFG,32412
+1233,Hungary,HUN,1991,Refugee population by country or territory of asylum,SM.POP.REFG,73838
+1234,Hungary,HUN,1990,Refugee population by country or territory of asylum,SM.POP.REFG,45123
+1235,Hungary,HUN,1989,Refugee population by country or territory of asylum,SM.POP.REFG,27000
+1236,Hungary,HUN,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1237,Hungary,HUN,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1238,Hungary,HUN,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1239,Hungary,HUN,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1240,Hungary,HUN,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1241,Hungary,HUN,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1242,Hungary,HUN,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1243,Hungary,HUN,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1244,Hungary,HUN,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1245,Hungary,HUN,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1246,Hungary,HUN,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1247,Hungary,HUN,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1248,Hungary,HUN,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1249,Hungary,HUN,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1250,Hungary,HUN,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1251,Hungary,HUN,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1252,Hungary,HUN,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1253,Hungary,HUN,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+1254,Hungary,HUN,2019,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+1255,Hungary,HUN,2018,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.6
+1256,Hungary,HUN,2017,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.7
+1257,Hungary,HUN,2016,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.7
+1258,Hungary,HUN,2015,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+1259,Hungary,HUN,2014,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+1260,Hungary,HUN,2013,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+1261,Hungary,HUN,2012,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.1
+1262,Hungary,HUN,2011,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,8.8
+1263,Hungary,HUN,2010,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9
+1264,Hungary,HUN,2009,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.6
+1265,Hungary,HUN,2008,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1266,Hungary,HUN,2007,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.7
+1267,Hungary,HUN,2006,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.9
+1268,Hungary,HUN,2005,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.7
+1269,Hungary,HUN,2004,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.4
+1270,Hungary,HUN,2003,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.3
+1271,Hungary,HUN,2002,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+1272,Hungary,HUN,2001,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+1273,Hungary,HUN,2000,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.6
+1274,Hungary,HUN,1999,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.2
+1275,Hungary,HUN,1998,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.5
+1276,Hungary,HUN,1997,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,9.8
+1277,Hungary,HUN,1996,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.2
+1278,Hungary,HUN,1995,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,10.8
+1279,Hungary,HUN,1994,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.2
+1280,Hungary,HUN,1993,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.3
+1281,Hungary,HUN,1992,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.7
+1282,Hungary,HUN,1991,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.3
+1283,Hungary,HUN,1990,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.1
+1284,Hungary,HUN,1989,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.8
+1285,Hungary,HUN,1988,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.7
+1286,Hungary,HUN,1987,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.9
+1287,Hungary,HUN,1986,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.1
+1288,Hungary,HUN,1985,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.2
+1289,Hungary,HUN,1984,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.8
+1290,Hungary,HUN,1983,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,11.9
+1291,Hungary,HUN,1982,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.5
+1292,Hungary,HUN,1981,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.3
+1293,Hungary,HUN,1980,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.9
+1294,Hungary,HUN,1979,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15
+1295,Hungary,HUN,1978,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.7
+1296,Hungary,HUN,1977,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,16.7
+1297,Hungary,HUN,1976,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.5
+1298,Hungary,HUN,1975,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,18.4
+1299,Hungary,HUN,1974,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.8
+1300,Hungary,HUN,1973,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15
+1301,Hungary,HUN,1972,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.7
+1302,Hungary,HUN,1971,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.5
+1303,Hungary,HUN,1970,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.7
+1304,Hungary,HUN,1969,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15
+1305,Hungary,HUN,1968,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,15.1
+1306,Hungary,HUN,1967,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.6
+1307,Hungary,HUN,1966,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.6
+1308,Hungary,HUN,1965,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.1
+1309,Hungary,HUN,1964,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.1
+1310,Hungary,HUN,1963,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,13.1
+1311,Hungary,HUN,1962,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,12.9
+1312,Hungary,HUN,1961,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14
+1313,Hungary,HUN,1960,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,14.7
+1314,Hungary,HUN,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.0219512195122
+1315,Hungary,HUN,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.0658536585366
+1316,Hungary,HUN,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.8170731707317
+1317,Hungary,HUN,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.0634146341464
+1318,Hungary,HUN,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.5682926829269
+1319,Hungary,HUN,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.7634146341463
+1320,Hungary,HUN,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.5658536585366
+1321,Hungary,HUN,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.0634146341463
+1322,Hungary,HUN,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.8585365853659
+1323,Hungary,HUN,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.2073170731707
+1324,Hungary,HUN,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.9048780487805
+1325,Hungary,HUN,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.7024390243903
+1326,Hungary,HUN,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.1512195121951
+1327,Hungary,HUN,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.0975609756098
+1328,Hungary,HUN,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.6487804878049
+1329,Hungary,HUN,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.6487804878049
+1330,Hungary,HUN,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.3
+1331,Hungary,HUN,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.3487804878049
+1332,Hungary,HUN,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.2487804878049
+1333,Hungary,HUN,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.2463414634146
+1334,Hungary,HUN,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.6770731707317
+1335,Hungary,HUN,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.5578048780488
+1336,Hungary,HUN,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.7024390243902
+1337,Hungary,HUN,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.3287804878049
+1338,Hungary,HUN,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.7917073170732
+1339,Hungary,HUN,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.469756097561
+1340,Hungary,HUN,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1012195121951
+1341,Hungary,HUN,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1170731707317
+1342,Hungary,HUN,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3770731707317
+1343,Hungary,HUN,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3156097560976
+1344,Hungary,HUN,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.4617073170732
+1345,Hungary,HUN,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.0234146341463
+1346,Hungary,HUN,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.6512195121951
+1347,Hungary,HUN,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1734146341463
+1348,Hungary,HUN,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9721951219512
+1349,Hungary,HUN,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0258536585366
+1350,Hungary,HUN,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9736585365854
+1351,Hungary,HUN,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3578048780488
+1352,Hungary,HUN,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1392682926829
+1353,Hungary,HUN,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0617073170732
+1354,Hungary,HUN,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.6153658536585
+1355,Hungary,HUN,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3939024390244
+1356,Hungary,HUN,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8480487804878
+1357,Hungary,HUN,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.5731707317073
+1358,Hungary,HUN,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.29
+1359,Hungary,HUN,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.2480487804878
+1360,Hungary,HUN,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.5180487804878
+1361,Hungary,HUN,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.6646341463415
+1362,Hungary,HUN,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0524390243903
+1363,Hungary,HUN,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.1646341463415
+1364,Hungary,HUN,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3146341463415
+1365,Hungary,HUN,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.230243902439
+1366,Hungary,HUN,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.4070731707317
+1367,Hungary,HUN,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.8224390243902
+1368,Hungary,HUN,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.0712195121951
+1369,Hungary,HUN,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.3809756097561
+1370,Hungary,HUN,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.8741463414634
+1371,Hungary,HUN,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.8658536585366
+1372,Hungary,HUN,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.9360975609756
+1373,Hungary,HUN,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.0031707317073
+1374,Hungary,HUN,2019,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.6944576067002
+1375,Hungary,HUN,2018,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,19.1577253832321
+1376,Hungary,HUN,2017,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.5778610772262
+1377,Hungary,HUN,2016,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,18.0023428748664
+1378,Hungary,HUN,2015,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.4688019122261
+1379,Hungary,HUN,2014,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,17.1076648617016
+1380,Hungary,HUN,2013,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.8192490423201
+1381,Hungary,HUN,2012,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.5823563986627
+1382,Hungary,HUN,2011,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.3513270437201
+1383,Hungary,HUN,2010,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.0923990946243
+1384,Hungary,HUN,2009,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,16.0386041824243
+1385,Hungary,HUN,2008,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.9524140983862
+1386,Hungary,HUN,2007,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.8380227588397
+1387,Hungary,HUN,2006,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.720132745233
+1388,Hungary,HUN,2005,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.6187372576291
+1389,Hungary,HUN,2004,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.5140056631681
+1390,Hungary,HUN,2003,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.4372271440999
+1391,Hungary,HUN,2002,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.3663372997486
+1392,Hungary,HUN,2001,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.2625965951269
+1393,Hungary,HUN,2000,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,15.0971962545498
+1394,Hungary,HUN,1999,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.9976642571635
+1395,Hungary,HUN,1998,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.8552249396426
+1396,Hungary,HUN,1997,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.6770522909294
+1397,Hungary,HUN,1996,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.4757590477305
+1398,Hungary,HUN,1995,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.2604206544557
+1399,Hungary,HUN,1994,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.1565350475801
+1400,Hungary,HUN,1993,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,14.0344602496017
+1401,Hungary,HUN,1992,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.8833274976133
+1402,Hungary,HUN,1991,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.6936436371188
+1403,Hungary,HUN,1990,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.4572184987054
+1404,Hungary,HUN,1989,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.2362631414702
+1405,Hungary,HUN,1988,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.9392921184953
+1406,Hungary,HUN,1987,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6089259412435
+1407,Hungary,HUN,1986,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.3175316663452
+1408,Hungary,HUN,1985,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.1186244259238
+1409,Hungary,HUN,1984,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2888335632846
+1410,Hungary,HUN,1983,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6177899273854
+1411,Hungary,HUN,1982,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.0289560871856
+1412,Hungary,HUN,1981,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.3890061314025
+1413,Hungary,HUN,1980,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.6005960786239
+1414,Hungary,HUN,1979,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.6619228425462
+1415,Hungary,HUN,1978,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.5517088560778
+1416,Hungary,HUN,1977,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,13.3037347970143
+1417,Hungary,HUN,1976,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.997072873565
+1418,Hungary,HUN,1975,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.6918677886305
+1419,Hungary,HUN,1974,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.4597386866127
+1420,Hungary,HUN,1973,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.2379875746808
+1421,Hungary,HUN,1972,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,12.0238505609871
+1422,Hungary,HUN,1971,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.8081366055889
+1423,Hungary,HUN,1970,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.5828365620452
+1424,Hungary,HUN,1969,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.3528880896133
+1425,Hungary,HUN,1968,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,11.1219050073636
+1426,Hungary,HUN,1967,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.8814636465255
+1427,Hungary,HUN,1966,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.6181906025405
+1428,Hungary,HUN,1965,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.3213446008127
+1429,Hungary,HUN,1964,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,10.0530377726484
+1430,Hungary,HUN,1963,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.77919312015251
+1431,Hungary,HUN,1962,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.50667850599826
+1432,Hungary,HUN,1961,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.24230944082437
+1433,Hungary,HUN,1960,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,8.9891864748644
+1434,Hungary,HUN,2019,Population growth (annual %),SP.POP.GROW,-0.0452557101106228
+1435,Hungary,HUN,2018,Population growth (annual %),SP.POP.GROW,-0.126786951652838
+1436,Hungary,HUN,2017,Population growth (annual %),SP.POP.GROW,-0.265860932255517
+1437,Hungary,HUN,2016,Population growth (annual %),SP.POP.GROW,-0.295110604845478
+1438,Hungary,HUN,2015,Population growth (annual %),SP.POP.GROW,-0.237855001984657
+1439,Hungary,HUN,2014,Population growth (annual %),SP.POP.GROW,-0.269378767165116
+1440,Hungary,HUN,2013,Population growth (annual %),SP.POP.GROW,-0.27536875707442
+1441,Hungary,HUN,2012,Population growth (annual %),SP.POP.GROW,-0.516437606548041
+1442,Hungary,HUN,2011,Population growth (annual %),SP.POP.GROW,-0.283360435946948
+1443,Hungary,HUN,2010,Population growth (annual %),SP.POP.GROW,-0.226013875689698
+1444,Hungary,HUN,2009,Population growth (annual %),SP.POP.GROW,-0.154908813950621
+1445,Hungary,HUN,2008,Population growth (annual %),SP.POP.GROW,-0.17509736747488
+1446,Hungary,HUN,2007,Population growth (annual %),SP.POP.GROW,-0.154915158060948
+1447,Hungary,HUN,2006,Population growth (annual %),SP.POP.GROW,-0.155716484651578
+1448,Hungary,HUN,2005,Population growth (annual %),SP.POP.GROW,-0.198878843237103
+1449,Hungary,HUN,2004,Population growth (annual %),SP.POP.GROW,-0.221439378654807
+1450,Hungary,HUN,2003,Population growth (annual %),SP.POP.GROW,-0.286433268128688
+1451,Hungary,HUN,2002,Population growth (annual %),SP.POP.GROW,-0.28475137719698
+1452,Hungary,HUN,2001,Population growth (annual %),SP.POP.GROW,-0.229379183308447
+1453,Hungary,HUN,2000,Population growth (annual %),SP.POP.GROW,-0.259764908288633
+1454,Hungary,HUN,1999,Population growth (annual %),SP.POP.GROW,-0.283260610485194
+1455,Hungary,HUN,1998,Population growth (annual %),SP.POP.GROW,-0.232679336866497
+1456,Hungary,HUN,1997,Population growth (annual %),SP.POP.GROW,-0.201458936335808
+1457,Hungary,HUN,1996,Population growth (annual %),SP.POP.GROW,-0.171771608629025
+1458,Hungary,HUN,1995,Population growth (annual %),SP.POP.GROW,-0.139220003601429
+1459,Hungary,HUN,1994,Population growth (annual %),SP.POP.GROW,-0.13688310430324
+1460,Hungary,HUN,1993,Population growth (annual %),SP.POP.GROW,-0.114035594392761
+1461,Hungary,HUN,1992,Population growth (annual %),SP.POP.GROW,-0.0391365832684134
+1462,Hungary,HUN,1991,Population growth (annual %),SP.POP.GROW,-0.00566818338922841
+1463,Hungary,HUN,1990,Population growth (annual %),SP.POP.GROW,-1.03311729690015
+1464,Hungary,HUN,1989,Population growth (annual %),SP.POP.GROW,-1.08898389340205
+1465,Hungary,HUN,1988,Population growth (annual %),SP.POP.GROW,-0.153272935554963
+1466,Hungary,HUN,1987,Population growth (annual %),SP.POP.GROW,-0.167798788201122
+1467,Hungary,HUN,1986,Population growth (annual %),SP.POP.GROW,-0.170579145153423
+1468,Hungary,HUN,1985,Population growth (annual %),SP.POP.GROW,-0.181847163431744
+1469,Hungary,HUN,1984,Population growth (annual %),SP.POP.GROW,-0.20009784947921
+1470,Hungary,HUN,1983,Population growth (annual %),SP.POP.GROW,-0.150240752751468
+1471,Hungary,HUN,1982,Population growth (annual %),SP.POP.GROW,-0.0589521155113363
+1472,Hungary,HUN,1981,Population growth (annual %),SP.POP.GROW,0.00677777171213337
+1473,Hungary,HUN,1980,Population growth (annual %),SP.POP.GROW,0.0650937293271125
+1474,Hungary,HUN,1979,Population growth (annual %),SP.POP.GROW,0.180747381922393
+1475,Hungary,HUN,1978,Population growth (annual %),SP.POP.GROW,0.344923733135305
+1476,Hungary,HUN,1977,Population growth (annual %),SP.POP.GROW,0.464581042574049
+1477,Hungary,HUN,1976,Population growth (annual %),SP.POP.GROW,0.550182988827917
+1478,Hungary,HUN,1975,Population growth (annual %),SP.POP.GROW,0.588081809047071
+1479,Hungary,HUN,1974,Population growth (annual %),SP.POP.GROW,0.446325661927294
+1480,Hungary,HUN,1973,Population growth (annual %),SP.POP.GROW,0.32227702792653
+1481,Hungary,HUN,1972,Population growth (annual %),SP.POP.GROW,0.298102515341836
+1482,Hungary,HUN,1971,Population growth (annual %),SP.POP.GROW,0.286176098681919
+1483,Hungary,HUN,1970,Population growth (annual %),SP.POP.GROW,0.379781402332206
+1484,Hungary,HUN,1969,Population growth (annual %),SP.POP.GROW,0.417504517274341
+1485,Hungary,HUN,1968,Population growth (annual %),SP.POP.GROW,0.3830621867148
+1486,Hungary,HUN,1967,Population growth (annual %),SP.POP.GROW,0.372155583052453
+1487,Hungary,HUN,1966,Population growth (annual %),SP.POP.GROW,0.302244758289581
+1488,Hungary,HUN,1965,Population growth (annual %),SP.POP.GROW,0.277287713495036
+1489,Hungary,HUN,1964,Population growth (annual %),SP.POP.GROW,0.31560144966103
+1490,Hungary,HUN,1963,Population growth (annual %),SP.POP.GROW,0.260182925848219
+1491,Hungary,HUN,1962,Population growth (annual %),SP.POP.GROW,0.322661285045066
+1492,Hungary,HUN,1961,Population growth (annual %),SP.POP.GROW,0.453239643988489
+1493,Hungary,HUN,2019,"Population, total",SP.POP.TOTL,9771141
+1494,Hungary,HUN,2018,"Population, total",SP.POP.TOTL,9775564
+1495,Hungary,HUN,2017,"Population, total",SP.POP.TOTL,9787966
+1496,Hungary,HUN,2016,"Population, total",SP.POP.TOTL,9814023
+1497,Hungary,HUN,2015,"Population, total",SP.POP.TOTL,9843028
+1498,Hungary,HUN,2014,"Population, total",SP.POP.TOTL,9866468
+1499,Hungary,HUN,2013,"Population, total",SP.POP.TOTL,9893082
+1500,Hungary,HUN,2012,"Population, total",SP.POP.TOTL,9920362
+1501,Hungary,HUN,2011,"Population, total",SP.POP.TOTL,9971727
+1502,Hungary,HUN,2010,"Population, total",SP.POP.TOTL,10000023
+1503,Hungary,HUN,2009,"Population, total",SP.POP.TOTL,10022650
+1504,Hungary,HUN,2008,"Population, total",SP.POP.TOTL,10038188
+1505,Hungary,HUN,2007,"Population, total",SP.POP.TOTL,10055780
+1506,Hungary,HUN,2006,"Population, total",SP.POP.TOTL,10071370
+1507,Hungary,HUN,2005,"Population, total",SP.POP.TOTL,10087065
+1508,Hungary,HUN,2004,"Population, total",SP.POP.TOTL,10107146
+1509,Hungary,HUN,2003,"Population, total",SP.POP.TOTL,10129552
+1510,Hungary,HUN,2002,"Population, total",SP.POP.TOTL,10158608
+1511,Hungary,HUN,2001,"Population, total",SP.POP.TOTL,10187576
+1512,Hungary,HUN,2000,"Population, total",SP.POP.TOTL,10210971
+1513,Hungary,HUN,1999,"Population, total",SP.POP.TOTL,10237530
+1514,Hungary,HUN,1998,"Population, total",SP.POP.TOTL,10266570
+1515,Hungary,HUN,1997,"Population, total",SP.POP.TOTL,10290486
+1516,Hungary,HUN,1996,"Population, total",SP.POP.TOTL,10311238
+1517,Hungary,HUN,1995,"Population, total",SP.POP.TOTL,10328965
+1518,Hungary,HUN,1994,"Population, total",SP.POP.TOTL,10343355
+1519,Hungary,HUN,1993,"Population, total",SP.POP.TOTL,10357523
+1520,Hungary,HUN,1992,"Population, total",SP.POP.TOTL,10369341
+1521,Hungary,HUN,1991,"Population, total",SP.POP.TOTL,10373400
+1522,Hungary,HUN,1990,"Population, total",SP.POP.TOTL,10373988
+1523,Hungary,HUN,1989,"Population, total",SP.POP.TOTL,10481719
+1524,Hungary,HUN,1988,"Population, total",SP.POP.TOTL,10596487
+1525,Hungary,HUN,1987,"Population, total",SP.POP.TOTL,10612741
+1526,Hungary,HUN,1986,"Population, total",SP.POP.TOTL,10630564
+1527,Hungary,HUN,1985,"Population, total",SP.POP.TOTL,10648713
+1528,Hungary,HUN,1984,"Population, total",SP.POP.TOTL,10668095
+1529,Hungary,HUN,1983,"Population, total",SP.POP.TOTL,10689463
+1530,Hungary,HUN,1982,"Population, total",SP.POP.TOTL,10705535
+1531,Hungary,HUN,1981,"Population, total",SP.POP.TOTL,10711848
+1532,Hungary,HUN,1980,"Population, total",SP.POP.TOTL,10711122
+1533,Hungary,HUN,1979,"Population, total",SP.POP.TOTL,10704152
+1534,Hungary,HUN,1978,"Population, total",SP.POP.TOTL,10684822
+1535,Hungary,HUN,1977,"Population, total",SP.POP.TOTL,10648031
+1536,Hungary,HUN,1976,"Population, total",SP.POP.TOTL,10598677
+1537,Hungary,HUN,1975,"Population, total",SP.POP.TOTL,10540525
+1538,Hungary,HUN,1974,"Population, total",SP.POP.TOTL,10478720
+1539,Hungary,HUN,1973,"Population, total",SP.POP.TOTL,10432055
+1540,Hungary,HUN,1972,"Population, total",SP.POP.TOTL,10398489
+1541,Hungary,HUN,1971,"Population, total",SP.POP.TOTL,10367537
+1542,Hungary,HUN,1970,"Population, total",SP.POP.TOTL,10337910
+1543,Hungary,HUN,1969,"Population, total",SP.POP.TOTL,10298723
+1544,Hungary,HUN,1968,"Population, total",SP.POP.TOTL,10255815
+1545,Hungary,HUN,1967,"Population, total",SP.POP.TOTL,10216604
+1546,Hungary,HUN,1966,"Population, total",SP.POP.TOTL,10178653
+1547,Hungary,HUN,1965,"Population, total",SP.POP.TOTL,10147935
+1548,Hungary,HUN,1964,"Population, total",SP.POP.TOTL,10119835
+1549,Hungary,HUN,1963,"Population, total",SP.POP.TOTL,10087947
+1550,Hungary,HUN,1962,"Population, total",SP.POP.TOTL,10061734
+1551,Hungary,HUN,1961,"Population, total",SP.POP.TOTL,10029321
+1552,Hungary,HUN,1960,"Population, total",SP.POP.TOTL,9983967
+1553,Hungary,HUN,2019,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.4171165180471
+1554,Hungary,HUN,2018,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.4324280334941
+1555,Hungary,HUN,2017,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.4470642936736
+1556,Hungary,HUN,2016,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.4619167289554
+1557,Hungary,HUN,2015,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.4774837197054
+1558,Hungary,HUN,2014,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.49385746504
+1559,Hungary,HUN,2013,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5104274255554
+1560,Hungary,HUN,2012,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5263314012268
+1561,Hungary,HUN,2011,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5401010480422
+1562,Hungary,HUN,2010,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5507132798382
+1563,Hungary,HUN,2009,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.557960342947
+1564,Hungary,HUN,2008,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5617684863099
+1565,Hungary,HUN,2007,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5615118995531
+1566,Hungary,HUN,2006,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5565460317511
+1567,Hungary,HUN,2005,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5464552542539
+1568,Hungary,HUN,2004,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5309800868675
+1569,Hungary,HUN,2003,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.5102055043805
+1570,Hungary,HUN,2002,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.4848814127979
+1571,Hungary,HUN,2001,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.4560131794424
+1572,Hungary,HUN,2000,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.424375341776
+1573,Hungary,HUN,1999,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.3905334230556
+1574,Hungary,HUN,1998,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.3544181150841
+1575,Hungary,HUN,1997,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.3157878092394
+1576,Hungary,HUN,1996,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.2738990003437
+1577,Hungary,HUN,1995,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.2285837855053
+1578,Hungary,HUN,1994,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.1793784767995
+1579,Hungary,HUN,1993,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.1269127715548
+1580,Hungary,HUN,1992,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.0733452770069
+1581,Hungary,HUN,1991,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,52.0214898123622
+1582,Hungary,HUN,1990,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.9735553213869
+1583,Hungary,HUN,1989,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.931373342637
+1584,Hungary,HUN,1988,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8943385999132
+1585,Hungary,HUN,1987,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8595749848394
+1586,Hungary,HUN,1986,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.8227360462145
+1587,Hungary,HUN,1985,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7811355532356
+1588,Hungary,HUN,1984,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7333283600562
+1589,Hungary,HUN,1983,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.681414253717
+1590,Hungary,HUN,1982,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6304948824905
+1591,Hungary,HUN,1981,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5874905748287
+1592,Hungary,HUN,1980,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5568955484353
+1593,Hungary,HUN,1979,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5407062121658
+1594,Hungary,HUN,1978,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5368509725738
+1595,Hungary,HUN,1977,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5409060084894
+1596,Hungary,HUN,1976,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5462648594594
+1597,Hungary,HUN,1975,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5482374139777
+1598,Hungary,HUN,1974,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5450557785949
+1599,Hungary,HUN,1973,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5385424817719
+1600,Hungary,HUN,1972,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.531269887019
+1601,Hungary,HUN,1971,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5275342384996
+1602,Hungary,HUN,1970,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5302718988117
+1603,Hungary,HUN,1969,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5395447846099
+1604,Hungary,HUN,1968,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5538784203999
+1605,Hungary,HUN,1967,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.5734817228128
+1606,Hungary,HUN,1966,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.598500228982
+1607,Hungary,HUN,1965,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6284191176977
+1608,Hungary,HUN,1964,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.6652064180935
+1609,Hungary,HUN,1963,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7076253036182
+1610,Hungary,HUN,1962,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.74775478484
+1611,Hungary,HUN,1961,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7749155897571
+1612,Hungary,HUN,1960,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,51.7822187385668
+1613,Hungary,HUN,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,32.93541273
+1614,Hungary,HUN,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,31.7234027
+1615,Hungary,HUN,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,30.38683232
+1616,Hungary,HUN,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,28.85809714
+1617,Hungary,HUN,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,27.80543475
+1618,Hungary,HUN,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.31860651
+1619,Hungary,HUN,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,26.41020272
+1620,Hungary,HUN,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,24.289822
+1621,Hungary,HUN,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,23.37476555
+1622,Hungary,HUN,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,21.7521962
+1623,Hungary,HUN,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,19.8477344
+1624,Hungary,HUN,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,17.7201518
+1625,Hungary,HUN,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,14.51006963
+1626,Hungary,HUN,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,11.92553084
+1627,Hungary,HUN,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,6.461362985
+1628,Hungary,HUN,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,4.064578703
+1629,Hungary,HUN,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.606272424
+1630,Hungary,HUN,2002,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,1.096241739
+1631,Hungary,HUN,2001,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.307884015
+1632,Hungary,HUN,2000,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.033266451
+1633,Hungary,HUN,2019,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.1699981689453
+1634,Hungary,HUN,2018,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.5800018310547
+1635,Hungary,HUN,2017,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.6699981689453
+1636,Hungary,HUN,2016,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.2600021362305
+1637,Hungary,HUN,2015,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.1500015258789
+1638,Hungary,HUN,2014,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.0500030517578
+1639,Hungary,HUN,2013,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.7200012207031
+1640,Hungary,HUN,2012,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.2699966430664
+1641,Hungary,HUN,2011,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.8600006103516
+1642,Hungary,HUN,2010,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.6800003051758
+1643,Hungary,HUN,2009,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.379997253418
+1644,Hungary,HUN,2008,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.7900009155273
+1645,Hungary,HUN,2007,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.5299987792969
+1646,Hungary,HUN,2006,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,87.2900009155273
+1647,Hungary,HUN,2005,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.3099975585938
+1648,Hungary,HUN,2004,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.5599975585938
+1649,Hungary,HUN,2003,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.6800003051758
+1650,Hungary,HUN,2002,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,86.2200012207031
+1651,Hungary,HUN,2001,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.3600006103516
+1652,Hungary,HUN,2000,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.7699966430664
+1653,Hungary,HUN,1999,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,84.3000030517578
+1654,Hungary,HUN,1998,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,83.9800033569336
+1655,Hungary,HUN,1997,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.5299987792969
+1656,Hungary,HUN,1996,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.1600036621094
+1657,Hungary,HUN,1995,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.0699996948242
+1658,Hungary,HUN,1994,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,82.0599975585938
+1659,Hungary,HUN,1993,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,81.8899993896484
+1660,Hungary,HUN,1992,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.4700012207031
+1661,Hungary,HUN,1991,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,79.5199966430664
+1662,Hungary,HUN,2019,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,26.0699996948242
+1663,Hungary,HUN,2018,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,24.3600006103516
+1664,Hungary,HUN,2017,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.5400009155273
+1665,Hungary,HUN,2016,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,18.1299991607666
+1666,Hungary,HUN,2015,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.8600006103516
+1667,Hungary,HUN,2014,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,22.2700004577637
+1668,Hungary,HUN,2013,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,23.8700008392334
+1669,Hungary,HUN,2012,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,21.4099998474121
+1670,Hungary,HUN,2011,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,17.2099990844727
+1671,Hungary,HUN,2010,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.5699996948242
+1672,Hungary,HUN,2009,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.1300001144409
+1673,Hungary,HUN,2008,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.1800003051758
+1674,Hungary,HUN,2007,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.9300003051758
+1675,Hungary,HUN,2006,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,15.7399997711182
+1676,Hungary,HUN,2005,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,14.7700004577637
+1677,Hungary,HUN,2004,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,16.1000003814697
+1678,Hungary,HUN,2003,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,16.2099990844727
+1679,Hungary,HUN,2002,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,10.1300001144409
+1680,Hungary,HUN,2001,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,11.1999998092651
+1681,Hungary,HUN,2000,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,19.8600006103516
+1682,Hungary,HUN,1999,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,10.8199996948242
+1683,Hungary,HUN,1998,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,13.0500001907349
+1684,Hungary,HUN,1997,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,12.289999961853
+1685,Hungary,HUN,1996,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,20.4599990844727
+1686,Hungary,HUN,2019,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11
+1687,Hungary,HUN,2018,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,10.7299995422363
+1688,Hungary,HUN,2017,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.039999961853
+1689,Hungary,HUN,2016,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.0500001907349
+1690,Hungary,HUN,2015,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.5799999237061
+1691,Hungary,HUN,2014,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.6199998855591
+1692,Hungary,HUN,2013,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,15.4700002670288
+1693,Hungary,HUN,2012,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,14.7799997329712
+1694,Hungary,HUN,2011,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.210000038147
+1695,Hungary,HUN,2010,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.5600004196167
+1696,Hungary,HUN,2009,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,13.6000003814697
+1697,Hungary,HUN,2008,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.460000038147
+1698,Hungary,HUN,2007,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,11.460000038147
+1699,Hungary,HUN,2006,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.4300003051758
+1700,Hungary,HUN,2005,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,18.7900009155273
+1701,Hungary,HUN,2004,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,12.3800001144409
+1702,Hungary,HUN,2018,Gini index (World Bank estimate),SI.POV.GINI,29.6
+1703,Hungary,HUN,2017,Gini index (World Bank estimate),SI.POV.GINI,30.6
+1704,Hungary,HUN,2016,Gini index (World Bank estimate),SI.POV.GINI,30.3
+1705,Hungary,HUN,2015,Gini index (World Bank estimate),SI.POV.GINI,30.4
+1706,Hungary,HUN,2014,Gini index (World Bank estimate),SI.POV.GINI,30.9
+1707,Hungary,HUN,2013,Gini index (World Bank estimate),SI.POV.GINI,31.5
+1708,Hungary,HUN,2012,Gini index (World Bank estimate),SI.POV.GINI,30.8
+1709,Hungary,HUN,2011,Gini index (World Bank estimate),SI.POV.GINI,29.2
+1710,Hungary,HUN,2010,Gini index (World Bank estimate),SI.POV.GINI,29.4
+1711,Hungary,HUN,2009,Gini index (World Bank estimate),SI.POV.GINI,27
+1712,Hungary,HUN,2008,Gini index (World Bank estimate),SI.POV.GINI,27.5
+1713,Hungary,HUN,2007,Gini index (World Bank estimate),SI.POV.GINI,27.9
+1714,Hungary,HUN,2006,Gini index (World Bank estimate),SI.POV.GINI,28.3
+1715,Hungary,HUN,2005,Gini index (World Bank estimate),SI.POV.GINI,34.7
+1716,Hungary,HUN,2004,Gini index (World Bank estimate),SI.POV.GINI,29.9
+1717,Hungary,HUN,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2
+1718,Hungary,HUN,2017,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3
+1719,Hungary,HUN,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.6
+1720,Hungary,HUN,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.7
+1721,Hungary,HUN,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,3.1
+1722,Hungary,HUN,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.3
+1723,Hungary,HUN,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.3
+1724,Hungary,HUN,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.8
+1725,Hungary,HUN,2010,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.5
+1726,Hungary,HUN,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.4
+1727,Hungary,HUN,2008,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.5
+1728,Hungary,HUN,2007,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.8
+1729,Hungary,HUN,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,1.9
+1730,Hungary,HUN,2005,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,4.5
+1731,Hungary,HUN,2004,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,2.9
+1732,Hungary,HUN,2020,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1733,Hungary,HUN,2019,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1734,Hungary,HUN,2018,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1735,Hungary,HUN,2017,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1736,Hungary,HUN,2016,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1737,Hungary,HUN,2015,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1738,Hungary,HUN,2014,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1739,Hungary,HUN,2013,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1740,Hungary,HUN,2012,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1741,Hungary,HUN,2011,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1742,Hungary,HUN,2010,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1743,Hungary,HUN,2009,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1744,Hungary,HUN,2008,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1745,Hungary,HUN,2007,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1746,Hungary,HUN,2006,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1747,Hungary,HUN,2005,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1748,Hungary,HUN,2004,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,1
+1749,Hungary,HUN,2003,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1750,Hungary,HUN,2002,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1751,Hungary,HUN,2001,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1752,Hungary,HUN,2000,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1753,Hungary,HUN,1999,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1754,Hungary,HUN,1998,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1755,Hungary,HUN,1997,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1756,Hungary,HUN,1996,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1757,Hungary,HUN,1995,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1758,Hungary,HUN,1994,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1759,Hungary,HUN,1993,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1760,Hungary,HUN,1992,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1761,Hungary,HUN,1991,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1762,Hungary,HUN,1990,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1763,Hungary,HUN,1989,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1764,Hungary,HUN,1988,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1765,Hungary,HUN,1987,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1766,Hungary,HUN,1986,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1767,Hungary,HUN,1985,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1768,Hungary,HUN,1984,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1769,Hungary,HUN,1983,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1770,Hungary,HUN,1982,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1771,Hungary,HUN,1981,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1772,Hungary,HUN,1980,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1773,Hungary,HUN,1979,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1774,Hungary,HUN,1978,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1775,Hungary,HUN,1977,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1776,Hungary,HUN,1976,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1777,Hungary,HUN,1975,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1778,Hungary,HUN,1974,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1779,Hungary,HUN,1973,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1780,Hungary,HUN,1972,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1781,Hungary,HUN,1971,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1782,Hungary,HUN,1970,Law prohibits discrimination in employment based on gender (1=yes; 0=no),SG.LAW.NODC.HR,0
+1783,Hungary,HUN,2020,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1784,Hungary,HUN,2019,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1785,Hungary,HUN,2018,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1786,Hungary,HUN,2017,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1787,Hungary,HUN,2016,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1788,Hungary,HUN,2015,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1789,Hungary,HUN,2014,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1790,Hungary,HUN,2013,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1791,Hungary,HUN,2012,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1792,Hungary,HUN,2011,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1793,Hungary,HUN,2010,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+1794,Hungary,HUN,2009,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1795,Hungary,HUN,2008,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1796,Hungary,HUN,2007,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1797,Hungary,HUN,2006,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1798,Hungary,HUN,2005,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1799,Hungary,HUN,2004,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1800,Hungary,HUN,2003,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1801,Hungary,HUN,2002,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1802,Hungary,HUN,2001,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1803,Hungary,HUN,2000,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1804,Hungary,HUN,1999,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1805,Hungary,HUN,1998,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1806,Hungary,HUN,1997,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1807,Hungary,HUN,1996,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1808,Hungary,HUN,1995,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1809,Hungary,HUN,1994,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1810,Hungary,HUN,1993,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1811,Hungary,HUN,1992,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1812,Hungary,HUN,1991,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1813,Hungary,HUN,1990,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1814,Hungary,HUN,1989,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1815,Hungary,HUN,1988,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1816,Hungary,HUN,1987,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1817,Hungary,HUN,1986,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1818,Hungary,HUN,1985,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1819,Hungary,HUN,1984,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1820,Hungary,HUN,1983,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1821,Hungary,HUN,1982,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1822,Hungary,HUN,1981,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1823,Hungary,HUN,1980,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1824,Hungary,HUN,1979,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1825,Hungary,HUN,1978,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1826,Hungary,HUN,1977,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1827,Hungary,HUN,1976,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1828,Hungary,HUN,1975,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1829,Hungary,HUN,1974,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1830,Hungary,HUN,1973,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1831,Hungary,HUN,1972,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1832,Hungary,HUN,1971,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1833,Hungary,HUN,1970,There is legislation specifically addressing domestic violence (1=yes; 0=no),SG.LEG.DVAW,0
+1834,Hungary,HUN,2018,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.55484
+1835,Hungary,HUN,2017,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.3486
+1836,Hungary,HUN,2016,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.20423
+1837,Hungary,HUN,2015,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.36245
+1838,Hungary,HUN,2014,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.35373
+1839,Hungary,HUN,2013,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.38884
+1840,Hungary,HUN,2012,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.26362
+1841,Hungary,HUN,2011,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.18897
+1842,Hungary,HUN,2010,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.13945
+1843,Hungary,HUN,2009,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.13212
+1844,Hungary,HUN,2008,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.9796
+1845,Hungary,HUN,2007,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.95674
+1846,Hungary,HUN,2006,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.98097
+1847,Hungary,HUN,2005,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.92094
+1848,Hungary,HUN,2004,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.86035
+1849,Hungary,HUN,2003,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.91841
+1850,Hungary,HUN,2002,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.98198
+1851,Hungary,HUN,2001,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.91189
+1852,Hungary,HUN,2000,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.78942
+1853,Hungary,HUN,1999,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.67053
+1854,Hungary,HUN,1998,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.65625
+1855,Hungary,HUN,1997,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.69905
+1856,Hungary,HUN,1996,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,0.63025
+1857,Hungary,HUN,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.644
+1858,Hungary,HUN,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.351
+1859,Hungary,HUN,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.062
+1860,Hungary,HUN,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.779
+1861,Hungary,HUN,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.5
+1862,Hungary,HUN,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.227
+1863,Hungary,HUN,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.953
+1864,Hungary,HUN,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.678
+1865,Hungary,HUN,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.358
+1866,Hungary,HUN,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.911
+1867,Hungary,HUN,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.46
+1868,Hungary,HUN,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.943
+1869,Hungary,HUN,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.421
+1870,Hungary,HUN,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.895
+1871,Hungary,HUN,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.365
+1872,Hungary,HUN,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.896
+1873,Hungary,HUN,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.489
+1874,Hungary,HUN,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.081
+1875,Hungary,HUN,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.67
+1876,Hungary,HUN,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.575
+1877,Hungary,HUN,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.702
+1878,Hungary,HUN,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.829
+1879,Hungary,HUN,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.956
+1880,Hungary,HUN,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.083
+1881,Hungary,HUN,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.209
+1882,Hungary,HUN,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.335
+1883,Hungary,HUN,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.461
+1884,Hungary,HUN,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.587
+1885,Hungary,HUN,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.713
+1886,Hungary,HUN,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.838
+1887,Hungary,HUN,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.81
+1888,Hungary,HUN,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.632
+1889,Hungary,HUN,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.453
+1890,Hungary,HUN,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.274
+1891,Hungary,HUN,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.095
+1892,Hungary,HUN,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.915
+1893,Hungary,HUN,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.734
+1894,Hungary,HUN,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.553
+1895,Hungary,HUN,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.372
+1896,Hungary,HUN,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.191
+1897,Hungary,HUN,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.893
+1898,Hungary,HUN,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.48
+1899,Hungary,HUN,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.066
+1900,Hungary,HUN,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.65
+1901,Hungary,HUN,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.231
+1902,Hungary,HUN,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.81
+1903,Hungary,HUN,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.388
+1904,Hungary,HUN,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.965
+1905,Hungary,HUN,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.539
+1906,Hungary,HUN,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.112
+1907,Hungary,HUN,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.691
+1908,Hungary,HUN,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.276
+1909,Hungary,HUN,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.859
+1910,Hungary,HUN,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.441
+1911,Hungary,HUN,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.022
+1912,Hungary,HUN,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.603
+1913,Hungary,HUN,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.181
+1914,Hungary,HUN,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.758
+1915,Hungary,HUN,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.335
+1916,Hungary,HUN,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.911
+1917,Hungary,HUN,2016,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.6
+1918,Hungary,HUN,2015,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,24.3
+1919,Hungary,HUN,2014,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.9
+1920,Hungary,HUN,2013,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.6
+1921,Hungary,HUN,2012,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,23.2
+1922,Hungary,HUN,2011,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.9
+1923,Hungary,HUN,2010,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.5
+1924,Hungary,HUN,2009,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,22.2
+1925,Hungary,HUN,2008,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.9
+1926,Hungary,HUN,2007,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.6
+1927,Hungary,HUN,2006,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21.3
+1928,Hungary,HUN,2005,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,21
+1929,Hungary,HUN,2004,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.7
+1930,Hungary,HUN,2003,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.5
+1931,Hungary,HUN,2002,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20.2
+1932,Hungary,HUN,2001,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,20
+1933,Hungary,HUN,2000,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.8
+1934,Hungary,HUN,1999,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.7
+1935,Hungary,HUN,1998,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.5
+1936,Hungary,HUN,1997,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.4
+1937,Hungary,HUN,1996,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.2
+1938,Hungary,HUN,1995,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,19.1
+1939,Hungary,HUN,1994,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.9
+1940,Hungary,HUN,1993,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.8
+1941,Hungary,HUN,1992,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.6
+1942,Hungary,HUN,1991,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.5
+1943,Hungary,HUN,1990,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.3
+1944,Hungary,HUN,1989,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,18.1
+1945,Hungary,HUN,1988,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.9
+1946,Hungary,HUN,1987,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.7
+1947,Hungary,HUN,1986,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.5
+1948,Hungary,HUN,1985,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.3
+1949,Hungary,HUN,1984,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,17.1
+1950,Hungary,HUN,1983,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.9
+1951,Hungary,HUN,1982,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.7
+1952,Hungary,HUN,1981,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.5
+1953,Hungary,HUN,1980,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16.2
+1954,Hungary,HUN,1979,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,16
+1955,Hungary,HUN,1978,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.8
+1956,Hungary,HUN,1977,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.5
+1957,Hungary,HUN,1976,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.3
+1958,Hungary,HUN,1975,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,15.1
+1959,Hungary,HUN,2016,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,28.2
+1960,Hungary,HUN,2015,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,27.5
+1961,Hungary,HUN,2014,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,26.9
+1962,Hungary,HUN,2013,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,26.3
+1963,Hungary,HUN,2012,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,25.6
+1964,Hungary,HUN,2011,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,25
+1965,Hungary,HUN,2010,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,24.4
+1966,Hungary,HUN,2009,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,23.8
+1967,Hungary,HUN,2008,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,23.2
+1968,Hungary,HUN,2007,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22.6
+1969,Hungary,HUN,2006,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,22
+1970,Hungary,HUN,2005,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,21.5
+1971,Hungary,HUN,2004,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.9
+1972,Hungary,HUN,2003,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20.4
+1973,Hungary,HUN,2002,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,20
+1974,Hungary,HUN,2001,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.5
+1975,Hungary,HUN,2000,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.1
+1976,Hungary,HUN,1999,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.7
+1977,Hungary,HUN,1998,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.3
+1978,Hungary,HUN,1997,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.9
+1979,Hungary,HUN,1996,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.5
+1980,Hungary,HUN,1995,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,17.1
+1981,Hungary,HUN,1994,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.7
+1982,Hungary,HUN,1993,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16.3
+1983,Hungary,HUN,1992,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,16
+1984,Hungary,HUN,1991,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.6
+1985,Hungary,HUN,1990,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,15.2
+1986,Hungary,HUN,1989,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.8
+1987,Hungary,HUN,1988,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.4
+1988,Hungary,HUN,1987,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,14.1
+1989,Hungary,HUN,1986,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.7
+1990,Hungary,HUN,1985,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13.3
+1991,Hungary,HUN,1984,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,13
+1992,Hungary,HUN,1983,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.6
+1993,Hungary,HUN,1982,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,12.2
+1994,Hungary,HUN,1981,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.9
+1995,Hungary,HUN,1980,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.5
+1996,Hungary,HUN,1979,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,11.1
+1997,Hungary,HUN,1978,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.8
+1998,Hungary,HUN,1977,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.4
+1999,Hungary,HUN,1976,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,10.1
+2000,Hungary,HUN,1975,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,9.8
+2001,Hungary,HUN,2016,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.166
+2002,Hungary,HUN,2015,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.134
+2003,Hungary,HUN,2014,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.109
+2004,Hungary,HUN,2013,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.103
+2005,Hungary,HUN,2012,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.099
+2006,Hungary,HUN,2011,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.108
+2007,Hungary,HUN,2010,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.092
+2008,Hungary,HUN,2009,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.095
+2009,Hungary,HUN,2008,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.075
+2010,Hungary,HUN,2007,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.077
+2011,Hungary,HUN,2006,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.13
+2012,Hungary,HUN,2005,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.107
+2013,Hungary,HUN,2004,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.074
+2014,Hungary,HUN,2003,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.027
