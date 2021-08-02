@@ -24,6 +24,7 @@ import plotly.express as px
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+from dash.dependencies import Input, Output
 
 # Image
 import base64
@@ -76,6 +77,7 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
+df2 = pd.read_csv('Data_dash/dataset_no_groupby.csv').drop('Unnamed: 0', axis=1)
 df2_gb = pd.read_csv('Data_dash/dataset_groupby.csv').drop('Unnamed: 0', axis=1)
 
 dictionary = {'1. No poverty': ['Poverty ratio (% Pop.)',
@@ -257,10 +259,10 @@ fig = px.scatter(df2_gb, x='Female labor force (% Labor)', y='Female population 
             hover_data={'Country Name':False, 'Year':True, 'Size':False, 'Female labor force (% Labor)':':.2f', 'Female population (% Pop.)':':.2f'},
             range_x=[df2_gb['Female labor force (% Labor)'].min()-10,df2_gb['Female labor force (% Labor)'].max()+10] if 'Female labor force (% Labor)' != 'GDP per capita (current US$)' else [df2_gb['Female labor force (% Labor)'].min() + 500,df2_gb['Female labor force (% Labor)'].max()+ 1000],
             template='ggplot2',
-            height=745
+            height=500
             )
 
-fig.update_layout(transition = {'duration': 20}, font_family='Trebuchet MS', font_size=9, hoverlabel_font_size=10)
+fig.update_layout(transition = {'duration': 20}, font_family='Arial', font_size=9, hoverlabel_font_size=10)
 
 fig2 = px.bar_polar(df2_gb, r='Greenhouse gas emissions (kt per 1,000)', theta="Country ISO3",
                        color='Greenhouse gas emissions (kt per 1,000)',
@@ -270,10 +272,10 @@ fig2 = px.bar_polar(df2_gb, r='Greenhouse gas emissions (kt per 1,000)', theta="
                        range_r=[df2_gb['Greenhouse gas emissions (kt per 1,000)'].min(),df2_gb['Greenhouse gas emissions (kt per 1,000)'].max()],
                        hover_name='Country Name',
                        hover_data={'Year':True, 'Greenhouse gas emissions (kt per 1,000)':':.2f', 'Country ISO3':False},
-                       animation_frame='Year',
-                       height=600)
+                       animation_frame='Year', height=500
+                       )
 
-fig2.update_layout(font_family='Trebuchet MS', font_size=9, hoverlabel_font_size=10)    
+fig2.update_layout(font_family='Arial', font_size=9, hoverlabel_font_size=10,transition = {'duration': 20})    
 fig2.update_coloraxes(colorbar_len=0.7)
 fig2.update_coloraxes(colorbar_ticks="")
 fig2.update_polars(radialaxis_visible=False)
@@ -283,151 +285,425 @@ fig2.update_coloraxes(colorbar_title_text='Indicator Range')
 fig2.update_coloraxes(colorbar_title_side='right')
 fig2.update_coloraxes(colorbar_ticklabelposition='inside')
 
+new_df = df2[(df2['Year'] == 2019) & (df2['Vulnerable empolyment (% Empl.)'] !=0)]
+new_df['Rank'] = new_df['Vulnerable empolyment (% Empl.)'].rank(ascending=False)
+new_df['Average_EU'] = round(new_df['Vulnerable empolyment (% Empl.)'].mean(),2)
+
+geo_objects = json.load(open('Data/europe.json'))
+
+
+fig3=px.choropleth(new_df, geojson=geo_objects, featureidkey="properties.ISO3",locations='Country ISO3',
+                      color_continuous_scale='Reds',
+                      color='Vulnerable empolyment (% Empl.)', scope='europe',
+                     projection='natural earth', template='ggplot2', height=500,
+                     hover_name='Country Name',
+                     hover_data={'Country ISO3':False, 'Vulnerable empolyment (% Empl.)':True, 'Average_EU':True, 'Rank':True})
+
+fig3.update_layout(font_family='Arial', font_size=10, hoverlabel_font_size=10, margin=dict(l=0, r=0, t=0, b=0), hoverlabel_bgcolor='Green')
+fig3.update_coloraxes(colorbar_len=0.7)
+fig3.update_coloraxes(colorbar_ticks="")
+fig3.update_coloraxes(colorbar_outlinewidth=0.21)
+fig3.update_coloraxes(colorbar_thickness=30)
+fig3.update_coloraxes(colorbar_title_text='Indicator Range')
+fig3.update_coloraxes(colorbar_title_side='right')
+fig3.update_coloraxes(colorbar_ticklabelposition='inside')
+
+im_indicator = app.get_asset_url('1. No poverty.jpg')
+
+app = dash.Dash(__name__)
 
 app.layout = html.Div(children=[
-    html.H1(children=('Sustainable Development Goals - European Union'),
-    style={'font-size':'44px'}
+    
+    html.Img(src=app.get_asset_url('SDG_.png'),
+        height='111px'
+        ),
+
+    html.Div(children=[
+
+        html.P(children=[
+
+            html.P('''Progress towards reaching these goals was very different accross countries. And more importantly, results were far from being enough.
+            In 2015, the 8 Millenium Development Goals were overwritten by the 17 Sustainable Developments Goals within the United Nations Agenda 2030.
+            These 17 Goals have a clear and specific vision of where the World should lead to and how to get there.''', style={'marginTop':'0'}),
+
+            html.P(
+            '''Despite the achievement of these Goals is not compulsory nor binding, UN considered that having a team monitoring the results 
+            would be helpful to coordinate the actions, to point out which countries are acting more efficiently and therefore use them as a benchmark for 
+            other countries that do not want or do not know how to approach the targets. Carrying out this duty is on the hands of the UN Statistical Comission,
+            created to coordinate, track and monitor of the results obtained. '''),
+
+            html.P('''
+            This entity works with various repository agencies and stakeholders. In spite of being very complete, explicit and detailed reports, these files turn out 
+            to be very long, technical, static and not interactive. In other words, hard to read and difficult to obtain conclusions, or to compare between countries. '''),
+
+            html.P('''
+            The main goal of this project is to provide the user a set of interactive tools than can help to monitor how European Union country members are coping with
+            the SDG, by breaking each Goal down into relevant indicators, which can be analysed by year or country. These tools will allow the user to easily and visually
+            draw conclusions, compare data between countries, analyse the evolution of the indicators and even compare relationships between them.''')
+        ], style={'width':'48.5%', 'marginLeft':'1.5%', 'marginTop':'0','textAlign': 'justify', 'float':'right','height': '510px'}
+        ),
+
+        html.P(children=[
+            html.P(
+            '''The world is evolving at a constant and exponential pace.'''),
+        
+            html.P(
+            '''It was many years ago when the world was transformed from hundreds of independent social structures (empires, nations, countries, etc) to just one unit. 
+            In the 18th century the globalization involved a huge increase in the relations of these different units that coexisted in this big world, up to a point that 
+            there has been a global and worldwide integration.'''),
+
+            html.P(
+            '''One of the lessons that COVID19 crisis has taught us is that the biggest and most threatening challenges need a global and
+            coordinated response, as they cannot be approached individually.'''),
+
+            html.P(
+            '''Therefore, countries and governments should consider the globalization not only as a matter of growth increase (more movement of people, 
+            raw materials or financial stocks) but also as a way to coordinate themselves in orther to face the current and future challenges that the humanity has and 
+            will have to face. Among many challenges such as Artificial Intelligence or new scope for the labor market, making the world we are living in a better place for
+            future generations should also be considered as a priority for each and every country. All governments should be focused on fostering policies oriented to reduce
+            local and worldwide inequalities among populations, to develope an economic and social model that is sustainable, to preserve the enviornment, or to stand for 
+            peace and justice.'''),
+
+            html.P(
+            '''As a first step to try to make a call for action and to coordinate the efforts from different countries, there was the necessity to
+            define clear, measurable and time-specific goals to achieve as a way to define a clear path to pursue. That is why in 2000 all members from the United 
+            Nations agreed to define 8 goals (Millenium Development Goals) to be achieved in 2015.'''),
+        ], style={'width':'48.5%', 'marginRight':'1.5%', 'textAlign': 'justify','height': '510px'}
+        )
+
+    ], style={'height': '510px'}
     ),
 
-    html.Div(children=[
-        html.P('''
-        The world is evloving in a constant and exponential pace.'''),
-    
-        html.P('''It was many years ago when the world was transformed from a, hundred of independent units (empires, nations, countries, etc) to just one unit. 
-    In the 18th century the globalization involved a huge increase in the relations of these different units that coexisted in this big world, up to a point that 
-    there has been a global and worldwide integration.'''),
+    #html.Br(),
 
-        html.P('''Therefore, countries and governments should consider the globalization not only as a matter of growth increase by more movement of people, 
-    raw material or financial stocks, but also as a way to coordinate themselves in orther to face the current and future challenges that the humanity has and 
-    will have to face. Among many challenges such as Artificial Intelligence or new scope for the labor market, the oldest and probably the least interesting 
-    for governments has been the Equality and Social and Sustainable Development.'''),
-    ]),
+    html.Div(style={'height': '5px','width':'100%'}),
+
     html.Div(children=[
 
         html.P(children=[
-        html.Img(src=app.get_asset_url('4.jpeg'),
-        height='266px'
-        )],
-        style={'width':'21%', 'float':'right', 'textAlign':'right'}
-        ),
 
-        html.P(children=[
-        html.Img(src=app.get_asset_url('4.jpeg'),
-        height='266px'
-        )],
-        style={'width':'21%', 'float':'right', 'textAlign':'right'}
-        ),
+            html.H2('''17 SUSTAINABLE DEVELOPMENT GOALS AND ITS INDICATORS''', style={'textAlign':'center'}),
 
-        html.P(children=[
-        html.Img(src=app.get_asset_url('4.jpeg'),
-        height='266px'
-        )],
-        style={'width':'21%', 'float':'right', 'textAlign':'right'}
-        ),
-
-        html.P(children=[
-        html.Img(src=app.get_asset_url('2.png'),
-        height='350px'
-        )],
-        style={'width':'76%', 'float':'right', 'textAlign':'right'}
-        ),
-
-        html.Br(),
-        html.Br(),
-
-        dcc.Markdown('''These ***17 Sustainable Development Goals*** have been set so that the world should achieve them as a coordinated organization:'''),
-        html.Ol('1. No poverty'),
-        html.Ol('2. Zero hunger'),
-        html.Ol('3. Good health and wellbeing'),
-        html.Ol('4. Quality education'),
-        html.Ol('5. Gender equality'),
-        html.Ol('6. Clean water and sanitation'),
-        html.Ol('7. Affordable and clean energy'),
-        html.Ol('8. Decent work and economic growth'),
-        html.Ol('9. Industry, innovation and infrastructure'),
-        html.Ol('10. Reduced inequalities'),
-        html.Ol('11. Sustainable cities and communities'),
-        html.Ol('12. Responsible consumption and production'),
-        html.Ol('13. Climate action'),
-        html.Ol('14. Life below'),
-        html.Ol('15. Life on land'),
-        html.Ol('16. Peace, justice and strong institutions'),
-        html.Ol('17. Partnership for the goals')
-        ,
-    ]),
-    html.Div('Hi', style={'height': '100px','width':'100%'}),
-
-
-    
-    html.Div(children=[
+            dcc.RadioItems(
+                id='radio_items',
+                options=[{'label':x, 'value' : x} for x in dictionary.keys()],
+                value='1. No poverty',
+                labelStyle={'display':'block', 'lineHeight':'1.44'})
+                        
+            ],style={'width':'33%', 'marginLeft':'1%', 'marginRight':'1%', 'float':'right'}),
         
-        html.Label(['Select Indicator X:', dcc.Dropdown(placeholder='Indicator X:',
-            options=[{'label': 'Greenhouse gas emissions (kt per 1,000)', 'value' : 'Greenhouse gas emissions (kt per 1,000)'},
-                {'label':'CO2 emissions (kt per 1,000)', 'value': 'CO2 emissions (kt per 1,000)'},
-                {'label':'Carbon dioxide damage (% GNI)', 'value': 'Carbon dioxide damage (% GNI)'}],
-            value='CO2 emissions (kt per 1,000)')],
-            style={'width': '29%', 'height':'60px', 'float':'left','font-size':'11px','font-weight':'bold'}
-        ),
+        html.P(style={'height':'0.3%'}),
 
-        html.Label(
-            style={'width': '2%', 'height':'60px', 'float':'left'}
-        ),
-        
-        html.Label(['Select Indicator Y:', dcc.Dropdown(placeholder='Indicator Y:',
-            options=[{'label': 'Greenhouse gas emissions (kt per 1,000)', 'value' : 'Greenhouse gas emissions (kt per 1,000)'},
-                {'label':'CO2 emissions (kt per 1,000)', 'value': 'CO2 emissions (kt per 1,000)'},
-                {'label':'Carbon dioxide damage (% GNI)', 'value': 'Carbon dioxide damage (% GNI)'}],
-            value='Greenhouse gas emissions (kt per 1,000)')],
-            style={'width': '29%', 'height':'60px', 'float':'left','font-size':'11px', 'font-weight':'bold'}
-        ),
+        html.P(children=[
+            
+            html.P(style={'height':'5%' if im_indicator == app.get_asset_url('8. Decent work and economic growth.jpg') else '1%'}),
 
-        dcc.Graph(
-            id='scatterplot',
-            figure=fig,
-            style={'width': '60%', 'float':'left'}
-        ),
+            html.Img(src=app.get_asset_url('1. No poverty.jpg'),
+            id='image_indicator',
+            height='240px',
+            style={'display':'block','margin':'auto'}
+            ),
 
-         
-        html.P('''Whatever I want to write.''',
-            style={'height': '805px'} 
-        ),
+            html.Br(),
 
-    ], style={'width':'100%'}),
+            dcc.Checklist(
+                id='check_list_ind',
+                options=[{'label':x, 'value' : x} for x in dictionary['1. No poverty']],
+                value= [x for x in dictionary['1. No poverty']],
+                labelStyle={'display':'block', 'lineHeight':'1.55', 'margin':'0 auto', 'textAlign':'center'}
+                )
+
+        ],
+        style={'width':'64%', 'marginLeft':'1%', 'height':'500px', 'backgroundColor':'White'})
+
+    ], style={'backgroundColor':'lightsteelblue', 'height':'530px'}),
+
+    html.Br(),
+
+    html.Div(style={'height': '10px','width':'100%'}),
     
-    html.Div('Hello World', style={'height': '50px','width':'100%'}),
+    html.Div(children=[
+        html.P(
+            dcc.Graph(
+            id='interactive_map',
+            figure=fig3),
+        style={'width':'64%', 'float':'right', 'marginRight':'1%'}),
 
+        html.P(children=[
+            
+            html.Br(),
+            html.Br(),
+
+        html.H2('EU INTERACTIVE MAP', style={'textAlign':'center'}),
+        
+
+            html.Br(),
+                        
+            html.Label(['Select Goal:', dcc.Dropdown(id='Target',
+                options=[{'label':x, 'value' : x} for x in dictionary.keys()],
+                value='1. No poverty')]
+                , style={'font-size':'11px', 'font-weight':'bold'},
+                ),
+
+            html.Label(['Select Indicator:', dcc.Dropdown(id='Indicator',
+                options=[{'label':x, 'value' : x} for x in dictionary['1. No poverty']],
+                value='Vulnerable empolyment (% Empl.)')]
+                , style={'font-size':'11px', 'font-weight':'bold'},
+                ),
+
+            html.Label(['Select Year:', dcc.Dropdown(id='Year',
+                options=[{'label':x, 'value' : x} for x in list(-np.sort(-df2[df2['Vulnerable empolyment (% Empl.)'] != 0]['Year'].unique()))],
+                value=2019)]
+                , style={'font-size':'11px', 'font-weight':'bold'},
+                ),
+            
+            html.Br(),
+
+            html.P('''By playing with the Map, you can select the Target, Indicator and Year you are interested in, to monitor the stats and quickly compare
+            them among countries. '''),
+
+            html.P('''You can interact with the Map by hovering the cursor over the countries: you will se the Country Name, the rate of the
+            Indicator selected, the average of the Indicator in the EU, and the Ranking in which the country is spotted''')
+            
+            ],style={'width': '33%', 'height':'500px', 'marginLeft':'1%', 'marginRight':'1%'}),
+            
+    ],style={'width':'100%','height':'530px','backgroundColor':'lightsteelblue'}),
+    
+    html.Br(),
+
+    html.Div(style={'height': '10px','width':'100%'}),
+
+    html.Div(children=[
+
+        html.P(style={'height':'0.3%'}),
+        
+        html.P(children=[
+
+            html.Br(),
+            html.Br(),
+                        
+            html.H2('''EVOLUTION OF AN INDICATOR'''
+            , style={'textAlign':'center'}),
+            
+            html.Br(),
+
+            html.Label(['Select Indicator:', dcc.Dropdown(placeholder='Indicator X:',
+                id='indicator_polar',
+                options=[{'label':x, 'value' : x} for x in indicators],
+                value='CO2 emissions (kt per 1,000)')],
+                style={'font-size':'11px', 'font-weight':'bold'}
+            ),
+
+            html.Br(),
+
+            html.P('''By playing with the Bar Polar Chart, you will be able to activate an animation by clicking on play, and which
+            will display the evolution of the indicator you have previously selected in the available data years from 2000 to 2020, structured into the
+            different countries of the EU.'''),
+
+            html.P('''You can interact with the Bar Polar Chart by pausing the animation at a given Year, or by hovering the cursor
+            over it: you will se the Country Name, the Year and the rate of the Indicator selected
+            ''')
+            
+        ],
+        style={'height': '500px', 'width':'33%', 'marginRight':'1%', 'marginLeft':'1%', 'float':'right'} 
+        ),
+
+        html.P(children=[        
+
+                    
+            dcc.Graph(
+                id='barpolarplot',
+                figure=fig2,
+                style={'width': '100%'}
+            ),
+        ], style={'width':'64%', 'marginLeft':'1%'})
+
+    ],style={'width':'100%','height':'530px', 'backgroundColor':'lightsteelblue', 'marginTop':'1%'}, 
+    ),
+
+    html.Br(),
+
+    html.Div(style={'height': '10px','width':'100%'}),
+
+    html.Div(children=[
+
+        html.P(children=[
+                        
+            dcc.Graph(
+                id='scatterplot',
+                figure=fig,
+                style={'width': '100%'})
+            
+            ], style={'width':'64%', 'marginRight':'1%', 'float':'right'}),
+
+        html.P(children=[ 
+
+            html.Br(),
+
+            html.Br(),
+
+            html.H2('''EVOLUTION OF THE RELATIONSHIP BETWEEN TWO INDICATORS'''
+            , style={'textAlign':'center'}),
+
+
+            html.P(children=[
+                html.Label(['Select Indicator X:', dcc.Dropdown(placeholder='Indicator X:',
+                    options=[{'label':x, 'value' : x} for x in indicators],
+                    id='Indicator_X',
+                    value='Female labor force (% Labor)')],
+                    style={'font-size':'11px','font-weight':'bold'}
+                ),
+                
+                html.Label(['Select Indicator Y:', dcc.Dropdown(placeholder='Indicator Y:',
+                    id='Indicator_y',
+                    options=[{'label':x, 'value' : x} for x in indicators],
+                    value='Female population (% Pop.)')],
+                    style={'font-size':'11px', 'font-weight':'bold'}
+                )
+            ]),
+            
+            html.P('''By playing with the Scatter Plot, you will be able to activate an animation by clicking on play, and which
+            will display the evolution of the relationship between the two indicators you have previously selected in the available data years from 2000 to 2020,
+            structured into the different countries of the EU.'''),
+
+            html.P('''You can interact with the Scatter plot by pausing the animation at a given Year, or by hovering the cursor
+            over it: you will se the Country Name, the Year and the rate of the two Indicators selected''')
+        ],
+        style={'width':'33%', 'height': '500px', 'marginLeft':'1%', 'marginRight':'1%'} 
+        )
+
+        ], style={'width':'100%', 'backgroundColor':'lightsteelblue', 'height':'530px'}),
+
+    html.Br(),
+
+    html.Div(style={'height': '10px','width':'100%'})
+
+], style={'font-family':'Arial', 'padding-left':'133px', 'padding-right':'133px', 'padding-top':'21px'})
+
+
+@app.callback(
+    Output('image_indicator', 'src'),
+    [Input('radio_items', 'value')])
+def change_picture(radio_items):
+    im_indicator=app.get_asset_url(f'{radio_items}.jpg')
+
+    return im_indicator
+
+@app.callback(
+    [Output('check_list_ind', 'options'),
+    Output('check_list_ind', 'value')],
+    [Input('radio_items', 'value')])
+def change_radio(radio_items):
+    options=[{'label':x, 'value' : x} for x in dictionary[radio_items]]
+    value= [x for x in dictionary[radio_items]]
+                
+    return options, value
+
+@app.callback(
+    Output('Indicator', 'options'),
+    [Input('Target', 'value')])
+def set_indicator_options(Target):
+    return [{'label': i, 'value': i} for i in dictionary[Target]]
+
+@app.callback(
+    [Output('Year', 'options'),
+    Output('Year', 'value')],
+    [Input('Indicator', 'value')])
+def set_year_options(Indicator):
+
+    value = list(-np.sort(-df2[df2[Indicator] != 0]['Year'].unique()))[0]
+
+    return [{'label': i, 'value': i} for i in list(-np.sort(-df2[df2[Indicator] != 0]['Year'].unique()))], value
+
+@app.callback(
+    Output('interactive_map', 'figure'),
+    [Input('Target', 'value'),
+    Input('Indicator', 'value'),
+    Input('Year', 'value')])
+def edit_map(Target, Indicator, Year):
+
+    new_df = df2[(df2['Year'] == Year) & (df2[Indicator] !=0)]
+    new_df['Rank'] = new_df[Indicator].rank(ascending=False)
+    new_df['Average_EU'] = round(new_df[Indicator].mean(),2)
+    
+    fig3=px.choropleth(new_df, geojson=geo_objects, featureidkey="properties.ISO3",locations='Country ISO3',
+                      color_continuous_scale="Greens" if dictionary2[Indicator] == 'Positive' else 'Reds',
+                      color=Indicator, scope='europe',
+                     projection='natural earth',
+                     template='ggplot2',height=500,
+                     hover_name='Country Name',
+                     hover_data={'Country ISO3':False, Indicator:True, 'Year':True, 'Average_EU':True, 'Rank':True})
+    
+    fig3.update_layout(font_family='Arial', font_size=10, hoverlabel_font_size=10,
+    margin=dict(l=0, r=0, t=0, b=0), hoverlabel_bgcolor='Green' if dictionary2[Indicator] == 'Positive' else 'DarkRed')
+    fig3.update_coloraxes(colorbar_len=0.7)
+    fig3.update_coloraxes(colorbar_ticks="")
+    fig3.update_coloraxes(colorbar_outlinewidth=0.21)
+    fig3.update_coloraxes(colorbar_thickness=30)
+    fig3.update_coloraxes(colorbar_title_text='Indicator Range')
+    fig3.update_coloraxes(colorbar_title_side='right')
+    fig3.update_coloraxes(colorbar_ticklabelposition='inside')
+    
+    return fig3
+
+
+@app.callback(
+    Output('barpolarplot', 'figure'),
+    [Input('indicator_polar', 'value')])
+
+def polar_plot(indicator_polar):
+
+    fig2 = px.bar_polar(df2_gb, r=indicator_polar, theta="Country ISO3",
+                       color=indicator_polar,
+                       template="ggplot2",
+                       color_continuous_scale= px.colors.sequential.Greens if dictionary2[indicator_polar] == 'Positive' else px.colors.sequential.Reds,
+                       range_color=[df2_gb[indicator_polar].min(),df2_gb[indicator_polar].max()],
+                       range_r=[df2_gb[indicator_polar].min(),df2_gb[indicator_polar].max()],
+                       hover_name='Country Name',
+                       hover_data={'Year':True, indicator_polar:':.2f', 'Country ISO3':False},
+                       animation_frame='Year',
+                       height=500)
+    
+    fig2.update_layout(font_family='Arial', font_size=10, hoverlabel_font_size=10)
+    fig2.update_coloraxes(colorbar_len=0.7)
+    fig2.update_coloraxes(colorbar_ticks="")
+    fig2.update_polars(radialaxis_visible=False)
+    fig2.update_coloraxes(colorbar_outlinewidth=0.21)
+    fig2.update_coloraxes(colorbar_thickness=30)
+    fig2.update_coloraxes(colorbar_title_text='Indicator Range')
+    fig2.update_coloraxes(colorbar_title_side='right')
+    fig2.update_coloraxes(colorbar_ticklabelposition='inside')
+    
+    return fig2
+
+@app.callback(
+    Output('scatterplot', 'figure'),
+    [Input('Indicator_X', 'value'),
+    Input('Indicator_y', 'value')])
+
+def scatter_display(Indicator_X,
+                    Indicator_y,):
+    
+    fig = px.scatter(df2_gb, x=Indicator_X, y=Indicator_y, 
+               animation_frame="Year",
+               category_orders={'Country Name': countries, 'Year': years},
+               hover_name="Country Name",
+               color="Country Name",
+               range_y=[df2_gb[Indicator_y].min()-10,df2_gb[Indicator_y].max()+10] if Indicator_y != 'GDP per capita (current US$)' else [df2_gb[Indicator_y].min() + 500,df2_gb[Indicator_y].max()+ 1000],
+               log_y=True if Indicator_y == 'GDP per capita (current US$)' else False,
+               size='Size',
+               text='Country Name',
+               opacity=0.33,
+               hover_data={'Country Name':False, 'Year':True, 'Size':False, Indicator_X:':.2f', Indicator_y:':.2f'},
+               range_x=[df2_gb[Indicator_X].min()-10,df2_gb[Indicator_X].max()+10] if Indicator_X != 'GDP per capita (current US$)' else [df2_gb[Indicator_X].min() + 500,df2_gb[Indicator_X].max()+ 1000],
+               template='ggplot2',
+               height=500)
+    
+    fig.update_layout(transition = {'duration': 20}, font_family='Arial', font_size=10, hoverlabel_font_size=10)
        
-    html.Div(children=[
+    return fig
 
-        html.Label(
-            style={'width': '15%', 'height':'60px', 'float':'right'}
-        ),
 
-        html.Label(['Select Indicator:', dcc.Dropdown(placeholder='Indicator X:',
-            options=[{'label': 'Greenhouse gas emissions (kt per 1,000)', 'value' : 'Greenhouse gas emissions (kt per 1,000)'},
-                {'label':'CO2 emissions (kt per 1,000)', 'value': 'CO2 emissions (kt per 1,000)'},
-                {'label':'Carbon dioxide damage (% GNI)', 'value': 'Carbon dioxide damage (% GNI)'}],
-            value='CO2 emissions (kt per 1,000)')],
-            style={'width': '30%', 'height':'60px', 'float':'right', 'font-size':'11px', 'font-weight':'bold'}
-        ),
-
-        html.Label(
-            style={'width': '15%', 'height':'60px', 'float':'right'}
-        ),
-
-        
-        dcc.Graph(
-            id='barpolarplot',
-            figure=fig2,
-            style={'width': '60%', 'float':'right'}
-        ),
-
-        html.P('''Whatever I want to write.''',
-            style={'height':'777px'}),
-
-    ],style={'width':'100%'}, 
-    )
-], style={'font-family':'Trebuchet MS', 'padding-left':'88px', 'padding-right':'88px', 'padding-top':'33px'})
 
 if __name__ == '__main__':
     app.run_server(debug=True)
