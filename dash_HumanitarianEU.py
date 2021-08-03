@@ -79,6 +79,8 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 # see https://plotly.com/python/px-arguments/ for more options
 df2 = pd.read_csv('Data_dash/dataset_no_groupby.csv').drop('Unnamed: 0', axis=1)
 df2_gb = pd.read_csv('Data_dash/dataset_groupby.csv').drop('Unnamed: 0', axis=1)
+df2_gb_2 = pd.read_csv('Data_dash/dataset_groupby_2.csv').drop('Unnamed: 0', axis=1)
+
 
 dictionary = {'1. No poverty': ['Poverty ratio (% Pop.)',
 'Vulnerable empolyment (% Empl.)',
@@ -262,7 +264,7 @@ fig = px.scatter(df2_gb, x='Female labor force (% Labor)', y='Female population 
             height=500
             )
 
-fig.update_layout(transition = {'duration': 20}, font_family='Arial', font_size=9, hoverlabel_font_size=10)
+fig.update_layout(transition = {'duration': 20},  margin=dict(t=44),font_family='Arial', font_size=9, hoverlabel_font_size=10)
 
 fig2 = px.bar_polar(df2_gb, r='Greenhouse gas emissions (kt per 1,000)', theta="Country ISO3",
                        color='Greenhouse gas emissions (kt per 1,000)',
@@ -308,14 +310,55 @@ fig3.update_coloraxes(colorbar_title_text='Indicator Range')
 fig3.update_coloraxes(colorbar_title_side='right')
 fig3.update_coloraxes(colorbar_ticklabelposition='inside')
 
+fig4 = px.histogram(df2_gb_2,
+                   y="Country Name",
+                   x='MinMax',
+                   color='Country Name',
+                   color_discrete_map={'Austria':'green', 'Belgium':'green','Bulgaria':'red', 'Croatia':'red', 'Cyprus':'red',
+                   'Czech Republic':'red', 'Denmark':'green', 'Estonia':'red', 'Finland':'green', 'France':'green',
+                   'Germany':'green', 'Greece':'red', 'Hungary':'red', 'Ireland':'green', 'Italy':'green', 'Latvia':'red',
+                   'Lithuania':'red', 'Luxembourg':'green', 'Malta':'red', 'Netherlands':'green', 'Poland':'red', 'Portugal':'red',
+                   'Romania':'red', 'Slovak Republic':'red', 'Slovenia':'red', 'Spain':'red', 'Sweden':'green'},
+                   opacity=0.6,
+                   hover_name='Country Name',
+                   hover_data=['Rank'],
+                   labels={'MinMax':'Index'},
+                   orientation='h',
+                   height=500,
+                   range_x = [-1.1, 1.1],
+                   template='ggplot2',
+                   category_orders={'Country Name':['Luxembourg', 'Ireland', 'Denmark', 'Sweden', 'Netherlands', 'Austria',
+                     'Finland', 'Belgium', 'Germany', 'France', 'Italy', 'Spain', 'Cyprus', 'Greece', 'Slovenia', 'Malta',
+                     'Portugal', 'Czech Republic', 'Estonia', 'Slovak Republic', 'Hungary', 'Croatia', 'Lithuania',
+                     'Latvia', 'Poland', 'Romania', 'Bulgaria']})
+
+fig4.update_layout(showlegend=False,
+                   xaxis_title="Dimensionality Reduction Index",
+                   yaxis_title=None,
+                   font_family='Arial',
+                   font_size=10,
+                   margin=dict(t=44, b=10, l=125))
+
 im_indicator = app.get_asset_url('1. No poverty.jpg')
 
 app = dash.Dash(__name__)
 
 app.layout = html.Div(children=[
+
+    html.P(children=[
+        html.H3('''HUMANITARIAN DATA - EUROPEAN UNION
+            '''),
+        html.P('''Carlos Azagra - Ironhack Barcelona''')
+        ],
+        style={'height': '100px', 'width':'33%', 'marginRight':'1%', 'marginLeft':'1%', 'float':'right', 'textAlign':'right'} 
+        ),
     
+    html.P(children=[
     html.Img(src=app.get_asset_url('SDG_.png'),
         height='111px'
+        ),
+        ],
+        style={'width':'67%'} 
         ),
 
     html.Div(children=[
@@ -323,8 +366,10 @@ app.layout = html.Div(children=[
         html.P(children=[
 
             html.P('''Progress towards reaching these goals was very different accross countries. And more importantly, results were far from being enough.
-            In 2015, the 8 Millenium Development Goals were overwritten by the 17 Sustainable Developments Goals within the United Nations Agenda 2030.
-            These 17 Goals have a clear and specific vision of where the World should lead to and how to get there.''', style={'marginTop':'0'}),
+            ''', style={'marginTop':'0'}),
+
+            html.P('''In 2015, the 8 Millenium Development Goals were overwritten by the 17 Sustainable Developments Goals within the United Nations Agenda 2030.
+            These 17 Goals have a clear and specific vision of where the World should lead to and how to get there.'''),
 
             html.P(
             '''Despite the achievement of these Goals is not compulsory nor binding, UN considered that having a team monitoring the results 
@@ -576,7 +621,50 @@ app.layout = html.Div(children=[
 
     html.Br(),
 
+    html.Div(style={'height': '10px','width':'100%'}),
+
+    html.Div(children=[
+
+        html.P(style={'height':'0.3%'}),
+        
+        html.P(children=[
+
+            html.Br(),
+            html.Br(),
+                        
+            html.H2('''DIMENSIONALITY REDUCTION INDEX'''
+            , style={'textAlign':'center'}),
+            
+            html.Br(),
+
+            html.P('''By applying statistical techniques of dimensionailty reduction, I have reduced all the indicator to just one variable, thus creating an
+            Index by how the countries of the European Union are coping with the SDG, not only in the present but also adding available historical data'''),
+
+            html.P('''It is important to point out that this Index is not official and is based on the data obtained from the World Bank. The data has been 
+            reduced and standarised to make it individual as an Index and to facilitate the comparision between countries. Just consists of
+            an approach made to provide the user with an overview of all the tools listed before.
+            ''')
+            
+        ],
+        style={'height': '500px', 'width':'33%', 'marginRight':'1%', 'marginLeft':'1%', 'float':'right'} 
+        ),
+
+        html.P(children=[        
+
+                    
+            dcc.Graph(
+                id='index_plot',
+                figure=fig4,
+                style={'width': '100%'}
+            ),
+        ], style={'width':'64%', 'marginLeft':'1%'})
+
+    ],style={'width':'100%','height':'530px', 'backgroundColor':'lightsteelblue', 'marginTop':'1%'}, 
+    ),
+
     html.Div(style={'height': '10px','width':'100%'})
+
+
 
 ], style={'font-family':'Arial', 'padding-left':'133px', 'padding-right':'133px', 'padding-top':'21px'})
 
@@ -689,13 +777,13 @@ def scatter_display(Indicator_X,
                category_orders={'Country Name': countries, 'Year': years},
                hover_name="Country Name",
                color="Country Name",
-               range_y=[df2_gb[Indicator_y].min()-10,df2_gb[Indicator_y].max()+10] if Indicator_y != 'GDP per capita (current US$)' else [df2_gb[Indicator_y].min() + 500,df2_gb[Indicator_y].max()+ 1000],
+               range_y=[df2_gb[Indicator_y].min()-10,df2_gb[Indicator_y].max()+10] if Indicator_y != 'GDP per capita (current US$)' else [df2_gb[Indicator_y].min() - 500,df2_gb[Indicator_y].max()+ 1000],
                log_y=True if Indicator_y == 'GDP per capita (current US$)' else False,
                size='Size',
                text='Country Name',
                opacity=0.33,
                hover_data={'Country Name':False, 'Year':True, 'Size':False, Indicator_X:':.2f', Indicator_y:':.2f'},
-               range_x=[df2_gb[Indicator_X].min()-10,df2_gb[Indicator_X].max()+10] if Indicator_X != 'GDP per capita (current US$)' else [df2_gb[Indicator_X].min() + 500,df2_gb[Indicator_X].max()+ 1000],
+               range_x=[df2_gb[Indicator_X].min()-10,df2_gb[Indicator_X].max()+10] if Indicator_X != 'GDP per capita (current US$)' else [df2_gb[Indicator_X].min() - 500,df2_gb[Indicator_X].max()+ 1000],
                template='ggplot2',
                height=500)
     
