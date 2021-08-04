@@ -317,20 +317,16 @@ fig4 = px.histogram(df2_gb_2,
                    color_discrete_map={'Austria':'green', 'Belgium':'green','Bulgaria':'red', 'Croatia':'red', 'Cyprus':'red',
                    'Czech Republic':'red', 'Denmark':'green', 'Estonia':'red', 'Finland':'green', 'France':'green',
                    'Germany':'green', 'Greece':'red', 'Hungary':'red', 'Ireland':'green', 'Italy':'green', 'Latvia':'red',
-                   'Lithuania':'red', 'Luxembourg':'green', 'Malta':'red', 'Netherlands':'green', 'Poland':'red', 'Portugal':'red',
-                   'Romania':'red', 'Slovak Republic':'red', 'Slovenia':'red', 'Spain':'red', 'Sweden':'green'},
+                   'Lithuania':'red', 'Luxembourg':'green', 'Malta':'green', 'Netherlands':'green', 'Poland':'red', 'Portugal':'green',
+                   'Romania':'red', 'Slovak Republic':'red', 'Slovenia':'red', 'Spain':'green', 'Sweden':'green'},
                    opacity=0.6,
                    hover_name='Country Name',
-                   hover_data=['Rank'],
+                   #hover_data=['Rank'],
                    labels={'MinMax':'Index'},
                    orientation='h',
                    height=500,
                    range_x = [-1.1, 1.1],
-                   template='ggplot2',
-                   category_orders={'Country Name':['Luxembourg', 'Ireland', 'Denmark', 'Sweden', 'Netherlands', 'Austria',
-                     'Finland', 'Belgium', 'Germany', 'France', 'Italy', 'Spain', 'Cyprus', 'Greece', 'Slovenia', 'Malta',
-                     'Portugal', 'Czech Republic', 'Estonia', 'Slovak Republic', 'Hungary', 'Croatia', 'Lithuania',
-                     'Latvia', 'Poland', 'Romania', 'Bulgaria']})
+                   template='ggplot2')
 
 fig4.update_layout(showlegend=False,
                    xaxis_title="Dimensionality Reduction Index",
@@ -338,7 +334,6 @@ fig4.update_layout(showlegend=False,
                    font_family='Arial',
                    font_size=10,
                    margin=dict(t=44, b=10, l=125))
-
 im_indicator = app.get_asset_url('1. No poverty.jpg')
 
 app = dash.Dash(__name__)

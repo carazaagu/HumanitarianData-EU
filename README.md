@@ -1,21 +1,23 @@
-# Humanitarian-EU
+# Humanitarian Data - European Union
 
-The world is evolving at a constant and exponential pace.
+In 2015, the **United Nations** defined a set of goals to guide its country members through a coordinate action. focused on **fostering** policies oriented to **reduce local and worldwide inequalities** among populations, to develope an economic and social **model** that is **sustainable**, to **preserve** the **enviornment**, or to **stand for peace and justice**. 
 
-It was many years ago when the world was transformed from hundreds of independent social structures (empires, nations, countries, etc) to just one unit. In the 18th century the globalization involved a huge increase in the relations of these different units that coexisted in this big world, up to a point that there has been a global and worldwide integration.
+They were defined as the **17 Sustainable Development Goals**, project within the United Nations Agenda 2030. These 17 Goals have a clear and specific vision of where the World should lead to and how to get there.
 
-One of the lessons that COVID19 crisis has taught us is that the biggest and most threatening challenges need a global and coordinated response, as they cannot be approached individually.
+The main **goal** of this project is to provide the user a set of **interactive tools** than can help to **monitor** how European Union country members are coping with the **SDG**, by breaking each Goal down into relevant indicators, which can be analysed by year or country. These **tools** will allow the user to **easily and visually draw conclusions, compare data between countries, analyse the evolution of the indicators and even compare relationships between them**.
 
-As a first step to try to make a call for action and to coordinate the efforts from different countries, there was the necessity to define clear, measurable and time-specific goals to achieve as a way to define a clear path to pursue. That is why in 2000 all members from the United Nations agreed to define 8 goals (Millenium Development Goals) to be achieved in 2015.
+#### Tool 1: 17 SUSTAINABLE DEVELOPMENT GOALS AND ITS INDICATORS
 
-Progress towards reaching these goals was very different accross countries. And more importantly, results were far from being enough. In 2015, the 8 Millenium Development Goals were overwritten by the 17 Sustainable Developments Goals within the United Nations Agenda 2030. These 17 Goals have a clear and specific vision of where the World should lead to and how to get there.
+Defines the 17 Sustainable Development Goals and allows the user to interact and choose one of them to discover which indicators are considered for an specific Goal.
 
-The main goal of this project is to provide the user a set of interactive tools than can help to monitor how European Union country members are coping with the SDG, by breaking each Goal down into relevant indicators, which can be analysed by year or country. These tools will allow the user to easily and visually draw conclusions, compare data between countries, analyse the evolution of the indicators and even compare relationships between them.
+#### Tool 2: EU INTERACTIVE MAP
 
-## Tool 1: 17 SUSTAINABLE DEVELOPMENT GOALS AND ITS INDICATORS
+Displays an Europe Map with which the user can interact by choosing one of the 17 SDG, one Indicator regarding the chosen Goals, and one Year for which there is data available, and hovering the cursor over it. The Map will show the different ratings of the Indicator by color (green if the indicator is Positive and red if it is Negative).
 
-## Tool 2: EU INTERACTIVE MAP
+#### Tool 3: EVOLUTION OF AN INDICATOR
 
-## Tool 3: EVOLUTION OF AN INDICATOR
+Bar Polar Chart with an animation that presents the evolution of an specific indicator. The user can interact with it by selecting the indicator, by playing or pausing the animation, and by hovering the cursor over it.
 
-## Tool 4: EVOLUTION OF THE RELATIONSHIP BETWEEN TWO INDICATORS
+#### Tool 4: EVOLUTION OF THE RELATIONSHIP BETWEEN TWO INDICATORS
+
+#### Tool 5: DIMENSIONALITY REDUCTION INDEX
