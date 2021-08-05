@@ -20,4 +20,13 @@ Bar Polar Chart with an animation that presents the evolution of an specific ind
 
 #### Tool 4: EVOLUTION OF THE RELATIONSHIP BETWEEN TWO INDICATORS
 
+Scatter Plot with an animation that presents the evolution of the relationship between two specific indicators. The user can interact with it by selecting the indicator, by playing or pausing the animation, and by hovering the cursor over it.
+
 #### Tool 5: DIMENSIONALITY REDUCTION INDEX
+
+Index create by using techniques of scaling (in order to get the different indicators at the same scale) and dimensionality reduction (in order to reduce all the indicators in just one index). It will allow the user to check how each country has progressed toward achieving the SDG and compare between them.
+
+#### Workflow:
+
+1. Dataset from World Bank (one file per country)
+2. Data wrangling
