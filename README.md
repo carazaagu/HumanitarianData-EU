@@ -28,5 +28,7 @@ Index create by using techniques of scaling (in order to get the different indic
 
 #### Workflow:
 
-1. Dataset from World Bank (one file per country)
-2. Data wrangling
+1. Dataset from World Bank (one file per country - previously downloaded)
+2. Data wrangling (in Jupyter notebook Datasets.ipynb)
+3. Feature engineering and Visualizations (in Jupyter notebook Project.ipynb)
+4. Evironment development with Dash (in dash_HumanitarianEU.py)
