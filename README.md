@@ -32,3 +32,7 @@ Index create by using techniques of scaling (in order to get the different indic
 2. Data wrangling (in Jupyter notebook Datasets.ipynb)
 3. Feature engineering and Visualizations (in Jupyter notebook Project.ipynb)
 4. Evironment development with Dash (in dash_HumanitarianEU.py)
+
+#### Running the tool
+Just download all the files and run dash_HumanitarianEU.py in your terminal.
+After that visit through internet the local server http://127.0.0.1:8050
